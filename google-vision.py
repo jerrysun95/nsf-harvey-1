@@ -34,6 +34,7 @@ def main(photo_file):
         labels = response['responses'][0]['labelAnnotations']
         for label in labels:
             print(label['description'] + ": " + str(label['score']))
+        #print(response)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
