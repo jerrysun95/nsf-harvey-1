@@ -1,6 +1,4 @@
-import argparse
-import os
-
+import keyring
 from utils import Service, encode_image
 
 def main(photo_file):
@@ -11,7 +9,7 @@ def main(photo_file):
     # Generate API key from Google Cloud Dashboard -> APIs and Services ->
     # Credentials -> Create Credentials -> API Key
 
-    access_token = os.environ.get('VISION_API')
+    access_token = keyring.get_password("system", "VISION_API_KEY")
     service = Service('vision', 'v1', access_token=access_token)
 
     with open(photo_file, 'rb') as image:
@@ -37,7 +35,4 @@ def main(photo_file):
         #print(response)
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('image_file', help='The image you\'d like to detect text.')
-    args = parser.parse_args()
-    main(args.image_file)
+    main("airport.jpg")
