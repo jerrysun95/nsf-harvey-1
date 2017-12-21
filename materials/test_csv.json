@@ -1,0 +1,70 @@
+[
+    {
+        "piece_number": "Ben_1",
+        "respondent_type": "R",
+        "content": "0",
+        "linked": "1",
+        "timing": "During",
+        "inside_outside": "O",
+        "picture_attributes": [
+            "water",
+            "people",
+            "boat",
+            "house",
+            "tree"
+        ],
+        "text_attributes": [
+            "traffic sign",
+            "floating",
+            "help"
+        ]
+    },
+    {
+        "piece_number": "Ben_2",
+        "respondent_type": "R",
+        "content": "0",
+        "linked": "1",
+        "timing": "After",
+        "inside_outside": "I",
+        "picture_attributes": [
+            "water",
+            "people",
+            "cup"
+        ],
+        "text_attributes": []
+    },
+    {
+        "piece_number": "Ben_3",
+        "respondent_type": "",
+        "content": "",
+        "linked": "",
+        "timing": "During",
+        "inside_outside": "O",
+        "picture_attributes": [
+            "water",
+            "boat",
+            "house"
+        ],
+        "text_attributes": [
+            "help",
+            "water",
+            "days"
+        ]
+    },
+    {
+        "piece_number": "Ben_4",
+        "respondent_type": "R",
+        "content": "0",
+        "linked": "1",
+        "timing": "During",
+        "inside_outside": "O",
+        "picture_attributes": [
+            "water",
+            "people"
+        ],
+        "text_attributes": [
+            "water",
+            "hurricane"
+        ]
+    }
+]
