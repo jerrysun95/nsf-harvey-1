@@ -58,7 +58,7 @@ def request(method, command):
 
 
 #Send to Google Vision
-def send_to_vision(file_id, chunk_size=1024*1024*1):
+def send_to_vision(file_name, file_id, chunk_size=1024*1024*1):
     req = request("GET", "files/%s/content" % (file_id, ))
     total = -1
     image_content = ''
@@ -68,7 +68,7 @@ def send_to_vision(file_id, chunk_size=1024*1024*1):
             total = lower_headers['content-length']
 
     transferred = 0
-    for chunk in req.iter_content(chunk_size=chunk_size):
+    for chunk in req.iter_content(chunk_size=1024*1024*1):
         if chunk:
             #fp.write(chunk)
             #fp.flush()
@@ -77,7 +77,7 @@ def send_to_vision(file_id, chunk_size=1024*1024*1):
 
     #print(image)
     gv = GoogleVision()
-    gv.vision_from_data(image_content)
+    gv.vision_from_data(file_name, image_content)
 
 #----------------------------------------------------------------------------------------------
 # Access a BoxSession, upload file to box, send file to Google Vision, and delete file from Box
@@ -98,8 +98,8 @@ access_token, refresh_token = flow.get_access_tokens('P6jKDBZXFYGuGoAkxLTlaAxmxw
 box = BoxSession(keyring.get_password("system", "BOX_CLIENT_ID"), keyring.get_password("system", "BOX_CLIENT_SECRET"), refresh_token, access_token, tokens_changed)
 
 # Uplaod file to Box
-new_file_id = upload('obama.jpeg', 0, 'obama.jpeg')
+new_file_id = upload('obama.jpeg', 0, 'test_images/obama.jpeg')
 # Send file to Google Vision
-send_to_vision(new_file_id)
+send_to_vision('obama.jpeg', new_file_id)
 # Delete file from Google Vision
 delete(new_file_id)

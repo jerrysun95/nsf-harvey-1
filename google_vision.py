@@ -1,8 +1,11 @@
 import keyring
 import base64
+import os
+import json
+import string
 from utils import Service, encode_image
 
-"""Run a face detection request on a single image"""
+OUTPUT_FILE = "output/output.json"
 
 # Stored API key as environment variable called VISION_API
 #
@@ -12,7 +15,7 @@ from utils import Service, encode_image
 class GoogleVision:
 
     # Send image to Google Vision from local file
-    def vision_from_file(self, photo_file):
+    def vision_from_file(self, image_name, photo_file):
         access_token = keyring.get_password("system", "VISION_API_KEY")
         service = Service('vision', 'v1', access_token=access_token)
 
@@ -39,7 +42,7 @@ class GoogleVision:
             #print(response)
 
     # Send image data to Google Vision
-    def vision_from_data(self, image_content):
+    def vision_from_data(self, image_name, image_content):
         access_token = keyring.get_password("system", "VISION_API_KEY")
         service = Service('vision', 'v1', access_token=access_token)
 
@@ -60,6 +63,28 @@ class GoogleVision:
         }
         response = service.execute(body=body)
         labels = response['responses'][0]['labelAnnotations']
+        image_json = {}
+        image_json["piece_number"] = image_name
+        picture_attributes = []
+        picture_attributes_scores = []
+
         for label in labels:
             print(label['description'] + ": " + str(label['score']))
-        #print(response)
+            picture_attributes.append(str(label['description']))
+            picture_attributes_scores.append(label['score'])
+
+        image_json["picture_attributes"] = picture_attributes
+        image_json["picture_attributes_scores"] = picture_attributes_scores
+
+        print(image_json)
+
+        if os.path.isfile(OUTPUT_FILE):
+            with open(OUTPUT_FILE, 'r') as output_file:
+                current_file = output_file.read()
+                print(current_file)
+            with open(OUTPUT_FILE, 'w') as output_file:
+                current_file = current_file.replace("]  ", "," + str(image_json) + "]  ")
+                output_file.write(current_file)
+        else:
+            with open(OUTPUT_FILE, 'w') as output_file:
+                output_file.write("[" + str(image_json) + "]  ")
