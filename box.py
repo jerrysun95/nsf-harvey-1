@@ -11,19 +11,26 @@ def tokens_changed(refresh_token, access_token):
 
 #Upload File
 def upload(file_name, folder_id, file_location):
+    print("Uploading " + file_name + " to folder id " + str(folder_id) + " from " + file_location + "...")
     response = box.upload_file(file_name, folder_id, file_location)
     print('File ID: %s' % response['entries'][0]['id'])
+    print('Uploaded ' + file_name)
+    print("")
     return response['entries'][0]['id']
 
 #Download File
 def download(file_id, file_location):
+    print("Downloading file id " + file_id + " to " + file_location + "...")
     response = box.download_file(file_id, file_location)
-    print("Success")
+    print("Downloaded file")
+    print("")
 
 #Delete File
 def delete(file_id):
+    print("Deleting " + file_id + "...")
     response = box.delete_file(file_id)
-    print("Success")
+    print("Deleted file id " + file_id)
+    print("")
 
 #Helper method to manage request to Google Vision from send_to_vision
 def request(method, command):

@@ -14,8 +14,47 @@ OUTPUT_FILE = "output/output.json"
 
 class GoogleVision:
 
+    # Creates JSON given a list of labels from Google Vision
+    def create_json(self, labels, image_name):
+        image_json = {}
+        image_json["piece_number"] = image_name
+        picture_attributes = []
+        picture_attributes_scores = []
+        print("Creating JSON for " + image_name)
+
+        for label in labels:
+            print(label['description'] + ": " + str(label['score']))
+            picture_attributes.append(str(label['description']))
+            picture_attributes_scores.append(label['score'])
+
+        image_json["picture_attributes"] = picture_attributes
+        image_json["picture_attributes_scores"] = picture_attributes_scores
+
+        print("")
+        print("JSON created")
+        print(image_json)
+        print("")
+
+        return image_json
+
+    # Outputs JSON to file given a JSON of features
+    def output_to_file(self, image_json):
+        print("Outputting to file...")
+        if os.path.isfile(OUTPUT_FILE):
+            with open(OUTPUT_FILE, 'r') as output_file:
+                current_file = output_file.read()
+            with open(OUTPUT_FILE, 'w') as output_file:
+                current_file = current_file.replace("]  ", "," + str(image_json) + "]  ")
+                output_file.write(current_file)
+        else:
+            with open(OUTPUT_FILE, 'w') as output_file:
+                output_file.write("[" + str(image_json) + "]  ")
+        print("Outputted to file")
+        print("")
+
     # Send image to Google Vision from local file
     def vision_from_file(self, image_name, photo_file):
+        print("Sending to Google Vision from file...")
         access_token = keyring.get_password("system", "VISION_API_KEY")
         service = Service('vision', 'v1', access_token=access_token)
 
@@ -43,6 +82,7 @@ class GoogleVision:
 
     # Send image data to Google Vision
     def vision_from_data(self, image_name, image_content):
+        print("Sending to Google Vision from Box...")
         access_token = keyring.get_password("system", "VISION_API_KEY")
         service = Service('vision', 'v1', access_token=access_token)
 
@@ -62,29 +102,8 @@ class GoogleVision:
             }]
         }
         response = service.execute(body=body)
+        print("Response received from Google Vision")
+        print("")
         labels = response['responses'][0]['labelAnnotations']
-        image_json = {}
-        image_json["piece_number"] = image_name
-        picture_attributes = []
-        picture_attributes_scores = []
-
-        for label in labels:
-            print(label['description'] + ": " + str(label['score']))
-            picture_attributes.append(str(label['description']))
-            picture_attributes_scores.append(label['score'])
-
-        image_json["picture_attributes"] = picture_attributes
-        image_json["picture_attributes_scores"] = picture_attributes_scores
-
-        print(image_json)
-
-        if os.path.isfile(OUTPUT_FILE):
-            with open(OUTPUT_FILE, 'r') as output_file:
-                current_file = output_file.read()
-                print(current_file)
-            with open(OUTPUT_FILE, 'w') as output_file:
-                current_file = current_file.replace("]  ", "," + str(image_json) + "]  ")
-                output_file.write(current_file)
-        else:
-            with open(OUTPUT_FILE, 'w') as output_file:
-                output_file.write("[" + str(image_json) + "]  ")
+        image_json = self.create_json(labels, image_name)
+        self.output_to_file(image_json)
