@@ -41,14 +41,12 @@ class GoogleVision:
     def output_to_file(self, image_json):
         print("Outputting to file...")
         if os.path.isfile(OUTPUT_FILE):
-            print("there")
             with open(OUTPUT_FILE, 'r') as output_file:
                 current_file = output_file.read()
             with open(OUTPUT_FILE, 'w') as output_file:
                 current_file = current_file.replace("]  ", "," + str(image_json) + "]  ")
                 output_file.write(current_file)
         else:
-            print("here")
             with open(OUTPUT_FILE, 'w') as output_file:
                 output_file.write("[" + str(image_json) + "]  ")
         print("Outputted to file")
