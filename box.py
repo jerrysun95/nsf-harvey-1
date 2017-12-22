@@ -1,4 +1,4 @@
-from boxpython import BoxAuthenticateFlow, BoxSession, BoxError
+from boxpython.boxpython import BoxAuthenticateFlow, BoxSession, BoxError
 from request import BoxRestRequest
 from google_vision import GoogleVision
 import keyring
@@ -61,6 +61,7 @@ def request(method, command):
     if stream is not None: kwargs['stream'] = stream
     #if self.timeout is not None: kwargs['timeout'] = self.timeout
 
+    # returns a requests.Response object
     return requests.request(method=method, url=url, **kwargs)
 
 

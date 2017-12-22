@@ -40,7 +40,7 @@ def read_data(data_csv):
 		txt_start = pic_range
 		txt_range = txt_start + num_txt_attr
 		for attribute in range(txt_start, txt_range):
-			if line[attribute] != '':
+			if line[attribute] != '' and 'Any text' not in line[attribute]:
 				d['text_attributes'].append(line[attribute])
 
 		data.append(d)
