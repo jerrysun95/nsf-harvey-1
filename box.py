@@ -99,6 +99,9 @@ refresh_token = keyring.get_password("system", "BOX_REFRESH_TOKEN")
 '''
 #Uncomment this to get a new access and refresh token from a code
 access_token, refresh_token = flow.get_access_tokens('P6jKDBZXFYGuGoAkxLTlaAxmxwv3e0cD')
+keyring.set_password("system", "BOX_ACCESS_TOKEN", access_token)
+keyring.set_password("system", "BOX_REFRESH_TOKEN", refresh_token)
+#################
 '''
 
 # Generate BoxSession
