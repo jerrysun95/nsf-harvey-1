@@ -1,14 +1,21 @@
 import numpy as np
 import json, sys
 
-def parse_headers(header):
-	num_picture_attributes = header.count('PAttributes')
-	num_text_attributes = header.count('TxtAttributes')
+def count_attributes(header):
+	num_picture_attributes = 0
+	num_text_attributes = 0
+	
+	for h in header:
+		if 'PAttribute' in h:
+			num_picture_attributes += 1
+		elif 'TxtAttribute' in h:
+			num_text_attributes += 1
+
 	return num_picture_attributes, num_text_attributes
 
 def read_data(data_csv):
 	data = []
-	num_pic_attr, num_txt_attr = parse_headers(data_csv[0].tolist())
+	num_pic_attr, num_txt_attr = count_attributes(data_csv[0].tolist())
 
 	for l in range(1, len(data_csv)):
 		line = data_csv[l]
