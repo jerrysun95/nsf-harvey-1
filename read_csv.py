@@ -49,6 +49,7 @@ def read_data(data_csv):
 def write_json(data, file):
 	data_json = json.dumps(data, indent = 4)
 	output_file_name = file[:-3] + 'json'
+	# print(type(data_json))
 	with open(output_file_name, 'w') as f:
 		f.write(data_json)
 

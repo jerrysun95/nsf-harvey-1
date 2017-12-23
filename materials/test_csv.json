@@ -1,70 +1,70 @@
 [
     {
-        "piece_number": "Ben_1",
-        "respondent_type": "R",
-        "content": "0",
-        "linked": "1",
-        "timing": "During",
-        "inside_outside": "O",
+        "respondent_type": "R", 
+        "piece_number": "Ben_1", 
         "picture_attributes": [
-            "water",
-            "people",
-            "boat",
-            "house",
+            "water", 
+            "people", 
+            "boat", 
+            "house", 
             "tree"
-        ],
+        ], 
+        "content": "0", 
         "text_attributes": [
-            "traffic sign",
-            "floating",
+            "traffic sign", 
+            "floating", 
             "help"
-        ]
-    },
+        ], 
+        "timing": "During", 
+        "linked": "1", 
+        "inside_outside": "O"
+    }, 
     {
-        "piece_number": "Ben_2",
-        "respondent_type": "R",
-        "content": "0",
-        "linked": "1",
-        "timing": "After",
-        "inside_outside": "I",
+        "respondent_type": "R", 
+        "piece_number": "Ben_2", 
         "picture_attributes": [
-            "water",
-            "people",
+            "water", 
+            "people", 
             "cup"
-        ],
-        "text_attributes": []
-    },
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "1", 
+        "inside_outside": "I"
+    }, 
     {
-        "piece_number": "Ben_3",
-        "respondent_type": "",
-        "content": "",
-        "linked": "",
-        "timing": "During",
-        "inside_outside": "O",
+        "respondent_type": "", 
+        "piece_number": "Ben_3", 
         "picture_attributes": [
-            "water",
-            "boat",
+            "water", 
+            "boat", 
             "house"
-        ],
+        ], 
+        "content": "", 
         "text_attributes": [
-            "help",
-            "water",
+            "help", 
+            "water", 
             "days"
-        ]
-    },
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": "O"
+    }, 
     {
-        "piece_number": "Ben_4",
-        "respondent_type": "R",
-        "content": "0",
-        "linked": "1",
-        "timing": "During",
-        "inside_outside": "O",
+        "respondent_type": "R", 
+        "piece_number": "Ben_4", 
         "picture_attributes": [
-            "water",
+            "water", 
             "people"
-        ],
+        ], 
+        "content": "0", 
         "text_attributes": [
-            "water",
+            "water", 
             "hurricane"
-        ]
+        ], 
+        "timing": "During", 
+        "linked": "1", 
+        "inside_outside": "O"
     }
 ]

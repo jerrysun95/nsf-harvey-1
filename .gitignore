@@ -1,2 +1,6 @@
 materials/R_*
 __pycache__
+*.pyc
+read_csv.pyc
+upload.pyc
+google_vision.pyc

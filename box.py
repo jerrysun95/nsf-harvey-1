@@ -1,6 +1,6 @@
-from boxpython.boxpython import BoxAuthenticateFlow, BoxSession, BoxError
+from boxpython import BoxAuthenticateFlow, BoxSession, BoxError
 from request import BoxRestRequest
-from google_vision import GoogleVision
+import google_vision as gv
 import keyring
 import requests
 
@@ -84,7 +84,6 @@ def send_to_vision(file_name, file_id, chunk_size=1024*1024*1):
             transferred += len(chunk)
 
     #print(image)
-    gv = GoogleVision()
     gv.vision_from_data(file_name, image_content)
 
 #----------------------------------------------------------------------------------------------
@@ -97,19 +96,20 @@ flow.get_authorization_url()
 access_token = keyring.get_password("system", "BOX_ACCESS_TOKEN")
 refresh_token = keyring.get_password("system", "BOX_REFRESH_TOKEN")
 
-'''
 #Uncomment this to get a new access and refresh token from a code
-access_token, refresh_token = flow.get_access_tokens('VvfP11oxUmV8DKSiYlIw4WV2OaRkYXZQ')
-keyring.set_password("system", "BOX_ACCESS_TOKEN", access_token)
-keyring.set_password("system", "BOX_REFRESH_TOKEN", refresh_token)
-'''
+# access_token, refresh_token = flow.get_access_tokens('uolXRxIJQynMGmLglAe5oGjXoIlTixVs')
+# keyring.set_password("system", "BOX_ACCESS_TOKEN", access_token)
+# keyring.set_password("system", "BOX_REFRESH_TOKEN", refresh_token)
 
 # Generate BoxSession
 box = BoxSession(keyring.get_password("system", "BOX_CLIENT_ID"), keyring.get_password("system", "BOX_CLIENT_SECRET"), refresh_token, access_token, tokens_changed)
 
 # Uplaod file to Box
 new_file_id = upload('obama.jpeg', 0, 'test_images/obama.jpeg')
-# Send file to Google Vision
-send_to_vision('obama.jpeg', new_file_id)
+# # Send file to Google Vision
+try:
+    send_to_vision('obama.jpeg', new_file_id)
+finally:
+    delete(new_file_id)
+    
 # Delete file from Google Vision
-delete(new_file_id)
