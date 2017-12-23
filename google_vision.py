@@ -5,7 +5,7 @@ import json
 import string
 from utils import Service, encode_image
 
-OUTPUT_FILE = "output/output.json"
+OUTPUT_FILE = "output/vision.json"
 
 # Stored API key as environment variable called VISION_API
 #
@@ -48,10 +48,10 @@ def output_to_file(image_data):
             json_data = json.loads(data)
         except:
             json_data = []
-        json_data.append(image_data)
 
         # append new image to json and write back to file
-        json_data = json.dumps(json_data, indent = 4)
+        json_data.append(image_data)
+        json_data = json.dumps(json_data, indent=4)
         output_file.seek(0)
         output_file.write(json_data)
     

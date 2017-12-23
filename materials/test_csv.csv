@@ -1,5 +1,7 @@
-Image/Text piece number,RespondentType,Content,Linked,Timing,Inside/Outside,PAttributes,PAttributes,PAttributes,PAttributes,PAttributes,PAttributes,TxtAttributes,TxtAttributes,TxtAttributes
-Ben_1,R,0,1,During,O,water,people,boat,house,tree,,traffic sign,floating,help
-Ben_2,R,0,1,After,I,water,people,cup,,,,,,
-Ben_3,,,,During,O,water,boat,house,,,,help,water,days
-Ben_4,R,0,1,During,O,water,,people,,,,,water,hurricane
+name,col1,col2,col3
+Ben,yes,yes,yes
+Justin,no,no,no
+Anna,maybe,maybe,maybe
+Dan,,,
+Claire,,yes,
+Natalie,,,no

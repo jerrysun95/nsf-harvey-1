@@ -1,0 +1,731 @@
+[
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_01", 
+        "picture_attributes": [
+            "water", 
+            "tree", 
+            "boat motor", 
+            "gate"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_02", 
+        "picture_attributes": [
+            "water", 
+            "tree", 
+            "wall", 
+            "boat", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_03", 
+        "picture_attributes": [
+            "water", 
+            "boat", 
+            "tree", 
+            "house", 
+            "people", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_04", 
+        "picture_attributes": [
+            "water", 
+            "tree", 
+            "house", 
+            "boat"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_05", 
+        "picture_attributes": [
+            "water", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_06", 
+        "picture_attributes": [
+            "water", 
+            "grass", 
+            "tree", 
+            "house", 
+            "people", 
+            "flag", 
+            "rain"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_07", 
+        "picture_attributes": [
+            "water", 
+            "grass", 
+            "tree", 
+            "rain"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_08", 
+        "picture_attributes": [
+            "water", 
+            "tree", 
+            "rain"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_09", 
+        "picture_attributes": [
+            "water", 
+            "grass", 
+            "tree", 
+            "road", 
+            "car"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_10", 
+        "picture_attributes": [
+            "water", 
+            "tree", 
+            "grass", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_11", 
+        "picture_attributes": [
+            "water", 
+            "road", 
+            "car", 
+            "tree", 
+            "grass", 
+            "traffic sign"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_12", 
+        "picture_attributes": [
+            "car", 
+            "water", 
+            "grass", 
+            "tree", 
+            "ball", 
+            "shoes", 
+            "boxes", 
+            "shelves"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_13", 
+        "picture_attributes": [
+            "floor", 
+            "cushion", 
+            "furniture", 
+            "plant", 
+            "door", 
+            "water"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_14", 
+        "picture_attributes": [
+            "floor", 
+            "water", 
+            "furniture", 
+            "wall"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_15", 
+        "picture_attributes": [
+            "floor", 
+            "water", 
+            "bathtub", 
+            "toilet", 
+            "chair", 
+            "box", 
+            "curtain", 
+            "door"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_16", 
+        "picture_attributes": [
+            "Stair", 
+            "water", 
+            "floor", 
+            "cushion", 
+            "plant", 
+            "turtle"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_17", 
+        "picture_attributes": [
+            "floor", 
+            "water", 
+            "bed", 
+            "desk", 
+            "bedclothes", 
+            "wall"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_18", 
+        "picture_attributes": [
+            "Ffloor ", 
+            "water", 
+            "door", 
+            "newspaper", 
+            "clothes", 
+            "plastic bag", 
+            "bottle"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_19", 
+        "picture_attributes": [
+            "flloor", 
+            "water", 
+            "plant", 
+            "window", 
+            "ball", 
+            "socket"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_20", 
+        "picture_attributes": [
+            "door", 
+            "window", 
+            "glass", 
+            "wall", 
+            "debris", 
+            "floor", 
+            "socket"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_21", 
+        "picture_attributes": [
+            "floor", 
+            "window", 
+            "glass", 
+            "bike", 
+            "debris", 
+            "plant"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_22", 
+        "picture_attributes": [
+            "floor", 
+            "window", 
+            "glass", 
+            "curtain", 
+            "tree", 
+            "buckets"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_23", 
+        "picture_attributes": [
+            "floor", 
+            "furniture", 
+            "water", 
+            "wall"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_24", 
+        "picture_attributes": [
+            "water", 
+            "wall", 
+            "turtle", 
+            "plant", 
+            "floor"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_25", 
+        "picture_attributes": [
+            "car", 
+            "mud"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_26", 
+        "picture_attributes": [
+            "floor", 
+            "water", 
+            "swob", 
+            "paper towel", 
+            "curtain", 
+            "window", 
+            "glass", 
+            "bike", 
+            "ballon"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_27", 
+        "picture_attributes": [
+            "water", 
+            "debris", 
+            "flowerpot", 
+            "leaves"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_28", 
+        "picture_attributes": [
+            "floor", 
+            "water", 
+            "cusion", 
+            "ball", 
+            "plant", 
+            "shelves", 
+            "door", 
+            "bucket"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_29", 
+        "picture_attributes": [
+            "water", 
+            "window", 
+            "bucket", 
+            "tree", 
+            "car", 
+            "wall", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_30", 
+        "picture_attributes": [
+            "bullet", 
+            "plastic bag", 
+            "paper", 
+            "socket", 
+            "wall"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_31", 
+        "picture_attributes": [
+            "boxes", 
+            "paper", 
+            "water stain"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_32", 
+        "picture_attributes": [
+            "water", 
+            "grass", 
+            "car", 
+            "wall", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_33", 
+        "picture_attributes": [
+            "water", 
+            "grass", 
+            "wall", 
+            "door", 
+            "doorplate", 
+            "mailbox"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_34", 
+        "picture_attributes": [
+            "water", 
+            "plant", 
+            "bucket", 
+            "traffic sign"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_35", 
+        "picture_attributes": [
+            "water", 
+            "tree", 
+            "grass", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_36", 
+        "picture_attributes": [
+            "water", 
+            "tree", 
+            "house", 
+            "post", 
+            "doorplate"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_37", 
+        "picture_attributes": [
+            "mud", 
+            "road", 
+            "tree", 
+            "grass", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_38", 
+        "picture_attributes": [
+            "road", 
+            "house", 
+            "people", 
+            "tree", 
+            "grass", 
+            "car", 
+            "trash bin", 
+            "water stain"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_39", 
+        "picture_attributes": [
+            "mud", 
+            "leaves", 
+            "grass", 
+            "water stain"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_40", 
+        "picture_attributes": [
+            "road", 
+            "car", 
+            "tree", 
+            "house", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_41", 
+        "picture_attributes": [
+            "road", 
+            "plant", 
+            "water stain"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_42", 
+        "picture_attributes": [
+            "river", 
+            "plant", 
+            "mud"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_43", 
+        "picture_attributes": [
+            "river", 
+            "plant", 
+            "mud", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_44", 
+        "picture_attributes": [
+            "house", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "R", 
+        "piece_number": "R_JohnEnergy_45", 
+        "picture_attributes": [
+            "road", 
+            "car", 
+            "house", 
+            "tree", 
+            "trash", 
+            "water stain", 
+            "garage", 
+            "trash bin"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }
+]
