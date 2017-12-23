@@ -29,5 +29,36 @@
             "businessperson"
         ], 
         "piece_number": "obama.jpeg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93105775, 
+            0.7788535, 
+            0.7736588, 
+            0.7723732, 
+            0.7225344, 
+            0.6652525, 
+            0.61239374, 
+            0.55234516, 
+            0.5362944, 
+            0.5234929, 
+            0.5207764, 
+            0.51722246
+        ], 
+        "picture_attributes": [
+            "person", 
+            "official", 
+            "professional", 
+            "profession", 
+            "spokesperson", 
+            "diplomat", 
+            "socialite", 
+            "entrepreneur", 
+            "party leader", 
+            "staff", 
+            "politician", 
+            "businessperson"
+        ], 
+        "piece_number": "obama.jpeg"
     }
 ]

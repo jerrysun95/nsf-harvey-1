@@ -40,7 +40,9 @@ def output_to_file(image_data):
     print("Outputting to file...")
 
     json_data = None
-    with open(OUTPUT_FILE, 'r') as output_file:
+    with open(OUTPUT_FILE, 'r+') as output_file:
+
+        # read in existing data if present
         data = output_file.read()
         try:
             json_data = json.loads(data)
@@ -48,8 +50,9 @@ def output_to_file(image_data):
             json_data = []
         json_data.append(image_data)
 
-    with open(OUTPUT_FILE, 'w') as output_file:
+        # append new image to json and write back to file
         json_data = json.dumps(json_data, indent = 4)
+        output_file.seek(0)
         output_file.write(json_data)
     
     print("Outputted to file")
