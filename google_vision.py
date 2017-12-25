@@ -15,7 +15,8 @@ OUTPUT_FILE = "output/vision.json"
 # Creates JSON given a list of labels from Google Vision
 def create_json(labels, image_name):
     image_json = {}
-    image_json["piece_number"] = image_name
+    index = image_name.rfind('.')
+    image_json["piece_number"] = image_name[:index]
     picture_attributes = []
     picture_attributes_scores = []
     print("Creating JSON for " + image_name)
@@ -40,19 +41,22 @@ def output_to_file(image_data):
     print("Outputting to file...")
 
     json_data = None
-    with open(OUTPUT_FILE, 'r+') as output_file:
+    with open(OUTPUT_FILE, 'a+') as output_file:
 
         # read in existing data if present
         data = output_file.read()
         try:
             json_data = json.loads(data)
         except:
+            print('exception')
             json_data = []
 
         # append new image to json and write back to file
         json_data.append(image_data)
         json_data = json.dumps(json_data, indent=4)
-        output_file.seek(0)
+        print(json_data)
+        
+    with open(OUTPUT_FILE, 'w') as output_file:
         output_file.write(json_data)
     
     print("Outputted to file")

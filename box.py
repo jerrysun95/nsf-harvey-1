@@ -66,7 +66,7 @@ def request(method, command):
 
 
 #Send to Google Vision
-def send_to_vision(file_name, file_id, chunk_size=1024*1024*1):
+def send_to_vision(file_name, file_id, chunk_size=1034*1034*1):
     req = request("GET", "files/%s/content" % (file_id, ))
     total = -1
     image_content = ''
@@ -76,7 +76,7 @@ def send_to_vision(file_name, file_id, chunk_size=1024*1024*1):
             total = lower_headers['content-length']
 
     transferred = 0
-    for chunk in req.iter_content(chunk_size=1024*1024*1):
+    for chunk in req.iter_content(chunk_size=1034*1034*1):
         if chunk:
             #fp.write(chunk)
             #fp.flush()
