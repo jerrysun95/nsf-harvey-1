@@ -1,17 +1,6 @@
 import box, compare, read_csv
 import google_vision as gv 
 
-'''
-Vision:
-	1. Get (access to) all pictures from box
-	2. Send all pictures through google vision
-	3. Aggregate results into vision.json
-Human:
-	1. Get all excel sheets from box
-	2. Parse excel sheets (through read_csv)
-	3. Aggregate results into human.json
-After both vision and human have finished, run compare.py to generate output.json 
-'''
 # Box folder id
 respondent_folder_id = 0
 
