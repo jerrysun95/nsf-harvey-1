@@ -1,8 +1,8 @@
 from boxpython import BoxAuthenticateFlow, BoxSession, BoxError
 from request import BoxRestRequest
+from StringIO import StringIO
 import google_vision as gv
-import keyring
-import requests
+import keyring, requests, read_csv
 
 #Tokens Changed Callback
 def tokens_changed(refresh_token, access_token):
@@ -20,7 +20,7 @@ def upload(file_name, folder_id, file_location):
 
 #Download File
 def download(file_id, file_location):
-    print("Downloading file id " + file_id + " to " + file_location + "...")
+    print("Downloading file id " + str(file_id) + " to " + file_location + "...")
     response = box.download_file(file_id, file_location)
     print("Downloaded file")
     print("")
@@ -92,6 +92,34 @@ def send_to_vision(file_name, file_id, chunk_size=1034*1034*1):
 
     #print(image)
     gv.vision_from_data(file_name, image_content)
+
+#Read file data from box
+def get_file_data(file_id, chunk_size=1034*1034*1):
+    file_content = ''
+    req = request("GET", "files/%s/content" % (file_id))
+    print(req)
+    total = -1
+    if hasattr(req, 'headers'):
+        lower_headers = {k.lower():v for k,v in req.headers.items()}
+        if 'content-length' in lower_headers:
+            total = lower_headers['content-length']
+
+    transferred = 0
+    for chunk in req.iter_content(chunk_size=chunk_size):
+        if chunk: # filter out keep-alive new chunks
+            print('adding chunk')
+            file_content += chunk
+            transferred += len(chunk)
+    return file_content
+
+#Parse excel file from box
+def parse_excel(file_id, chunk_size=1034*1034*1):
+    print('Parsing excel file ' + str(file_id) + '...')
+    file_data = get_file_data(file_id, chunk_size)
+    dataframe = read_csv.read_excel(StringIO(file_data))
+    read_csv.parse_from_data(dataframe.values, dataframe.axes[1])
+    print('Parsed excel file')
+    print('')
 
 # Set up a box session
 def setup_box():

@@ -1,52 +1,17 @@
 import box, compare, read_csv
 import google_vision as gv 
 
-# Box folder id
-respondent_folder_id = 0
-
-# Sends all images in images folder to google vision
-def send_images(images)
-	entries = images['entries']
-	for image in entries:
-		image_id = image['id']
-		image_name = image['name']
-		box.send_to_vision(image_name, image_id)
-
-# Sends all the images of a respondent type (rescuee, etc) to google_vision
-def send_respondent(respondent_type):
-	respondents = respondent_type['entries']
-	for respondent in respondents:
-		if respondent['type'] == 'folder':
-			folder_id = respondent['id']
-
-			# contents of a specific respondent
-			data = box.items(folder_id)
-			e = data['entries']
-
-			# find images folder if exists
-			for item in e:
-				if item['name'] == 'images':
-					images_folder_id = item['id']
-					images = box.items(images_folder_id)
-					get_images(images)
-					break
-
-# Starts at Respondent_Data folder in box and sends all images for each type to google_vision
-def send_respondents():
-	respondent_data = box.items(respondent_folder_id)
-	respondent_types = respondent_data['entries']
-
-	# iterate over each respondent type (rescuee, etc)
-	for respondent_type in respondent_types:
-		if respondent_type['type'] == 'folder':
-			folder_id = respondent_type['id']
-
-			# contents of a respondent type folder
-			respondent_type_data = box.items(folder_id)
-			send_respondent(respondent_type_data)
-
-
 def main():
+	response = box.items(0)
+	entries = response['entries']
+	for entry in entries:
+		name = entry['name'].lower()
+		if '.jpg' in name or '.png' in name:
+			box.send_to_vision(name, entry['id'])
+		elif '.xlsx' in name or '.csv' in name:
+			box.parse_excel(name['id'])
+
+	compare.compare()
 
 	'''
 	Revised main.py control flow:
