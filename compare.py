@@ -41,13 +41,14 @@ def compare_json(combined):
 		result[key]['only_vision'] = list(v - h)
 	return result
 
-def compare():
-	human, vision = load_json()
+def compare(human, vision):
+	# human, vision = load_json()
 	combined = combine_json(human, vision)
 	result = compare_json(combined)
 
 	with open('output/compare.json', 'w') as output:
 		output.write(json.dumps(result, indent=4, sort_keys=True))
+	print('Combined Result: ' + str(len(result)))
 
 def main():
 	compare()

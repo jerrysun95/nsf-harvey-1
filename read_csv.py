@@ -36,7 +36,7 @@ def read_data(data_csv, headers):
         
         # parse each line and store information in dict
         d = {}
-        d['piece_number']       = line[0]
+        d['piece_number']       = line[0].lower()
         d['respondent_type']    = line[1]
         d['content']            = line[2]
         d['linked']             = line[3]
@@ -92,9 +92,11 @@ def parse_from_file(file):
 
 # Parse excel or csv from data
 # Writes/appends output to output/human.json
-def parse_from_data(values, headers):
+def parse_from_data(values, headers, write=False):
     data = read_data(values, headers)
-    write_json(data)
+    if write:
+        write_json(data)
+    return data
 
 def main(file):
     parse(file)

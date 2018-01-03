@@ -91,7 +91,7 @@ def vision_from_file(image_name, photo_file):
         #print(response)
 
 # Send image data to Google Vision
-def vision_from_data(image_name, image_content, json_data):
+def vision_from_data(image_name, image_content):
     print("Sending to Google Vision from Box...")
     access_token = keyring.get_password("system", "VISION_API_KEY")
     service = Service('vision', 'v1', access_token=access_token)
@@ -121,7 +121,7 @@ def vision_from_data(image_name, image_content, json_data):
         print('exception during handling of google_vision response')
         pass
     image_json = create_json(labels, image_name)
-    json_data.append(image_json)
+    # json_data.append(image_json)
 
-    return json_data
+    return image_json
     #output_to_file(image_json)

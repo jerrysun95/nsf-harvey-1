@@ -6,16 +6,20 @@ MEDIA_FOLDER_ID = 44111513325
 def main():
 	response = box.items(MEDIA_FOLDER_ID)
 	entries = response['entries']
-	json_data = []
+	
+	vision_data = []
+	human_data = []
 	for entry in entries:
 		name = entry['name'].lower()
 		if '.jpg' in name or '.png' in name:
-			json_data = box.send_to_vision(name, entry['id'], json_data)
+			vision_data.append(box.send_to_vision(name, entry['id']))
 		elif '.xlsx' in name or '.csv' in name:
-			box.parse_excel(entry['id'])
+			human_data += box.parse_excel(entry['id'])
 
-	gv.output_to_file(json_data)
-	compare.compare()
+	# gv.output_to_file(json_data)
+	print('Vision Results: ' + str(len(vision_data)))
+	print('Human Results: ' + str(len(human_data)))
+	compare.compare(human_data, vision_data)
 
 	'''
 	Revised main.py control flow:

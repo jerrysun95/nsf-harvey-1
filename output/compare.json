@@ -1,0 +1,4057 @@
+{
+    "r_annsharp_01": {
+        "intersect": [], 
+        "only_human": [
+            "house", 
+            "car", 
+            "grass", 
+            "path"
+        ], 
+        "only_vision": [
+            "smartphone", 
+            "electronic device", 
+            "display device", 
+            "multimedia", 
+            "screen", 
+            "telephone", 
+            "mobile device", 
+            "portable communications device", 
+            "feature phone", 
+            "cellular network", 
+            "netbook", 
+            "mobile phone", 
+            "computer hardware", 
+            "electronics", 
+            "technology", 
+            "gadget", 
+            "communication device"
+        ]
+    }, 
+    "r_annsharp_02": {
+        "intersect": [], 
+        "only_human": [
+            "wall", 
+            "plastic", 
+            "mirror", 
+            "floor"
+        ], 
+        "only_vision": [
+            "gadget", 
+            "technology", 
+            "electronic device", 
+            "display device", 
+            "multimedia", 
+            "netbook", 
+            "computer hardware", 
+            "electronics", 
+            "screen", 
+            "mobile device"
+        ]
+    }, 
+    "r_annsharp_03": {
+        "intersect": [], 
+        "only_human": [
+            "schedule "
+        ], 
+        "only_vision": [
+            "smartphone", 
+            "electronic device", 
+            "gadget", 
+            "multimedia", 
+            "telephone", 
+            "portable communications device", 
+            "finger", 
+            "mobile phone", 
+            "electronics", 
+            "technology", 
+            "communication device"
+        ]
+    }, 
+    "r_annsharp_04": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "smartphone", 
+            "electronic device", 
+            "display device", 
+            "multimedia", 
+            "screen", 
+            "telephone", 
+            "mobile device", 
+            "portable communications device", 
+            "cellular network", 
+            "netbook", 
+            "mobile phone", 
+            "computer hardware", 
+            "electronics", 
+            "technology", 
+            "gadget", 
+            "communication device"
+        ]
+    }, 
+    "r_annsharp_05": {
+        "intersect": [], 
+        "only_human": [
+            "car", 
+            "grass", 
+            "tree"
+        ], 
+        "only_vision": [
+            "font", 
+            "product", 
+            "multimedia", 
+            "gadget", 
+            "electronics"
+        ]
+    }, 
+    "r_annsharp_06": {
+        "intersect": [
+            "furniture"
+        ], 
+        "only_human": [
+            "glass", 
+            "boot"
+        ], 
+        "only_vision": [
+            "table", 
+            "technology", 
+            "electronic device"
+        ]
+    }, 
+    "r_annsharp_07": {
+        "intersect": [], 
+        "only_human": [
+            "cups", 
+            "floor"
+        ], 
+        "only_vision": [
+            "food", 
+            "flavor", 
+            "dairy product", 
+            "ingredient"
+        ]
+    }, 
+    "r_annsharp_08": {
+        "intersect": [
+            "grass"
+        ], 
+        "only_human": [
+            "deer", 
+            "fence"
+        ], 
+        "only_vision": [
+            "plant", 
+            "display device", 
+            "herb", 
+            "gadget", 
+            "multimedia", 
+            "window", 
+            "green", 
+            "aquarium", 
+            "technology", 
+            "screen"
+        ]
+    }, 
+    "r_annsharp_09": {
+        "intersect": [], 
+        "only_human": [
+            "sofa", 
+            "chair", 
+            "debris", 
+            "fireplace"
+        ], 
+        "only_vision": [
+            "computer monitor", 
+            "smartphone", 
+            "electronic device", 
+            "display device", 
+            "multimedia", 
+            "portable communications device", 
+            "green", 
+            "netbook", 
+            "mobile phone", 
+            "screen", 
+            "tablet computer", 
+            "electronics", 
+            "technology", 
+            "gadget", 
+            "communication device"
+        ]
+    }, 
+    "r_annsharp_10": {
+        "intersect": [], 
+        "only_human": [
+            "dark", 
+            "tree"
+        ], 
+        "only_vision": [
+            "electronic device", 
+            "gadget", 
+            "plastic", 
+            "electronics", 
+            "technology", 
+            "communication device"
+        ]
+    }, 
+    "r_annsharp_11": {
+        "intersect": [], 
+        "only_human": [
+            "plate", 
+            "meat", 
+            "onion", 
+            "potato", 
+            "beans", 
+            "vegetable"
+        ], 
+        "only_vision": [
+            "cuisine", 
+            "food", 
+            "electronic device", 
+            "gadget", 
+            "recipe", 
+            "lunch", 
+            "mobile phone", 
+            "dish", 
+            "meal"
+        ]
+    }, 
+    "r_annsharp_12": {
+        "intersect": [], 
+        "only_human": [
+            "pots", 
+            "washing machine"
+        ], 
+        "only_vision": [
+            "food", 
+            "cuisine", 
+            "meal", 
+            "dish", 
+            "animal source foods"
+        ]
+    }, 
+    "r_annsharp_13": {
+        "intersect": [], 
+        "only_human": [
+            "light", 
+            "drak"
+        ], 
+        "only_vision": [
+            "smartphone", 
+            "gadget", 
+            "electronic device", 
+            "laptop", 
+            "multimedia", 
+            "mobile device", 
+            "tablet computer", 
+            "netbook", 
+            "mobile phone", 
+            "screen", 
+            "electronics", 
+            "technology", 
+            "display device"
+        ]
+    }, 
+    "r_annsharp_14": {
+        "intersect": [], 
+        "only_human": [
+            "car", 
+            "grass", 
+            "light"
+        ], 
+        "only_vision": [
+            "computer monitor", 
+            "smartphone", 
+            "gadget", 
+            "technology", 
+            "electronic device", 
+            "laptop", 
+            "multimedia", 
+            "mobile device", 
+            "portable communications device", 
+            "tablet computer", 
+            "netbook", 
+            "mobile phone", 
+            "computer hardware", 
+            "electronics", 
+            "screen", 
+            "display device", 
+            "communication device"
+        ]
+    }, 
+    "r_annsharp_15": {
+        "intersect": [], 
+        "only_human": [
+            "wall"
+        ], 
+        "only_vision": [
+            "electronic device", 
+            "gadget", 
+            "product design", 
+            "technology", 
+            "angle"
+        ]
+    }, 
+    "r_faith_01": {
+        "intersect": [], 
+        "only_human": [
+            "house", 
+            "car", 
+            "debris", 
+            "cans", 
+            "people"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "tree", 
+            "traffic light", 
+            "vehicle"
+        ]
+    }, 
+    "r_faith_02": {
+        "intersect": [], 
+        "only_human": [
+            "door"
+        ], 
+        "only_vision": [
+            "family car", 
+            "hardware", 
+            "windshield", 
+            "hood", 
+            "compact car", 
+            "automotive lighting", 
+            "mid size car", 
+            "window", 
+            "auto part", 
+            "vehicle", 
+            "automotive exterior", 
+            "automotive window part", 
+            "executive car", 
+            "bumper", 
+            "automotive tire", 
+            "glass", 
+            "sedan", 
+            "mode of transport", 
+            "city car", 
+            "vehicle door", 
+            "tire", 
+            "light", 
+            "motor vehicle", 
+            "car"
+        ]
+    }, 
+    "r_faith_03": {
+        "intersect": [], 
+        "only_human": [
+            "drywall", 
+            "debris", 
+            "crate", 
+            "trash", 
+            "people"
+        ], 
+        "only_vision": [
+            "scrap", 
+            "waste", 
+            "automotive exterior", 
+            "vehicle"
+        ]
+    }, 
+    "r_faith_04": {
+        "intersect": [], 
+        "only_human": [
+            "trash", 
+            "people", 
+            "tree", 
+            "couch", 
+            "debris", 
+            "grass", 
+            "drywall"
+        ], 
+        "only_vision": [
+            "automotive tire", 
+            "machine", 
+            "mode of transport", 
+            "automotive exterior", 
+            "tire"
+        ]
+    }, 
+    "r_faith_05": {
+        "intersect": [
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "debris", 
+            "drywall", 
+            "trash", 
+            "couch"
+        ], 
+        "only_vision": [
+            "plant", 
+            "recreation", 
+            "house", 
+            "window", 
+            "roof", 
+            "outdoor structure"
+        ]
+    }, 
+    "r_faith_06": {
+        "intersect": [
+            "house", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "debris", 
+            "drywall", 
+            "jug", 
+            "trash"
+        ], 
+        "only_vision": [
+            "plant", 
+            "recreation", 
+            "window", 
+            "roof", 
+            "woody plant", 
+            "outdoor structure", 
+            "vehicle", 
+            "backyard"
+        ]
+    }, 
+    "r_faith_07": {
+        "intersect": [
+            "house", 
+            "grass", 
+            "tree", 
+            "driveway"
+        ], 
+        "only_human": [
+            "debris", 
+            "trash"
+        ], 
+        "only_vision": [
+            "asphalt", 
+            "luxury vehicle", 
+            "street", 
+            "parking", 
+            "home", 
+            "residential area", 
+            "neighbourhood", 
+            "area", 
+            "outdoor structure", 
+            "landscape", 
+            "vehicle", 
+            "road surface", 
+            "lane", 
+            "plant", 
+            "recreation", 
+            "parking lot", 
+            "suburb", 
+            "walkway", 
+            "mode of transport", 
+            "lawn", 
+            "yard", 
+            "car", 
+            "roof", 
+            "real estate", 
+            "sidewalk", 
+            "property", 
+            "road"
+        ]
+    }, 
+    "r_faith_08": {
+        "intersect": [
+            "flood"
+        ], 
+        "only_human": [
+            "water", 
+            "house", 
+            "tree", 
+            "street sign"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "family car", 
+            "automotive exterior", 
+            "disaster", 
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "road"
+        ]
+    }, 
+    "r_faith_09": {
+        "intersect": [], 
+        "only_human": [
+            "people", 
+            "tree", 
+            "rain", 
+            "flood", 
+            "street", 
+            "grass"
+        ], 
+        "only_vision": [
+            "sky", 
+            "phenomenon", 
+            "screenshot"
+        ]
+    }, 
+    "r_faith_10": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "fly", 
+            "atmosphere", 
+            "flight", 
+            "phenomenon", 
+            "rotorcraft", 
+            "sky", 
+            "daytime", 
+            "air show", 
+            "meteorological phenomenon", 
+            "aviation", 
+            "atmosphere of earth", 
+            "wing", 
+            "cloud"
+        ]
+    }, 
+    "r_faith_11": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "branches", 
+            "trees"
+        ], 
+        "only_vision": [
+            "biome", 
+            "plant", 
+            "leaf", 
+            "map", 
+            "ecosystem", 
+            "tree", 
+            "geological phenomenon", 
+            "branch", 
+            "rainforest", 
+            "grass", 
+            "land lot", 
+            "jungle"
+        ]
+    }, 
+    "r_faith_12": {
+        "intersect": [], 
+        "only_human": [
+            "light pole", 
+            "concrete", 
+            "interstate", 
+            "signs"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "boats and boating equipment and supplies", 
+            "water resources", 
+            "water transportation", 
+            "water", 
+            "boating", 
+            "waterway", 
+            "river"
+        ]
+    }, 
+    "r_faith_13": {
+        "intersect": [], 
+        "only_human": [
+            "car", 
+            "guardrail", 
+            "moving water", 
+            "street", 
+            "highway"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "concrete bridge", 
+            "disaster", 
+            "water resources", 
+            "geological phenomenon", 
+            "vehicle", 
+            "road"
+        ]
+    }, 
+    "r_faith_14": {
+        "intersect": [], 
+        "only_human": [
+            "tall buildings", 
+            "telephone lines", 
+            "highway", 
+            "signs"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "flood", 
+            "water", 
+            "water resources", 
+            "river"
+        ]
+    }, 
+    "r_faith_15": {
+        "intersect": [], 
+        "only_human": [
+            "rain", 
+            "homes", 
+            "submerged cars", 
+            "trees", 
+            "railing"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "recreation", 
+            "reflection", 
+            "tree", 
+            "water", 
+            "flood", 
+            "outdoor structure", 
+            "pond", 
+            "water feature"
+        ]
+    }, 
+    "r_faith_16": {
+        "intersect": [
+            "grass"
+        ], 
+        "only_human": [
+            "concrete", 
+            "trees ", 
+            "houses"
+        ], 
+        "only_vision": [
+            "water", 
+            "wall", 
+            "tree", 
+            "water resources"
+        ]
+    }, 
+    "r_faith_17": {
+        "intersect": [
+            "concrete"
+        ], 
+        "only_human": [
+            "houses", 
+            "grass", 
+            "trees "
+        ], 
+        "only_vision": [
+            "wall", 
+            "sky", 
+            "wood", 
+            "angle", 
+            "texture"
+        ]
+    }, 
+    "r_faith_18": {
+        "intersect": [], 
+        "only_human": [
+            "water", 
+            "cooler", 
+            "paint can", 
+            "furniture"
+        ], 
+        "only_vision": [
+            "angle", 
+            "flooring", 
+            "floor", 
+            "wall", 
+            "concrete", 
+            "auto part", 
+            "bumper", 
+            "automotive exterior"
+        ]
+    }, 
+    "r_faith_19": {
+        "intersect": [
+            "darkness"
+        ], 
+        "only_human": [
+            "water ", 
+            "suv", 
+            "tree", 
+            "flood"
+        ], 
+        "only_vision": [
+            "phenomenon", 
+            "screenshot", 
+            "soil", 
+            "sky", 
+            "night", 
+            "geological phenomenon"
+        ]
+    }, 
+    "r_faith_20": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "bushes", 
+            "suv", 
+            "water ", 
+            "flood"
+        ], 
+        "only_vision": [
+            "phenomenon", 
+            "fire", 
+            "water", 
+            "smoke", 
+            "night", 
+            "darkness"
+        ]
+    }, 
+    "r_faith_21": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "flood", 
+            "house"
+        ], 
+        "only_vision": [
+            "darkness", 
+            "light", 
+            "sky", 
+            "sunlight", 
+            "glass", 
+            "lighting", 
+            "night", 
+            "reflection"
+        ]
+    }, 
+    "r_faith_22": {
+        "intersect": [], 
+        "only_human": [
+            "water", 
+            "flood", 
+            "tree"
+        ], 
+        "only_vision": [
+            "family car", 
+            "midnight", 
+            "luxury vehicle", 
+            "windshield", 
+            "sports car", 
+            "landscape", 
+            "performance car", 
+            "darkness", 
+            "driving", 
+            "automotive lighting", 
+            "sky", 
+            "sunlight", 
+            "vehicle", 
+            "evening", 
+            "automotive exterior", 
+            "photography", 
+            "night", 
+            "headlamp", 
+            "glass", 
+            "automotive design", 
+            "lighting", 
+            "mode of transport", 
+            "city car", 
+            "reflection", 
+            "compact car", 
+            "light", 
+            "motor vehicle", 
+            "computer wallpaper", 
+            "car"
+        ]
+    }, 
+    "r_faith_23": {
+        "intersect": [
+            "water", 
+            "house", 
+            "tree"
+        ], 
+        "only_human": [
+            "flood"
+        ], 
+        "only_vision": [
+            "evening", 
+            "darkness", 
+            "sky", 
+            "window", 
+            "lighting", 
+            "night", 
+            "phenomenon", 
+            "reflection"
+        ]
+    }, 
+    "r_faith_24": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "flood", 
+            "headlight", 
+            "tree", 
+            "house"
+        ], 
+        "only_vision": [
+            "phenomenon", 
+            "asphalt", 
+            "floor", 
+            "light", 
+            "shadow", 
+            "reflection"
+        ]
+    }, 
+    "r_faith_25": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "water", 
+            "flood", 
+            "dark"
+        ], 
+        "only_vision": [
+            "light", 
+            "angle", 
+            "darkness", 
+            "neon", 
+            "night", 
+            "sky", 
+            "computer wallpaper", 
+            "lighting", 
+            "graphics", 
+            "midnight"
+        ]
+    }, 
+    "r_faith_26": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "water", 
+            "flood", 
+            "dark"
+        ], 
+        "only_vision": [
+            "atmosphere", 
+            "phenomenon", 
+            "wall", 
+            "midnight", 
+            "texture", 
+            "light fixture", 
+            "shadow", 
+            "biome", 
+            "darkness", 
+            "sky", 
+            "sunlight", 
+            "window", 
+            "wood", 
+            "black", 
+            "forest", 
+            "daylighting", 
+            "evening", 
+            "lighting", 
+            "line", 
+            "street light", 
+            "light", 
+            "computer wallpaper", 
+            "night"
+        ]
+    }, 
+    "r_faith_27": {
+        "intersect": [
+            "car", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "water ", 
+            "flod", 
+            "mirror"
+        ], 
+        "only_vision": [
+            "family car", 
+            "wheel", 
+            "rear view mirror", 
+            "city car", 
+            "automotive exterior", 
+            "automotive window part", 
+            "compact car", 
+            "automotive mirror", 
+            "land vehicle", 
+            "sky", 
+            "luxury vehicle", 
+            "motor vehicle", 
+            "plant", 
+            "glass", 
+            "window", 
+            "auto part", 
+            "vehicle", 
+            "sedan", 
+            "windshield", 
+            "vehicle door", 
+            "reflection"
+        ]
+    }, 
+    "r_faith_28": {
+        "intersect": [
+            "field", 
+            "grass"
+        ], 
+        "only_human": [
+            "power lines", 
+            "weather", 
+            "trees"
+        ], 
+        "only_vision": [
+            "atmosphere", 
+            "phenomenon", 
+            "tornado", 
+            "plain", 
+            "energy", 
+            "sky", 
+            "wind", 
+            "storm", 
+            "atmosphere of earth", 
+            "cloud", 
+            "rural area"
+        ]
+    }, 
+    "r_faith_29": {
+        "intersect": [
+            "field", 
+            "grass"
+        ], 
+        "only_human": [
+            "power lines", 
+            "weather", 
+            "trees", 
+            "fence"
+        ], 
+        "only_vision": [
+            "atmosphere", 
+            "sport venue", 
+            "meadow", 
+            "plant", 
+            "player", 
+            "prairie", 
+            "pasture", 
+            "ecoregion", 
+            "mode of transport", 
+            "cloud", 
+            "phenomenon", 
+            "sky", 
+            "landscape", 
+            "grass family", 
+            "recreation", 
+            "paddy field", 
+            "line", 
+            "atmosphere of earth", 
+            "structure", 
+            "lawn", 
+            "ecosystem", 
+            "tree", 
+            "morning", 
+            "rural area", 
+            "plain", 
+            "grassland", 
+            "land lot", 
+            "wind"
+        ]
+    }, 
+    "r_faith_30": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "water", 
+            "rain", 
+            "railing"
+        ], 
+        "only_vision": [
+            "street light", 
+            "atmosphere", 
+            "evening", 
+            "darkness", 
+            "light", 
+            "sky", 
+            "sunlight", 
+            "lighting", 
+            "forest", 
+            "night", 
+            "light fixture", 
+            "midnight", 
+            "phenomenon"
+        ]
+    }, 
+    "r_faith_31": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "lamp post", 
+            "car", 
+            "grass", 
+            "porch light", 
+            "house"
+        ], 
+        "only_vision": [
+            "street light", 
+            "evening", 
+            "phenomenon", 
+            "sky", 
+            "reflection", 
+            "midnight", 
+            "water", 
+            "night", 
+            "darkness"
+        ]
+    }, 
+    "r_geri_01": {
+        "intersect": [], 
+        "only_human": [
+            "clothing", 
+            "pillow"
+        ], 
+        "only_vision": [
+            "product", 
+            "screenshot", 
+            "media", 
+            "advertising", 
+            "photo caption", 
+            "font"
+        ]
+    }, 
+    "r_johnenergy_01": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "gate", 
+            "boat motor"
+        ], 
+        "only_vision": [
+            "canal", 
+            "recreation", 
+            "rapid", 
+            "vehicle", 
+            "plant", 
+            "water resources", 
+            "boat", 
+            "watercourse", 
+            "plant community", 
+            "waterway", 
+            "river", 
+            "bank", 
+            "landscape", 
+            "jungle"
+        ]
+    }, 
+    "r_johnenergy_02": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "wall", 
+            "house", 
+            "boat"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "water resources", 
+            "flood", 
+            "watercourse", 
+            "vehicle", 
+            "waterway", 
+            "river"
+        ]
+    }, 
+    "r_johnenergy_03": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "grass", 
+            "boat", 
+            "people"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "leg", 
+            "car", 
+            "vacation", 
+            "leisure", 
+            "personal protective equipment", 
+            "vehicle", 
+            "fun", 
+            "personal flotation device", 
+            "girl"
+        ]
+    }, 
+    "r_johnenergy_04": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "boat"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "recreation", 
+            "disaster", 
+            "flood", 
+            "floodplain", 
+            "water resources", 
+            "watercourse", 
+            "vehicle", 
+            "waterway", 
+            "river"
+        ]
+    }, 
+    "r_johnenergy_05": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "flood", 
+            "water resources", 
+            "watercourse", 
+            "river", 
+            "bank"
+        ]
+    }, 
+    "r_johnenergy_06": {
+        "intersect": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "flag", 
+            "rain", 
+            "people"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "plant", 
+            "reflection", 
+            "flood", 
+            "park", 
+            "floodplain", 
+            "water resources", 
+            "bank", 
+            "bayou", 
+            "river", 
+            "watercourse", 
+            "landscape", 
+            "disaster"
+        ]
+    }, 
+    "r_johnenergy_07": {
+        "intersect": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "rain"
+        ], 
+        "only_vision": [
+            "plant", 
+            "water resources", 
+            "floodplain", 
+            "lawn", 
+            "lake", 
+            "bayou", 
+            "state park", 
+            "wetland", 
+            "bank", 
+            "pond", 
+            "river", 
+            "landscape", 
+            "watercourse"
+        ]
+    }, 
+    "r_johnenergy_08": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "rain"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "water resources", 
+            "floodplain", 
+            "grass", 
+            "bayou", 
+            "flood", 
+            "state park", 
+            "wetland", 
+            "land lot", 
+            "river", 
+            "bank", 
+            "landscape"
+        ]
+    }, 
+    "r_johnenergy_09": {
+        "intersect": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "car", 
+            "road"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "reflection", 
+            "reservoir", 
+            "water resources", 
+            "park", 
+            "floodplain", 
+            "lawn", 
+            "plant", 
+            "bayou", 
+            "watercourse", 
+            "lacustrine plain", 
+            "pond", 
+            "waterway", 
+            "river", 
+            "bank", 
+            "water feature", 
+            "landscape"
+        ]
+    }, 
+    "r_johnenergy_10": {
+        "intersect": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "house"
+        ], 
+        "only_vision": [
+            "lawn", 
+            "water resources", 
+            "floodplain", 
+            "lake", 
+            "bayou", 
+            "watercourse", 
+            "pond", 
+            "waterway", 
+            "river", 
+            "bank", 
+            "water feature", 
+            "landscape"
+        ]
+    }, 
+    "r_johnenergy_11": {
+        "intersect": [
+            "car", 
+            "tree", 
+            "road"
+        ], 
+        "only_human": [
+            "water", 
+            "grass", 
+            "traffic sign"
+        ], 
+        "only_vision": [
+            "family car", 
+            "city", 
+            "plant", 
+            "infrastructure", 
+            "automotive exterior", 
+            "asphalt", 
+            "downtown", 
+            "vehicle", 
+            "lane", 
+            "luxury vehicle", 
+            "motor vehicle", 
+            "woody plant", 
+            "pedestrian", 
+            "street", 
+            "sport utility vehicle", 
+            "neighbourhood", 
+            "parking", 
+            "traffic", 
+            "mode of transport", 
+            "transport", 
+            "road surface"
+        ]
+    }, 
+    "r_johnenergy_12": {
+        "intersect": [
+            "car"
+        ], 
+        "only_human": [
+            "ball", 
+            "shoes", 
+            "shelves", 
+            "tree", 
+            "water", 
+            "boxes", 
+            "grass"
+        ], 
+        "only_vision": [
+            "family car", 
+            "luxury vehicle", 
+            "windshield", 
+            "automobile repair shop", 
+            "tire", 
+            "mid size car", 
+            "sport utility vehicle", 
+            "auto part", 
+            "vehicle", 
+            "wheel", 
+            "automotive exterior", 
+            "minivan", 
+            "automotive tire", 
+            "automotive wheel system", 
+            "mode of transport", 
+            "vehicle door", 
+            "compact car", 
+            "land vehicle", 
+            "automotive design", 
+            "motor vehicle", 
+            "bumper", 
+            "road"
+        ]
+    }, 
+    "r_johnenergy_13": {
+        "intersect": [
+            "furniture", 
+            "floor"
+        ], 
+        "only_human": [
+            "water", 
+            "plant", 
+            "door", 
+            "cushion"
+        ], 
+        "only_vision": [
+            "living room", 
+            "flooring", 
+            "hardwood", 
+            "house", 
+            "interior design", 
+            "daylighting", 
+            "courtyard", 
+            "concrete", 
+            "window", 
+            "home", 
+            "tile", 
+            "table", 
+            "wood flooring", 
+            "property", 
+            "chair"
+        ]
+    }, 
+    "r_johnenergy_14": {
+        "intersect": [
+            "wall", 
+            "floor"
+        ], 
+        "only_human": [
+            "water", 
+            "furniture"
+        ], 
+        "only_vision": [
+            "varnish", 
+            "angle", 
+            "room", 
+            "flooring", 
+            "hardwood", 
+            "yellow", 
+            "wood", 
+            "tile", 
+            "wood stain", 
+            "wood flooring"
+        ]
+    }, 
+    "r_johnenergy_15": {
+        "intersect": [
+            "toilet", 
+            "floor"
+        ], 
+        "only_human": [
+            "box", 
+            "door", 
+            "water", 
+            "curtain", 
+            "chair", 
+            "bathtub"
+        ], 
+        "only_vision": [
+            "bathroom", 
+            "room", 
+            "flooring", 
+            "house", 
+            "plumbing fixture", 
+            "interior design", 
+            "sink", 
+            "tile", 
+            "home"
+        ]
+    }, 
+    "r_johnenergy_16": {
+        "intersect": [
+            "floor"
+        ], 
+        "only_human": [
+            "turtle", 
+            "water", 
+            "plant", 
+            "cushion", 
+            "Stair"
+        ], 
+        "only_vision": [
+            "tile", 
+            "concrete", 
+            "window", 
+            "flooring"
+        ]
+    }, 
+    "r_johnenergy_17": {
+        "intersect": [
+            "floor"
+        ], 
+        "only_human": [
+            "wall", 
+            "water", 
+            "bedclothes", 
+            "bed", 
+            "desk"
+        ], 
+        "only_vision": [
+            "room", 
+            "flooring", 
+            "hardwood", 
+            "laminate flooring", 
+            "interior design", 
+            "wood", 
+            "tile", 
+            "table", 
+            "wood flooring", 
+            "wood stain", 
+            "furniture"
+        ]
+    }, 
+    "r_johnenergy_18": {
+        "intersect": [], 
+        "only_human": [
+            "door", 
+            "Ffloor ", 
+            "water", 
+            "plastic bag", 
+            "bottle", 
+            "newspaper", 
+            "clothes"
+        ], 
+        "only_vision": [
+            "product", 
+            "room", 
+            "flooring", 
+            "floor", 
+            "home", 
+            "furniture"
+        ]
+    }, 
+    "r_johnenergy_19": {
+        "intersect": [
+            "water", 
+            "plant", 
+            "window"
+        ], 
+        "only_human": [
+            "ball", 
+            "flloor", 
+            "socket"
+        ], 
+        "only_vision": [
+            "flooring", 
+            "floor", 
+            "house", 
+            "interior design", 
+            "glass", 
+            "table", 
+            "property", 
+            "daylighting"
+        ]
+    }, 
+    "r_johnenergy_20": {
+        "intersect": [
+            "glass", 
+            "window", 
+            "door"
+        ], 
+        "only_human": [
+            "wall", 
+            "debris", 
+            "socket", 
+            "floor"
+        ], 
+        "only_vision": []
+    }, 
+    "r_johnenergy_21": {
+        "intersect": [
+            "window"
+        ], 
+        "only_human": [
+            "debris", 
+            "glass", 
+            "plant", 
+            "bike", 
+            "floor"
+        ], 
+        "only_vision": [
+            "bicycle accessory", 
+            "vehicle", 
+            "recreation", 
+            "cycling", 
+            "road bicycle", 
+            "racing bicycle", 
+            "land vehicle", 
+            "sports equipment", 
+            "mountain bike", 
+            "bicycle wheel", 
+            "hybrid bicycle", 
+            "bicycle", 
+            "bicycle frame"
+        ]
+    }, 
+    "r_johnenergy_22": {
+        "intersect": [
+            "glass", 
+            "window", 
+            "curtain"
+        ], 
+        "only_human": [
+            "buckets", 
+            "tree", 
+            "floor"
+        ], 
+        "only_vision": [
+            "ceiling", 
+            "door", 
+            "window treatment", 
+            "house", 
+            "interior design", 
+            "shade", 
+            "home", 
+            "window covering", 
+            "daylighting", 
+            "structure"
+        ]
+    }, 
+    "r_johnenergy_23": {
+        "intersect": [
+            "floor", 
+            "furniture"
+        ], 
+        "only_human": [
+            "water", 
+            "wall"
+        ], 
+        "only_vision": [
+            "chair", 
+            "flooring", 
+            "hardwood", 
+            "laminate flooring", 
+            "product design", 
+            "wood", 
+            "tile", 
+            "table", 
+            "wood stain", 
+            "wood flooring"
+        ]
+    }, 
+    "r_johnenergy_24": {
+        "intersect": [
+            "water", 
+            "wall"
+        ], 
+        "only_human": [
+            "turtle", 
+            "plant", 
+            "floor"
+        ], 
+        "only_vision": [
+            "concrete", 
+            "window", 
+            "reflection"
+        ]
+    }, 
+    "r_johnenergy_25": {
+        "intersect": [
+            "car"
+        ], 
+        "only_human": [
+            "mud"
+        ], 
+        "only_vision": [
+            "wheel", 
+            "automotive exterior", 
+            "tire", 
+            "floor", 
+            "fender", 
+            "bumper", 
+            "motor vehicle", 
+            "automotive tire", 
+            "automotive wheel system", 
+            "rim", 
+            "auto part", 
+            "vehicle"
+        ]
+    }, 
+    "r_johnenergy_26": {
+        "intersect": [
+            "glass", 
+            "window", 
+            "floor"
+        ], 
+        "only_human": [
+            "ballon", 
+            "swob", 
+            "water", 
+            "bike", 
+            "paper towel", 
+            "curtain"
+        ], 
+        "only_vision": [
+            "room", 
+            "flooring", 
+            "hardwood", 
+            "house", 
+            "laminate flooring", 
+            "interior design", 
+            "wood", 
+            "home", 
+            "tile", 
+            "table", 
+            "wood flooring", 
+            "property", 
+            "wood stain"
+        ]
+    }, 
+    "r_johnenergy_27": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "leaves", 
+            "debris", 
+            "flowerpot"
+        ], 
+        "only_vision": []
+    }, 
+    "r_johnenergy_28": {
+        "intersect": [
+            "floor"
+        ], 
+        "only_human": [
+            "plant", 
+            "ball", 
+            "door", 
+            "shelves", 
+            "bucket", 
+            "water", 
+            "cusion"
+        ], 
+        "only_vision": [
+            "flooring", 
+            "hardwood", 
+            "house", 
+            "interior design", 
+            "glass", 
+            "window", 
+            "wood", 
+            "tile", 
+            "home", 
+            "wood flooring", 
+            "property", 
+            "daylighting"
+        ]
+    }, 
+    "r_johnenergy_29": {
+        "intersect": [
+            "water", 
+            "window", 
+            "tree"
+        ], 
+        "only_human": [
+            "wall", 
+            "car", 
+            "grass", 
+            "bucket"
+        ], 
+        "only_vision": [
+            "house", 
+            "plant", 
+            "glass"
+        ]
+    }, 
+    "r_johnenergy_30": {
+        "intersect": [], 
+        "only_human": [
+            "wall", 
+            "plastic bag", 
+            "paper", 
+            "socket", 
+            "bullet"
+        ], 
+        "only_vision": []
+    }, 
+    "r_johnenergy_31": {
+        "intersect": [], 
+        "only_human": [
+            "boxes", 
+            "paper", 
+            "water stain"
+        ], 
+        "only_vision": [
+            "food"
+        ]
+    }, 
+    "r_johnenergy_32": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "wall", 
+            "car", 
+            "grass", 
+            "house"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "water resources", 
+            "tree", 
+            "flood", 
+            "pond", 
+            "river", 
+            "bank"
+        ]
+    }, 
+    "r_johnenergy_33": {
+        "intersect": [
+            "water", 
+            "door"
+        ], 
+        "only_human": [
+            "wall", 
+            "grass", 
+            "doorplate", 
+            "mailbox"
+        ], 
+        "only_vision": [
+            "brickwork", 
+            "yard", 
+            "home", 
+            "house", 
+            "real estate", 
+            "tree", 
+            "window", 
+            "courtyard", 
+            "outdoor structure", 
+            "walkway", 
+            "facade", 
+            "backyard", 
+            "brick", 
+            "property", 
+            "siding"
+        ]
+    }, 
+    "r_johnenergy_34": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "plant", 
+            "bucket", 
+            "traffic sign"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "water resources", 
+            "floodplain", 
+            "reflection", 
+            "reservoir", 
+            "bayou", 
+            "fluvial landforms of streams", 
+            "tree", 
+            "lake", 
+            "flood", 
+            "wetland", 
+            "watercourse", 
+            "body of water", 
+            "pond", 
+            "waterway", 
+            "river", 
+            "bank", 
+            "water feature", 
+            "landscape"
+        ]
+    }, 
+    "r_johnenergy_35": {
+        "intersect": [
+            "water", 
+            "house", 
+            "tree"
+        ], 
+        "only_human": [
+            "grass"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "plant", 
+            "yard", 
+            "floodplain", 
+            "flood", 
+            "watercourse", 
+            "real estate", 
+            "cottage", 
+            "home", 
+            "property", 
+            "pond", 
+            "bank"
+        ]
+    }, 
+    "r_johnenergy_36": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "post", 
+            "doorplate"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "disaster", 
+            "water resources", 
+            "flood", 
+            "river", 
+            "reflection"
+        ]
+    }, 
+    "r_johnenergy_37": {
+        "intersect": [
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "mud", 
+            "road", 
+            "house"
+        ], 
+        "only_vision": [
+            "plant", 
+            "vegetation", 
+            "soil", 
+            "walkway", 
+            "woodland", 
+            "water", 
+            "trail", 
+            "outdoor structure", 
+            "jungle", 
+            "rainforest", 
+            "path", 
+            "landscape", 
+            "forest"
+        ]
+    }, 
+    "r_johnenergy_38": {
+        "intersect": [
+            "house", 
+            "tree", 
+            "road", 
+            "car"
+        ], 
+        "only_human": [
+            "trash bin", 
+            "grass", 
+            "water stain", 
+            "people"
+        ], 
+        "only_vision": [
+            "family car", 
+            "lane", 
+            "plant", 
+            "compact car", 
+            "asphalt", 
+            "town", 
+            "luxury vehicle", 
+            "motor vehicle", 
+            "recreation", 
+            "suburb", 
+            "street", 
+            "transport", 
+            "vehicle", 
+            "sedan", 
+            "neighbourhood", 
+            "property", 
+            "residential area", 
+            "landscape", 
+            "road surface"
+        ]
+    }, 
+    "r_johnenergy_39": {
+        "intersect": [
+            "grass"
+        ], 
+        "only_human": [
+            "mud", 
+            "leaves", 
+            "water stain"
+        ], 
+        "only_vision": [
+            "leaf", 
+            "plant", 
+            "waste", 
+            "tree"
+        ]
+    }, 
+    "r_johnenergy_40": {
+        "intersect": [
+            "car", 
+            "tree", 
+            "road", 
+            "house"
+        ], 
+        "only_human": [
+            "grass"
+        ], 
+        "only_vision": [
+            "family car", 
+            "vehicle", 
+            "plant", 
+            "automotive exterior", 
+            "compact car", 
+            "asphalt", 
+            "coup\u00e9", 
+            "luxury vehicle", 
+            "motor vehicle", 
+            "mid size car", 
+            "parking lot", 
+            "parking", 
+            "sedan", 
+            "road surface", 
+            "city car", 
+            "sports car", 
+            "subcompact car"
+        ]
+    }, 
+    "r_johnenergy_41": {
+        "intersect": [], 
+        "only_human": [
+            "plant", 
+            "water stain", 
+            "road"
+        ], 
+        "only_vision": [
+            "brickwork", 
+            "fence", 
+            "wall", 
+            "tree", 
+            "landscaping", 
+            "outdoor structure", 
+            "wood", 
+            "driveway", 
+            "walkway", 
+            "backyard", 
+            "grass", 
+            "stone wall", 
+            "landscape", 
+            "road surface"
+        ]
+    }, 
+    "r_johnenergy_42": {
+        "intersect": [
+            "plant", 
+            "river"
+        ], 
+        "only_human": [
+            "mud"
+        ], 
+        "only_vision": [
+            "tributary", 
+            "creek", 
+            "stream", 
+            "stream bed", 
+            "arroyo", 
+            "mineral spring", 
+            "tree", 
+            "riparian zone", 
+            "water", 
+            "water resources", 
+            "nature reserve", 
+            "watercourse", 
+            "rock", 
+            "pond", 
+            "grass", 
+            "landscape"
+        ]
+    }, 
+    "r_johnenergy_43": {
+        "intersect": [], 
+        "only_human": [
+            "mud", 
+            "plant", 
+            "river", 
+            "house"
+        ], 
+        "only_vision": []
+    }, 
+    "r_johnenergy_44": {
+        "intersect": [
+            "house", 
+            "tree"
+        ], 
+        "only_human": [], 
+        "only_vision": [
+            "building", 
+            "plant", 
+            "window", 
+            "cottage", 
+            "outdoor structure", 
+            "architecture", 
+            "real estate", 
+            "facade", 
+            "home", 
+            "property", 
+            "residential area", 
+            "neighbourhood"
+        ]
+    }, 
+    "r_johnenergy_45": {
+        "intersect": [
+            "car", 
+            "tree", 
+            "road", 
+            "house"
+        ], 
+        "only_human": [
+            "trash bin", 
+            "garage", 
+            "trash", 
+            "water stain"
+        ], 
+        "only_vision": [
+            "family car", 
+            "asphalt", 
+            "luxury vehicle", 
+            "landscape", 
+            "street", 
+            "motor vehicle", 
+            "parking", 
+            "facade", 
+            "home", 
+            "residential area", 
+            "neighbourhood", 
+            "compact car", 
+            "area", 
+            "window", 
+            "transport", 
+            "vehicle", 
+            "road surface", 
+            "town", 
+            "plant", 
+            "automotive exterior", 
+            "suburb", 
+            "sedan", 
+            "building", 
+            "lane", 
+            "roof", 
+            "real estate", 
+            "property"
+        ]
+    }, 
+    "r_johnsnow_01": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "flood", 
+            "people", 
+            "tree", 
+            "raft"
+        ], 
+        "only_vision": [
+            "family car", 
+            "automotive exterior", 
+            "car", 
+            "luxury vehicle", 
+            "motor vehicle", 
+            "vehicle"
+        ]
+    }, 
+    "r_mickann_01": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "floodplain", 
+            "reflection", 
+            "sky", 
+            "tree", 
+            "rain", 
+            "water", 
+            "water resources", 
+            "advertising", 
+            "grass"
+        ]
+    }, 
+    "r_mickann_02": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "website", 
+            "product", 
+            "font", 
+            "multimedia", 
+            "screenshot"
+        ]
+    }, 
+    "r_mickann_03": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "media", 
+            "product", 
+            "font", 
+            "screenshot", 
+            "area", 
+            "text", 
+            "computer program", 
+            "line", 
+            "web page", 
+            "document", 
+            "software"
+        ]
+    }, 
+    "r_mickann_04": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "website", 
+            "map", 
+            "web page", 
+            "screenshot", 
+            "area", 
+            "media", 
+            "multimedia", 
+            "font", 
+            "software"
+        ]
+    }, 
+    "r_mickann_05": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "text", 
+            "font", 
+            "tree", 
+            "advertising", 
+            "screenshot"
+        ]
+    }, 
+    "r_mickann_06": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "pc game", 
+            "technology", 
+            "screenshot", 
+            "photo caption"
+        ]
+    }, 
+    "r_mickann_07": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "product", 
+            "flooring", 
+            "floor", 
+            "hardwood", 
+            "laminate flooring", 
+            "varnish", 
+            "wood", 
+            "tile", 
+            "table", 
+            "wood flooring", 
+            "wood stain", 
+            "furniture"
+        ]
+    }, 
+    "r_mickann_08": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "elk", 
+            "wildlife", 
+            "springbok", 
+            "deer", 
+            "tree", 
+            "antelope", 
+            "reindeer", 
+            "mammal", 
+            "fauna", 
+            "antler"
+        ]
+    }, 
+    "r_mickann_09": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "website", 
+            "font", 
+            "screenshot", 
+            "media", 
+            "multimedia", 
+            "text", 
+            "editing", 
+            "software"
+        ]
+    }, 
+    "r_mickann_10": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "website", 
+            "font", 
+            "screenshot", 
+            "text", 
+            "multimedia", 
+            "media", 
+            "editing", 
+            "technology", 
+            "software"
+        ]
+    }, 
+    "r_samenergy_1": {
+        "intersect": [], 
+        "only_human": [
+            "out of order sign", 
+            "gas pump"
+        ], 
+        "only_vision": [
+            "product", 
+            "interactive kiosk", 
+            "automated teller machine", 
+            "electronic device", 
+            "gadget", 
+            "multimedia", 
+            "machine", 
+            "display advertising", 
+            "electronics", 
+            "technology", 
+            "display device"
+        ]
+    }, 
+    "r_samenergy_10": {
+        "intersect": [
+            "water", 
+            "car"
+        ], 
+        "only_human": [
+            "house", 
+            "grass"
+        ], 
+        "only_vision": [
+            "automotive exterior", 
+            "automotive design", 
+            "motor vehicle", 
+            "glass", 
+            "window", 
+            "mesh", 
+            "net", 
+            "cage"
+        ]
+    }, 
+    "r_samenergy_11": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "boat", 
+            "people"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "canal", 
+            "floodplain", 
+            "disaster", 
+            "flood", 
+            "recreation", 
+            "water resources", 
+            "vehicle", 
+            "waterway", 
+            "river", 
+            "bank"
+        ]
+    }, 
+    "r_samenergy_12": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "car", 
+            "house "
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "canal", 
+            "floodplain", 
+            "disaster", 
+            "water resources", 
+            "flood", 
+            "body of water", 
+            "waterway", 
+            "river", 
+            "bank"
+        ]
+    }, 
+    "r_samenergy_13": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house ", 
+            "fence"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "flood", 
+            "floodplain", 
+            "disaster", 
+            "bayou", 
+            "sky", 
+            "water resources", 
+            "watercourse", 
+            "body of water", 
+            "waterway", 
+            "river", 
+            "bank"
+        ]
+    }, 
+    "r_samenergy_14": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house "
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "flood", 
+            "river", 
+            "bank"
+        ]
+    }, 
+    "r_samenergy_15": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [], 
+        "only_vision": [
+            "plant", 
+            "leaf", 
+            "shrub", 
+            "vegetation", 
+            "woodland", 
+            "trail", 
+            "outdoor structure", 
+            "green", 
+            "landscape", 
+            "branch", 
+            "walkway", 
+            "path", 
+            "grass", 
+            "road", 
+            "watercourse"
+        ]
+    }, 
+    "r_samenergy_16": {
+        "intersect": [
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "traffic signs", 
+            "car", 
+            "road ", 
+            "fence", 
+            "flooded reminder"
+        ], 
+        "only_vision": [
+            "road", 
+            "lane", 
+            "asphalt", 
+            "area", 
+            "soil", 
+            "park", 
+            "recreation", 
+            "sign", 
+            "plant", 
+            "trail", 
+            "land lot", 
+            "signage", 
+            "public space", 
+            "path", 
+            "sidewalk", 
+            "road surface", 
+            "landscape", 
+            "sky"
+        ]
+    }, 
+    "r_samenergy_17": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "road ", 
+            "flooded reminder", 
+            "car", 
+            "traffic signs", 
+            "grass"
+        ], 
+        "only_vision": [
+            "lane", 
+            "street", 
+            "asphalt", 
+            "area", 
+            "signage", 
+            "recreation", 
+            "sign", 
+            "race", 
+            "advertising", 
+            "vehicle", 
+            "public space", 
+            "sidewalk", 
+            "road", 
+            "road surface"
+        ]
+    }, 
+    "r_samenergy_18": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "traffic signs", 
+            "bridge", 
+            "wire", 
+            "road", 
+            "car"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "fence", 
+            "wire fencing", 
+            "chain link fencing", 
+            "outdoor structure", 
+            "mesh", 
+            "net", 
+            "structure"
+        ]
+    }, 
+    "r_samenergy_19": {
+        "intersect": [
+            "car", 
+            "tree"
+        ], 
+        "only_human": [
+            "traffic signs", 
+            "road ", 
+            "grass", 
+            "water stain"
+        ], 
+        "only_vision": [
+            "shoulder", 
+            "lane", 
+            "infrastructure", 
+            "asphalt", 
+            "controlled access highway", 
+            "sky", 
+            "street", 
+            "road", 
+            "vehicle", 
+            "path", 
+            "line", 
+            "sidewalk", 
+            "highway", 
+            "road surface"
+        ]
+    }, 
+    "r_samenergy_2": {
+        "intersect": [
+            "car"
+        ], 
+        "only_human": [
+            "water", 
+            "house", 
+            "grass", 
+            "tree", 
+            "trafic sign"
+        ], 
+        "only_vision": [
+            "family car", 
+            "plant", 
+            "automotive exterior", 
+            "compact car", 
+            "asphalt", 
+            "executive car", 
+            "vehicle", 
+            "luxury vehicle", 
+            "motor vehicle", 
+            "mid size car", 
+            "glass", 
+            "window", 
+            "subcompact car", 
+            "parking", 
+            "sedan", 
+            "mode of transport", 
+            "city car", 
+            "vehicle door"
+        ]
+    }, 
+    "r_samenergy_20": {
+        "intersect": [
+            "car", 
+            "tree"
+        ], 
+        "only_human": [
+            "post", 
+            "road ", 
+            "grass"
+        ], 
+        "only_vision": [
+            "wheel", 
+            "plant", 
+            "automotive exterior", 
+            "compact car", 
+            "asphalt", 
+            "land vehicle", 
+            "commercial vehicle", 
+            "motor vehicle", 
+            "window", 
+            "sport utility vehicle", 
+            "truck", 
+            "transport", 
+            "vehicle", 
+            "van", 
+            "mode of transport", 
+            "windshield", 
+            "public utility", 
+            "road", 
+            "auto part"
+        ]
+    }, 
+    "r_samenergy_21": {
+        "intersect": [
+            "car", 
+            "traffic light", 
+            "tree"
+        ], 
+        "only_human": [
+            "road "
+        ], 
+        "only_vision": [
+            "family car", 
+            "asphalt", 
+            "road trip", 
+            "street", 
+            "windshield", 
+            "cloud", 
+            "compact car", 
+            "controlled access highway", 
+            "sky", 
+            "window", 
+            "signaling device", 
+            "transport", 
+            "vehicle", 
+            "highway", 
+            "road surface", 
+            "infrastructure", 
+            "automotive exterior", 
+            "automotive window part", 
+            "glass", 
+            "traffic", 
+            "intersection", 
+            "shoulder", 
+            "lane", 
+            "motor vehicle", 
+            "road"
+        ]
+    }, 
+    "r_samenergy_22": {
+        "intersect": [
+            "car"
+        ], 
+        "only_human": [
+            "traffic signs", 
+            "road ", 
+            "tree", 
+            "grass"
+        ], 
+        "only_vision": [
+            "road", 
+            "lane", 
+            "infrastructure", 
+            "automotive exterior", 
+            "automotive window part", 
+            "asphalt", 
+            "road trip", 
+            "sky", 
+            "roof", 
+            "race track", 
+            "glass", 
+            "window", 
+            "structure", 
+            "vehicle", 
+            "line", 
+            "windshield", 
+            "atmosphere of earth", 
+            "highway", 
+            "road surface"
+        ]
+    }, 
+    "r_samenergy_23": {
+        "intersect": [
+            "car", 
+            "tree"
+        ], 
+        "only_human": [
+            "streetlight", 
+            "house", 
+            "debris", 
+            "trash", 
+            "road"
+        ], 
+        "only_vision": [
+            "city", 
+            "plant", 
+            "waste", 
+            "neighbourhood", 
+            "vehicle"
+        ]
+    }, 
+    "r_samenergy_24": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "streetlight", 
+            "house", 
+            "debris", 
+            "trash", 
+            "road"
+        ], 
+        "only_vision": [
+            "scrap", 
+            "waste", 
+            "vehicle"
+        ]
+    }, 
+    "r_samenergy_25": {
+        "intersect": [
+            "building", 
+            "car", 
+            "tree"
+        ], 
+        "only_human": [
+            "streetlight", 
+            "road "
+        ], 
+        "only_vision": [
+            "family car", 
+            "luxury vehicle", 
+            "street", 
+            "parking", 
+            "residential area", 
+            "city", 
+            "compact car", 
+            "sky", 
+            "mid size car", 
+            "window", 
+            "sport utility vehicle", 
+            "vehicle", 
+            "plant", 
+            "automotive exterior", 
+            "executive car", 
+            "parking lot", 
+            "sedan", 
+            "city car", 
+            "land vehicle", 
+            "toyota", 
+            "motor vehicle", 
+            "minivan", 
+            "road"
+        ]
+    }, 
+    "r_samenergy_3": {
+        "intersect": [
+            "car", 
+            "house"
+        ], 
+        "only_human": [
+            "water", 
+            "grass", 
+            "boat", 
+            "people"
+        ], 
+        "only_vision": [
+            "family car", 
+            "luxury vehicle", 
+            "street", 
+            "motor vehicle", 
+            "parking", 
+            "facade", 
+            "residential area", 
+            "neighbourhood", 
+            "compact car", 
+            "outdoor structure", 
+            "mid size car", 
+            "window", 
+            "sport utility vehicle", 
+            "auto part", 
+            "vehicle", 
+            "plant", 
+            "automotive exterior", 
+            "woody plant", 
+            "sedan", 
+            "city car", 
+            "building", 
+            "land vehicle", 
+            "tree", 
+            "roof", 
+            "minivan"
+        ]
+    }, 
+    "r_samenergy_4": {
+        "intersect": [
+            "water", 
+            "house", 
+            "tree"
+        ], 
+        "only_human": [
+            "car", 
+            "grass"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "disaster", 
+            "walkway", 
+            "flood", 
+            "real estate", 
+            "property", 
+            "residential area", 
+            "neighbourhood"
+        ]
+    }, 
+    "r_samenergy_5": {
+        "intersect": [], 
+        "only_human": [
+            "water", 
+            "wall", 
+            "bucket"
+        ], 
+        "only_vision": [
+            "bathroom", 
+            "tap", 
+            "room", 
+            "flooring", 
+            "floor", 
+            "hardwood", 
+            "plumbing fixture", 
+            "wood", 
+            "sink", 
+            "tile", 
+            "toilet seat"
+        ]
+    }, 
+    "r_samenergy_6": {
+        "intersect": [
+            "floor"
+        ], 
+        "only_human": [
+            "wall", 
+            "socket", 
+            "water stain", 
+            "carpet"
+        ], 
+        "only_vision": [
+            "product design", 
+            "mat", 
+            "flooring"
+        ]
+    }, 
+    "r_samenergy_7": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "car", 
+            "grass", 
+            "house"
+        ], 
+        "only_vision": [
+            "town", 
+            "natural disaster", 
+            "apartment", 
+            "disaster", 
+            "flood", 
+            "condominium", 
+            "real estate", 
+            "property", 
+            "residential area", 
+            "neighbourhood"
+        ]
+    }, 
+    "r_samenergy_8": {
+        "intersect": [], 
+        "only_human": [
+            "bridge", 
+            "wire", 
+            "streetlights", 
+            "tree", 
+            "traffic sign", 
+            "water"
+        ], 
+        "only_vision": [
+            "fence", 
+            "area", 
+            "wire fencing", 
+            "chain link fencing", 
+            "outdoor structure", 
+            "home fencing", 
+            "net", 
+            "land lot"
+        ]
+    }, 
+    "r_samenergy_9": {
+        "intersect": [
+            "road"
+        ], 
+        "only_human": [
+            "building", 
+            "bridge", 
+            "wire", 
+            "streetlights", 
+            "tree", 
+            "water", 
+            "traffic signs"
+        ], 
+        "only_vision": [
+            "winter", 
+            "suburb", 
+            "track", 
+            "snow", 
+            "rail transport", 
+            "residential area", 
+            "transport"
+        ]
+    }, 
+    "r_tracy katy_01": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "reflection", 
+            "water resources", 
+            "tree", 
+            "water", 
+            "bayou", 
+            "pond", 
+            "waterway", 
+            "river"
+        ]
+    }, 
+    "r_tracy katy_02": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "road", 
+            "lane", 
+            "asphalt", 
+            "floor", 
+            "soil", 
+            "sky", 
+            "lawn", 
+            "tree", 
+            "concrete", 
+            "sidewalk", 
+            "driveway", 
+            "walkway", 
+            "path", 
+            "line", 
+            "grass", 
+            "land lot", 
+            "landscape", 
+            "road surface"
+        ]
+    }, 
+    "r_tracy katy_03": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "water resources", 
+            "plant", 
+            "landscaping", 
+            "arecales", 
+            "tree", 
+            "water", 
+            "palm tree", 
+            "outdoor structure", 
+            "watercourse", 
+            "walkway", 
+            "river", 
+            "bank", 
+            "landscape", 
+            "road surface"
+        ]
+    }, 
+    "r_tracy katy_04": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "yard", 
+            "flagstone", 
+            "tree", 
+            "water", 
+            "landscaping", 
+            "outdoor structure", 
+            "driveway", 
+            "walkway", 
+            "grass", 
+            "road surface"
+        ]
+    }, 
+    "r_tracy katy_05": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "plant", 
+            "yard", 
+            "garden", 
+            "palm tree", 
+            "road surface", 
+            "arecales", 
+            "tree", 
+            "water", 
+            "landscaping", 
+            "outdoor structure", 
+            "driveway", 
+            "walkway", 
+            "backyard", 
+            "grass", 
+            "landscape", 
+            "watercourse"
+        ]
+    }, 
+    "r_tracy katy_06": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "evergreen", 
+            "biome", 
+            "plant", 
+            "leaf", 
+            "shrub", 
+            "tree", 
+            "vegetation", 
+            "grass", 
+            "landscape", 
+            "garden"
+        ]
+    }, 
+    "r_tracy katy_07": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "door", 
+            "floor", 
+            "house", 
+            "tree", 
+            "water", 
+            "glass", 
+            "window", 
+            "wood"
+        ]
+    }, 
+    "r_tracy katy_08": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "angle", 
+            "floor", 
+            "hardwood", 
+            "roof", 
+            "water", 
+            "paint", 
+            "window", 
+            "wood", 
+            "table", 
+            "wood stain", 
+            "glass", 
+            "daylighting"
+        ]
+    }, 
+    "r_tracy katy_09": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "reflection", 
+            "flooring", 
+            "space", 
+            "light", 
+            "floor", 
+            "water", 
+            "wood", 
+            "lighting", 
+            "night", 
+            "darkness"
+        ]
+    }, 
+    "r_tracy katy_1": {
+        "intersect": [], 
+        "only_human": [
+            "people", 
+            "house", 
+            "tree", 
+            "traffic sign", 
+            "water", 
+            "boat"
+        ], 
+        "only_vision": []
+    }, 
+    "r_tracy katy_10": {
+        "intersect": [
+            "water", 
+            "tree", 
+            "boat"
+        ], 
+        "only_human": [
+            "house"
+        ], 
+        "only_vision": [
+            "canal", 
+            "watercraft rowing", 
+            "recreation", 
+            "boats and boating equipment and supplies", 
+            "creek", 
+            "bayou", 
+            "body of water", 
+            "lake", 
+            "water transportation", 
+            "plant", 
+            "water resources", 
+            "wetland", 
+            "watercourse", 
+            "vehicle", 
+            "pond", 
+            "waterway", 
+            "river", 
+            "boating", 
+            "bank", 
+            "reflection"
+        ]
+    }, 
+    "r_tracy katy_11": {
+        "intersect": [
+            "water", 
+            "car"
+        ], 
+        "only_human": [
+            "house", 
+            "tree", 
+            "people"
+        ], 
+        "only_vision": [
+            "wheel", 
+            "automotive exterior", 
+            "reflection", 
+            "tire", 
+            "motor vehicle", 
+            "automotive tire", 
+            "auto part", 
+            "vehicle"
+        ]
+    }, 
+    "r_tracy katy_12": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house ", 
+            "traffic sign"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "flood", 
+            "floodplain", 
+            "disaster", 
+            "bayou", 
+            "sky", 
+            "lake", 
+            "water resources", 
+            "wetland", 
+            "pond", 
+            "river", 
+            "bank"
+        ]
+    }, 
+    "r_tracy katy_13": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "water", 
+            "car", 
+            "boat", 
+            "people"
+        ], 
+        "only_vision": [
+            "fun", 
+            "recreation", 
+            "extreme sport", 
+            "adventure", 
+            "vehicle"
+        ]
+    }, 
+    "r_tracy katy_14": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "people", 
+            "wall", 
+            "house", 
+            "bike", 
+            "car ", 
+            "grass"
+        ], 
+        "only_vision": [
+            "canal", 
+            "natural disaster", 
+            "floodplain", 
+            "recreation", 
+            "disaster", 
+            "flood", 
+            "tree", 
+            "water transportation", 
+            "plant", 
+            "bayou", 
+            "wetland", 
+            "boat", 
+            "watercourse", 
+            "vehicle", 
+            "pond", 
+            "waterway", 
+            "river", 
+            "bank", 
+            "boating", 
+            "landscape", 
+            "reflection"
+        ]
+    }, 
+    "r_tracy katy_15": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "current", 
+            "house", 
+            "grass", 
+            "streetlight"
+        ], 
+        "only_vision": [
+            "canal", 
+            "natural disaster", 
+            "floodplain", 
+            "flood", 
+            "sky", 
+            "water resources", 
+            "watercourse", 
+            "waterway", 
+            "river", 
+            "bank"
+        ]
+    }, 
+    "r_tracy katy_16": {
+        "intersect": [
+            "house", 
+            "tree"
+        ], 
+        "only_human": [
+            "people", 
+            "light", 
+            "traffic sign", 
+            "water", 
+            "boat", 
+            "grass", 
+            "road"
+        ], 
+        "only_vision": [
+            "plant", 
+            "park", 
+            "sky", 
+            "recreation", 
+            "woody plant", 
+            "car", 
+            "landscape"
+        ]
+    }, 
+    "r_tracy katy_2": {
+        "intersect": [], 
+        "only_human": [
+            "water", 
+            "car", 
+            "road ", 
+            "grass", 
+            "tree"
+        ], 
+        "only_vision": []
+    }, 
+    "r_tracy katy_3": {
+        "intersect": [], 
+        "only_human": [
+            "water", 
+            "house", 
+            "grass", 
+            "tree"
+        ], 
+        "only_vision": []
+    }, 
+    "r_tracy katy_4": {
+        "intersect": [], 
+        "only_human": [
+            "floor", 
+            "house", 
+            "tree", 
+            "rain", 
+            "water", 
+            "grass"
+        ], 
+        "only_vision": []
+    }, 
+    "r_tracy katy_5": {
+        "intersect": [], 
+        "only_human": [
+            "floor", 
+            "house", 
+            "tree", 
+            "rain", 
+            "water", 
+            "grass"
+        ], 
+        "only_vision": []
+    }, 
+    "r_tracy katy_6": {
+        "intersect": [], 
+        "only_human": [
+            "water", 
+            "streetlight", 
+            "grass", 
+            "tree", 
+            "rain"
+        ], 
+        "only_vision": []
+    }, 
+    "r_tracy katy_7": {
+        "intersect": [], 
+        "only_human": [
+            "trash bag", 
+            "wall", 
+            "house", 
+            "tree", 
+            "rain", 
+            "water", 
+            "grass"
+        ], 
+        "only_vision": []
+    }, 
+    "r_tracy katy_8": {
+        "intersect": [], 
+        "only_human": [
+            "water", 
+            "glass", 
+            "window", 
+            "grass"
+        ], 
+        "only_vision": []
+    }, 
+    "r_tracy katy_9": {
+        "intersect": [], 
+        "only_human": [
+            "water", 
+            "light", 
+            "rain", 
+            "boat", 
+            "people"
+        ], 
+        "only_vision": []
+    }, 
+    "vr_billdance_01": {
+        "intersect": [
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "hat", 
+            "fog", 
+            "reflective vest", 
+            "raincoat"
+        ], 
+        "only_vision": [
+            "biome", 
+            "lawn", 
+            "phenomenon", 
+            "ecosystem", 
+            "water", 
+            "green", 
+            "mode of transport", 
+            "geological phenomenon"
+        ]
+    }, 
+    "vr_billdance_02": {
+        "intersect": [], 
+        "only_human": [
+            "belongings", 
+            "bag", 
+            "fog", 
+            "tree", 
+            "boat"
+        ], 
+        "only_vision": [
+            "skating", 
+            "roller skating", 
+            "recreation", 
+            "phenomenon", 
+            "asphalt", 
+            "extreme sport", 
+            "product", 
+            "sports", 
+            "player", 
+            "games", 
+            "mode of transport", 
+            "event"
+        ]
+    }, 
+    "vr_billdance_03": {
+        "intersect": [], 
+        "only_human": [
+            "helping", 
+            "tree", 
+            "boat", 
+            "fence", 
+            "raincoat"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "interaction", 
+            "phenomenon", 
+            "people", 
+            "entertainment", 
+            "vertebrate", 
+            "performing arts", 
+            "event", 
+            "player", 
+            "muscle", 
+            "games", 
+            "man", 
+            "mammal", 
+            "fun", 
+            "performance", 
+            "girl", 
+            "indoor games and sports", 
+            "mode of transport", 
+            "aggression", 
+            "song"
+        ]
+    }, 
+    "vr_billdance_04": {
+        "intersect": [
+            "car"
+        ], 
+        "only_human": [
+            "SUV", 
+            "tree"
+        ], 
+        "only_vision": [
+            "family car", 
+            "natural disaster", 
+            "city car", 
+            "automotive exterior", 
+            "disaster", 
+            "asphalt", 
+            "automotive window part", 
+            "executive car", 
+            "rain", 
+            "off road vehicle", 
+            "water", 
+            "flood", 
+            "motor vehicle", 
+            "vehicle registration plate", 
+            "vehicle", 
+            "sedan", 
+            "mode of transport", 
+            "windshield", 
+            "event", 
+            "geological phenomenon", 
+            "phenomenon"
+        ]
+    }, 
+    "vr_billdance_05": {
+        "intersect": [], 
+        "only_human": [
+            "garage", 
+            "stop sign", 
+            "tree", 
+            "boat", 
+            "house"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "automotive exterior", 
+            "phenomenon", 
+            "technology", 
+            "display device", 
+            "product", 
+            "player", 
+            "games", 
+            "vehicle registration plate", 
+            "mode of transport", 
+            "racing", 
+            "event"
+        ]
+    }, 
+    "vr_billdance_06": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "home", 
+            "garage", 
+            "person", 
+            "hat", 
+            "raincoat"
+        ], 
+        "only_vision": [
+            "blue", 
+            "recreation", 
+            "phenomenon", 
+            "screenshot", 
+            "mode of transport", 
+            "grass"
+        ]
+    }, 
+    "vr_billdance_07": {
+        "intersect": [], 
+        "only_human": [
+            "raincoat", 
+            "tree", 
+            "person", 
+            "grass", 
+            "hat", 
+            "boat"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "interaction", 
+            "phenomenon", 
+            "screenshot", 
+            "car", 
+            "official", 
+            "driving", 
+            "player", 
+            "fun", 
+            "world", 
+            "mode of transport", 
+            "technology", 
+            "event"
+        ]
+    }, 
+    "vr_billdance_08": {
+        "intersect": [], 
+        "only_human": [
+            "raincoat", 
+            "cooler", 
+            "tree", 
+            "person", 
+            "grass", 
+            "hat", 
+            "boat"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "phenomenon", 
+            "screenshot", 
+            "song", 
+            "vertebrate", 
+            "conversation", 
+            "fun", 
+            "mode of transport"
+        ]
+    }, 
+    "vr_billdance_09": {
+        "intersect": [
+            "jet ski"
+        ], 
+        "only_human": [
+            "raincoat", 
+            "tree", 
+            "rescue", 
+            "waverunner"
+        ], 
+        "only_vision": [
+            "recreation", 
+            "watercraft", 
+            "automotive exterior", 
+            "boating", 
+            "vehicle", 
+            "mode of transport"
+        ]
+    }, 
+    "vr_billdance_10": {
+        "intersect": [], 
+        "only_human": [
+            "rescue", 
+            "raincoat", 
+            "cars", 
+            "waverunner", 
+            "tree", 
+            "jet ski"
+        ], 
+        "only_vision": [
+            "helmet", 
+            "recreation", 
+            "extreme sport", 
+            "phenomenon", 
+            "material", 
+            "product", 
+            "personal protective equipment", 
+            "adventure", 
+            "vehicle", 
+            "mode of transport", 
+            "racing"
+        ]
+    }, 
+    "vr_billdance_11": {
+        "intersect": [], 
+        "only_human": [
+            "trash bag", 
+            "umbrella", 
+            "raincoat", 
+            "people", 
+            "tree", 
+            "shorts", 
+            "boat motor"
+        ], 
+        "only_vision": [
+            "fun", 
+            "mode of transport", 
+            "phenomenon", 
+            "event"
+        ]
+    }, 
+    "vr_billdance_12": {
+        "intersect": [
+            "person"
+        ], 
+        "only_human": [
+            "tree", 
+            "umbrella"
+        ], 
+        "only_vision": [
+            "emotion", 
+            "hairstyle", 
+            "cheek", 
+            "black hair", 
+            "selfie", 
+            "facial hair", 
+            "hair", 
+            "chin", 
+            "human", 
+            "girl", 
+            "film", 
+            "phenomenon", 
+            "eye", 
+            "jaw", 
+            "forehead", 
+            "human hair color", 
+            "facial expression", 
+            "smile", 
+            "lip", 
+            "nose", 
+            "head", 
+            "screenshot", 
+            "song", 
+            "male", 
+            "mouth", 
+            "mode of transport", 
+            "lady", 
+            "newscaster", 
+            "interaction", 
+            "organ", 
+            "brown hair", 
+            "official", 
+            "eyebrow", 
+            "face", 
+            "conversation", 
+            "snapshot", 
+            "journalist", 
+            "man", 
+            "photo caption", 
+            "fun", 
+            "professional", 
+            "muscle"
+        ]
+    }, 
+    "vr_billdance_13": {
+        "intersect": [
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "person", 
+            "garage", 
+            "car", 
+            "house"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "phenomenon", 
+            "water", 
+            "flood", 
+            "mode of transport", 
+            "event", 
+            "land lot", 
+            "disaster"
+        ]
+    }, 
+    "vr_billdance_14": {
+        "intersect": [], 
+        "only_human": [
+            "feet", 
+            "house", 
+            "legs", 
+            "boat", 
+            "garage"
+        ], 
+        "only_vision": [
+            "snapshot", 
+            "recreation", 
+            "phenomenon", 
+            "darkness", 
+            "screenshot", 
+            "floor", 
+            "vertebrate", 
+            "display device", 
+            "material", 
+            "midnight", 
+            "event", 
+            "games", 
+            "mammal", 
+            "green", 
+            "mode of transport", 
+            "muscle", 
+            "mouth", 
+            "organ", 
+            "black"
+        ]
+    }, 
+    "vr_billdance_15": {
+        "intersect": [], 
+        "only_human": [
+            "house", 
+            "person", 
+            "tree ", 
+            "boat", 
+            "raincoat"
+        ], 
+        "only_vision": [
+            "event", 
+            "recreation", 
+            "interaction", 
+            "phenomenon", 
+            "organ", 
+            "people", 
+            "song", 
+            "vertebrate", 
+            "crowd", 
+            "face", 
+            "player", 
+            "snapshot", 
+            "fun", 
+            "mammal", 
+            "girl", 
+            "muscle", 
+            "mode of transport", 
+            "man"
+        ]
+    }, 
+    "vr_brock_01": {
+        "intersect": [], 
+        "only_human": [
+            "flood", 
+            "sweatshirt", 
+            "fog", 
+            "boat"
+        ], 
+        "only_vision": []
+    }, 
+    "vr_brock_02": {
+        "intersect": [
+            "fog", 
+            "tree"
+        ], 
+        "only_human": [
+            "flood", 
+            "boat motor", 
+            "boat"
+        ], 
+        "only_vision": [
+            "mist", 
+            "phenomenon", 
+            "loch", 
+            "sky", 
+            "morning", 
+            "water", 
+            "haze", 
+            "sea", 
+            "river", 
+            "drizzle", 
+            "cloud"
+        ]
+    }, 
+    "vr_diana_01": {
+        "intersect": [
+            "water"
+        ], 
+        "only_human": [
+            "tall buildings", 
+            "street", 
+            "tree"
+        ], 
+        "only_vision": [
+            "water resources"
+        ]
+    }, 
+    "vr_diana_02": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "tall buildings", 
+            "car", 
+            "street"
+        ], 
+        "only_vision": [
+            "city", 
+            "metropolis", 
+            "phenomenon", 
+            "suburb", 
+            "sky", 
+            "water resources", 
+            "skyline", 
+            "watercourse", 
+            "waterway", 
+            "river", 
+            "reflection"
+        ]
+    }, 
+    "vr_diana_03": {
+        "intersect": [
+            "furniture"
+        ], 
+        "only_human": [
+            "plant", 
+            "painting"
+        ], 
+        "only_vision": [
+            "website", 
+            "product", 
+            "flooring", 
+            "countertop", 
+            "floor", 
+            "interior design", 
+            "tile", 
+            "table", 
+            "property"
+        ]
+    }, 
+    "vr_diana_04": {
+        "intersect": [
+            "furniture"
+        ], 
+        "only_human": [
+            "plant", 
+            "painting"
+        ], 
+        "only_vision": [
+            "website", 
+            "product", 
+            "flooring", 
+            "floor", 
+            "interior design", 
+            "table"
+        ]
+    }, 
+    "vr_diana_05": {
+        "intersect": [], 
+        "only_human": [
+            "sheriff", 
+            "raincoat", 
+            "rain", 
+            "water", 
+            "person", 
+            "truck", 
+            "grass"
+        ], 
+        "only_vision": [
+            "website", 
+            "product", 
+            "screenshot", 
+            "media", 
+            "font", 
+            "software"
+        ]
+    }, 
+    "vr_diana_06": {
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "container", 
+            "people", 
+            "raincoat", 
+            "water", 
+            "flood", 
+            "truck"
+        ], 
+        "only_vision": [
+            "plant", 
+            "crowd", 
+            "car", 
+            "sky", 
+            "recreation", 
+            "day", 
+            "vehicle", 
+            "fun", 
+            "event"
+        ]
+    }, 
+    "vr_harryenergy_01": {
+        "intersect": [], 
+        "only_human": [
+            "deris", 
+            "house", 
+            "trash", 
+            "tree"
+        ], 
+        "only_vision": [
+            "scrap", 
+            "waste", 
+            "litter", 
+            "vehicle"
+        ]
+    }, 
+    "vr_harryenergy_02": {
+        "intersect": [
+            "floor"
+        ], 
+        "only_human": [
+            "wall", 
+            "window", 
+            "debris", 
+            "furniture", 
+            "people"
+        ], 
+        "only_vision": []
+    }, 
+    "vr_harryenergy_03": {
+        "intersect": [
+            "floor"
+        ], 
+        "only_human": [
+            "wall", 
+            "water", 
+            "people", 
+            "debris", 
+            "clock"
+        ], 
+        "only_vision": [
+            "window", 
+            "flooring", 
+            "vehicle"
+        ]
+    }, 
+    "vr_harryenergy_04": {
+        "intersect": [
+            "water", 
+            "grass"
+        ], 
+        "only_human": [
+            "house", 
+            "tree ", 
+            "rain"
+        ], 
+        "only_vision": [
+            "natural disaster", 
+            "floodplain", 
+            "asphalt", 
+            "water resources", 
+            "tree", 
+            "flood", 
+            "driveway", 
+            "walkway", 
+            "path", 
+            "bank", 
+            "land lot", 
+            "landscape", 
+            "road surface"
+        ]
+    }, 
+    "vr_harryenergy_05": {
+        "intersect": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "wall", 
+            "rain"
+        ], 
+        "only_vision": [
+            "bank", 
+            "biome", 
+            "floodplain", 
+            "watercourse", 
+            "vegetation", 
+            "ecosystem", 
+            "geological phenomenon", 
+            "woodland", 
+            "water resources", 
+            "nature reserve", 
+            "jungle", 
+            "pond", 
+            "river", 
+            "riparian forest", 
+            "land lot", 
+            "landscape", 
+            "forest"
+        ]
+    }, 
+    "vr_harryenergy_06": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "product", 
+            "web page", 
+            "screenshot", 
+            "area", 
+            "media", 
+            "text", 
+            "line", 
+            "font", 
+            "document"
+        ]
+    }, 
+    "vr_harryenergy_07": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "product", 
+            "font", 
+            "screenshot", 
+            "area", 
+            "text", 
+            "number", 
+            "line", 
+            "document", 
+            "icon"
+        ]
+    }, 
+    "vr_harryenergy_08": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "product", 
+            "font", 
+            "screenshot", 
+            "area", 
+            "text", 
+            "line", 
+            "document"
+        ]
+    }, 
+    "vr_harryenergy_09": {
+        "intersect": [], 
+        "only_human": [], 
+        "only_vision": [
+            "product", 
+            "font", 
+            "screenshot", 
+            "area", 
+            "text", 
+            "line", 
+            "document", 
+            "icon"
+        ]
+    }, 
+    "vr_harryenergy_10": {
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "rain"
+        ], 
+        "only_vision": [
+            "screenshot", 
+            "ecosystem", 
+            "sky", 
+            "water resources", 
+            "nature reserve", 
+            "wetland", 
+            "watercourse", 
+            "path", 
+            "ecoregion", 
+            "grass"
+        ]
+    }
+}

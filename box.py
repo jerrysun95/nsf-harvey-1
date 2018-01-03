@@ -32,10 +32,10 @@ def delete(file_id):
     print("Deleted file id " + file_id)
     print("")
 
-def items(folder_id, lim=100, ofs=0):
+def items(folder_id, lim=1000, ofs=0):
     print("Getting items in folder " + str(folder_id) + "...")
     response = box.get_folder_items(folder_id, limit=lim, offset=ofs, fields_list=['name', 'type', 'id'])
-    print("Got items in folder " + str(folder_id))
+    print("Got " + str(len(response['entries'])) + " items in folder " + str(folder_id))
     print("")
     return response
 
@@ -73,7 +73,7 @@ def request(method, command):
 
 
 #Send to Google Vision
-def send_to_vision(file_name, file_id, json_data, chunk_size=1034*1034*1):
+def send_to_vision(file_name, file_id, chunk_size=1034*1034*1):
     req = request("GET", "files/%s/content" % (file_id, ))
     total = -1
     image_content = ''
@@ -91,7 +91,7 @@ def send_to_vision(file_name, file_id, json_data, chunk_size=1034*1034*1):
             transferred += len(chunk)
 
     #print(image)
-    return gv.vision_from_data(file_name, image_content, json_data)
+    return gv.vision_from_data(file_name, image_content)
 
 #Read file data from box
 def get_file_data(file_id, chunk_size=1034*1034*1):
@@ -117,9 +117,10 @@ def parse_excel(file_id, chunk_size=1034*1034*1):
     print('Parsing excel file ' + str(file_id) + '...')
     file_data = get_file_data(file_id, chunk_size)
     dataframe = read_csv.read_excel(StringIO(file_data))
-    read_csv.parse_from_data(dataframe.values, dataframe.axes[1])
+    data = read_csv.parse_from_data(dataframe.values, dataframe.axes[1])
     print('Parsed excel file')
     print('')
+    return data
 
 # Set up a box session
 def setup_box():
