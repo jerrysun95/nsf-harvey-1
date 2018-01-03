@@ -47,17 +47,18 @@ def output_to_file(image_data):
         data = output_file.read()
         try:
             json_data = json.loads(data)
-        except:
+        except Exception as e:
+            print(e)
             print('exception')
             json_data = []
 
         # append new image to json and write back to file
         json_data.append(image_data)
         json_data = json.dumps(json_data, indent=4)
-        
+
     with open(OUTPUT_FILE, 'w') as output_file:
         output_file.write(json_data)
-    
+
     print("Outputted to file")
     print("")
 
@@ -90,7 +91,7 @@ def vision_from_file(image_name, photo_file):
         #print(response)
 
 # Send image data to Google Vision
-def vision_from_data(image_name, image_content):
+def vision_from_data(image_name, image_content, json_data):
     print("Sending to Google Vision from Box...")
     access_token = keyring.get_password("system", "VISION_API_KEY")
     service = Service('vision', 'v1', access_token=access_token)
@@ -120,4 +121,7 @@ def vision_from_data(image_name, image_content):
         print('exception during handling of google_vision response')
         pass
     image_json = create_json(labels, image_name)
-    output_to_file(image_json)
+    json_data.append(image_json)
+
+    return json_data
+    #output_to_file(image_json)

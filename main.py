@@ -1,18 +1,20 @@
 import box, compare, read_csv
-import google_vision as gv 
+import google_vision as gv
 
 MEDIA_FOLDER_ID = 44111513325
 
 def main():
 	response = box.items(MEDIA_FOLDER_ID)
 	entries = response['entries']
+	json_data = []
 	for entry in entries:
 		name = entry['name'].lower()
 		if '.jpg' in name or '.png' in name:
-			box.send_to_vision(name, entry['id'])
+			json_data = box.send_to_vision(name, entry['id'], json_data)
 		elif '.xlsx' in name or '.csv' in name:
 			box.parse_excel(entry['id'])
 
+	gv.output_to_file(json_data)
 	compare.compare()
 
 	'''

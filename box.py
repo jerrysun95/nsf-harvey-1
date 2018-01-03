@@ -73,7 +73,7 @@ def request(method, command):
 
 
 #Send to Google Vision
-def send_to_vision(file_name, file_id, chunk_size=1034*1034*1):
+def send_to_vision(file_name, file_id, json_data, chunk_size=1034*1034*1):
     req = request("GET", "files/%s/content" % (file_id, ))
     total = -1
     image_content = ''
@@ -91,7 +91,7 @@ def send_to_vision(file_name, file_id, chunk_size=1034*1034*1):
             transferred += len(chunk)
 
     #print(image)
-    gv.vision_from_data(file_name, image_content)
+    return gv.vision_from_data(file_name, image_content, json_data)
 
 #Read file data from box
 def get_file_data(file_id, chunk_size=1034*1034*1):
@@ -135,7 +135,7 @@ def setup_box():
     # keyring.set_password("system", "BOX_REFRESH_TOKEN", refresh_token)
 
     # Generate BoxSession
-    return BoxSession(keyring.get_password("system", "BOX_CLIENT_ID"), 
+    return BoxSession(keyring.get_password("system", "BOX_CLIENT_ID"),
         keyring.get_password("system", "BOX_CLIENT_SECRET"), refresh_token, access_token, tokens_changed)
 
 #----------------------------------------------------------------------------------------------
@@ -165,5 +165,5 @@ box = setup_box()
 #     send_to_vision('obama.jpeg', new_file_id)
 # finally:
 #     delete(new_file_id)
-    
+
 # # Delete file from Google Vision
