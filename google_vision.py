@@ -23,7 +23,7 @@ def create_json(labels, image_name):
 
     for label in labels:
         print(label['description'] + ": " + str(label['score']))
-        picture_attributes.append(str(label['description']))
+        picture_attributes.append(label['description'].encode('utf-8'))
         picture_attributes_scores.append(label['score'])
 
     image_json["picture_attributes"] = picture_attributes
@@ -54,7 +54,6 @@ def output_to_file(image_data):
         # append new image to json and write back to file
         json_data.append(image_data)
         json_data = json.dumps(json_data, indent=4)
-        print(json_data)
         
     with open(OUTPUT_FILE, 'w') as output_file:
         output_file.write(json_data)
@@ -114,6 +113,11 @@ def vision_from_data(image_name, image_content):
     response = service.execute(body=body)
     print("Response received from Google Vision")
     print("")
-    labels = response['responses'][0]['labelAnnotations']
+    labels = {}
+    try:
+        labels = response['responses'][0]['labelAnnotations']
+    except:
+        print('exception during handling of google_vision response')
+        pass
     image_json = create_json(labels, image_name)
     output_to_file(image_json)

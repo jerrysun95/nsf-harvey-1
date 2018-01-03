@@ -33,9 +33,9 @@ def delete(file_id):
     print("")
 
 def items(folder_id, lim=100, ofs=0):
-    print("Getting items in folder " + folder_id + "...")
+    print("Getting items in folder " + str(folder_id) + "...")
     response = box.get_folder_items(folder_id, limit=lim, offset=ofs, fields_list=['name', 'type', 'id'])
-    print("Got items in folder " + folder_id)
+    print("Got items in folder " + str(folder_id))
     print("")
     return response
 
