@@ -32,7 +32,8 @@ averages = {}
 for name, attributes in values.iteritems():
 	temp = []
 	for a, vals in attributes.iteritems():
-		avg = sum(vals) / num_pics[name]
+		# avg = sum(vals) / num_pics[name]
+		avg = sum(vals) / len(vals)
 		temp.append([a, avg])
 	averages[name] = sorted(temp, key=lambda x:x[1], reverse=True)
 
