@@ -4,3 +4,5 @@ __pycache__
 read_csv.pyc
 upload.pyc
 google_vision.pyc
+powerpoint.py
+*.pptx
