@@ -17,6 +17,7 @@ def create_json(labels, image_name):
     image_json = {}
     index = image_name.rfind('.')
     image_json["piece_number"] = image_name[:index]
+    image_json["piece_name"] = image_name
     picture_attributes = []
     picture_attributes_scores = []
     print("Creating JSON for " + image_name)

@@ -26,8 +26,6 @@ def combine_json(human, vision):
 		combined[v['piece_number']]['vision'] = v['picture_attributes']
 		vset.add(piece)
 
-	print('only human: ' + str(hset - vset))
-	print('only vision: ' + str(vset - hset))
 	return combined
 
 def compare_json(combined):

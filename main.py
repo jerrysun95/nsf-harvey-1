@@ -1,7 +1,19 @@
 import box, compare, read_csv
 import google_vision as gv
+import json
 
 MEDIA_FOLDER_ID = 44111513325
+def create_vision_output(vision_data):
+	vout = {}
+	for v in vision_data:
+		name = v['piece_number']
+		vout[name] = {}
+		vout[name]['name'] = v['piece_name']
+		for x in range(len(v['picture_attributes'])):
+			vout[name][v['picture_attributes'][x]] = v['picture_attributes_scores'][x]
+
+	with open('vision.json', 'a+') as f:
+		f.write(json.dumps(vout, indent=4))
 
 def main():
 	response = box.items(MEDIA_FOLDER_ID)
@@ -17,6 +29,7 @@ def main():
 			human_data += box.parse_excel(entry['id'])
 
 	# gv.output_to_file(json_data)
+
 	print('Vision Results: ' + str(len(vision_data)))
 	print('Human Results: ' + str(len(human_data)))
 	compare.compare(human_data, vision_data)
