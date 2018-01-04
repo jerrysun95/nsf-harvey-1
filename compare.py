@@ -10,18 +10,24 @@ def load_json():
 def combine_json(human, vision):
 	combined = {}
 
+	hset = set()
+	vset = set()
 	for h in human:
 		piece = h['piece_number']
 		if piece not in combined:
 			combined[piece] = {}
 		combined[piece]['human']  = h['picture_attributes']
+		hset.add(piece)
 
 	for v in vision:
 		piece = v['piece_number']
 		if piece not in combined:
 			combined[piece] = {}
 		combined[v['piece_number']]['vision'] = v['picture_attributes']
+		vset.add(piece)
 
+	print('only human: ' + str(hset - vset))
+	print('only vision: ' + str(vset - hset))
 	return combined
 
 def compare_json(combined):

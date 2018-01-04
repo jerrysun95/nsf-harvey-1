@@ -11,7 +11,7 @@ def main():
 	human_data = []
 	for entry in entries:
 		name = entry['name'].lower()
-		if '.jpg' in name or '.png' in name:
+		if '.jpg' in name or '.png' in name or '.jpeg' in name:
 			vision_data.append(box.send_to_vision(name, entry['id']))
 		elif '.xlsx' in name or '.csv' in name:
 			human_data += box.parse_excel(entry['id'])

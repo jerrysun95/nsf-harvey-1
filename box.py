@@ -97,7 +97,6 @@ def send_to_vision(file_name, file_id, chunk_size=1034*1034*1):
 def get_file_data(file_id, chunk_size=1034*1034*1):
     file_content = ''
     req = request("GET", "files/%s/content" % (file_id))
-    print(req)
     total = -1
     if hasattr(req, 'headers'):
         lower_headers = {k.lower():v for k,v in req.headers.items()}
@@ -107,7 +106,6 @@ def get_file_data(file_id, chunk_size=1034*1034*1):
     transferred = 0
     for chunk in req.iter_content(chunk_size=chunk_size):
         if chunk: # filter out keep-alive new chunks
-            print('adding chunk')
             file_content += chunk
             transferred += len(chunk)
     return file_content

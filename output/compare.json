@@ -3,9 +3,8 @@
         "intersect": [], 
         "only_human": [
             "house", 
-            "car", 
-            "grass", 
-            "path"
+            "drak", 
+            "light"
         ], 
         "only_vision": [
             "smartphone", 
@@ -31,9 +30,10 @@
         "intersect": [], 
         "only_human": [
             "wall", 
-            "plastic", 
-            "mirror", 
-            "floor"
+            "lamp", 
+            "desk", 
+            "door", 
+            "people"
         ], 
         "only_vision": [
             "gadget", 
@@ -51,7 +51,12 @@
     "r_annsharp_03": {
         "intersect": [], 
         "only_human": [
-            "schedule "
+            "plant", 
+            "cabinet", 
+            "debris", 
+            "table", 
+            "curtian", 
+            "painting"
         ], 
         "only_vision": [
             "smartphone", 
@@ -69,7 +74,11 @@
     }, 
     "r_annsharp_04": {
         "intersect": [], 
-        "only_human": [], 
+        "only_human": [
+            "wall", 
+            "grass", 
+            "stair"
+        ], 
         "only_vision": [
             "smartphone", 
             "electronic device", 
@@ -92,9 +101,12 @@
     "r_annsharp_05": {
         "intersect": [], 
         "only_human": [
-            "car", 
-            "grass", 
-            "tree"
+            "toilet", 
+            "door", 
+            "lamp", 
+            "debris", 
+            "corridor", 
+            "desk"
         ], 
         "only_vision": [
             "font", 
@@ -106,23 +118,28 @@
     }, 
     "r_annsharp_06": {
         "intersect": [
-            "furniture"
+            "table"
         ], 
         "only_human": [
-            "glass", 
-            "boot"
+            "chairs", 
+            "curtain", 
+            "plant", 
+            "fish tank", 
+            "painting"
         ], 
         "only_vision": [
-            "table", 
+            "electronic device", 
             "technology", 
-            "electronic device"
+            "furniture"
         ]
     }, 
     "r_annsharp_07": {
         "intersect": [], 
         "only_human": [
-            "cups", 
-            "floor"
+            "plate", 
+            "drink", 
+            "chips", 
+            "table"
         ], 
         "only_vision": [
             "food", 
@@ -133,11 +150,11 @@
     }, 
     "r_annsharp_08": {
         "intersect": [
+            "window", 
             "grass"
         ], 
         "only_human": [
-            "deer", 
-            "fence"
+            "house"
         ], 
         "only_vision": [
             "plant", 
@@ -145,7 +162,6 @@
             "herb", 
             "gadget", 
             "multimedia", 
-            "window", 
             "green", 
             "aquarium", 
             "technology", 
@@ -155,10 +171,10 @@
     "r_annsharp_09": {
         "intersect": [], 
         "only_human": [
-            "sofa", 
-            "chair", 
-            "debris", 
-            "fireplace"
+            "house", 
+            "grass", 
+            "stair", 
+            "fence"
         ], 
         "only_vision": [
             "computer monitor", 
@@ -181,8 +197,7 @@
     "r_annsharp_10": {
         "intersect": [], 
         "only_human": [
-            "dark", 
-            "tree"
+            "snacks"
         ], 
         "only_vision": [
             "electronic device", 
@@ -2109,8 +2124,14 @@
         ]
     }, 
     "r_mickann_01": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "grass"
+        ], 
+        "only_human": [
+            "house", 
+            "car", 
+            "path"
+        ], 
         "only_vision": [
             "floodplain", 
             "reflection", 
@@ -2119,13 +2140,17 @@
             "rain", 
             "water", 
             "water resources", 
-            "advertising", 
-            "grass"
+            "advertising"
         ]
     }, 
     "r_mickann_02": {
         "intersect": [], 
-        "only_human": [], 
+        "only_human": [
+            "wall", 
+            "plastic", 
+            "mirror", 
+            "floor"
+        ], 
         "only_vision": [
             "website", 
             "product", 
@@ -2136,7 +2161,9 @@
     }, 
     "r_mickann_03": {
         "intersect": [], 
-        "only_human": [], 
+        "only_human": [
+            "schedule "
+        ], 
         "only_vision": [
             "media", 
             "product", 
@@ -2167,19 +2194,27 @@
         ]
     }, 
     "r_mickann_05": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "tree"
+        ], 
+        "only_human": [
+            "car", 
+            "grass"
+        ], 
         "only_vision": [
             "text", 
             "font", 
-            "tree", 
             "advertising", 
             "screenshot"
         ]
     }, 
     "r_mickann_06": {
         "intersect": [], 
-        "only_human": [], 
+        "only_human": [
+            "glass", 
+            "boot", 
+            "furniture"
+        ], 
         "only_vision": [
             "pc game", 
             "technology", 
@@ -2188,12 +2223,15 @@
         ]
     }, 
     "r_mickann_07": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "floor"
+        ], 
+        "only_human": [
+            "cups"
+        ], 
         "only_vision": [
             "product", 
             "flooring", 
-            "floor", 
             "hardwood", 
             "laminate flooring", 
             "varnish", 
@@ -2206,13 +2244,17 @@
         ]
     }, 
     "r_mickann_08": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "deer"
+        ], 
+        "only_human": [
+            "grass", 
+            "fence"
+        ], 
         "only_vision": [
             "elk", 
             "wildlife", 
             "springbok", 
-            "deer", 
             "tree", 
             "antelope", 
             "reindeer", 
@@ -2223,7 +2265,12 @@
     }, 
     "r_mickann_09": {
         "intersect": [], 
-        "only_human": [], 
+        "only_human": [
+            "sofa", 
+            "chair", 
+            "debris", 
+            "fireplace"
+        ], 
         "only_vision": [
             "website", 
             "font", 
@@ -2237,7 +2284,10 @@
     }, 
     "r_mickann_10": {
         "intersect": [], 
-        "only_human": [], 
+        "only_human": [
+            "dark", 
+            "tree"
+        ], 
         "only_vision": [
             "website", 
             "font", 
@@ -2884,13 +2934,19 @@
         ]
     }, 
     "r_tracy katy_01": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "boat", 
+            "traffic sign", 
+            "people"
+        ], 
         "only_vision": [
             "reflection", 
             "water resources", 
-            "tree", 
-            "water", 
             "bayou", 
             "pond", 
             "waterway", 
@@ -2898,8 +2954,15 @@
         ]
     }, 
     "r_tracy katy_02": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "water", 
+            "car", 
+            "road "
+        ], 
         "only_vision": [
             "road", 
             "lane", 
@@ -2908,29 +2971,31 @@
             "soil", 
             "sky", 
             "lawn", 
-            "tree", 
             "concrete", 
             "sidewalk", 
             "driveway", 
             "walkway", 
             "path", 
             "line", 
-            "grass", 
             "land lot", 
             "landscape", 
             "road surface"
         ]
     }, 
     "r_tracy katy_03": {
-        "intersect": [], 
-        "only_human": [], 
-        "only_vision": [
-            "water resources", 
-            "plant", 
-            "landscaping", 
-            "arecales", 
-            "tree", 
+        "intersect": [
             "water", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "grass"
+        ], 
+        "only_vision": [
+            "plant", 
+            "water resources", 
+            "arecales", 
+            "landscaping", 
             "palm tree", 
             "outdoor structure", 
             "watercourse", 
@@ -2942,118 +3007,135 @@
         ]
     }, 
     "r_tracy katy_04": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "rain", 
+            "floor"
+        ], 
         "only_vision": [
             "yard", 
             "flagstone", 
-            "tree", 
-            "water", 
             "landscaping", 
             "outdoor structure", 
             "driveway", 
             "walkway", 
-            "grass", 
             "road surface"
         ]
     }, 
     "r_tracy katy_05": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "house", 
+            "rain", 
+            "floor"
+        ], 
         "only_vision": [
             "plant", 
             "yard", 
             "garden", 
             "palm tree", 
-            "road surface", 
             "arecales", 
-            "tree", 
-            "water", 
             "landscaping", 
             "outdoor structure", 
             "driveway", 
             "walkway", 
             "backyard", 
-            "grass", 
+            "road surface", 
             "landscape", 
             "watercourse"
         ]
     }, 
     "r_tracy katy_06": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "grass", 
+            "tree"
+        ], 
+        "only_human": [
+            "water", 
+            "streetlight", 
+            "rain"
+        ], 
         "only_vision": [
             "evergreen", 
             "biome", 
             "plant", 
             "leaf", 
             "shrub", 
-            "tree", 
             "vegetation", 
-            "grass", 
             "landscape", 
             "garden"
         ]
     }, 
     "r_tracy katy_07": {
-        "intersect": [], 
-        "only_human": [], 
-        "only_vision": [
-            "door", 
-            "floor", 
-            "house", 
-            "tree", 
+        "intersect": [
             "water", 
+            "house", 
+            "tree"
+        ], 
+        "only_human": [
+            "wall", 
+            "trash bag", 
+            "grass", 
+            "rain"
+        ], 
+        "only_vision": [
             "glass", 
             "window", 
-            "wood"
+            "wood", 
+            "door", 
+            "floor"
         ]
     }, 
     "r_tracy katy_08": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "water", 
+            "glass", 
+            "window"
+        ], 
+        "only_human": [
+            "grass"
+        ], 
         "only_vision": [
             "angle", 
             "floor", 
             "hardwood", 
             "roof", 
-            "water", 
             "paint", 
-            "window", 
             "wood", 
             "table", 
             "wood stain", 
-            "glass", 
             "daylighting"
         ]
     }, 
     "r_tracy katy_09": {
-        "intersect": [], 
-        "only_human": [], 
+        "intersect": [
+            "water", 
+            "light"
+        ], 
+        "only_human": [
+            "rain", 
+            "boat", 
+            "people"
+        ], 
         "only_vision": [
             "reflection", 
             "flooring", 
             "space", 
-            "light", 
             "floor", 
-            "water", 
             "wood", 
             "lighting", 
             "night", 
             "darkness"
         ]
-    }, 
-    "r_tracy katy_1": {
-        "intersect": [], 
-        "only_human": [
-            "people", 
-            "house", 
-            "tree", 
-            "traffic sign", 
-            "water", 
-            "boat"
-        ], 
-        "only_vision": []
     }, 
     "r_tracy katy_10": {
         "intersect": [
@@ -3233,96 +3315,6 @@
             "car", 
             "landscape"
         ]
-    }, 
-    "r_tracy katy_2": {
-        "intersect": [], 
-        "only_human": [
-            "water", 
-            "car", 
-            "road ", 
-            "grass", 
-            "tree"
-        ], 
-        "only_vision": []
-    }, 
-    "r_tracy katy_3": {
-        "intersect": [], 
-        "only_human": [
-            "water", 
-            "house", 
-            "grass", 
-            "tree"
-        ], 
-        "only_vision": []
-    }, 
-    "r_tracy katy_4": {
-        "intersect": [], 
-        "only_human": [
-            "floor", 
-            "house", 
-            "tree", 
-            "rain", 
-            "water", 
-            "grass"
-        ], 
-        "only_vision": []
-    }, 
-    "r_tracy katy_5": {
-        "intersect": [], 
-        "only_human": [
-            "floor", 
-            "house", 
-            "tree", 
-            "rain", 
-            "water", 
-            "grass"
-        ], 
-        "only_vision": []
-    }, 
-    "r_tracy katy_6": {
-        "intersect": [], 
-        "only_human": [
-            "water", 
-            "streetlight", 
-            "grass", 
-            "tree", 
-            "rain"
-        ], 
-        "only_vision": []
-    }, 
-    "r_tracy katy_7": {
-        "intersect": [], 
-        "only_human": [
-            "trash bag", 
-            "wall", 
-            "house", 
-            "tree", 
-            "rain", 
-            "water", 
-            "grass"
-        ], 
-        "only_vision": []
-    }, 
-    "r_tracy katy_8": {
-        "intersect": [], 
-        "only_human": [
-            "water", 
-            "glass", 
-            "window", 
-            "grass"
-        ], 
-        "only_vision": []
-    }, 
-    "r_tracy katy_9": {
-        "intersect": [], 
-        "only_human": [
-            "water", 
-            "light", 
-            "rain", 
-            "boat", 
-            "people"
-        ], 
-        "only_vision": []
     }, 
     "vr_billdance_01": {
         "intersect": [
@@ -3724,14 +3716,18 @@
         ]
     }, 
     "vr_brock_01": {
-        "intersect": [], 
+        "intersect": [
+            "fog"
+        ], 
         "only_human": [
             "flood", 
             "sweatshirt", 
-            "fog", 
             "boat"
         ], 
-        "only_vision": []
+        "only_vision": [
+            "mist", 
+            "sky"
+        ]
     }, 
     "vr_brock_02": {
         "intersect": [
