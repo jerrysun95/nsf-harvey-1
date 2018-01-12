@@ -1,0 +1,107 @@
+[
+    {
+        "freq": 0.5, 
+        "name": "tree", 
+        "avg_conf": 0.72
+    }, 
+    {
+        "freq": 0.45, 
+        "name": "water", 
+        "avg_conf": 0.86
+    }, 
+    {
+        "freq": 0.33, 
+        "name": "floodplain", 
+        "avg_conf": 0.69
+    }, 
+    {
+        "freq": 0.29, 
+        "name": "water resources", 
+        "avg_conf": 0.77
+    }, 
+    {
+        "freq": 0.28, 
+        "name": "natural disaster", 
+        "avg_conf": 0.72
+    }, 
+    {
+        "freq": 0.28, 
+        "name": "river", 
+        "avg_conf": 0.73
+    }, 
+    {
+        "freq": 0.28, 
+        "name": "flood", 
+        "avg_conf": 0.75
+    }, 
+    {
+        "freq": 0.26, 
+        "name": "vehicle", 
+        "avg_conf": 0.81
+    }, 
+    {
+        "freq": 0.26, 
+        "name": "bank", 
+        "avg_conf": 0.67
+    }, 
+    {
+        "freq": 0.24, 
+        "name": "disaster", 
+        "avg_conf": 0.67
+    }, 
+    {
+        "freq": 0.24, 
+        "name": "grass", 
+        "avg_conf": 0.71
+    }, 
+    {
+        "freq": 0.21, 
+        "name": "recreation", 
+        "avg_conf": 0.61
+    }, 
+    {
+        "freq": 0.21, 
+        "name": "car", 
+        "avg_conf": 0.85
+    }, 
+    {
+        "freq": 0.21, 
+        "name": "sky", 
+        "avg_conf": 0.73
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "landscape", 
+        "avg_conf": 0.6
+    }, 
+    {
+        "freq": 0.19, 
+        "name": "mode of transport", 
+        "avg_conf": 0.88
+    }, 
+    {
+        "freq": 0.18, 
+        "name": "waterway", 
+        "avg_conf": 0.93
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "plant", 
+        "avg_conf": 0.71
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "land lot", 
+        "avg_conf": 0.63
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "phenomenon", 
+        "avg_conf": 0.75
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "watercourse", 
+        "avg_conf": 0.65
+    }
+]

@@ -3,6 +3,18 @@ import google_vision as gv
 import json
 
 MEDIA_FOLDER_ID = 44111513325
+
+VR_FOLDER_ID = 44087771250
+R_FOLDER_ID  = 44087753842
+OR_FOLDER_ID = 44087780508
+
+VR_DEST_ID = 44224186584
+R_DEST_ID  = 44224137472
+OR_DEST_ID = 44224175952
+
+TARGET_FOLDER_ID = 44208502416
+
+error = []
 def create_vision_output(vision_data):
 	vout = {}
 	for v in vision_data:
@@ -15,53 +27,67 @@ def create_vision_output(vision_data):
 	with open('vision.json', 'a+') as f:
 		f.write(json.dumps(vout, indent=4))
 
-def main():
-	response = box.items(MEDIA_FOLDER_ID)
+def copy_images(entries, dest_folder_id):
+	for entry in entries:
+		if entry['type'] == 'folder':
+			if entry['name'].lower() != 'text' and entry['name'].lower() != 'videos':
+				response = box.items(entry['id'])
+				copy_images(response['entries'], dest_folder_id)
+		else:
+			name = entry['name'].lower()
+			if '.jpg' in name or '.jpeg' in name or '.png' in name:
+				try:
+					box.copy(entry['id'], dest_folder_id)
+				except:
+					error.append(entry['id'])
+
+def images(src_folder_id, dest_folder_id):
+	response = box.items(src_folder_id)
 	entries = response['entries']
-	
+	copy_images(entries, dest_folder_id)
+
+def vision(src_folder_id, output_file):
 	vision_data = []
-	human_data = []
+	response = box.items(src_folder_id)
+	entries = response['entries']
+
 	for entry in entries:
 		name = entry['name'].lower()
-		if '.jpg' in name or '.png' in name or '.jpeg' in name:
+		if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
 			vision_data.append(box.send_to_vision(name, entry['id']))
-		elif '.xlsx' in name or '.csv' in name:
-			human_data += box.parse_excel(entry['id'])
 
-	# gv.output_to_file(json_data)
+	with open(output_file, 'w') as f:
+		f.write(json.dumps(vision_data, indent=4))
 
-	print('Vision Results: ' + str(len(vision_data)))
-	print('Human Results: ' + str(len(human_data)))
-	compare.compare(human_data, vision_data)
+def main():
+	# response = box.items(MEDIA_FOLDER_ID)
+	# entries = response['entries']
+	
+	# vision_data = []
+	# human_data = []
+	# for entry in entries:
+	# 	name = entry['name'].lower()
+	# 	if '.jpg' in name or '.png' in name or '.jpeg' in name:
+	# 		vision_data.append(box.send_to_vision(name, entry['id']))
+	# 	elif '.xlsx' in name or '.csv' in name:
+	# 		human_data += box.parse_excel(entry['id'])
 
-	'''
-	Revised main.py control flow:
-	1. Iterate through box directories and send to appropriate process:
-		Respondent_Data/
-			Rescuee Folder/
-				Rescuee1/
-					images/		** send these images through google vision when we get here
-						*.jpg
-				...
-				R_*_codes.xlsx 	** send these through read_csv when we get here
-			Official Rescuer Folder/
-			Volunteer Rescuer Folder/
-	2. Compare results
-		Step 1 automatically outputs
-		compare.py just needs to be run (it will pull from human.json and vision.json and produce output.json)
+	# # gv.output_to_file(json_data)
 
-	Notes:
-		read_csv.py and send_to_vision() always append (this means that if you run them on the same picture twice, the output will show up twice in json)
-		this is hard to test because box is set up to our developer account which doesn't have any of the data
-		I added a method (box.items(folder_id)) in box to view folder contents in box that I use to walk the file system. Looks something like the following:
-			get folder_id
-			call box.items(folder_id)
-			this returns a box response object
-			get entries using response['entries']
-			entries is a dict with keys for 'id' (folder_id or file_id), 'name' (ex: obama.jpeg), and 'type' (folder or file)
-		I was planning on hard coding the folder ids for the top level respondent type folders (Rescuee Folder, etc) to avoid some box network calls
-		While we still have a small sample size, I think it is okay if we just erase human/vision/output.json each time and just always grab all the contents. We can get smarter about it later to only get new files
-	'''
+	# print('Vision Results: ' + str(len(vision_data)))
+	# print('Human Results: ' + str(len(human_data)))
+	# compare.compare(human_data, vision_data)
+
+	# images(VR_FOLDER_ID, VR_DEST_ID)
+	# images(R_FOLDER_ID, R_DEST_ID)
+	# images(OR_FOLDER_ID, OR_DEST_ID)
+
+	with open('output/errors.txt', 'w') as f:
+		f.write(json.dumps(error, indent=4))
+
+	vision(VR_DEST_ID, 'output/vr.json')
+	vision(R_DEST_ID, 'output/r.json')
+	vision(OR_DEST_ID, 'output/or.json')
 
 if __name__ == '__main__':
 	main()

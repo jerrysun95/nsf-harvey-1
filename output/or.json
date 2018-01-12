@@ -1,0 +1,1808 @@
+[
+    {
+        "picture_attributes_scores": [
+            0.9609225, 
+            0.89129204, 
+            0.7479167, 
+            0.6720096, 
+            0.60730726, 
+            0.6046144, 
+            0.5126031
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "product", 
+            "screenshot", 
+            "media"
+        ], 
+        "piece_name": "img_0554.png", 
+        "piece_number": "img_0554"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9549859, 
+            0.8519298, 
+            0.74728847, 
+            0.6817367, 
+            0.6720096, 
+            0.66354465, 
+            0.6438168
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "area", 
+            "web page", 
+            "product"
+        ], 
+        "piece_name": "img_0555.png", 
+        "piece_number": "img_0555"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.81959194, 
+            0.76426554, 
+            0.7455266, 
+            0.7252111, 
+            0.64902335, 
+            0.63104, 
+            0.61102813, 
+            0.58836347, 
+            0.57805, 
+            0.5317691, 
+            0.52729416
+        ], 
+        "picture_attributes": [
+            "web page", 
+            "software", 
+            "screenshot", 
+            "media", 
+            "multimedia", 
+            "product", 
+            "font", 
+            "online advertising", 
+            "website", 
+            "conversation", 
+            "advertising"
+        ], 
+        "piece_name": "img_0556.png", 
+        "piece_number": "img_0556"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.6614867, 
+            0.6445526, 
+            0.62675065, 
+            0.62279314, 
+            0.6132486, 
+            0.6129331, 
+            0.5940585, 
+            0.5838455, 
+            0.5578039, 
+            0.54678506, 
+            0.5176151
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "advertising", 
+            "media", 
+            "product", 
+            "website", 
+            "technology", 
+            "race", 
+            "font", 
+            "multimedia", 
+            "recreation", 
+            "brand"
+        ], 
+        "piece_name": "img_0557.png", 
+        "piece_number": "img_0557"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8860923, 
+            0.73270637, 
+            0.7286023, 
+            0.699724, 
+            0.6871394, 
+            0.6826695, 
+            0.67324287, 
+            0.6579577, 
+            0.6241811, 
+            0.5723077
+        ], 
+        "picture_attributes": [
+            "text", 
+            "screenshot", 
+            "product", 
+            "media", 
+            "font", 
+            "web page", 
+            "website", 
+            "line", 
+            "software", 
+            "multimedia"
+        ], 
+        "piece_name": "img_0558.png", 
+        "piece_number": "img_0558"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.78220224, 
+            0.77232766, 
+            0.7644003, 
+            0.70571864, 
+            0.69038105, 
+            0.6694092, 
+            0.66233695, 
+            0.62377053, 
+            0.5946757, 
+            0.5931091, 
+            0.5576957, 
+            0.5310127
+        ], 
+        "picture_attributes": [
+            "product", 
+            "screenshot", 
+            "advertising", 
+            "media", 
+            "web page", 
+            "technology", 
+            "multimedia", 
+            "online advertising", 
+            "font", 
+            "display advertising", 
+            "product", 
+            "website"
+        ], 
+        "piece_name": "img_0559.png", 
+        "piece_number": "img_0559"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9658073, 
+            0.89022726, 
+            0.8693646, 
+            0.74507946, 
+            0.7343182, 
+            0.7066254, 
+            0.6720096, 
+            0.6350711, 
+            0.6007623, 
+            0.5286444
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "web page", 
+            "line", 
+            "screenshot", 
+            "product", 
+            "area", 
+            "media", 
+            "document", 
+            "online advertising"
+        ], 
+        "piece_name": "img_0560.png", 
+        "piece_number": "img_0560"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8813733, 
+            0.76621395, 
+            0.6695761, 
+            0.6422959, 
+            0.5842704, 
+            0.57778025, 
+            0.56894153, 
+            0.5441188
+        ], 
+        "picture_attributes": [
+            "text", 
+            "screenshot", 
+            "media", 
+            "advertising", 
+            "font", 
+            "water", 
+            "product", 
+            "website"
+        ], 
+        "piece_name": "img_0561.png", 
+        "piece_number": "img_0561"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9135807, 
+            0.74529636, 
+            0.70243204, 
+            0.6535827, 
+            0.65347505, 
+            0.64079094, 
+            0.6116221, 
+            0.5760722, 
+            0.5476508, 
+            0.5437649, 
+            0.5379168, 
+            0.5195421
+        ], 
+        "picture_attributes": [
+            "text", 
+            "screenshot", 
+            "media", 
+            "font", 
+            "line", 
+            "conversation", 
+            "advertising", 
+            "product", 
+            "news", 
+            "photo caption", 
+            "web page", 
+            "website"
+        ], 
+        "piece_name": "img_0562.png", 
+        "piece_number": "img_0562"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9630722, 
+            0.8861259, 
+            0.76342106, 
+            0.6763256, 
+            0.6720096, 
+            0.65479606, 
+            0.5604216, 
+            0.5422057, 
+            0.53781116
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "area", 
+            "product", 
+            "web page", 
+            "document", 
+            "number"
+        ], 
+        "piece_name": "img_0563.png", 
+        "piece_number": "img_0563"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.967494, 
+            0.89767534, 
+            0.7453763, 
+            0.6720096, 
+            0.6561734, 
+            0.6040088, 
+            0.59276617, 
+            0.50722563
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "screenshot", 
+            "document", 
+            "product", 
+            "paper"
+        ], 
+        "piece_name": "img_0564.png", 
+        "piece_number": "img_0564"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9652691, 
+            0.88599384, 
+            0.75029117, 
+            0.6720096, 
+            0.616613, 
+            0.60122365, 
+            0.57629234, 
+            0.5417183, 
+            0.5053808
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "product", 
+            "screenshot", 
+            "document", 
+            "angle", 
+            "point"
+        ], 
+        "piece_name": "img_0565.png", 
+        "piece_number": "img_0565"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95883775, 
+            0.8558718, 
+            0.74216217, 
+            0.6886056, 
+            0.6720096, 
+            0.62411284, 
+            0.606561, 
+            0.5147611
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "area", 
+            "product", 
+            "web page", 
+            "document"
+        ], 
+        "piece_name": "img_0566.png", 
+        "piece_number": "img_0566"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8952788, 
+            0.8247075, 
+            0.7503244, 
+            0.7484281, 
+            0.72301626, 
+            0.6886837, 
+            0.67611796, 
+            0.66656846, 
+            0.52379906
+        ], 
+        "picture_attributes": [
+            "text", 
+            "screenshot", 
+            "product", 
+            "font", 
+            "technology", 
+            "web page", 
+            "line", 
+            "product", 
+            "media"
+        ], 
+        "piece_name": "img_0567.png", 
+        "piece_number": "img_0567"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9275389, 
+            0.9227178, 
+            0.89269626, 
+            0.7731031, 
+            0.6720096, 
+            0.6664827, 
+            0.65163743, 
+            0.6199051, 
+            0.56753564, 
+            0.5649471
+        ], 
+        "picture_attributes": [
+            "text", 
+            "water resources", 
+            "water", 
+            "screenshot", 
+            "area", 
+            "line", 
+            "font", 
+            "product", 
+            "web page", 
+            "media"
+        ], 
+        "piece_name": "img_0568.png", 
+        "piece_number": "img_0568"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.92838925, 
+            0.81209505, 
+            0.7926255, 
+            0.75590485, 
+            0.6720096, 
+            0.6685003, 
+            0.5733906, 
+            0.5719681, 
+            0.5545994, 
+            0.5514272
+        ], 
+        "picture_attributes": [
+            "text", 
+            "water resources", 
+            "screenshot", 
+            "font", 
+            "area", 
+            "line", 
+            "sky", 
+            "web page", 
+            "ecoregion", 
+            "website"
+        ], 
+        "piece_name": "img_0569.png", 
+        "piece_number": "img_0569"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96185315, 
+            0.8585733, 
+            0.7536487, 
+            0.7422371, 
+            0.7068251, 
+            0.70606947, 
+            0.6720096, 
+            0.6094898
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "web page", 
+            "product", 
+            "area", 
+            "document"
+        ], 
+        "piece_name": "img_0570.png", 
+        "piece_number": "img_0570"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9582457, 
+            0.8648299, 
+            0.75620866, 
+            0.71976095, 
+            0.71629584, 
+            0.6803101, 
+            0.6720096, 
+            0.5303135, 
+            0.5204562
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "web page", 
+            "screenshot", 
+            "product", 
+            "area", 
+            "document", 
+            "number"
+        ], 
+        "piece_name": "img_0571.png", 
+        "piece_number": "img_0571"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9585139, 
+            0.8497979, 
+            0.8243401, 
+            0.80434567, 
+            0.78920835, 
+            0.7875349, 
+            0.7245466, 
+            0.7166079, 
+            0.6720096, 
+            0.63416684, 
+            0.6302862, 
+            0.56791884, 
+            0.5235352
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "screenshot", 
+            "software", 
+            "product", 
+            "web page", 
+            "line", 
+            "media", 
+            "area", 
+            "document", 
+            "website", 
+            "online advertising", 
+            "computer program"
+        ], 
+        "piece_name": "img_0572.png", 
+        "piece_number": "img_0572"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.968301, 
+            0.9593431, 
+            0.9179916, 
+            0.8836204, 
+            0.7945359, 
+            0.7887265, 
+            0.7725305, 
+            0.7314951, 
+            0.68893373, 
+            0.68232876, 
+            0.6720096, 
+            0.6667308, 
+            0.65014726, 
+            0.58177394, 
+            0.5536131, 
+            0.54822725, 
+            0.5214321, 
+            0.51415646
+        ], 
+        "picture_attributes": [
+            "blue", 
+            "text", 
+            "web page", 
+            "font", 
+            "product", 
+            "screenshot", 
+            "software", 
+            "online advertising", 
+            "media", 
+            "line", 
+            "area", 
+            "multimedia", 
+            "website", 
+            "technology", 
+            "document", 
+            "computer program", 
+            "number", 
+            "brand"
+        ], 
+        "piece_name": "img_0573.png", 
+        "piece_number": "img_0573"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96183294, 
+            0.8770322, 
+            0.7444126, 
+            0.67552483, 
+            0.6720096, 
+            0.5937854, 
+            0.588153, 
+            0.52864933
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "area", 
+            "document", 
+            "product", 
+            "paper"
+        ], 
+        "piece_name": "img_0574.png", 
+        "piece_number": "img_0574"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9627577, 
+            0.8770177, 
+            0.7559942, 
+            0.6720096, 
+            0.60218775, 
+            0.60052085, 
+            0.5636903, 
+            0.5139956, 
+            0.5083627
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "product", 
+            "document", 
+            "screenshot", 
+            "paper", 
+            "point"
+        ], 
+        "piece_name": "img_0575.png", 
+        "piece_number": "img_0575"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9569223, 
+            0.8453214, 
+            0.7386327, 
+            0.69860655, 
+            0.6720096, 
+            0.6169595, 
+            0.55014646
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "area", 
+            "product", 
+            "document"
+        ], 
+        "piece_name": "img_0576.png", 
+        "piece_number": "img_0576"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9537662, 
+            0.8270301, 
+            0.7665096, 
+            0.6720096, 
+            0.6017327, 
+            0.5557528, 
+            0.54223514
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "screenshot", 
+            "product", 
+            "angle"
+        ], 
+        "piece_name": "img_0577.png", 
+        "piece_number": "img_0577"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.91094637, 
+            0.7303307, 
+            0.6720096, 
+            0.57853395, 
+            0.5441784, 
+            0.5066479
+        ], 
+        "picture_attributes": [
+            "map", 
+            "line", 
+            "area", 
+            "ecoregion", 
+            "angle", 
+            "point"
+        ], 
+        "piece_name": "img_0578.png", 
+        "piece_number": "img_0578"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.963014, 
+            0.8429386, 
+            0.8383946, 
+            0.7818545, 
+            0.74400777, 
+            0.6720096, 
+            0.65204006, 
+            0.6139502, 
+            0.5792434
+        ], 
+        "picture_attributes": [
+            "text", 
+            "web page", 
+            "font", 
+            "screenshot", 
+            "line", 
+            "area", 
+            "product", 
+            "document", 
+            "media"
+        ], 
+        "piece_name": "img_0579.png", 
+        "piece_number": "img_0579"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96292925, 
+            0.88420415, 
+            0.7412045, 
+            0.7210972, 
+            0.67910755, 
+            0.6720096, 
+            0.6517575, 
+            0.57403225, 
+            0.5598463, 
+            0.5099844
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "web page", 
+            "area", 
+            "product", 
+            "document", 
+            "number", 
+            "media"
+        ], 
+        "piece_name": "img_0580.png", 
+        "piece_number": "img_0580"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95886904, 
+            0.8730896, 
+            0.7369072, 
+            0.6720096, 
+            0.64390785, 
+            0.63131666, 
+            0.52547854
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "product", 
+            "screenshot", 
+            "document"
+        ], 
+        "piece_name": "img_0581.png", 
+        "piece_number": "img_0581"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96300465, 
+            0.87684804, 
+            0.7506221, 
+            0.6720096, 
+            0.6235358, 
+            0.5721292, 
+            0.5400491
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "product", 
+            "document", 
+            "screenshot"
+        ], 
+        "piece_name": "img_0582.png", 
+        "piece_number": "img_0582"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95081973, 
+            0.86467814, 
+            0.7202927, 
+            0.6720096, 
+            0.6420616, 
+            0.6408765
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "screenshot", 
+            "product"
+        ], 
+        "piece_name": "img_0583.png", 
+        "piece_number": "img_0583"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.964294, 
+            0.88735795, 
+            0.76153344, 
+            0.69890827, 
+            0.6720096, 
+            0.64549506, 
+            0.58142745, 
+            0.526057
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "area", 
+            "product", 
+            "document", 
+            "number"
+        ], 
+        "piece_name": "img_0584.png", 
+        "piece_number": "img_0584"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96634126, 
+            0.88874835, 
+            0.7508832, 
+            0.7036044, 
+            0.6720096, 
+            0.62409896, 
+            0.59524685
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "product", 
+            "area", 
+            "screenshot", 
+            "document"
+        ], 
+        "piece_name": "img_0585.png", 
+        "piece_number": "img_0585"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9567465, 
+            0.87411505, 
+            0.73586583, 
+            0.6720096, 
+            0.657332, 
+            0.6165843, 
+            0.5205001
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "screenshot", 
+            "product", 
+            "document"
+        ], 
+        "piece_name": "img_0586.png", 
+        "piece_number": "img_0586"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96007353, 
+            0.8536558, 
+            0.7369583, 
+            0.6813693, 
+            0.6720096, 
+            0.619095, 
+            0.60368866, 
+            0.5888014
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "area", 
+            "product", 
+            "document", 
+            "web page"
+        ], 
+        "piece_name": "img_0587.png", 
+        "piece_number": "img_0587"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9608662, 
+            0.8750456, 
+            0.72814065, 
+            0.6720096, 
+            0.6581926, 
+            0.6354979, 
+            0.5573043, 
+            0.5175805
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "product", 
+            "screenshot", 
+            "document", 
+            "number"
+        ], 
+        "piece_name": "img_0588.png", 
+        "piece_number": "img_0588"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9441025, 
+            0.71058786, 
+            0.65521383, 
+            0.6529776, 
+            0.6011317, 
+            0.5882594, 
+            0.54764146, 
+            0.547344
+        ], 
+        "picture_attributes": [
+            "text", 
+            "screenshot", 
+            "media", 
+            "font", 
+            "water resources", 
+            "sky", 
+            "water", 
+            "product"
+        ], 
+        "piece_name": "img_0589.png", 
+        "piece_number": "img_0589"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.70798445, 
+            0.6731712, 
+            0.6489586, 
+            0.6457999, 
+            0.60234034, 
+            0.5820679, 
+            0.5741084, 
+            0.55629635, 
+            0.5505333
+        ], 
+        "picture_attributes": [
+            "tree", 
+            "residential area", 
+            "natural disaster", 
+            "road", 
+            "disaster", 
+            "flood", 
+            "advertising", 
+            "suburb", 
+            "land lot"
+        ], 
+        "piece_name": "img_0590.png", 
+        "piece_number": "img_0590"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7068537, 
+            0.681113, 
+            0.629645, 
+            0.6169488, 
+            0.60426944, 
+            0.6039263, 
+            0.59127146, 
+            0.58707815, 
+            0.5584012, 
+            0.516433
+        ], 
+        "picture_attributes": [
+            "residential area", 
+            "natural disaster", 
+            "disaster", 
+            "advertising", 
+            "real estate", 
+            "flood", 
+            "suburb", 
+            "land lot", 
+            "water", 
+            "tree"
+        ], 
+        "piece_name": "img_0591.png", 
+        "piece_number": "img_0591"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.89398086, 
+            0.7321514, 
+            0.6585972, 
+            0.6432185, 
+            0.5540365
+        ], 
+        "picture_attributes": [
+            "water", 
+            "sky", 
+            "advertising", 
+            "water resources", 
+            "website"
+        ], 
+        "piece_name": "img_0592.png", 
+        "piece_number": "img_0592"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9616403, 
+            0.92260575, 
+            0.9017944, 
+            0.7587468, 
+            0.7308613, 
+            0.70921665, 
+            0.66667473, 
+            0.6582089, 
+            0.6467097, 
+            0.643511, 
+            0.64106303, 
+            0.63163596, 
+            0.6284893, 
+            0.6145258, 
+            0.535484, 
+            0.5092708, 
+            0.5089005, 
+            0.5054555
+        ], 
+        "picture_attributes": [
+            "waterway", 
+            "water resources", 
+            "water", 
+            "vehicle", 
+            "tree", 
+            "river", 
+            "plant", 
+            "reflection", 
+            "watercourse", 
+            "wetland", 
+            "bank", 
+            "bayou", 
+            "boat", 
+            "plant community", 
+            "grass", 
+            "advertising", 
+            "canal", 
+            "landscape"
+        ], 
+        "piece_name": "img_0593.png", 
+        "piece_number": "img_0593"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9661031, 
+            0.8719168, 
+            0.83838195, 
+            0.7968132, 
+            0.774337, 
+            0.70989895, 
+            0.5860626, 
+            0.536651
+        ], 
+        "picture_attributes": [
+            "dog", 
+            "dog breed", 
+            "photo caption", 
+            "snout", 
+            "dog like mammal", 
+            "advertising", 
+            "retriever", 
+            "labrador retriever"
+        ], 
+        "piece_name": "img_0594.png", 
+        "piece_number": "img_0594"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93081087, 
+            0.9074746, 
+            0.6947157, 
+            0.5063178
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "grass", 
+            "landscape"
+        ], 
+        "piece_name": "img_0595.png", 
+        "piece_number": "img_0595"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9671211, 
+            0.9569797, 
+            0.93100107, 
+            0.8752426, 
+            0.8308564, 
+            0.6840718, 
+            0.660915, 
+            0.6463618, 
+            0.5838235, 
+            0.5546084, 
+            0.5520182, 
+            0.5324717
+        ], 
+        "picture_attributes": [
+            "motor vehicle", 
+            "vehicle", 
+            "transport", 
+            "mode of transport", 
+            "tractor", 
+            "agricultural machinery", 
+            "tree", 
+            "automotive tire", 
+            "asphalt", 
+            "car", 
+            "tire", 
+            "brand"
+        ], 
+        "piece_name": "img_0596.png", 
+        "piece_number": "img_0596"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9100922, 
+            0.8752336, 
+            0.8642805, 
+            0.86099726, 
+            0.8434932, 
+            0.71623045, 
+            0.6815492, 
+            0.6788043, 
+            0.6005503, 
+            0.5746914
+        ], 
+        "picture_attributes": [
+            "car", 
+            "mode of transport", 
+            "transport", 
+            "vehicle", 
+            "advertising", 
+            "tree", 
+            "road", 
+            "motor vehicle", 
+            "asphalt", 
+            "automotive exterior"
+        ], 
+        "piece_name": "img_0597.png", 
+        "piece_number": "img_0597"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9012121, 
+            0.6508065, 
+            0.59322816, 
+            0.566097, 
+            0.56438327, 
+            0.53426486
+        ], 
+        "picture_attributes": [
+            "advertising", 
+            "signage", 
+            "asphalt", 
+            "sign", 
+            "font", 
+            "vehicle"
+        ], 
+        "piece_name": "img_0598.png", 
+        "piece_number": "img_0598"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96424806, 
+            0.8732234, 
+            0.86399186, 
+            0.78084385, 
+            0.73683757, 
+            0.6720096, 
+            0.66090703, 
+            0.625402, 
+            0.57657045
+        ], 
+        "picture_attributes": [
+            "text", 
+            "web page", 
+            "font", 
+            "screenshot", 
+            "line", 
+            "area", 
+            "product", 
+            "document", 
+            "media"
+        ], 
+        "piece_name": "img_0599.png", 
+        "piece_number": "img_0599"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94992656, 
+            0.8851096, 
+            0.88198715, 
+            0.7253629, 
+            0.6720096, 
+            0.6380831, 
+            0.5930213, 
+            0.5819042, 
+            0.51878995
+        ], 
+        "picture_attributes": [
+            "map", 
+            "water resources", 
+            "text", 
+            "line", 
+            "area", 
+            "screenshot", 
+            "font", 
+            "ecoregion", 
+            "point"
+        ], 
+        "piece_name": "img_0600.png", 
+        "piece_number": "img_0600"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96336967, 
+            0.88284934, 
+            0.7543864, 
+            0.6720096, 
+            0.65881634, 
+            0.6065961, 
+            0.56856555
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "screenshot", 
+            "product", 
+            "document"
+        ], 
+        "piece_name": "img_0601.png", 
+        "piece_number": "img_0601"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9656041, 
+            0.86300445, 
+            0.74402785, 
+            0.6720096, 
+            0.5995092, 
+            0.56554705, 
+            0.5299888, 
+            0.5115935
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "document", 
+            "screenshot", 
+            "paper", 
+            "product"
+        ], 
+        "piece_name": "img_0602.png", 
+        "piece_number": "img_0602"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9250245, 
+            0.779321, 
+            0.70668656, 
+            0.702796, 
+            0.6720096, 
+            0.61417556, 
+            0.5920901
+        ], 
+        "picture_attributes": [
+            "text", 
+            "screenshot", 
+            "font", 
+            "line", 
+            "area", 
+            "organism", 
+            "angle"
+        ], 
+        "piece_name": "img_0603.png", 
+        "piece_number": "img_0603"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96503484, 
+            0.8757349, 
+            0.7563001, 
+            0.6722339, 
+            0.6720096, 
+            0.6613138, 
+            0.585093, 
+            0.5464961, 
+            0.51288563
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "screenshot", 
+            "area", 
+            "product", 
+            "document", 
+            "web page", 
+            "number"
+        ], 
+        "piece_name": "img_0604.png", 
+        "piece_number": "img_0604"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.73642033, 
+            0.60236937, 
+            0.58695185, 
+            0.5863483, 
+            0.5774447, 
+            0.57202625, 
+            0.55346006, 
+            0.53868645, 
+            0.5351363
+        ], 
+        "picture_attributes": [
+            "product", 
+            "photo caption", 
+            "screenshot", 
+            "media", 
+            "advertising", 
+            "professional", 
+            "public relations", 
+            "t shirt", 
+            "fun"
+        ], 
+        "piece_name": "img_0605.png", 
+        "piece_number": "img_0605"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9281248, 
+            0.7513437, 
+            0.7258144, 
+            0.6720096, 
+            0.54568666, 
+            0.5135504
+        ], 
+        "picture_attributes": [
+            "text", 
+            "line", 
+            "font", 
+            "area", 
+            "angle", 
+            "product"
+        ], 
+        "piece_name": "img_0606.png", 
+        "piece_number": "img_0606"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8973227, 
+            0.6904953, 
+            0.6720096, 
+            0.6657024, 
+            0.5470394, 
+            0.54641587, 
+            0.517003
+        ], 
+        "picture_attributes": [
+            "text", 
+            "line", 
+            "area", 
+            "font", 
+            "advertising", 
+            "angle", 
+            "facade"
+        ], 
+        "piece_name": "img_0607.png", 
+        "piece_number": "img_0607"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93663275, 
+            0.8511016, 
+            0.74931705, 
+            0.729433, 
+            0.6704578, 
+            0.59264416, 
+            0.52187324
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "screenshot", 
+            "product", 
+            "line", 
+            "media", 
+            "web page"
+        ], 
+        "piece_name": "img_0608.png", 
+        "piece_number": "img_0608"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9064077, 
+            0.6882838, 
+            0.67809284, 
+            0.63289267, 
+            0.6290213, 
+            0.5052942
+        ], 
+        "picture_attributes": [
+            "text", 
+            "line", 
+            "font", 
+            "product design", 
+            "screenshot", 
+            "product"
+        ], 
+        "piece_name": "img_0609.png", 
+        "piece_number": "img_0609"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.6963424, 
+            0.678413, 
+            0.6767506, 
+            0.5718958, 
+            0.5515234
+        ], 
+        "picture_attributes": [
+            "communication", 
+            "presentation", 
+            "technology", 
+            "conversation", 
+            "public relations"
+        ], 
+        "piece_name": "img_0610.png", 
+        "piece_number": "img_0610"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8276428, 
+            0.7938095, 
+            0.7315803, 
+            0.68939275, 
+            0.6496161, 
+            0.6211744, 
+            0.58609396, 
+            0.5571872, 
+            0.5270072
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "software", 
+            "multimedia", 
+            "advertising", 
+            "website", 
+            "display advertising", 
+            "font", 
+            "editing", 
+            "media"
+        ], 
+        "piece_name": "img_0611.png", 
+        "piece_number": "img_0611"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7396855, 
+            0.63986486, 
+            0.6074399, 
+            0.58354765, 
+            0.57856125, 
+            0.5296852, 
+            0.5231046, 
+            0.5205491
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "advertising", 
+            "race", 
+            "screenshot", 
+            "water", 
+            "multimedia", 
+            "website", 
+            "personal protective equipment"
+        ], 
+        "piece_name": "img_0612.png", 
+        "piece_number": "img_0612"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.76683956, 
+            0.7039652, 
+            0.6146648, 
+            0.6138295, 
+            0.5655656, 
+            0.5411876, 
+            0.5239045
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "advertising", 
+            "website", 
+            "multimedia", 
+            "font", 
+            "editing", 
+            "brand"
+        ], 
+        "piece_name": "img_0613.png", 
+        "piece_number": "img_0613"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7974512, 
+            0.75810003, 
+            0.676701, 
+            0.6638432, 
+            0.64645565, 
+            0.566675, 
+            0.5583687, 
+            0.5537879, 
+            0.5526605
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "sky", 
+            "multimedia", 
+            "reflection", 
+            "water", 
+            "advertising", 
+            "font", 
+            "editing", 
+            "website"
+        ], 
+        "piece_name": "img_0614.png", 
+        "piece_number": "img_0614"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.73174775, 
+            0.7073325, 
+            0.5991771, 
+            0.59765434, 
+            0.5598494, 
+            0.5394354, 
+            0.5318167, 
+            0.5114619
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "advertising", 
+            "media", 
+            "technology", 
+            "car", 
+            "website", 
+            "multimedia", 
+            "font"
+        ], 
+        "piece_name": "img_0615.png", 
+        "piece_number": "img_0615"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8144947, 
+            0.6384822, 
+            0.60998607, 
+            0.5707687, 
+            0.56642073, 
+            0.5292657
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "sky", 
+            "font", 
+            "website", 
+            "multimedia", 
+            "computer wallpaper"
+        ], 
+        "piece_name": "img_0616.png", 
+        "piece_number": "img_0616"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96966565, 
+            0.960209, 
+            0.9474156, 
+            0.87525636, 
+            0.85117084, 
+            0.7946061, 
+            0.65729225, 
+            0.6331218, 
+            0.551897, 
+            0.5166575, 
+            0.5014644
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "car", 
+            "motor vehicle", 
+            "mode of transport", 
+            "transport", 
+            "screenshot", 
+            "commercial vehicle", 
+            "automotive exterior", 
+            "brand", 
+            "driving", 
+            "font"
+        ], 
+        "piece_name": "img_0617.png", 
+        "piece_number": "img_0617"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.97389334, 
+            0.87515754, 
+            0.7946199, 
+            0.76604927, 
+            0.7432364, 
+            0.7327865, 
+            0.59470564, 
+            0.5754475, 
+            0.56903374, 
+            0.5679033, 
+            0.5598936, 
+            0.5482964, 
+            0.54432815, 
+            0.5339873
+        ], 
+        "picture_attributes": [
+            "car", 
+            "mode of transport", 
+            "automotive design", 
+            "vehicle", 
+            "racing", 
+            "screenshot", 
+            "pc game", 
+            "automotive exterior", 
+            "race track", 
+            "advertising", 
+            "graphics", 
+            "brand", 
+            "font", 
+            "computer wallpaper"
+        ], 
+        "piece_name": "img_0618.png", 
+        "piece_number": "img_0618"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8500269, 
+            0.8000566, 
+            0.78441423, 
+            0.71064603, 
+            0.677536, 
+            0.60648096, 
+            0.601864, 
+            0.57222515, 
+            0.56993103, 
+            0.5649335, 
+            0.5649207
+        ], 
+        "picture_attributes": [
+            "advertising", 
+            "display advertising", 
+            "software", 
+            "multimedia", 
+            "screenshot", 
+            "display device", 
+            "vehicle", 
+            "media", 
+            "font", 
+            "website", 
+            "brand"
+        ], 
+        "piece_name": "img_0619.png", 
+        "piece_number": "img_0619"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8887993, 
+            0.8805347, 
+            0.8742129, 
+            0.734371, 
+            0.71344537, 
+            0.6566718, 
+            0.5923571, 
+            0.5857032, 
+            0.5565537
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "text", 
+            "screenshot", 
+            "wave", 
+            "sky", 
+            "font", 
+            "ocean", 
+            "boat"
+        ], 
+        "piece_name": "img_0620.png", 
+        "piece_number": "img_0620"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94999677, 
+            0.937546, 
+            0.875254, 
+            0.86946225, 
+            0.85894555, 
+            0.7959911, 
+            0.7392112, 
+            0.7180962, 
+            0.69135916, 
+            0.6502563, 
+            0.6066424, 
+            0.5644315, 
+            0.5370042
+        ], 
+        "picture_attributes": [
+            "motor vehicle", 
+            "car", 
+            "mode of transport", 
+            "vehicle", 
+            "text", 
+            "road", 
+            "automotive exterior", 
+            "automotive design", 
+            "screenshot", 
+            "font", 
+            "water resources", 
+            "asphalt", 
+            "tree"
+        ], 
+        "piece_name": "img_0621.png", 
+        "piece_number": "img_0621"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.86879295, 
+            0.698786, 
+            0.6385955, 
+            0.6045513, 
+            0.5514633, 
+            0.52346826
+        ], 
+        "picture_attributes": [
+            "text", 
+            "product", 
+            "font", 
+            "product design", 
+            "screenshot", 
+            "media"
+        ], 
+        "piece_name": "img_0622.png", 
+        "piece_number": "img_0622"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8647476, 
+            0.77296257, 
+            0.7116289, 
+            0.6458684, 
+            0.6138692, 
+            0.6025703, 
+            0.60203236, 
+            0.5805016
+        ], 
+        "picture_attributes": [
+            "text", 
+            "water", 
+            "screenshot", 
+            "automotive exterior", 
+            "font", 
+            "vehicle", 
+            "water resources", 
+            "product design"
+        ], 
+        "piece_name": "img_0623.png", 
+        "piece_number": "img_0623"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95840967, 
+            0.88535243, 
+            0.74809206, 
+            0.6720096, 
+            0.64076066, 
+            0.6008862, 
+            0.5265191, 
+            0.52174723
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "line", 
+            "area", 
+            "screenshot", 
+            "product", 
+            "web page", 
+            "media"
+        ], 
+        "piece_name": "img_e0554.jpg", 
+        "piece_number": "img_e0554"
+    }
+]

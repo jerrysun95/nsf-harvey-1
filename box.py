@@ -32,6 +32,12 @@ def delete(file_id):
     print("Deleted file id " + file_id)
     print("")
 
+def copy(file_id, dest_folder_id):
+    print("Copying file " + str(file_id) + " to " + str(dest_folder_id) + "...")
+    response = box.copy_file(file_id, dest_folder_id)
+    print("Copied file")
+    print("")
+
 def items(folder_id, lim=1000, ofs=0):
     print("Getting items in folder " + str(folder_id) + "...")
     response = box.get_folder_items(folder_id, limit=lim, offset=ofs, fields_list=['name', 'type', 'id'])

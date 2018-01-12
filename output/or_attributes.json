@@ -1,0 +1,67 @@
+[
+    {
+        "freq": 0.83, 
+        "name": "font", 
+        "avg_conf": 0.75
+    }, 
+    {
+        "freq": 0.82, 
+        "name": "screenshot", 
+        "avg_conf": 0.7
+    }, 
+    {
+        "freq": 0.66, 
+        "name": "text", 
+        "avg_conf": 0.94
+    }, 
+    {
+        "freq": 0.65, 
+        "name": "product", 
+        "avg_conf": 0.64
+    }, 
+    {
+        "freq": 0.59, 
+        "name": "line", 
+        "avg_conf": 0.73
+    }, 
+    {
+        "freq": 0.52, 
+        "name": "area", 
+        "avg_conf": 0.67
+    }, 
+    {
+        "freq": 0.35, 
+        "name": "document", 
+        "avg_conf": 0.58
+    }, 
+    {
+        "freq": 0.32, 
+        "name": "media", 
+        "avg_conf": 0.61
+    }, 
+    {
+        "freq": 0.31, 
+        "name": "web page", 
+        "avg_conf": 0.68
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "advertising", 
+        "avg_conf": 0.66
+    }, 
+    {
+        "freq": 0.24, 
+        "name": "website", 
+        "avg_conf": 0.58
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "multimedia", 
+        "avg_conf": 0.62
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "water", 
+        "avg_conf": 0.74
+    }
+]
