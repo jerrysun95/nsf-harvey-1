@@ -3,3 +3,5 @@ keyring
 boxpython
 pandas
 numpy
+matplotlib
+scipy
