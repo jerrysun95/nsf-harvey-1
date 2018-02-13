@@ -89,7 +89,8 @@ def vision_from_file(image_name, photo_file):
         labels = response['responses'][0]['labelAnnotations']
         for label in labels:
             print(label['description'] + ": " + str(label['score']))
-        #print(response)
+        # print(response)
+        return response
 
 # Send image data to Google Vision
 def vision_from_data(image_name, image_content):
@@ -105,8 +106,7 @@ def vision_from_data(image_name, image_content):
             },
             'features': [
                 {
-                    'type': 'LABEL_DETECTION',
-                    'maxResults': 1000,
+                    'type': 'TEXT_DETECTION'
                 }
             ]
 
@@ -124,5 +124,7 @@ def vision_from_data(image_name, image_content):
     image_json = create_json(labels, image_name)
     # json_data.append(image_json)
 
+    # print(response)
     return image_json
+    # return response
     #output_to_file(image_json)

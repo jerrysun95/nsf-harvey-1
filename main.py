@@ -56,8 +56,8 @@ def vision(src_folder_id, output_file):
 		if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
 			vision_data.append(box.send_to_vision(name, entry['id']))
 
-	with open(output_file, 'w') as f:
-		f.write(json.dumps(vision_data, indent=4))
+	# with open(output_file, 'w') as f:
+	# 	f.write(json.dumps(vision_data, indent=4))
 
 def main():
 	# response = box.items(MEDIA_FOLDER_ID)
@@ -82,11 +82,9 @@ def main():
 	# images(R_FOLDER_ID, R_DEST_ID)
 	# images(OR_FOLDER_ID, OR_DEST_ID)
 
-	with open('output/errors.txt', 'w') as f:
-		f.write(json.dumps(error, indent=4))
 
-	vision(VR_DEST_ID, 'output/vr.json')
-	vision(R_DEST_ID, 'output/r.json')
+	# vision(VR_DEST_ID, 'output/vr.json')
+	# vision(R_DEST_ID, 'output/r.json')
 	vision(OR_DEST_ID, 'output/or.json')
 
 if __name__ == '__main__':
