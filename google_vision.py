@@ -15,8 +15,6 @@ OUTPUT_FILE = "output/vision.json"
 # Creates JSON given a list of labels from Google Vision
 def create_json(labels, image_name):
     image_json = {}
-    index = image_name.rfind('.')
-    image_json["piece_number"] = image_name[:index]
     image_json["piece_name"] = image_name
     picture_attributes = []
     picture_attributes_scores = []
@@ -31,37 +29,26 @@ def create_json(labels, image_name):
     image_json["picture_attributes_scores"] = picture_attributes_scores
 
     print("")
-    print("JSON created")
+    print("JSON (image) created")
     print(image_json)
     print("")
 
     return image_json
 
-# Outputs JSON to file given a JSON of features
-def output_to_file(image_data):
-    print("Outputting to file...")
+# Creates JSON given a text from Google Vision
+def create_json_text(text, image_name):
+    print('Creating JSON for text ' + image_name)
+    
+    text_json = {}
+    text_json['piece_name'] = image_name
+    text_json['text'] = text.replace('\n', ' ')
 
-    json_data = None
-    with open(OUTPUT_FILE, 'a+') as output_file:
+    print('')
+    print('JSON (text) created')
+    print(text_json)
+    print('')
 
-        # read in existing data if present
-        data = output_file.read()
-        try:
-            json_data = json.loads(data)
-        except Exception as e:
-            print(e)
-            print('exception')
-            json_data = []
-
-        # append new image to json and write back to file
-        json_data.append(image_data)
-        json_data = json.dumps(json_data, indent=4)
-
-    with open(OUTPUT_FILE, 'w') as output_file:
-        output_file.write(json_data)
-
-    print("Outputted to file")
-    print("")
+    return text_json
 
 # Send image to Google Vision from local file
 def vision_from_file(image_name, photo_file):
@@ -93,7 +80,7 @@ def vision_from_file(image_name, photo_file):
         return response
 
 # Send image data to Google Vision
-def vision_from_data(image_name, image_content):
+def vision_from_data(image_name, image_content, request_type):
     print("Sending to Google Vision from Box...")
     access_token = keyring.get_password("system", "VISION_API_KEY")
     service = Service('vision', 'v1', access_token=access_token)
@@ -106,25 +93,42 @@ def vision_from_data(image_name, image_content):
             },
             'features': [
                 {
-                    'type': 'TEXT_DETECTION'
+                    'type': request_type
                 }
             ]
 
         }]
     }
-    response = service.execute(body=body)
-    print("Response received from Google Vision")
-    print("")
+    return service.execute(body=body)
+
+# Send image to Google Vision
+# Generate and return formatted json with labels and image name
+def vision_from_data_image(image_name, image_content):
+    response = vision_from_data(image_name, image_content, 'LABEL_DETECTION')
+
+    print('Response received from Google Vision')
+    print('')
+
     labels = {}
     try:
         labels = response['responses'][0]['labelAnnotations']
     except:
-        print('exception during handling of google_vision response')
+        print('Exception during handling of Google Vision image response')
         pass
-    image_json = create_json(labels, image_name)
-    # json_data.append(image_json)
+    return create_json(labels, image_name)
 
-    # print(response)
-    return image_json
-    # return response
-    #output_to_file(image_json)
+# Send text image to Google Vision
+# Generate and return formatted json with text and image name
+def vision_from_data_text(image_name, image_content):
+    response = vision_from_data(image_name, image_content, 'TEXT_DETECTION')
+
+    print('Response received from Google Vision')
+    print('')
+
+    text = {}
+    try:
+        text = response['responses'][0]['textAnnotations'][0]['description']
+    except:
+        print('Exception during handling of Google Vision text response')
+        pass
+    return create_json_text(text, image_name)

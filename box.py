@@ -79,7 +79,7 @@ def request(method, command):
 
 
 #Send to Google Vision
-def send_to_vision(file_name, file_id, chunk_size=1034*1034*1):
+def send_to_vision(file_name, file_id, image_type='image', chunk_size=1034*1034*1):
     req = request("GET", "files/%s/content" % (file_id, ))
     total = -1
     image_content = ''
@@ -91,13 +91,16 @@ def send_to_vision(file_name, file_id, chunk_size=1034*1034*1):
     transferred = 0
     for chunk in req.iter_content(chunk_size=1034*1034*1):
         if chunk:
-            #fp.write(chunk)
-            #fp.flush()
             image_content += chunk
             transferred += len(chunk)
 
     #print(image)
-    return gv.vision_from_data(file_name, image_content)
+    if image_type == 'image':
+        return gv.vision_from_data_image(file_name, image_content)
+    elif image_type == 'text':
+        return gv.vision_from_data_text(file_name, image_content)
+    else:
+        return None
 
 #Read file data from box
 def get_file_data(file_id, chunk_size=1034*1034*1):

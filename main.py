@@ -1,4 +1,4 @@
-import box, compare, read_csv
+import box, read_csv
 import google_vision as gv
 import json
 
