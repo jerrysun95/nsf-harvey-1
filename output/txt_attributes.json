@@ -1,0 +1,138 @@
+[
+    {
+        "freq": 0.9, 
+        "name": "hous"
+    }, 
+    {
+        "freq": 0.9, 
+        "name": "us"
+    }, 
+    {
+        "freq": 0.8, 
+        "name": "flood"
+    }, 
+    {
+        "freq": 0.6, 
+        "name": "dri"
+    }, 
+    {
+        "freq": 0.6, 
+        "name": "end"
+    }, 
+    {
+        "freq": 0.5, 
+        "name": "ve"
+    }, 
+    {
+        "freq": 0.5, 
+        "name": "get"
+    }, 
+    {
+        "freq": 0.4, 
+        "name": "today"
+    }, 
+    {
+        "freq": 0.4, 
+        "name": "rescu"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "look"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "locat"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "deal"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "map"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "like"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "thought"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "harvey"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "rescuer"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "miracl"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "famili"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "belong"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "s"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "2"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "wait"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "week"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "sure"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "proud"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "peopl"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "safe"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "000"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "now"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "commun"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "ok"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "just"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "truck"
+    }
+]

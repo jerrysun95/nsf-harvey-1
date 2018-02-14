@@ -1,4 +1,4 @@
-import box, read_csv
+import box, read_csv, text
 import google_vision as gv
 import json
 
@@ -51,13 +51,47 @@ def vision(src_folder_id, output_file):
 	response = box.items(src_folder_id)
 	entries = response['entries']
 
+	text_res = []
 	for entry in entries:
 		name = entry['name'].lower()
 		if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
-			vision_data.append(box.send_to_vision(name, entry['id']))
+			result = box.send_to_vision(name, entry['id'], image_type='text')
+			vision_data.append(result)
+			t = text.parse_text([result['text']], result['piece_name'])
+			text_res.append({'name':result['piece_name'], 'words':t})
 
-	# with open(output_file, 'w') as f:
-	# 	f.write(json.dumps(vision_data, indent=4))
+
+	with open(output_file, 'w') as f:
+		f.write(json.dumps(vision_data, indent=4))
+
+	with open(output_file + '.txt', 'w') as f:
+		f.write(json.dumps(text_res, indent=4))
+
+def vision_text(src_folder_id, output_file):
+	vision_data = []
+	response = box.items(src_folder_id)
+	entries = response['entries']
+
+	text_res = []
+	count = 0
+	for entry in entries:
+		name = entry['name'].lower()
+		if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
+			try:
+				result = box.send_to_vision(name, entry['id'], image_type='text')
+				vision_data.append(result)
+				t = text.parse_text([result['text']], result['piece_name'])
+				text_res.append({'name':result['piece_name'], 'words':t})
+			except:
+				pass
+		print(count)
+		count += 1
+
+	with open(output_file, 'w') as f:
+		f.write(json.dumps(vision_data, indent=4))
+
+	with open(output_file + '.txt', 'w') as f:
+		f.write(json.dumps(text_res, indent=4))
 
 def main():
 	# response = box.items(MEDIA_FOLDER_ID)
@@ -85,7 +119,9 @@ def main():
 
 	# vision(VR_DEST_ID, 'output/vr.json')
 	# vision(R_DEST_ID, 'output/r.json')
-	vision(OR_DEST_ID, 'output/or.json')
+	# vision(OR_DEST_ID, 'output/or.json')
+	# vision(46275888427, 'output/text.json')
+	vision_text(44449241527, 'output/text.json.txt')
 
 if __name__ == '__main__':
 	main()

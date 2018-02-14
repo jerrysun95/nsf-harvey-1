@@ -27,29 +27,37 @@ doc_set = [doc_a, doc_b, doc_c, doc_d]
 # list for tokenized documents in loop
 texts = []
 
-# loop through document list
-for i in doc_set:
+def parse_text(doc, name):
+	print('DOC NAME: ' + name + '\n')
+	# loop through document list
+	for i in doc:
 
-    # clean and tokenize document string
-    raw = i.lower()
-    tokens = tokenizer.tokenize(raw)
+	    # clean and tokenize document string
+	    raw = i.lower()
+	    tokens = tokenizer.tokenize(raw)
 
-    # remove stop words from tokens
-    stopped_tokens = [i for i in tokens if not i in en_stop]
+	    # remove stop words from tokens
+	    stopped_tokens = [i for i in tokens if not i in en_stop]
 
-    # stem tokens
-    stemmed_tokens = [p_stemmer.stem(i) for i in stopped_tokens]
+	    # stem tokens
+	    stemmed_tokens = [p_stemmer.stem(i) for i in stopped_tokens]
 
-    # add tokens to list
-    texts.append(stemmed_tokens)
+	    # add tokens to list
+	    texts.append(stemmed_tokens)
 
-# turn our tokenized documents into a id <-> term dictionary
-dictionary = corpora.Dictionary(texts)
+	# turn our tokenized documents into a id <-> term dictionary
+	dictionary = corpora.Dictionary(texts)
 
-# convert tokenized documents into a document-term matrix
-corpus = [dictionary.doc2bow(text) for text in texts]
+	# convert tokenized documents into a document-term matrix
+	corpus = [dictionary.doc2bow(text) for text in texts]
 
-# generate LDA model
-ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=2, id2word = dictionary, passes=20)
+	# generate LDA model
+	ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=2, id2word = dictionary, passes=20)
 
-print(ldamodel.print_topics(num_topics=2, num_words=15))
+	topics = ldamodel.show_topics(num_topics=2, num_words=15, formatted=False, log=False)[0][1]
+	res = []
+	for t in topics:
+		res.append(t[0])
+	print(res)
+	return res
+
