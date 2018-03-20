@@ -1,0 +1,5298 @@
+[
+    {
+        "picture_attributes_scores": [
+            0.98108464, 
+            0.9240143, 
+            0.9233888, 
+            0.8752517, 
+            0.7494705, 
+            0.71990955, 
+            0.5771542, 
+            0.50551665
+        ], 
+        "picture_attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "automotive design", 
+            "automotive exterior", 
+            "screenshot", 
+            "plant community"
+        ], 
+        "name": "img_0215.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9775713, 
+            0.91215914, 
+            0.88385296, 
+            0.8752162, 
+            0.75722814, 
+            0.58868563, 
+            0.5627011
+        ], 
+        "picture_attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "screenshot", 
+            "pc game", 
+            "soldier"
+        ], 
+        "name": "img_0216.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.97082716, 
+            0.96041965, 
+            0.95838547, 
+            0.8762541, 
+            0.8752525, 
+            0.8116756, 
+            0.6006742, 
+            0.5720468, 
+            0.5169009, 
+            0.5030676
+        ], 
+        "picture_attributes": [
+            "motor vehicle", 
+            "vehicle", 
+            "car", 
+            "transport", 
+            "mode of transport", 
+            "military", 
+            "soldier", 
+            "tree", 
+            "military organization", 
+            "screenshot"
+        ], 
+        "name": "img_0217.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95129466, 
+            0.94682646, 
+            0.88070565, 
+            0.81812614, 
+            0.79107463, 
+            0.7547649, 
+            0.7519604, 
+            0.74907714, 
+            0.66691875, 
+            0.6250643
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "nature", 
+            "atmosphere", 
+            "water", 
+            "screenshot", 
+            "phenomenon", 
+            "reflection", 
+            "darkness", 
+            "night", 
+            "tree"
+        ], 
+        "name": "img_0219.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.87836844, 
+            0.825746, 
+            0.80497515, 
+            0.78387314, 
+            0.7547649, 
+            0.7103233, 
+            0.6368828, 
+            0.605551, 
+            0.5945726
+        ], 
+        "picture_attributes": [
+            "text", 
+            "light", 
+            "screenshot", 
+            "darkness", 
+            "phenomenon", 
+            "night", 
+            "font", 
+            "midnight", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0224.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7547649, 
+            0.7360125, 
+            0.7342707, 
+            0.7161551, 
+            0.674565, 
+            0.6012817, 
+            0.5995045, 
+            0.5060321
+        ], 
+        "picture_attributes": [
+            "phenomenon", 
+            "poster", 
+            "night", 
+            "darkness", 
+            "screenshot", 
+            "midnight", 
+            "computer wallpaper", 
+            "advertising"
+        ], 
+        "name": "img_0225.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.91703475, 
+            0.90139186, 
+            0.87455225, 
+            0.7547649, 
+            0.753597, 
+            0.70468, 
+            0.69764227, 
+            0.69609046, 
+            0.6240122, 
+            0.6072355
+        ], 
+        "picture_attributes": [
+            "reflection", 
+            "night", 
+            "sky", 
+            "phenomenon", 
+            "lighting", 
+            "darkness", 
+            "screenshot", 
+            "water", 
+            "evening", 
+            "midnight"
+        ], 
+        "name": "img_0226.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.86124516, 
+            0.78489006, 
+            0.7547649, 
+            0.7337164, 
+            0.66423506, 
+            0.5997102, 
+            0.59692806
+        ], 
+        "picture_attributes": [
+            "night", 
+            "sky", 
+            "phenomenon", 
+            "screenshot", 
+            "darkness", 
+            "computer wallpaper", 
+            "midnight"
+        ], 
+        "name": "img_0227.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95396703, 
+            0.9322324, 
+            0.9267928, 
+            0.87350404, 
+            0.7556334, 
+            0.7547649, 
+            0.7131338, 
+            0.69151443, 
+            0.6073215, 
+            0.579378
+        ], 
+        "picture_attributes": [
+            "car", 
+            "water", 
+            "reflection", 
+            "sky", 
+            "automotive design", 
+            "phenomenon", 
+            "screenshot", 
+            "vehicle", 
+            "water resources", 
+            "tree"
+        ], 
+        "name": "img_0228.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7796317, 
+            0.7547649, 
+            0.74102366, 
+            0.7142394, 
+            0.70864725, 
+            0.68477947, 
+            0.6013219, 
+            0.55240697
+        ], 
+        "picture_attributes": [
+            "darkness", 
+            "phenomenon", 
+            "screenshot", 
+            "poster", 
+            "night", 
+            "pc game", 
+            "midnight", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0229.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94404227, 
+            0.93867, 
+            0.8945604, 
+            0.8572555, 
+            0.81862634, 
+            0.80241823, 
+            0.7547649, 
+            0.66551626, 
+            0.62146074, 
+            0.5497836
+        ], 
+        "picture_attributes": [
+            "nature", 
+            "sky", 
+            "reflection", 
+            "water", 
+            "photography", 
+            "tree", 
+            "phenomenon", 
+            "grass", 
+            "screenshot", 
+            "landscape"
+        ], 
+        "name": "img_0230.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9571072, 
+            0.95377284, 
+            0.7816374, 
+            0.7614655, 
+            0.7547649, 
+            0.73421085, 
+            0.52382445, 
+            0.5228346
+        ], 
+        "picture_attributes": [
+            "water", 
+            "reflection", 
+            "sky", 
+            "water resources", 
+            "phenomenon", 
+            "screenshot", 
+            "tree", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0231.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8082861, 
+            0.7526808, 
+            0.7417962, 
+            0.68760806, 
+            0.5769861, 
+            0.55915797, 
+            0.5534319, 
+            0.52921087
+        ], 
+        "picture_attributes": [
+            "architecture", 
+            "glass", 
+            "window", 
+            "car", 
+            "advertising", 
+            "door", 
+            "angle", 
+            "screenshot"
+        ], 
+        "name": "img_0232.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.943334, 
+            0.9035879, 
+            0.8750018, 
+            0.8729825, 
+            0.7547649, 
+            0.7005557, 
+            0.696276, 
+            0.6857123, 
+            0.6759105, 
+            0.6715219
+        ], 
+        "picture_attributes": [
+            "nature", 
+            "ecosystem", 
+            "mode of transport", 
+            "water", 
+            "phenomenon", 
+            "vehicle", 
+            "car", 
+            "sky", 
+            "grass", 
+            "screenshot"
+        ], 
+        "name": "img_0233.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.981784, 
+            0.85890687, 
+            0.78623956, 
+            0.7818801, 
+            0.7568097, 
+            0.7547649, 
+            0.7228655, 
+            0.68744385, 
+            0.65768665, 
+            0.642791
+        ], 
+        "picture_attributes": [
+            "car", 
+            "vehicle", 
+            "motor vehicle", 
+            "sky", 
+            "tree", 
+            "phenomenon", 
+            "automotive design", 
+            "grass", 
+            "reflection", 
+            "automotive exterior"
+        ], 
+        "name": "img_0234.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9464924, 
+            0.9081794, 
+            0.85525393, 
+            0.8304554, 
+            0.7547649, 
+            0.6416823, 
+            0.62199384, 
+            0.5487453, 
+            0.5257139, 
+            0.5143903
+        ], 
+        "picture_attributes": [
+            "nature", 
+            "tree", 
+            "sky", 
+            "reflection", 
+            "phenomenon", 
+            "screenshot", 
+            "grass", 
+            "computer wallpaper", 
+            "landscape", 
+            "font"
+        ], 
+        "name": "img_0235.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9531642, 
+            0.9440725, 
+            0.87394994, 
+            0.7547649, 
+            0.7230416, 
+            0.70287687, 
+            0.63406837, 
+            0.54490244
+        ], 
+        "picture_attributes": [
+            "water", 
+            "reflection", 
+            "sky", 
+            "phenomenon", 
+            "water resources", 
+            "screenshot", 
+            "tree", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0236.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9537179, 
+            0.9362358, 
+            0.9253189, 
+            0.7761133, 
+            0.7547649, 
+            0.7163171, 
+            0.6999656, 
+            0.5269326, 
+            0.5154723
+        ], 
+        "picture_attributes": [
+            "water", 
+            "reflection", 
+            "sky", 
+            "tree", 
+            "phenomenon", 
+            "screenshot", 
+            "water resources", 
+            "landscape", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0237.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94746137, 
+            0.87520295, 
+            0.8662881, 
+            0.7547649, 
+            0.69930637, 
+            0.6763459, 
+            0.6445107, 
+            0.60000825, 
+            0.53020287, 
+            0.5183592
+        ], 
+        "picture_attributes": [
+            "car", 
+            "mode of transport", 
+            "vehicle", 
+            "phenomenon", 
+            "advertising", 
+            "screenshot", 
+            "tree", 
+            "photo caption", 
+            "sky", 
+            "grass"
+        ], 
+        "name": "img_0238.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94712895, 
+            0.90440553, 
+            0.9018718, 
+            0.784996, 
+            0.7547649, 
+            0.73009837, 
+            0.6612178
+        ], 
+        "picture_attributes": [
+            "water", 
+            "sky", 
+            "reflection", 
+            "tree", 
+            "phenomenon", 
+            "water resources", 
+            "screenshot"
+        ], 
+        "name": "img_0239.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93261254, 
+            0.8421402, 
+            0.82208014, 
+            0.8181346, 
+            0.7261254, 
+            0.68399286, 
+            0.6473272, 
+            0.54791117
+        ], 
+        "picture_attributes": [
+            "car", 
+            "sky", 
+            "photography", 
+            "reflection", 
+            "automotive design", 
+            "screenshot", 
+            "vehicle", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0240.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.89664274, 
+            0.63502425, 
+            0.6237103, 
+            0.5069431
+        ], 
+        "picture_attributes": [
+            "room", 
+            "screenshot", 
+            "interior design", 
+            "space"
+        ], 
+        "name": "img_0241.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.86555517, 
+            0.84642774, 
+            0.82701135, 
+            0.8021993, 
+            0.80099815, 
+            0.78033584, 
+            0.7547649, 
+            0.7503457, 
+            0.6674876, 
+            0.6060102
+        ], 
+        "picture_attributes": [
+            "atmosphere", 
+            "sky", 
+            "light", 
+            "photography", 
+            "darkness", 
+            "screenshot", 
+            "phenomenon", 
+            "night", 
+            "poster", 
+            "midnight"
+        ], 
+        "name": "img_0242.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9426268, 
+            0.8091098, 
+            0.7922868, 
+            0.7703464, 
+            0.7547649, 
+            0.752711, 
+            0.7310316, 
+            0.66790336, 
+            0.6378389, 
+            0.5938192
+        ], 
+        "picture_attributes": [
+            "nature", 
+            "photography", 
+            "screenshot", 
+            "sky", 
+            "phenomenon", 
+            "poster", 
+            "night", 
+            "darkness", 
+            "computer wallpaper", 
+            "midnight"
+        ], 
+        "name": "img_0243.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8298304, 
+            0.8267504, 
+            0.7547649, 
+            0.7370336, 
+            0.73441905, 
+            0.695324, 
+            0.679366, 
+            0.6036014, 
+            0.58642423, 
+            0.5143626
+        ], 
+        "picture_attributes": [
+            "light", 
+            "night", 
+            "phenomenon", 
+            "screenshot", 
+            "car", 
+            "sky", 
+            "darkness", 
+            "midnight", 
+            "computer wallpaper", 
+            "font"
+        ], 
+        "name": "img_0244.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9090546, 
+            0.8236695, 
+            0.744119, 
+            0.7166569, 
+            0.6967377, 
+            0.6720096, 
+            0.60518605, 
+            0.60236114, 
+            0.5498517
+        ], 
+        "picture_attributes": [
+            "map", 
+            "sky", 
+            "water resources", 
+            "water", 
+            "line", 
+            "area", 
+            "font", 
+            "diagram", 
+            "angle"
+        ], 
+        "name": "img_0245.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8749259, 
+            0.84666944, 
+            0.7943079, 
+            0.7592075, 
+            0.7547649, 
+            0.65983343, 
+            0.61759955, 
+            0.58559996, 
+            0.5760794, 
+            0.5659213
+        ], 
+        "picture_attributes": [
+            "mode of transport", 
+            "atmosphere", 
+            "screenshot", 
+            "visual effects", 
+            "phenomenon", 
+            "poster", 
+            "sky", 
+            "space", 
+            "font", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0246.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8187823, 
+            0.7547649, 
+            0.71740353, 
+            0.6829989, 
+            0.6603313, 
+            0.63764185, 
+            0.5662306, 
+            0.5564469, 
+            0.53362995, 
+            0.516869
+        ], 
+        "picture_attributes": [
+            "poster", 
+            "phenomenon", 
+            "screenshot", 
+            "night", 
+            "advertising", 
+            "darkness", 
+            "font", 
+            "midnight", 
+            "photo caption", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0247.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9642284, 
+            0.9179204, 
+            0.8744578, 
+            0.83316976, 
+            0.7547649, 
+            0.6955033, 
+            0.6108355, 
+            0.5569148
+        ], 
+        "picture_attributes": [
+            "reflection", 
+            "water", 
+            "sky", 
+            "water resources", 
+            "phenomenon", 
+            "river", 
+            "floodplain", 
+            "tree"
+        ], 
+        "name": "img_0248.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9668332, 
+            0.9404125, 
+            0.92306304, 
+            0.88137287, 
+            0.7547649, 
+            0.7051153, 
+            0.5926965, 
+            0.55719644, 
+            0.54252106
+        ], 
+        "picture_attributes": [
+            "water", 
+            "nature", 
+            "reflection", 
+            "water resources", 
+            "phenomenon", 
+            "sky", 
+            "tree", 
+            "river", 
+            "screenshot"
+        ], 
+        "name": "img_0249.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9570231, 
+            0.93047446, 
+            0.8684399, 
+            0.81707424, 
+            0.7547649, 
+            0.68548644, 
+            0.55604017, 
+            0.5283679
+        ], 
+        "picture_attributes": [
+            "water", 
+            "reflection", 
+            "sky", 
+            "water resources", 
+            "phenomenon", 
+            "river", 
+            "natural disaster", 
+            "floodplain"
+        ], 
+        "name": "img_0250.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93109393, 
+            0.910264, 
+            0.8126287, 
+            0.63076645
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "blackboard", 
+            "chalk"
+        ], 
+        "name": "img_0251.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9564273, 
+            0.95581764, 
+            0.874909, 
+            0.8406125, 
+            0.79474485, 
+            0.7547649, 
+            0.75284487, 
+            0.7036629, 
+            0.61628705, 
+            0.6024448
+        ], 
+        "picture_attributes": [
+            "car", 
+            "water", 
+            "motor vehicle", 
+            "reflection", 
+            "water resources", 
+            "phenomenon", 
+            "vehicle", 
+            "automotive exterior", 
+            "tree", 
+            "natural disaster"
+        ], 
+        "name": "img_0252.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.84001863, 
+            0.8292225, 
+            0.78908885, 
+            0.77589595, 
+            0.75477827, 
+            0.6140745, 
+            0.600013, 
+            0.5931032, 
+            0.570088, 
+            0.5688993
+        ], 
+        "picture_attributes": [
+            "architecture", 
+            "light", 
+            "photography", 
+            "structure", 
+            "sky", 
+            "sunlight", 
+            "night", 
+            "advertising", 
+            "shade", 
+            "darkness"
+        ], 
+        "name": "img_0253.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9741022, 
+            0.9459021, 
+            0.93553656, 
+            0.843922, 
+            0.7547649, 
+            0.7202235, 
+            0.5645816, 
+            0.5622775, 
+            0.54304713
+        ], 
+        "picture_attributes": [
+            "reflection", 
+            "water", 
+            "sky", 
+            "water resources", 
+            "phenomenon", 
+            "river", 
+            "tree", 
+            "screenshot", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0254.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9301733, 
+            0.9260882, 
+            0.8346173, 
+            0.757319, 
+            0.6942234, 
+            0.68489414, 
+            0.6720096, 
+            0.6612335, 
+            0.6355774, 
+            0.60726833
+        ], 
+        "picture_attributes": [
+            "yellow", 
+            "text", 
+            "map", 
+            "font", 
+            "screenshot", 
+            "line", 
+            "area", 
+            "organism", 
+            "graphic design", 
+            "sky"
+        ], 
+        "name": "img_0255.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.977142, 
+            0.97499394, 
+            0.9729005, 
+            0.9672014, 
+            0.9667858, 
+            0.95136106, 
+            0.875249, 
+            0.8084791, 
+            0.8008689, 
+            0.64354265
+        ], 
+        "picture_attributes": [
+            "army", 
+            "car", 
+            "military", 
+            "vehicle", 
+            "motor vehicle", 
+            "soldier", 
+            "mode of transport", 
+            "military organization", 
+            "troop", 
+            "military police"
+        ], 
+        "name": "img_0256.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.98358184, 
+            0.9528719, 
+            0.9283603, 
+            0.8752554, 
+            0.77656615, 
+            0.7547649, 
+            0.70697784, 
+            0.68507975, 
+            0.60339886, 
+            0.6019666
+        ], 
+        "picture_attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "screenshot", 
+            "phenomenon", 
+            "night", 
+            "sky", 
+            "automotive exterior", 
+            "commercial vehicle"
+        ], 
+        "name": "img_0257.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7887734, 
+            0.7547649, 
+            0.7156515, 
+            0.6653028, 
+            0.6324456, 
+            0.590877, 
+            0.5827536, 
+            0.5669996, 
+            0.5651169, 
+            0.5589612
+        ], 
+        "picture_attributes": [
+            "darkness", 
+            "phenomenon", 
+            "poster", 
+            "night", 
+            "stage", 
+            "computer wallpaper", 
+            "screenshot", 
+            "midnight", 
+            "performance", 
+            "advertising"
+        ], 
+        "name": "img_0258.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9697003, 
+            0.94735616, 
+            0.84302205, 
+            0.6751561, 
+            0.63543576, 
+            0.59578764, 
+            0.50939065, 
+            0.501796
+        ], 
+        "picture_attributes": [
+            "track", 
+            "sky", 
+            "structure", 
+            "line", 
+            "cloud", 
+            "grass", 
+            "landscape", 
+            "railroad car"
+        ], 
+        "name": "img_0259.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8813876, 
+            0.693576, 
+            0.65065694, 
+            0.6431188, 
+            0.64304376, 
+            0.6396412, 
+            0.5997303, 
+            0.5616027
+        ], 
+        "picture_attributes": [
+            "reflection", 
+            "house", 
+            "screenshot", 
+            "advertising", 
+            "home", 
+            "water", 
+            "window", 
+            "facade"
+        ], 
+        "name": "img_0260.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8883505, 
+            0.7948882, 
+            0.7944498, 
+            0.74228096, 
+            0.72480595, 
+            0.71667206, 
+            0.6952139, 
+            0.6744665, 
+            0.6698968, 
+            0.6686586
+        ], 
+        "picture_attributes": [
+            "property", 
+            "luxury vehicle", 
+            "architecture", 
+            "residential area", 
+            "sky", 
+            "house", 
+            "real estate", 
+            "reflection", 
+            "car", 
+            "home"
+        ], 
+        "name": "img_0261.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9576027, 
+            0.8071913, 
+            0.7547649, 
+            0.7486693, 
+            0.6884317, 
+            0.6609691, 
+            0.6410408, 
+            0.63676184, 
+            0.60457176, 
+            0.5772029
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "phenomenon", 
+            "flood", 
+            "tree", 
+            "reflection", 
+            "natural disaster", 
+            "disaster", 
+            "sky", 
+            "river"
+        ], 
+        "name": "img_0262.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9179398, 
+            0.9145982, 
+            0.85875314, 
+            0.7547649, 
+            0.72201383, 
+            0.71829796, 
+            0.69817805
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "water", 
+            "reflection", 
+            "phenomenon", 
+            "tree", 
+            "water resources", 
+            "river"
+        ], 
+        "name": "img_0263.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9512102, 
+            0.92497367, 
+            0.8564461, 
+            0.67416924, 
+            0.612952, 
+            0.60139245, 
+            0.60069543, 
+            0.5488712, 
+            0.50318664
+        ], 
+        "picture_attributes": [
+            "water", 
+            "reflection", 
+            "tree", 
+            "bayou", 
+            "river", 
+            "watercourse", 
+            "wetland", 
+            "plant", 
+            "bank"
+        ], 
+        "name": "img_0264.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9015291, 
+            0.8609181, 
+            0.56751686, 
+            0.506402, 
+            0.5018902
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "water", 
+            "tree", 
+            "watercourse", 
+            "screenshot"
+        ], 
+        "name": "img_0265.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.82471585, 
+            0.82045877, 
+            0.79037446, 
+            0.725245, 
+            0.57621026, 
+            0.5194186, 
+            0.5078028
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "water", 
+            "vehicle", 
+            "boat", 
+            "screenshot", 
+            "leisure", 
+            "recreation"
+        ], 
+        "name": "img_0268.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.83569074, 
+            0.7895641, 
+            0.68755734, 
+            0.6700369, 
+            0.6063645, 
+            0.6024132, 
+            0.5213352, 
+            0.5212925
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "motor vehicle", 
+            "car", 
+            "water resources", 
+            "automotive exterior", 
+            "screenshot", 
+            "advertising", 
+            "font"
+        ], 
+        "name": "img_0270.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.80355436, 
+            0.7561173, 
+            0.7174045, 
+            0.7063089, 
+            0.62323725, 
+            0.5660051, 
+            0.5439315, 
+            0.5133706
+        ], 
+        "picture_attributes": [
+            "technology", 
+            "display device", 
+            "electronics", 
+            "electronic device", 
+            "software", 
+            "product", 
+            "font", 
+            "multimedia"
+        ], 
+        "name": "img_0282.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9219805, 
+            0.8797404, 
+            0.853552, 
+            0.8268984, 
+            0.8142725, 
+            0.7822811, 
+            0.70405, 
+            0.67127633, 
+            0.6688396, 
+            0.6212877
+        ], 
+        "picture_attributes": [
+            "technology", 
+            "electronic device", 
+            "gadget", 
+            "electronics", 
+            "display device", 
+            "screen", 
+            "software", 
+            "mobile phone", 
+            "communication device", 
+            "portable communications device"
+        ], 
+        "name": "img_0283.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.63766533, 
+            0.6150696
+        ], 
+        "picture_attributes": [
+            "real estate", 
+            "screenshot"
+        ], 
+        "name": "img_0284.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.58601296
+        ], 
+        "picture_attributes": [
+            "screenshot"
+        ], 
+        "name": "img_0285.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.67238706, 
+            0.53135127, 
+            0.5004444
+        ], 
+        "picture_attributes": [
+            "design", 
+            "font", 
+            "brand"
+        ], 
+        "name": "img_0286.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.77256113, 
+            0.7634262, 
+            0.6726659, 
+            0.5958103, 
+            0.5722229, 
+            0.56196123
+        ], 
+        "picture_attributes": [
+            "screen", 
+            "display device", 
+            "window", 
+            "multimedia", 
+            "glass", 
+            "picture frame"
+        ], 
+        "name": "img_0289.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.82144237, 
+            0.8204681, 
+            0.80197746, 
+            0.7357086, 
+            0.6922225, 
+            0.6872194, 
+            0.65793914, 
+            0.6057747, 
+            0.50615865
+        ], 
+        "picture_attributes": [
+            "screen", 
+            "electronic device", 
+            "technology", 
+            "display device", 
+            "gadget", 
+            "multimedia", 
+            "electronics", 
+            "window", 
+            "computer monitor"
+        ], 
+        "name": "img_0290.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8774081, 
+            0.8711506, 
+            0.82323337, 
+            0.80580884, 
+            0.78361, 
+            0.71661466, 
+            0.6977083, 
+            0.6781867, 
+            0.6540766, 
+            0.60633457
+        ], 
+        "picture_attributes": [
+            "gadget", 
+            "electronic device", 
+            "screen", 
+            "technology", 
+            "mobile phone", 
+            "electronics", 
+            "display device", 
+            "multimedia", 
+            "communication device", 
+            "wood"
+        ], 
+        "name": "img_0291.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.65551347, 
+            0.61322016, 
+            0.5780627
+        ], 
+        "picture_attributes": [
+            "window", 
+            "glass", 
+            "technology"
+        ], 
+        "name": "img_0292.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8151037, 
+            0.77493995, 
+            0.77491665, 
+            0.7240667, 
+            0.6951772, 
+            0.5742664, 
+            0.55059403, 
+            0.540987, 
+            0.5287099, 
+            0.52223086
+        ], 
+        "picture_attributes": [
+            "electronic device", 
+            "technology", 
+            "gadget", 
+            "electronics", 
+            "communication device", 
+            "multimedia", 
+            "mobile phone", 
+            "smartphone", 
+            "display device", 
+            "netbook"
+        ], 
+        "name": "img_0293.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.76831305, 
+            0.75470257, 
+            0.72501826, 
+            0.6490596, 
+            0.6279007, 
+            0.5499963, 
+            0.511953
+        ], 
+        "picture_attributes": [
+            "electronic device", 
+            "display device", 
+            "technology", 
+            "wood", 
+            "window", 
+            "multimedia", 
+            "door"
+        ], 
+        "name": "img_0294.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8679281, 
+            0.8440025, 
+            0.84397405, 
+            0.80996, 
+            0.77757823, 
+            0.68944544, 
+            0.6877056, 
+            0.6590112, 
+            0.601613, 
+            0.50196666
+        ], 
+        "picture_attributes": [
+            "electronic device", 
+            "screen", 
+            "display device", 
+            "technology", 
+            "gadget", 
+            "multimedia", 
+            "computer monitor", 
+            "electronics", 
+            "computer hardware", 
+            "smartphone"
+        ], 
+        "name": "img_0295.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.6852979, 
+            0.5534245, 
+            0.5115025, 
+            0.50665426
+        ], 
+        "picture_attributes": [
+            "display device", 
+            "window", 
+            "glass", 
+            "multimedia"
+        ], 
+        "name": "img_0296.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8410064, 
+            0.64169544, 
+            0.59735674, 
+            0.54582006, 
+            0.510266
+        ], 
+        "picture_attributes": [
+            "tree", 
+            "plant", 
+            "house", 
+            "grass", 
+            "window"
+        ], 
+        "name": "img_0297.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.90136725, 
+            0.67420655, 
+            0.66621447, 
+            0.64069736, 
+            0.5200728
+        ], 
+        "picture_attributes": [
+            "property", 
+            "plant", 
+            "tree", 
+            "window", 
+            "herb"
+        ], 
+        "name": "img_0298.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8790354, 
+            0.7007362, 
+            0.6239249, 
+            0.5864129
+        ], 
+        "picture_attributes": [
+            "property", 
+            "tree", 
+            "window", 
+            "plant"
+        ], 
+        "name": "img_0299.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9686245, 
+            0.85982877, 
+            0.7547649, 
+            0.7418352, 
+            0.6095562, 
+            0.6004366, 
+            0.5815419, 
+            0.55227333, 
+            0.5302815
+        ], 
+        "picture_attributes": [
+            "water", 
+            "reflection", 
+            "phenomenon", 
+            "water resources", 
+            "sky", 
+            "screenshot", 
+            "photo caption", 
+            "river", 
+            "recreation"
+        ], 
+        "name": "img_0325.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9787236, 
+            0.9095005, 
+            0.813192, 
+            0.79038584, 
+            0.69548345, 
+            0.6781828, 
+            0.65282583, 
+            0.5933396
+        ], 
+        "picture_attributes": [
+            "car", 
+            "vehicle", 
+            "tree", 
+            "photography", 
+            "games", 
+            "recreation", 
+            "team", 
+            "fun"
+        ], 
+        "name": "img_0326.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94745237, 
+            0.8614644, 
+            0.6930239, 
+            0.6668238, 
+            0.6514863, 
+            0.5826007
+        ], 
+        "picture_attributes": [
+            "text", 
+            "font", 
+            "writing", 
+            "screenshot", 
+            "handwriting", 
+            "document"
+        ], 
+        "name": "img_0331.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9819185, 
+            0.9294475, 
+            0.89850247, 
+            0.8742858, 
+            0.8726666, 
+            0.85599166, 
+            0.8492961, 
+            0.81846434, 
+            0.79755014, 
+            0.725776
+        ], 
+        "picture_attributes": [
+            "car", 
+            "motor vehicle", 
+            "road", 
+            "grass", 
+            "plant", 
+            "vehicle", 
+            "asphalt", 
+            "family car", 
+            "tree", 
+            "automotive exterior"
+        ], 
+        "name": "img_0395.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9430641, 
+            0.8952026, 
+            0.8875115, 
+            0.87465525, 
+            0.8501403, 
+            0.8207584, 
+            0.79247326, 
+            0.7704965, 
+            0.7547649, 
+            0.7269046
+        ], 
+        "picture_attributes": [
+            "green", 
+            "ecosystem", 
+            "property", 
+            "grass", 
+            "plant", 
+            "light", 
+            "architecture", 
+            "sky", 
+            "phenomenon", 
+            "lighting"
+        ], 
+        "name": "img_0402.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9272692, 
+            0.87692446, 
+            0.66939336, 
+            0.63238925, 
+            0.62967753, 
+            0.5962086, 
+            0.56131464, 
+            0.5150958
+        ], 
+        "picture_attributes": [
+            "web page", 
+            "text", 
+            "media", 
+            "product", 
+            "screenshot", 
+            "website", 
+            "font", 
+            "multimedia"
+        ], 
+        "name": "img_0407.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.92418253, 
+            0.87665, 
+            0.82602376, 
+            0.8222268, 
+            0.8202848, 
+            0.79081124, 
+            0.7609148, 
+            0.7092667, 
+            0.64856744, 
+            0.5871578
+        ], 
+        "picture_attributes": [
+            "tree", 
+            "grass", 
+            "water", 
+            "walkway", 
+            "plant", 
+            "lawn", 
+            "park", 
+            "landscape", 
+            "yard", 
+            "landscaping"
+        ], 
+        "name": "img_0418.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93435574, 
+            0.8907177, 
+            0.8533488, 
+            0.8417486, 
+            0.8218658, 
+            0.8039663, 
+            0.7547649, 
+            0.70834714, 
+            0.6714288, 
+            0.63573605
+        ], 
+        "picture_attributes": [
+            "green", 
+            "sky", 
+            "water", 
+            "grass", 
+            "cloud", 
+            "reservoir", 
+            "phenomenon", 
+            "river", 
+            "tree", 
+            "water resources"
+        ], 
+        "name": "img_0428.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.85511154, 
+            0.8551018, 
+            0.8175884, 
+            0.7920463, 
+            0.77433795, 
+            0.6914996, 
+            0.66554517, 
+            0.6170052, 
+            0.6074591, 
+            0.55687714
+        ], 
+        "picture_attributes": [
+            "hand", 
+            "joint", 
+            "leg", 
+            "finger", 
+            "arm", 
+            "service", 
+            "muscle", 
+            "foot", 
+            "nail", 
+            "knee"
+        ], 
+        "name": "img_0430.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.6482032, 
+            0.6212576, 
+            0.5880193, 
+            0.57750124, 
+            0.5299823, 
+            0.5077991, 
+            0.5023795
+        ], 
+        "picture_attributes": [
+            "advertising", 
+            "tree", 
+            "recreation", 
+            "product", 
+            "media", 
+            "screenshot", 
+            "vehicle"
+        ], 
+        "name": "img_0446.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9792125, 
+            0.9772952, 
+            0.9419867, 
+            0.92856187, 
+            0.9079144, 
+            0.90044785, 
+            0.8752565, 
+            0.84487057, 
+            0.8039937, 
+            0.7852199
+        ], 
+        "picture_attributes": [
+            "motor vehicle", 
+            "vehicle", 
+            "transport", 
+            "automotive tire", 
+            "tire", 
+            "truck", 
+            "mode of transport", 
+            "commercial vehicle", 
+            "military vehicle", 
+            "automotive wheel system"
+        ], 
+        "name": "img_0447.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.90480614, 
+            0.6810849, 
+            0.63243777, 
+            0.6208413, 
+            0.5868331, 
+            0.57757443, 
+            0.5271205
+        ], 
+        "picture_attributes": [
+            "text", 
+            "line", 
+            "font", 
+            "screenshot", 
+            "space", 
+            "angle", 
+            "product"
+        ], 
+        "name": "img_0448.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.6557703, 
+            0.5785645, 
+            0.56275654
+        ], 
+        "picture_attributes": [
+            "font", 
+            "product", 
+            "advertising"
+        ], 
+        "name": "img_0456.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9552926, 
+            0.89461106, 
+            0.8828821, 
+            0.7012486, 
+            0.60096693, 
+            0.56887156, 
+            0.5466654, 
+            0.5290203
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "water", 
+            "ecosystem", 
+            "screenshot", 
+            "watercourse", 
+            "sky", 
+            "tree", 
+            "grass"
+        ], 
+        "name": "img_0473.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9656971, 
+            0.9395686, 
+            0.85771, 
+            0.78080684, 
+            0.7625784, 
+            0.7547649, 
+            0.7333902, 
+            0.71629024, 
+            0.6845396, 
+            0.65639883
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "water", 
+            "river", 
+            "water resources", 
+            "reflection", 
+            "phenomenon", 
+            "atmosphere", 
+            "horizon", 
+            "tree", 
+            "cloud"
+        ], 
+        "name": "img_0474.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9525275, 
+            0.950766, 
+            0.80139476, 
+            0.76905197, 
+            0.7547649, 
+            0.7125591, 
+            0.61161655, 
+            0.5903805, 
+            0.57730365
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "nature", 
+            "grass", 
+            "atmosphere", 
+            "phenomenon", 
+            "screenshot", 
+            "tree", 
+            "landscape", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0475.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9431841, 
+            0.9140881, 
+            0.91332203, 
+            0.83444375, 
+            0.8189909, 
+            0.7547649, 
+            0.69601345, 
+            0.6923236, 
+            0.6449058, 
+            0.60575706
+        ], 
+        "picture_attributes": [
+            "nature", 
+            "sky", 
+            "water", 
+            "water resources", 
+            "reflection", 
+            "phenomenon", 
+            "river", 
+            "grass", 
+            "reservoir", 
+            "lake"
+        ], 
+        "name": "img_0477.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95558524, 
+            0.8862985, 
+            0.82262176, 
+            0.66186, 
+            0.65364075, 
+            0.603241, 
+            0.60043657, 
+            0.59135747, 
+            0.5748423, 
+            0.56155246
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "water", 
+            "grass", 
+            "wetland", 
+            "bank", 
+            "grassland", 
+            "floodplain", 
+            "tree", 
+            "sky", 
+            "meadow"
+        ], 
+        "name": "img_0478.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9461592, 
+            0.8748014, 
+            0.7836448, 
+            0.60732883, 
+            0.576992, 
+            0.5654072, 
+            0.54732114, 
+            0.54553366, 
+            0.5196998, 
+            0.5012478
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "water", 
+            "grass", 
+            "tree", 
+            "watercourse", 
+            "bank", 
+            "floodplain", 
+            "website", 
+            "river", 
+            "wetland"
+        ], 
+        "name": "img_0479.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.89178824, 
+            0.88076395, 
+            0.83882374, 
+            0.83746606, 
+            0.7872433, 
+            0.784485, 
+            0.73116034, 
+            0.6649473, 
+            0.6471815, 
+            0.612
+        ], 
+        "picture_attributes": [
+            "rotorcraft", 
+            "helicopter", 
+            "aviation", 
+            "aircraft", 
+            "sky", 
+            "helicopter rotor", 
+            "airplane", 
+            "line", 
+            "flight", 
+            "propeller"
+        ], 
+        "name": "img_0480.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9675826, 
+            0.8945752, 
+            0.83569336, 
+            0.8248959, 
+            0.81421024, 
+            0.70782465, 
+            0.7058942, 
+            0.6958745, 
+            0.66857135, 
+            0.63636315
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "flight", 
+            "rotorcraft", 
+            "tree", 
+            "atmosphere of earth", 
+            "helicopter", 
+            "aircraft", 
+            "wing", 
+            "airplane", 
+            "aviation"
+        ], 
+        "name": "img_0481.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9423329, 
+            0.8877971, 
+            0.8541717, 
+            0.7845911, 
+            0.76490414, 
+            0.7547649, 
+            0.66899204, 
+            0.615523, 
+            0.563358, 
+            0.55541825
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "atmosphere", 
+            "screenshot", 
+            "atmosphere of earth", 
+            "black and white", 
+            "phenomenon", 
+            "font", 
+            "night", 
+            "midnight", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0482.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9638917, 
+            0.90208423, 
+            0.85539305, 
+            0.82474434, 
+            0.8147856, 
+            0.8133633, 
+            0.7847004, 
+            0.7605325, 
+            0.69123024, 
+            0.687368
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "flight", 
+            "airplane", 
+            "aircraft", 
+            "tree", 
+            "atmosphere of earth", 
+            "aviation", 
+            "cloud", 
+            "wing", 
+            "air travel"
+        ], 
+        "name": "img_0483.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9497191, 
+            0.8748426, 
+            0.83477545, 
+            0.78768927, 
+            0.7547649, 
+            0.70253944, 
+            0.61621606, 
+            0.50457585
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "mode of transport", 
+            "atmosphere", 
+            "atmosphere of earth", 
+            "phenomenon", 
+            "screenshot", 
+            "horizon", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0494.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.90393096, 
+            0.81651545, 
+            0.58070785, 
+            0.55417925, 
+            0.52449095
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "leisure", 
+            "vacation", 
+            "recreation"
+        ], 
+        "name": "img_0495.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9831608, 
+            0.9772412, 
+            0.96304834, 
+            0.8751597, 
+            0.8343893, 
+            0.73022753, 
+            0.704597, 
+            0.64122, 
+            0.631283, 
+            0.6103313
+        ], 
+        "picture_attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "automotive exterior", 
+            "luxury vehicle", 
+            "family car", 
+            "plant community", 
+            "road", 
+            "off road vehicle"
+        ], 
+        "name": "img_0497.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.87579376, 
+            0.8709446, 
+            0.8625593, 
+            0.7520046, 
+            0.7494293, 
+            0.7051344, 
+            0.661199, 
+            0.6587988, 
+            0.635209, 
+            0.62992567
+        ], 
+        "picture_attributes": [
+            "ecosystem", 
+            "grassland", 
+            "grass", 
+            "plain", 
+            "pasture", 
+            "tree", 
+            "sky", 
+            "field", 
+            "meadow", 
+            "ecoregion"
+        ], 
+        "name": "img_0498.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.80896235, 
+            0.68184805, 
+            0.66360307, 
+            0.6575244, 
+            0.5679878, 
+            0.5567907, 
+            0.5536963, 
+            0.5314239, 
+            0.5235008, 
+            0.5079411
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "sky", 
+            "grass", 
+            "road", 
+            "land lot", 
+            "plain", 
+            "ecoregion", 
+            "screenshot", 
+            "font", 
+            "tree"
+        ], 
+        "name": "img_0499.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.64936274, 
+            0.63626486, 
+            0.54420924, 
+            0.5423085, 
+            0.516448
+        ], 
+        "picture_attributes": [
+            "grass", 
+            "screenshot", 
+            "website", 
+            "font", 
+            "brand"
+        ], 
+        "name": "img_0500.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93130326, 
+            0.74006665, 
+            0.56966454
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "water", 
+            "sky"
+        ], 
+        "name": "img_0501.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9488473, 
+            0.9006775, 
+            0.8627905, 
+            0.8424087, 
+            0.66336596, 
+            0.6589095, 
+            0.6463871, 
+            0.58606875, 
+            0.5294831, 
+            0.52783656
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "reflection", 
+            "tree", 
+            "floodplain", 
+            "sky", 
+            "river", 
+            "bank", 
+            "grass", 
+            "bayou"
+        ], 
+        "name": "img_0502.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9491294, 
+            0.94452405, 
+            0.94093144, 
+            0.87024343, 
+            0.7790555, 
+            0.77129203, 
+            0.76133895, 
+            0.671119, 
+            0.6563835, 
+            0.6448355
+        ], 
+        "picture_attributes": [
+            "tree", 
+            "path", 
+            "nature", 
+            "woody plant", 
+            "plant", 
+            "walking", 
+            "trail", 
+            "recreation", 
+            "grass", 
+            "leisure"
+        ], 
+        "name": "img_0503.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9423798, 
+            0.886552, 
+            0.6968791, 
+            0.57298124, 
+            0.52494454
+        ], 
+        "picture_attributes": [
+            "tree", 
+            "sky", 
+            "plant", 
+            "cloud", 
+            "grass"
+        ], 
+        "name": "img_0504.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9831366, 
+            0.9658176, 
+            0.96411544, 
+            0.96257275, 
+            0.87509274, 
+            0.853175, 
+            0.80796915, 
+            0.7468206, 
+            0.71472245, 
+            0.6037695
+        ], 
+        "picture_attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "land vehicle", 
+            "mode of transport", 
+            "transport", 
+            "automotive exterior", 
+            "family car", 
+            "luxury vehicle", 
+            "advertising"
+        ], 
+        "name": "img_0505.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.6677573, 
+            0.6506622, 
+            0.6155886, 
+            0.6110399, 
+            0.6091921, 
+            0.59072846, 
+            0.5416068, 
+            0.5145701
+        ], 
+        "picture_attributes": [
+            "shoe", 
+            "product", 
+            "product design", 
+            "media", 
+            "photo caption", 
+            "advertising", 
+            "font", 
+            "website"
+        ], 
+        "name": "img_0507.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9750752, 
+            0.9423115, 
+            0.9140724, 
+            0.9111158, 
+            0.90077746, 
+            0.89889205, 
+            0.869368, 
+            0.86069834, 
+            0.8317493, 
+            0.82350934
+        ], 
+        "picture_attributes": [
+            "face", 
+            "facial expression", 
+            "eyebrow", 
+            "nose", 
+            "chin", 
+            "forehead", 
+            "photo caption", 
+            "head", 
+            "cheek", 
+            "smile"
+        ], 
+        "name": "img_0513.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7690281, 
+            0.76346165, 
+            0.72614104, 
+            0.652199, 
+            0.6485831, 
+            0.6046495, 
+            0.5689942, 
+            0.5116193, 
+            0.5056594, 
+            0.50121224
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "water resources", 
+            "grass", 
+            "sky", 
+            "golf club", 
+            "golf equipment", 
+            "font", 
+            "recreation", 
+            "website", 
+            "tree"
+        ], 
+        "name": "img_0514.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9056096, 
+            0.85969317, 
+            0.76388454, 
+            0.6739408, 
+            0.6720096, 
+            0.6633802, 
+            0.66325057, 
+            0.64400953, 
+            0.6324169, 
+            0.6059291
+        ], 
+        "picture_attributes": [
+            "text", 
+            "water resources", 
+            "water", 
+            "font", 
+            "area", 
+            "line", 
+            "grass", 
+            "screenshot", 
+            "tree", 
+            "sky"
+        ], 
+        "name": "img_0515.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8749824, 
+            0.8013631, 
+            0.73785174, 
+            0.7226086, 
+            0.7019311, 
+            0.6941778, 
+            0.6525107, 
+            0.57278866, 
+            0.515297
+        ], 
+        "picture_attributes": [
+            "mode of transport", 
+            "air travel", 
+            "aviation", 
+            "sky", 
+            "airplane", 
+            "airline", 
+            "aircraft", 
+            "airliner", 
+            "airport"
+        ], 
+        "name": "img_0518.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.86610395, 
+            0.71879536, 
+            0.70054585, 
+            0.6337336, 
+            0.5827421, 
+            0.56813926, 
+            0.5544874, 
+            0.5120674, 
+            0.5026539
+        ], 
+        "picture_attributes": [
+            "text", 
+            "screenshot", 
+            "advertising", 
+            "font", 
+            "website", 
+            "graphics", 
+            "graphic design", 
+            "display device", 
+            "computer wallpaper"
+        ], 
+        "name": "img_0523.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.72222155, 
+            0.56627166, 
+            0.51675415, 
+            0.5020057, 
+            0.50013053
+        ], 
+        "picture_attributes": [
+            "lighting", 
+            "darkness", 
+            "advertising", 
+            "night", 
+            "screenshot"
+        ], 
+        "name": "img_0524.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9195586, 
+            0.7613917, 
+            0.72903067, 
+            0.6627749, 
+            0.6606515, 
+            0.65760213, 
+            0.6124454, 
+            0.5840175, 
+            0.5263518, 
+            0.51420504
+        ], 
+        "picture_attributes": [
+            "furniture", 
+            "lighting", 
+            "chair", 
+            "interior design", 
+            "table", 
+            "floor", 
+            "couch", 
+            "flooring", 
+            "living room", 
+            "font"
+        ], 
+        "name": "img_0525.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95397305, 
+            0.927922, 
+            0.7738674, 
+            0.71788263, 
+            0.6468278, 
+            0.5480209, 
+            0.53283936, 
+            0.51423466
+        ], 
+        "picture_attributes": [
+            "furniture", 
+            "table", 
+            "lighting", 
+            "interior design", 
+            "light fixture", 
+            "chair", 
+            "font", 
+            "floor"
+        ], 
+        "name": "img_0526.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.91015184, 
+            0.8447716, 
+            0.8110939, 
+            0.635204, 
+            0.6159026, 
+            0.5726697, 
+            0.5638552, 
+            0.5532866, 
+            0.5376875, 
+            0.5311988
+        ], 
+        "picture_attributes": [
+            "canopy", 
+            "tent", 
+            "shade", 
+            "backyard", 
+            "roof", 
+            "angle", 
+            "awning", 
+            "product", 
+            "house", 
+            "yard"
+        ], 
+        "name": "img_0529.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9656346, 
+            0.84580475, 
+            0.8176745, 
+            0.8144709, 
+            0.7318627, 
+            0.6984477, 
+            0.6689559, 
+            0.5855474, 
+            0.57619566, 
+            0.56240827
+        ], 
+        "picture_attributes": [
+            "clothing", 
+            "outerwear", 
+            "snapshot", 
+            "shoulder", 
+            "jeans", 
+            "headgear", 
+            "jacket", 
+            "girl", 
+            "denim", 
+            "cap"
+        ], 
+        "name": "img_0530.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8861475, 
+            0.86820203, 
+            0.8620931, 
+            0.84018534, 
+            0.7990765, 
+            0.711569, 
+            0.58082056
+        ], 
+        "picture_attributes": [
+            "bottle", 
+            "beer", 
+            "beer bottle", 
+            "drink", 
+            "alcoholic beverage", 
+            "glass bottle", 
+            "lager"
+        ], 
+        "name": "img_0531.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9212527, 
+            0.9108606, 
+            0.89729446, 
+            0.87736243, 
+            0.8531356, 
+            0.8196351, 
+            0.81045127, 
+            0.74572486, 
+            0.69963825, 
+            0.6605043
+        ], 
+        "picture_attributes": [
+            "leisure", 
+            "plant", 
+            "water", 
+            "tree", 
+            "grass", 
+            "lawn", 
+            "male", 
+            "recreation", 
+            "vacation", 
+            "summer"
+        ], 
+        "name": "img_0532.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9426023, 
+            0.93708646, 
+            0.86920726, 
+            0.7703453, 
+            0.75164986, 
+            0.58903545, 
+            0.564602, 
+            0.54755235, 
+            0.5194582, 
+            0.5126155
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "text", 
+            "sky", 
+            "screenshot", 
+            "wave", 
+            "river", 
+            "grass", 
+            "font", 
+            "advertising"
+        ], 
+        "name": "img_0537.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9778856, 
+            0.97576964, 
+            0.9640495, 
+            0.8990518, 
+            0.89697057, 
+            0.7547649, 
+            0.59974456, 
+            0.5849473
+        ], 
+        "picture_attributes": [
+            "facial hair", 
+            "hair", 
+            "beard", 
+            "moustache", 
+            "photo caption", 
+            "phenomenon", 
+            "screenshot", 
+            "advertising"
+        ], 
+        "name": "img_0544.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.755925, 
+            0.60204107, 
+            0.5780232, 
+            0.5661818, 
+            0.5601095, 
+            0.5552376, 
+            0.53943247
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "font", 
+            "website", 
+            "product", 
+            "media", 
+            "multimedia", 
+            "software"
+        ], 
+        "name": "img_0546.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7101235, 
+            0.62820715, 
+            0.503349, 
+            0.50125206
+        ], 
+        "picture_attributes": [
+            "advertising", 
+            "screenshot", 
+            "product", 
+            "tourism"
+        ], 
+        "name": "img_0553.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8735868, 
+            0.826329, 
+            0.80017394, 
+            0.7684741, 
+            0.7547649, 
+            0.7004017, 
+            0.6536894, 
+            0.60277927, 
+            0.58916634
+        ], 
+        "picture_attributes": [
+            "text", 
+            "light", 
+            "screenshot", 
+            "darkness", 
+            "phenomenon", 
+            "night", 
+            "font", 
+            "midnight", 
+            "computer wallpaper"
+        ], 
+        "name": "img_e0224.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.944919, 
+            0.93700224, 
+            0.9216978, 
+            0.87525654, 
+            0.8022348, 
+            0.8018783, 
+            0.7627991, 
+            0.7547649, 
+            0.6925251, 
+            0.5057971
+        ], 
+        "picture_attributes": [
+            "water", 
+            "green", 
+            "ecosystem", 
+            "mode of transport", 
+            "tree", 
+            "grass", 
+            "geological phenomenon", 
+            "phenomenon", 
+            "biome", 
+            "lawn"
+        ], 
+        "name": "vr_billdance_01.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.87525654, 
+            0.8030483, 
+            0.77895015, 
+            0.7547649, 
+            0.6701345, 
+            0.62003034, 
+            0.604716, 
+            0.59728295, 
+            0.5885161, 
+            0.57835823
+        ], 
+        "picture_attributes": [
+            "mode of transport", 
+            "games", 
+            "player", 
+            "phenomenon", 
+            "recreation", 
+            "skating", 
+            "sports", 
+            "extreme sport", 
+            "asphalt", 
+            "product"
+        ], 
+        "name": "vr_billdance_02.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96214545, 
+            0.9422603, 
+            0.93876666, 
+            0.9268003, 
+            0.9037037, 
+            0.8752561, 
+            0.83328426, 
+            0.8268512, 
+            0.8068352, 
+            0.7547649
+        ], 
+        "picture_attributes": [
+            "people", 
+            "games", 
+            "man", 
+            "mammal", 
+            "vertebrate", 
+            "mode of transport", 
+            "player", 
+            "event", 
+            "interaction", 
+            "phenomenon"
+        ], 
+        "name": "vr_billdance_03.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.88135284, 
+            0.87525654, 
+            0.83042365, 
+            0.8181152, 
+            0.8158424, 
+            0.78275263, 
+            0.7547649, 
+            0.753708, 
+            0.7411628, 
+            0.68914646
+        ], 
+        "picture_attributes": [
+            "car", 
+            "mode of transport", 
+            "natural disaster", 
+            "disaster", 
+            "family car", 
+            "geological phenomenon", 
+            "phenomenon", 
+            "city car", 
+            "water", 
+            "flood"
+        ], 
+        "name": "vr_billdance_04.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.87525654, 
+            0.81565976, 
+            0.7762312, 
+            0.7705815, 
+            0.7547649, 
+            0.6469294, 
+            0.60320294, 
+            0.578473, 
+            0.5662277, 
+            0.5485746
+        ], 
+        "picture_attributes": [
+            "mode of transport", 
+            "technology", 
+            "games", 
+            "player", 
+            "phenomenon", 
+            "display device", 
+            "recreation", 
+            "vehicle registration plate", 
+            "event", 
+            "automotive exterior"
+        ], 
+        "name": "vr_billdance_05.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9683087, 
+            0.87525654, 
+            0.7547649, 
+            0.69772106, 
+            0.66319805, 
+            0.65772384, 
+            0.57823795, 
+            0.57194287, 
+            0.5058061
+        ], 
+        "picture_attributes": [
+            "blue", 
+            "mode of transport", 
+            "phenomenon", 
+            "grass", 
+            "home", 
+            "screenshot", 
+            "tree", 
+            "recreation", 
+            "window"
+        ], 
+        "name": "vr_billdance_06.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9158505, 
+            0.87525654, 
+            0.82769954, 
+            0.8081511, 
+            0.7849234, 
+            0.7547649, 
+            0.7049822, 
+            0.65520096, 
+            0.6463272, 
+            0.61703795
+        ], 
+        "picture_attributes": [
+            "man", 
+            "mode of transport", 
+            "car", 
+            "player", 
+            "official", 
+            "phenomenon", 
+            "interaction", 
+            "event", 
+            "technology", 
+            "driving"
+        ], 
+        "name": "vr_billdance_07.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9037037, 
+            0.87525654, 
+            0.7547649, 
+            0.58265585, 
+            0.5618456, 
+            0.5265568, 
+            0.5237926, 
+            0.5161264, 
+            0.5049664
+        ], 
+        "picture_attributes": [
+            "vertebrate", 
+            "mode of transport", 
+            "phenomenon", 
+            "recreation", 
+            "fun", 
+            "screenshot", 
+            "conversation", 
+            "song", 
+            "girl"
+        ], 
+        "name": "vr_billdance_08.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.88543814, 
+            0.87525654, 
+            0.81938994, 
+            0.732931, 
+            0.5516453, 
+            0.5320784, 
+            0.5245974
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "jet ski", 
+            "watercraft", 
+            "automotive exterior", 
+            "recreation", 
+            "boating"
+        ], 
+        "name": "vr_billdance_09.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8766464, 
+            0.87525654, 
+            0.7547649, 
+            0.7478307, 
+            0.6608007, 
+            0.5966485, 
+            0.5923839, 
+            0.5780508, 
+            0.53599405, 
+            0.5181842
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "phenomenon", 
+            "personal protective equipment", 
+            "racing", 
+            "adventure", 
+            "material", 
+            "extreme sport", 
+            "product", 
+            "recreation"
+        ], 
+        "name": "vr_billdance_10.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.87525654, 
+            0.7547649, 
+            0.71825904, 
+            0.7044413
+        ], 
+        "picture_attributes": [
+            "mode of transport", 
+            "phenomenon", 
+            "event", 
+            "fun"
+        ], 
+        "name": "vr_billdance_11.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9789709, 
+            0.97316825, 
+            0.9509761, 
+            0.9442477, 
+            0.94401455, 
+            0.9329392, 
+            0.9322164, 
+            0.92958033, 
+            0.89963144, 
+            0.8803716
+        ], 
+        "picture_attributes": [
+            "face", 
+            "hair", 
+            "person", 
+            "man", 
+            "facial expression", 
+            "human hair color", 
+            "nose", 
+            "skin", 
+            "eyebrow", 
+            "girl"
+        ], 
+        "name": "vr_billdance_12.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8811767, 
+            0.87525654, 
+            0.7547649, 
+            0.7446364, 
+            0.667946, 
+            0.63862336, 
+            0.6195527, 
+            0.5868144, 
+            0.5797342, 
+            0.5626035
+        ], 
+        "picture_attributes": [
+            "property", 
+            "mode of transport", 
+            "phenomenon", 
+            "tree", 
+            "natural disaster", 
+            "disaster", 
+            "land lot", 
+            "grass", 
+            "water", 
+            "flood"
+        ], 
+        "name": "vr_billdance_13.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.954593, 
+            0.9394642, 
+            0.9251615, 
+            0.9037037, 
+            0.87525654, 
+            0.8176745, 
+            0.7558455, 
+            0.7547649, 
+            0.7435536, 
+            0.7234149
+        ], 
+        "picture_attributes": [
+            "black", 
+            "green", 
+            "mammal", 
+            "vertebrate", 
+            "mode of transport", 
+            "snapshot", 
+            "games", 
+            "phenomenon", 
+            "mouth", 
+            "organ"
+        ], 
+        "name": "vr_billdance_14.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9670608, 
+            0.9581468, 
+            0.9286634, 
+            0.92478335, 
+            0.9037037, 
+            0.87525654, 
+            0.8176745, 
+            0.78223515, 
+            0.7547649, 
+            0.74524945
+        ], 
+        "picture_attributes": [
+            "people", 
+            "face", 
+            "man", 
+            "mammal", 
+            "vertebrate", 
+            "mode of transport", 
+            "snapshot", 
+            "interaction", 
+            "phenomenon", 
+            "event"
+        ], 
+        "name": "vr_billdance_15.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.76744735, 
+            0.5801414, 
+            0.54136926
+        ], 
+        "picture_attributes": [
+            "fog", 
+            "mist", 
+            "sky"
+        ], 
+        "name": "vr_brock_01.jpeg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93126917, 
+            0.86982554, 
+            0.83244866, 
+            0.7994894, 
+            0.7547649, 
+            0.7423687, 
+            0.7356326, 
+            0.7179381, 
+            0.6809722, 
+            0.65725756
+        ], 
+        "picture_attributes": [
+            "fog", 
+            "mist", 
+            "river", 
+            "water", 
+            "phenomenon", 
+            "morning", 
+            "sky", 
+            "tree", 
+            "cloud", 
+            "haze"
+        ], 
+        "name": "vr_brock_02.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.893898, 
+            0.80496985
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources"
+        ], 
+        "name": "vr_diana_01.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.88407785, 
+            0.8664496, 
+            0.81582934, 
+            0.79458576, 
+            0.7547649, 
+            0.72127545, 
+            0.68806493, 
+            0.68802196, 
+            0.6709115, 
+            0.6314281
+        ], 
+        "picture_attributes": [
+            "waterway", 
+            "water resources", 
+            "river", 
+            "sky", 
+            "phenomenon", 
+            "city", 
+            "water", 
+            "reflection", 
+            "skyline", 
+            "tree"
+        ], 
+        "name": "vr_diana_02.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.89159125, 
+            0.8524605, 
+            0.79958034, 
+            0.7291398, 
+            0.66879076, 
+            0.6582423, 
+            0.6087536, 
+            0.6065522, 
+            0.6005203, 
+            0.5996242
+        ], 
+        "picture_attributes": [
+            "property", 
+            "floor", 
+            "flooring", 
+            "furniture", 
+            "table", 
+            "interior design", 
+            "tile", 
+            "product", 
+            "website", 
+            "countertop"
+        ], 
+        "name": "vr_diana_03.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.76939565, 
+            0.7097705, 
+            0.69172734, 
+            0.5824345, 
+            0.5766893, 
+            0.5582068, 
+            0.5215194
+        ], 
+        "picture_attributes": [
+            "floor", 
+            "furniture", 
+            "flooring", 
+            "website", 
+            "table", 
+            "product", 
+            "interior design"
+        ], 
+        "name": "vr_diana_04.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7121446, 
+            0.6774926, 
+            0.6315289, 
+            0.6262515, 
+            0.51748186, 
+            0.50767946
+        ], 
+        "picture_attributes": [
+            "screenshot", 
+            "software", 
+            "font", 
+            "website", 
+            "product", 
+            "media"
+        ], 
+        "name": "vr_diana_05.png"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94654864, 
+            0.8914583, 
+            0.8610798, 
+            0.7831994, 
+            0.7675163, 
+            0.70788, 
+            0.6511543, 
+            0.59202015, 
+            0.5569135, 
+            0.5208718
+        ], 
+        "picture_attributes": [
+            "car", 
+            "day", 
+            "vehicle", 
+            "tree", 
+            "recreation", 
+            "plant", 
+            "crowd", 
+            "fun", 
+            "event", 
+            "sky"
+        ], 
+        "name": "vr_diana_06.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9471641, 
+            0.80181277, 
+            0.7722131, 
+            0.6407561
+        ], 
+        "picture_attributes": [
+            "waste", 
+            "scrap", 
+            "litter", 
+            "vehicle"
+        ], 
+        "name": "vr_harryenergy_01.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.54291046
+        ], 
+        "picture_attributes": [
+            "floor"
+        ], 
+        "name": "vr_harryenergy_02.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.75250846, 
+            0.6276814, 
+            0.6003804, 
+            0.5150289
+        ], 
+        "picture_attributes": [
+            "floor", 
+            "flooring", 
+            "vehicle", 
+            "window"
+        ], 
+        "name": "vr_harryenergy_03.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9032555, 
+            0.8609029, 
+            0.85915166, 
+            0.79718363, 
+            0.7867441, 
+            0.7375325, 
+            0.73319775, 
+            0.6706246, 
+            0.62952536, 
+            0.5735351
+        ], 
+        "picture_attributes": [
+            "walkway", 
+            "water", 
+            "path", 
+            "grass", 
+            "road surface", 
+            "water resources", 
+            "driveway", 
+            "asphalt", 
+            "floodplain", 
+            "tree"
+        ], 
+        "name": "vr_harryenergy_04.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.91739094, 
+            0.8816004, 
+            0.87719834, 
+            0.82909214, 
+            0.8051847, 
+            0.75506645, 
+            0.7238772, 
+            0.6914786, 
+            0.68743044, 
+            0.6734295
+        ], 
+        "picture_attributes": [
+            "nature reserve", 
+            "vegetation", 
+            "ecosystem", 
+            "water resources", 
+            "geological phenomenon", 
+            "water", 
+            "bank", 
+            "river", 
+            "floodplain", 
+            "biome"
+        ], 
+        "name": "vr_harryenergy_05.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9302512, 
+            0.9175432, 
+            0.88558364, 
+            0.78443223, 
+            0.66377366, 
+            0.60725456, 
+            0.581841, 
+            0.5757058, 
+            0.5288201, 
+            0.5106822
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "ecosystem", 
+            "nature reserve", 
+            "tree", 
+            "screenshot", 
+            "water", 
+            "watercourse", 
+            "ecoregion", 
+            "wetland", 
+            "grass"
+        ], 
+        "name": "vr_harryenergy_10.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.88337845, 
+            0.8051162, 
+            0.6787884, 
+            0.6742841, 
+            0.6740494, 
+            0.6734248, 
+            0.6558867, 
+            0.59668624, 
+            0.53202707, 
+            0.51458704
+        ], 
+        "picture_attributes": [
+            "community", 
+            "youth", 
+            "crowd", 
+            "race", 
+            "vehicle", 
+            "tree", 
+            "recreation", 
+            "tourism", 
+            "competition event", 
+            "energy"
+        ], 
+        "name": "vr_juliekaty_01.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95763135, 
+            0.85548824, 
+            0.76282257, 
+            0.7016146, 
+            0.6587599, 
+            0.6467569, 
+            0.61328346, 
+            0.5939483, 
+            0.5774195, 
+            0.5482137
+        ], 
+        "picture_attributes": [
+            "water", 
+            "waterway", 
+            "water resources", 
+            "watercourse", 
+            "flood", 
+            "river", 
+            "floodplain", 
+            "bank", 
+            "pond", 
+            "tree"
+        ], 
+        "name": "vr_juliekaty_02.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.77835345, 
+            0.77130544, 
+            0.768221, 
+            0.6165211, 
+            0.57526493, 
+            0.56291896, 
+            0.5445185, 
+            0.53346634
+        ], 
+        "picture_attributes": [
+            "recreation", 
+            "outdoor recreation", 
+            "tree", 
+            "plant", 
+            "car", 
+            "adventure", 
+            "product", 
+            "fun"
+        ], 
+        "name": "vr_juliekaty_03.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95096284, 
+            0.94254535, 
+            0.89539725, 
+            0.88770133, 
+            0.88104695, 
+            0.8576696, 
+            0.78882575, 
+            0.7762743, 
+            0.7547649, 
+            0.72659695
+        ], 
+        "picture_attributes": [
+            "photograph", 
+            "grass", 
+            "tree", 
+            "day", 
+            "plant", 
+            "lawn", 
+            "photography", 
+            "yard", 
+            "phenomenon", 
+            "morning"
+        ], 
+        "name": "vr_juliekaty_04.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94273627, 
+            0.928908, 
+            0.91074544, 
+            0.86826503, 
+            0.7897276, 
+            0.7751103, 
+            0.7610513, 
+            0.7582877, 
+            0.70974547, 
+            0.6959769
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "waterway", 
+            "nature reserve", 
+            "floodplain", 
+            "bird's eye view", 
+            "suburb", 
+            "river island", 
+            "land lot", 
+            "river", 
+            "aerial photography"
+        ], 
+        "name": "vr_juliekaty_05.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94287944, 
+            0.8079899, 
+            0.7597256, 
+            0.6844156, 
+            0.6832618, 
+            0.66917145, 
+            0.61831033, 
+            0.5431109
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "rock", 
+            "watercourse", 
+            "earth", 
+            "mineral", 
+            "geology", 
+            "texture"
+        ], 
+        "name": "vr_juliekaty_06.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9186095, 
+            0.89390326, 
+            0.8752522, 
+            0.74568146, 
+            0.65851456, 
+            0.612419, 
+            0.55375063, 
+            0.5500041, 
+            0.53355515, 
+            0.5033971
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "transport", 
+            "mode of transport", 
+            "troop", 
+            "militia", 
+            "car", 
+            "tree", 
+            "military", 
+            "military organization", 
+            "recreation"
+        ], 
+        "name": "vr_juliekaty_08.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94862944, 
+            0.9327505, 
+            0.63993734, 
+            0.63334614, 
+            0.6040401, 
+            0.5734447, 
+            0.5642804, 
+            0.55198115
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "car", 
+            "automotive tire", 
+            "automotive exterior", 
+            "motor vehicle", 
+            "auto part", 
+            "machine", 
+            "tire"
+        ], 
+        "name": "vr_juliekaty_09.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96958417, 
+            0.9681021, 
+            0.9543014, 
+            0.9292269, 
+            0.87525433, 
+            0.8701162, 
+            0.84717387, 
+            0.77743995, 
+            0.75698, 
+            0.72589165
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "army", 
+            "transport", 
+            "motor vehicle", 
+            "mode of transport", 
+            "troop", 
+            "military", 
+            "military vehicle", 
+            "car", 
+            "militia"
+        ], 
+        "name": "vr_juliekaty_10.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93878233, 
+            0.91857445, 
+            0.8752516, 
+            0.8384893, 
+            0.5469902
+        ], 
+        "picture_attributes": [
+            "car", 
+            "vehicle", 
+            "mode of transport", 
+            "water", 
+            "recreation"
+        ], 
+        "name": "vr_juliekaty_11.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9660354, 
+            0.92170453, 
+            0.6670378, 
+            0.6116699, 
+            0.5007678
+        ], 
+        "picture_attributes": [
+            "car", 
+            "vehicle", 
+            "automotive exterior", 
+            "motor vehicle", 
+            "auto part"
+        ], 
+        "name": "vr_juliekaty_12.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9516816, 
+            0.57715476, 
+            0.50402856
+        ], 
+        "picture_attributes": [
+            "map", 
+            "atlas", 
+            "plan"
+        ], 
+        "name": "vr_juliekaty_14.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.90077364, 
+            0.8506339, 
+            0.83793545, 
+            0.6482022, 
+            0.63409024, 
+            0.6265848, 
+            0.6235536, 
+            0.52360535, 
+            0.51341975
+        ], 
+        "picture_attributes": [
+            "grave", 
+            "headstone", 
+            "grass", 
+            "sign", 
+            "signage", 
+            "tree", 
+            "font", 
+            "banner", 
+            "chalk"
+        ], 
+        "name": "vr_juliekaty_15.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.89247817, 
+            0.8704567, 
+            0.84576845, 
+            0.8180855, 
+            0.805711, 
+            0.7836891, 
+            0.7430667, 
+            0.6618388, 
+            0.58471406, 
+            0.5768607
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "car", 
+            "public space", 
+            "tree", 
+            "grass", 
+            "plant", 
+            "recreation", 
+            "park", 
+            "lawn", 
+            "outdoor structure"
+        ], 
+        "name": "vr_juliekaty_16.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.90349156, 
+            0.8508542, 
+            0.83933586, 
+            0.81165075, 
+            0.7962386, 
+            0.7376875, 
+            0.71699077, 
+            0.6296045, 
+            0.5826053, 
+            0.5615058
+        ], 
+        "picture_attributes": [
+            "day", 
+            "headgear", 
+            "fashion accessory", 
+            "youth", 
+            "product", 
+            "smile", 
+            "fun", 
+            "cool", 
+            "recreation", 
+            "team"
+        ], 
+        "name": "vr_juliekaty_18.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8913634, 
+            0.8752511, 
+            0.85259694, 
+            0.83816683, 
+            0.81777835, 
+            0.7547649, 
+            0.75122637, 
+            0.73669755, 
+            0.7364886, 
+            0.7156865
+        ], 
+        "picture_attributes": [
+            "lane", 
+            "mode of transport", 
+            "morning", 
+            "sky", 
+            "car", 
+            "phenomenon", 
+            "sunlight", 
+            "screenshot", 
+            "tree", 
+            "asphalt"
+        ], 
+        "name": "vr_juliekaty_19.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9142318, 
+            0.87708783, 
+            0.87520605, 
+            0.8739325, 
+            0.7620379, 
+            0.62489784
+        ], 
+        "picture_attributes": [
+            "car", 
+            "vehicle", 
+            "mode of transport", 
+            "water", 
+            "reflection", 
+            "motor vehicle"
+        ], 
+        "name": "vr_juliekaty_20.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7618325, 
+            0.712662, 
+            0.6843838, 
+            0.6141686, 
+            0.5290303, 
+            0.5058625
+        ], 
+        "picture_attributes": [
+            "personal protective equipment", 
+            "helmet", 
+            "protective gear in sports", 
+            "protective equipment in gridiron football", 
+            "car", 
+            "product"
+        ], 
+        "name": "vr_juliekaty_21-text_02.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.78890586, 
+            0.7851446, 
+            0.7633036, 
+            0.7547649, 
+            0.74079514, 
+            0.73096603, 
+            0.7009819, 
+            0.6875411, 
+            0.66832143
+        ], 
+        "picture_attributes": [
+            "water resources", 
+            "flood", 
+            "water", 
+            "phenomenon", 
+            "river", 
+            "natural disaster", 
+            "sky", 
+            "disaster", 
+            "floodplain"
+        ], 
+        "name": "vr_juliekaty_21.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7618325, 
+            0.71266186, 
+            0.6843838, 
+            0.6141687, 
+            0.52902967, 
+            0.50586253
+        ], 
+        "picture_attributes": [
+            "personal protective equipment", 
+            "helmet", 
+            "protective gear in sports", 
+            "protective equipment in gridiron football", 
+            "car", 
+            "product"
+        ], 
+        "name": "vr_juliekaty_22.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.97689486, 
+            0.97524744, 
+            0.94949645, 
+            0.9279285, 
+            0.91563827, 
+            0.89836127, 
+            0.87525654, 
+            0.8466662, 
+            0.78994983, 
+            0.74999774
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "motor vehicle", 
+            "transport", 
+            "automotive tire", 
+            "tire", 
+            "military vehicle", 
+            "mode of transport", 
+            "car", 
+            "automotive wheel system", 
+            "truck"
+        ], 
+        "name": "vr_juliekaty_23.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9594664, 
+            0.9222316, 
+            0.92184395, 
+            0.8746051, 
+            0.85972315, 
+            0.83815324, 
+            0.779862, 
+            0.7795306, 
+            0.7788114, 
+            0.7547649
+        ], 
+        "picture_attributes": [
+            "reflection", 
+            "bayou", 
+            "water", 
+            "waterway", 
+            "wetland", 
+            "river", 
+            "tree", 
+            "swamp", 
+            "pond", 
+            "phenomenon"
+        ], 
+        "name": "vr_juliekaty_24.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9131149, 
+            0.8875502, 
+            0.86201173, 
+            0.6492223, 
+            0.5728546
+        ], 
+        "picture_attributes": [
+            "text", 
+            "blackboard", 
+            "font", 
+            "chalk", 
+            "writing"
+        ], 
+        "name": "vr_juliekaty_25.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9106928, 
+            0.78099847, 
+            0.75005966, 
+            0.7383266, 
+            0.7031815, 
+            0.56817305, 
+            0.52105856
+        ], 
+        "picture_attributes": [
+            "car", 
+            "technology", 
+            "vehicle", 
+            "automotive design", 
+            "automotive exterior", 
+            "glass", 
+            "product"
+        ], 
+        "name": "vr_juliekaty_26.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.98428506, 
+            0.63019156, 
+            0.62142056
+        ], 
+        "picture_attributes": [
+            "map", 
+            "product design", 
+            "sky"
+        ], 
+        "name": "vr_juliekaty_27.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9842851, 
+            0.6301916, 
+            0.62142044
+        ], 
+        "picture_attributes": [
+            "map", 
+            "product design", 
+            "sky"
+        ], 
+        "name": "vr_juliekaty_28.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8946099, 
+            0.87525576, 
+            0.8448778, 
+            0.8257442, 
+            0.69645685, 
+            0.6082904, 
+            0.55484134, 
+            0.52398026, 
+            0.52192885
+        ], 
+        "picture_attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "transport", 
+            "car", 
+            "motor vehicle", 
+            "automotive exterior", 
+            "pc game", 
+            "soldier", 
+            "screenshot"
+        ], 
+        "name": "vr_juliekaty_29.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9839135, 
+            0.9738417, 
+            0.93505514, 
+            0.9330619, 
+            0.915672, 
+            0.9024645, 
+            0.8986407, 
+            0.87525177, 
+            0.8619958, 
+            0.8321764
+        ], 
+        "picture_attributes": [
+            "car", 
+            "land vehicle", 
+            "vehicle", 
+            "motor vehicle", 
+            "tree", 
+            "plant", 
+            "asphalt", 
+            "mode of transport", 
+            "road", 
+            "transport"
+        ], 
+        "name": "vr_juliekaty_30.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8652734, 
+            0.75282717, 
+            0.6014177, 
+            0.5918142, 
+            0.57957566, 
+            0.5668956
+        ], 
+        "picture_attributes": [
+            "text", 
+            "product", 
+            "font", 
+            "label", 
+            "material", 
+            "paper"
+        ], 
+        "name": "vr_juliekaty_31.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8933132, 
+            0.8889647, 
+            0.88723636, 
+            0.8725587, 
+            0.73868513, 
+            0.6720096, 
+            0.6205629, 
+            0.59692526, 
+            0.5743754, 
+            0.56027704
+        ], 
+        "picture_attributes": [
+            "road", 
+            "property", 
+            "sky", 
+            "infrastructure", 
+            "residential area", 
+            "area", 
+            "real estate", 
+            "tree", 
+            "car", 
+            "land lot"
+        ], 
+        "name": "vr_juliekaty_32.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9721564, 
+            0.87853515, 
+            0.87587565, 
+            0.8312185, 
+            0.82707655, 
+            0.79792315, 
+            0.7918083, 
+            0.7536992, 
+            0.7182227, 
+            0.6720096
+        ], 
+        "picture_attributes": [
+            "road", 
+            "infrastructure", 
+            "lane", 
+            "transport", 
+            "car", 
+            "asphalt", 
+            "vehicle", 
+            "residential area", 
+            "road surface", 
+            "area"
+        ], 
+        "name": "vr_juliekaty_33.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95050466, 
+            0.85607076, 
+            0.8303318, 
+            0.8222371, 
+            0.81480795, 
+            0.8029105, 
+            0.7940343, 
+            0.77157503, 
+            0.75094444, 
+            0.74569577
+        ], 
+        "picture_attributes": [
+            "metropolitan area", 
+            "skyscraper", 
+            "city", 
+            "urban area", 
+            "skyline", 
+            "sky", 
+            "tower block", 
+            "downtown", 
+            "daytime", 
+            "condominium"
+        ], 
+        "name": "vr_juliekaty_34.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9872005, 
+            0.95791733, 
+            0.92612517, 
+            0.8933585, 
+            0.8657554, 
+            0.83154255, 
+            0.827165, 
+            0.8152737, 
+            0.8109122, 
+            0.77432466
+        ], 
+        "picture_attributes": [
+            "road", 
+            "asphalt", 
+            "lane", 
+            "infrastructure", 
+            "sky", 
+            "tree", 
+            "plant", 
+            "road surface", 
+            "path", 
+            "grass"
+        ], 
+        "name": "vr_juliekaty_35.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8996704, 
+            0.68971103, 
+            0.66594857, 
+            0.62480515, 
+            0.5708824, 
+            0.5298801
+        ], 
+        "picture_attributes": [
+            "water", 
+            "wood", 
+            "water resources", 
+            "floor", 
+            "angle", 
+            "concrete"
+        ], 
+        "name": "vr_juliekaty_36.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9284022, 
+            0.8836313, 
+            0.8558382, 
+            0.85195637, 
+            0.7463298, 
+            0.7394636, 
+            0.7271269, 
+            0.6953756, 
+            0.6671548, 
+            0.6612608
+        ], 
+        "picture_attributes": [
+            "lawn", 
+            "grass", 
+            "tree", 
+            "water", 
+            "land lot", 
+            "yard", 
+            "path", 
+            "bank", 
+            "plant", 
+            "floodplain"
+        ], 
+        "name": "vr_juliekaty_37.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9686958, 
+            0.93274367, 
+            0.8312154, 
+            0.81393826, 
+            0.78954244, 
+            0.76527035, 
+            0.7561402, 
+            0.72325367, 
+            0.6483808, 
+            0.59524894
+        ], 
+        "picture_attributes": [
+            "car", 
+            "motor vehicle", 
+            "natural disaster", 
+            "vehicle", 
+            "flood", 
+            "disaster", 
+            "water", 
+            "luxury vehicle", 
+            "automotive exterior", 
+            "floodplain"
+        ], 
+        "name": "vr_juliekaty_38.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.85558146, 
+            0.8259124, 
+            0.7557363, 
+            0.7174549, 
+            0.71309954, 
+            0.6798468, 
+            0.6147662, 
+            0.61011297, 
+            0.5834269
+        ], 
+        "picture_attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "river", 
+            "tree", 
+            "water resources", 
+            "bank"
+        ], 
+        "name": "vr_juliekaty_39.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.92919296, 
+            0.85672045, 
+            0.8002569, 
+            0.7935845, 
+            0.7692406, 
+            0.7634298, 
+            0.7489931, 
+            0.7026555, 
+            0.5556189, 
+            0.55001736
+        ], 
+        "picture_attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "river", 
+            "water resources", 
+            "bank", 
+            "disaster", 
+            "tree", 
+            "reservoir"
+        ], 
+        "name": "vr_juliekaty_40.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8980726, 
+            0.84693205, 
+            0.7802249, 
+            0.7380969, 
+            0.6981824, 
+            0.67000467, 
+            0.62102807, 
+            0.5615256, 
+            0.54046375, 
+            0.5000235
+        ], 
+        "picture_attributes": [
+            "flood", 
+            "natural disaster", 
+            "water", 
+            "disaster", 
+            "floodplain", 
+            "land lot", 
+            "home", 
+            "sand", 
+            "floor", 
+            "road surface"
+        ], 
+        "name": "vr_juliekaty_41.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9032321, 
+            0.87642497, 
+            0.7936561, 
+            0.73963475, 
+            0.6725949, 
+            0.65375686, 
+            0.6063212, 
+            0.5953233, 
+            0.58044934, 
+            0.52373064
+        ], 
+        "picture_attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "water resources", 
+            "tree", 
+            "river", 
+            "bank", 
+            "sky"
+        ], 
+        "name": "vr_juliekaty_42.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8628183, 
+            0.8427417, 
+            0.83699024, 
+            0.8251345, 
+            0.82423717, 
+            0.77565944, 
+            0.7753705, 
+            0.5221232
+        ], 
+        "picture_attributes": [
+            "flood", 
+            "water", 
+            "natural disaster", 
+            "river", 
+            "water resources", 
+            "floodplain", 
+            "disaster", 
+            "bank"
+        ], 
+        "name": "vr_juliekaty_43.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.92136264, 
+            0.81600606, 
+            0.7639171, 
+            0.7583916, 
+            0.7316896, 
+            0.7236356, 
+            0.6084928, 
+            0.60175765, 
+            0.56749713, 
+            0.55712825
+        ], 
+        "picture_attributes": [
+            "waterway", 
+            "flood", 
+            "natural disaster", 
+            "water", 
+            "tree", 
+            "disaster", 
+            "floodplain", 
+            "water resources", 
+            "bayou", 
+            "river"
+        ], 
+        "name": "vr_juliekaty_44.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9222236, 
+            0.89367294, 
+            0.85174, 
+            0.79736036, 
+            0.7281595, 
+            0.630106, 
+            0.62915534, 
+            0.60201514, 
+            0.56781167
+        ], 
+        "picture_attributes": [
+            "flood", 
+            "water", 
+            "natural disaster", 
+            "disaster", 
+            "floodplain", 
+            "river", 
+            "water resources", 
+            "bayou", 
+            "tree"
+        ], 
+        "name": "vr_juliekaty_45.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9503561, 
+            0.8450526, 
+            0.7217911, 
+            0.7210304, 
+            0.71908253, 
+            0.7076799, 
+            0.6742976
+        ], 
+        "picture_attributes": [
+            "water", 
+            "flood", 
+            "river", 
+            "natural disaster", 
+            "water resources", 
+            "floodplain", 
+            "disaster"
+        ], 
+        "name": "vr_juliekaty_46.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93899727, 
+            0.9323853, 
+            0.92313117, 
+            0.8496686, 
+            0.82821494, 
+            0.82305574, 
+            0.777384, 
+            0.77336043, 
+            0.7599866, 
+            0.7547649
+        ], 
+        "picture_attributes": [
+            "sky", 
+            "waterway", 
+            "river", 
+            "water resources", 
+            "cloud", 
+            "water", 
+            "floodplain", 
+            "flood", 
+            "natural disaster", 
+            "phenomenon"
+        ], 
+        "name": "vr_juliekaty_47.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93334544, 
+            0.918838, 
+            0.88581204, 
+            0.7989396, 
+            0.7932934, 
+            0.75578463, 
+            0.74272066, 
+            0.6676938, 
+            0.6630487, 
+            0.60676485
+        ], 
+        "picture_attributes": [
+            "waterway", 
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "river", 
+            "bank", 
+            "water resources", 
+            "water transportation"
+        ], 
+        "name": "vr_juliekaty_48.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8321512, 
+            0.824807, 
+            0.744543, 
+            0.7161839, 
+            0.69880205, 
+            0.6554678, 
+            0.6291748, 
+            0.60237443, 
+            0.5973271, 
+            0.5221677
+        ], 
+        "picture_attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "river", 
+            "water resources", 
+            "bank", 
+            "tree", 
+            "bayou"
+        ], 
+        "name": "vr_juliekaty_49.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.94503933, 
+            0.8780812, 
+            0.8732375, 
+            0.77580744, 
+            0.75028735, 
+            0.71366495, 
+            0.6665585, 
+            0.652149, 
+            0.5897424, 
+            0.5739835
+        ], 
+        "picture_attributes": [
+            "waterway", 
+            "flood", 
+            "water", 
+            "disaster", 
+            "natural disaster", 
+            "river", 
+            "vehicle", 
+            "tree", 
+            "floodplain", 
+            "recreation"
+        ], 
+        "name": "vr_juliekaty_50.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.95915073, 
+            0.93445396, 
+            0.9306867, 
+            0.9206238, 
+            0.8316232, 
+            0.8139531, 
+            0.79803467, 
+            0.79551697, 
+            0.7869988, 
+            0.6642151
+        ], 
+        "picture_attributes": [
+            "waterway", 
+            "water resources", 
+            "river", 
+            "water", 
+            "bank", 
+            "flood", 
+            "floodplain", 
+            "watercourse", 
+            "natural disaster", 
+            "disaster"
+        ], 
+        "name": "vr_juliekaty_51.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9269266, 
+            0.86311615, 
+            0.7726899, 
+            0.7675515, 
+            0.76325536, 
+            0.75106424, 
+            0.69694203, 
+            0.6773217, 
+            0.66870505, 
+            0.66052645
+        ], 
+        "picture_attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "river", 
+            "floodplain", 
+            "bayou", 
+            "water resources", 
+            "bank", 
+            "tree", 
+            "disaster"
+        ], 
+        "name": "vr_juliekaty_52.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9665813, 
+            0.93438417, 
+            0.9288097, 
+            0.9077431, 
+            0.87514734, 
+            0.813405, 
+            0.77575487, 
+            0.77075607, 
+            0.75731856, 
+            0.64282537
+        ], 
+        "picture_attributes": [
+            "road", 
+            "lane", 
+            "asphalt", 
+            "car", 
+            "mode of transport", 
+            "road surface", 
+            "path", 
+            "grass", 
+            "tree", 
+            "walkway"
+        ], 
+        "name": "vr_juliekaty_54.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.91887915, 
+            0.89030653, 
+            0.8380054, 
+            0.8375232, 
+            0.79853034, 
+            0.7976256, 
+            0.7568124, 
+            0.7530402, 
+            0.7005269, 
+            0.69659525
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "floodplain", 
+            "flood", 
+            "reservoir", 
+            "natural disaster", 
+            "bank", 
+            "land lot", 
+            "lake", 
+            "grass"
+        ], 
+        "name": "vr_juliekaty_55.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.786028, 
+            0.7641868, 
+            0.7261873, 
+            0.6729561, 
+            0.64728224, 
+            0.6328575, 
+            0.6218305, 
+            0.60005164, 
+            0.5987209, 
+            0.57999563
+        ], 
+        "picture_attributes": [
+            "grass", 
+            "water", 
+            "road surface", 
+            "tree", 
+            "floodplain", 
+            "soil", 
+            "land lot", 
+            "water resources", 
+            "sand", 
+            "flood"
+        ], 
+        "name": "vr_juliekaty_56.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.6241166, 
+            0.54839426, 
+            0.5201658
+        ], 
+        "picture_attributes": [
+            "floor", 
+            "texture", 
+            "flooring"
+        ], 
+        "name": "vr_juliekaty_57.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.82425195, 
+            0.8075491, 
+            0.78526205, 
+            0.7671469, 
+            0.73572105, 
+            0.71359664, 
+            0.70945317, 
+            0.5844729, 
+            0.58056074, 
+            0.52443343
+        ], 
+        "picture_attributes": [
+            "horizon", 
+            "sea", 
+            "sky", 
+            "shore", 
+            "pier", 
+            "water resources", 
+            "fixed link", 
+            "road", 
+            "coast", 
+            "cloud"
+        ], 
+        "name": "vr_juliekaty_58.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93468755, 
+            0.8643823, 
+            0.85390055, 
+            0.76839405, 
+            0.73097473, 
+            0.6916535, 
+            0.6821526, 
+            0.6615116, 
+            0.64627355, 
+            0.61471736
+        ], 
+        "picture_attributes": [
+            "water", 
+            "water resources", 
+            "grass", 
+            "tree", 
+            "floodplain", 
+            "bank", 
+            "flood", 
+            "natural disaster", 
+            "watercourse", 
+            "walkway"
+        ], 
+        "name": "vr_juliekaty_59.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9587502, 
+            0.85535955, 
+            0.7949227, 
+            0.75871277, 
+            0.7547649, 
+            0.7336385, 
+            0.6615998, 
+            0.65726787, 
+            0.64997894, 
+            0.5647124
+        ], 
+        "picture_attributes": [
+            "black", 
+            "light", 
+            "darkness", 
+            "floor", 
+            "phenomenon", 
+            "lighting", 
+            "wood", 
+            "night", 
+            "flooring", 
+            "angle"
+        ], 
+        "name": "vr_juliekaty_60.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.75230783, 
+            0.71674716, 
+            0.71403766, 
+            0.7112047, 
+            0.70986, 
+            0.6188474, 
+            0.6050169, 
+            0.56308746, 
+            0.53852636
+        ], 
+        "picture_attributes": [
+            "map", 
+            "biome", 
+            "screenshot", 
+            "atmosphere", 
+            "world", 
+            "earth", 
+            "sky", 
+            "font", 
+            "space"
+        ], 
+        "name": "vr_juliekaty_61.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.92279357, 
+            0.9195774, 
+            0.90414655, 
+            0.86743647, 
+            0.84458995, 
+            0.8175735, 
+            0.7966243, 
+            0.7944342, 
+            0.7375925, 
+            0.72388864
+        ], 
+        "picture_attributes": [
+            "skin", 
+            "sitting", 
+            "day", 
+            "product", 
+            "leg", 
+            "child", 
+            "fun", 
+            "furniture", 
+            "girl", 
+            "arm"
+        ], 
+        "name": "vr_juliekaty_62-text_02.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.91774803, 
+            0.9079134, 
+            0.88239974, 
+            0.8663477, 
+            0.8134272, 
+            0.8071195, 
+            0.7849941, 
+            0.7602127, 
+            0.7538713, 
+            0.7388109
+        ], 
+        "picture_attributes": [
+            "screen", 
+            "display device", 
+            "technology", 
+            "television", 
+            "computer monitor", 
+            "electronic device", 
+            "lcd tv", 
+            "media", 
+            "television set", 
+            "multimedia"
+        ], 
+        "name": "vr_juliekaty_62.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.92279357, 
+            0.9195774, 
+            0.90414655, 
+            0.8674365, 
+            0.8445898, 
+            0.8175736, 
+            0.79662424, 
+            0.7944342, 
+            0.73759264, 
+            0.7238885
+        ], 
+        "picture_attributes": [
+            "skin", 
+            "sitting", 
+            "day", 
+            "product", 
+            "leg", 
+            "child", 
+            "fun", 
+            "furniture", 
+            "girl", 
+            "arm"
+        ], 
+        "name": "vr_juliekaty_63.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.87387973, 
+            0.85657567, 
+            0.7000764, 
+            0.68044835, 
+            0.67565614, 
+            0.6070617, 
+            0.6046662, 
+            0.5408433, 
+            0.5402183, 
+            0.53306353
+        ], 
+        "picture_attributes": [
+            "glass", 
+            "window", 
+            "window covering", 
+            "door", 
+            "daylighting", 
+            "window screen", 
+            "facade", 
+            "window treatment", 
+            "sash window", 
+            "window blind"
+        ], 
+        "name": "vr_juliekaty_64.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.91956544, 
+            0.8937199, 
+            0.87968564, 
+            0.8275842, 
+            0.80927914, 
+            0.7706501, 
+            0.75321203, 
+            0.7437848, 
+            0.7379754, 
+            0.7208015
+        ], 
+        "picture_attributes": [
+            "display device", 
+            "screen", 
+            "technology", 
+            "computer monitor", 
+            "television", 
+            "display advertising", 
+            "media", 
+            "led backlit lcd display", 
+            "multimedia", 
+            "lcd tv"
+        ], 
+        "name": "vr_juliekaty_65.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9005691, 
+            0.8182645, 
+            0.73656845, 
+            0.6969297, 
+            0.6925811, 
+            0.63550913, 
+            0.599545, 
+            0.5776908, 
+            0.56100327, 
+            0.5417565
+        ], 
+        "picture_attributes": [
+            "text", 
+            "gadget", 
+            "technology", 
+            "multimedia", 
+            "screenshot", 
+            "font", 
+            "electronics", 
+            "media", 
+            "electronic device", 
+            "computer wallpaper"
+        ], 
+        "name": "vr_juliekaty_66.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9032441, 
+            0.84860003, 
+            0.70056987, 
+            0.6919273, 
+            0.6879308, 
+            0.57843703, 
+            0.52629405, 
+            0.52354246, 
+            0.5196718
+        ], 
+        "picture_attributes": [
+            "technology", 
+            "display device", 
+            "electronic device", 
+            "multimedia", 
+            "electronics", 
+            "media", 
+            "screen", 
+            "gadget", 
+            "display advertising"
+        ], 
+        "name": "vr_juliekaty_67.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.7672354, 
+            0.76635414, 
+            0.74733526, 
+            0.747044, 
+            0.7291318, 
+            0.6926256, 
+            0.662427, 
+            0.6483103, 
+            0.6290946, 
+            0.6165047
+        ], 
+        "picture_attributes": [
+            "shoulder", 
+            "arm", 
+            "leg", 
+            "muscle", 
+            "finger", 
+            "mouth", 
+            "hand", 
+            "joint", 
+            "abdomen", 
+            "trunk"
+        ], 
+        "name": "vr_juliekaty_70.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.8895404, 
+            0.8740368, 
+            0.8176745, 
+            0.8162045, 
+            0.79696625, 
+            0.7884855, 
+            0.7356782, 
+            0.7019702, 
+            0.67605436, 
+            0.6582933
+        ], 
+        "picture_attributes": [
+            "day", 
+            "room", 
+            "snapshot", 
+            "sitting", 
+            "furniture", 
+            "product", 
+            "girl", 
+            "fun", 
+            "arm", 
+            "bed"
+        ], 
+        "name": "vr_juliekaty_71.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9645734, 
+            0.9405879, 
+            0.93441135, 
+            0.92422235, 
+            0.8930483, 
+            0.87538004, 
+            0.8533898, 
+            0.81133664, 
+            0.66572714, 
+            0.635408
+        ], 
+        "picture_attributes": [
+            "waterway", 
+            "water resources", 
+            "body of water", 
+            "river", 
+            "water", 
+            "bank", 
+            "reservoir", 
+            "floodplain", 
+            "lake", 
+            "natural disaster"
+        ], 
+        "name": "vr_juliekaty_73.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.96986943, 
+            0.94480497, 
+            0.9436268, 
+            0.9107981, 
+            0.8760444, 
+            0.870086, 
+            0.8375085, 
+            0.83158666, 
+            0.7774705, 
+            0.75875556
+        ], 
+        "picture_attributes": [
+            "waterway", 
+            "river", 
+            "water resources", 
+            "bank", 
+            "reservoir", 
+            "water", 
+            "loch", 
+            "floodplain", 
+            "sky", 
+            "wetland"
+        ], 
+        "name": "vr_juliekaty_74.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9098634, 
+            0.90294373, 
+            0.8887792, 
+            0.8882137, 
+            0.865735, 
+            0.80745524, 
+            0.75617313, 
+            0.74755985, 
+            0.7387824, 
+            0.71330976
+        ], 
+        "picture_attributes": [
+            "human hair color", 
+            "pink", 
+            "day", 
+            "chin", 
+            "shoulder", 
+            "cheek", 
+            "selfie", 
+            "neck", 
+            "arm", 
+            "mouth"
+        ], 
+        "name": "vr_juliekaty_76.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.90973884, 
+            0.84722954, 
+            0.8089944, 
+            0.79378814, 
+            0.78892446, 
+            0.7755275, 
+            0.7192629, 
+            0.714164, 
+            0.6840309, 
+            0.6813111
+        ], 
+        "picture_attributes": [
+            "human hair color", 
+            "chin", 
+            "shoulder", 
+            "selfie", 
+            "blond", 
+            "headgear", 
+            "neck", 
+            "girl", 
+            "arm", 
+            "muscle"
+        ], 
+        "name": "vr_juliekaty_77.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.60972214, 
+            0.58996433
+        ], 
+        "picture_attributes": [
+            "table", 
+            "product"
+        ], 
+        "name": "vr_juliekaty_78.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9213056, 
+            0.8507651, 
+            0.8272522, 
+            0.8091411, 
+            0.6456767, 
+            0.5424017, 
+            0.52946776
+        ], 
+        "picture_attributes": [
+            "text", 
+            "sky", 
+            "font", 
+            "screenshot", 
+            "water resources", 
+            "wave", 
+            "ocean"
+        ], 
+        "name": "vr_juliekaty_79.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9071401, 
+            0.9065843, 
+            0.8962144, 
+            0.8824367, 
+            0.8671106, 
+            0.81935424, 
+            0.8116084, 
+            0.7881015, 
+            0.7453903, 
+            0.7259806
+        ], 
+        "picture_attributes": [
+            "electronic device", 
+            "communication device", 
+            "mobile phone", 
+            "gadget", 
+            "technology", 
+            "feature phone", 
+            "portable communications device", 
+            "electronics", 
+            "telephony", 
+            "display device"
+        ], 
+        "name": "vr_sussan_01.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.90139705, 
+            0.88037217, 
+            0.8672082, 
+            0.86551654, 
+            0.8293046, 
+            0.7667757, 
+            0.765551, 
+            0.7236235, 
+            0.67898285, 
+            0.67185473
+        ], 
+        "picture_attributes": [
+            "electronic device", 
+            "communication device", 
+            "mobile phone", 
+            "gadget", 
+            "technology", 
+            "electronics", 
+            "portable communications device", 
+            "feature phone", 
+            "smartphone", 
+            "font"
+        ], 
+        "name": "vr_sussan_02.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.93322974, 
+            0.9035603, 
+            0.8931094, 
+            0.8690998, 
+            0.8228388, 
+            0.77568877, 
+            0.7467461, 
+            0.73156863, 
+            0.7016796, 
+            0.62831044
+        ], 
+        "picture_attributes": [
+            "green", 
+            "electronic device", 
+            "gadget", 
+            "technology", 
+            "product", 
+            "electronics", 
+            "communication device", 
+            "mobile phone", 
+            "product", 
+            "product design"
+        ], 
+        "name": "vr_sussan_03.jpg"
+    }, 
+    {
+        "picture_attributes_scores": [
+            0.9033851, 
+            0.8533881, 
+            0.7905908, 
+            0.739635, 
+            0.7035013, 
+            0.68809235, 
+            0.6471882, 
+            0.6200488, 
+            0.6196878, 
+            0.5798986
+        ], 
+        "picture_attributes": [
+            "technology", 
+            "electronic device", 
+            "electronics", 
+            "display device", 
+            "gadget", 
+            "font", 
+            "computer keyboard", 
+            "mobile device", 
+            "product", 
+            "multimedia"
+        ], 
+        "name": "vr_sussan_04.jpg"
+    }
+]

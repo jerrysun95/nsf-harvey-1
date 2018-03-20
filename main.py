@@ -1,127 +1,56 @@
-import box, read_csv, text
-import google_vision as gv
-import json
+import box, attributes, ml
 
-MEDIA_FOLDER_ID = 44111513325
+VR_IMAGES_ID = 47340767217
+R_IMAGES_ID  = 47341125866
+OR_IMAGES_ID = 47341754854
 
-VR_FOLDER_ID = 44087771250
-R_FOLDER_ID  = 44087753842
-OR_FOLDER_ID = 44087780508
-
-VR_DEST_ID = 44224186584
-R_DEST_ID  = 44224137472
-OR_DEST_ID = 44224175952
-
-TARGET_FOLDER_ID = 44208502416
-
-error = []
-def create_vision_output(vision_data):
-	vout = {}
-	for v in vision_data:
-		name = v['piece_number']
-		vout[name] = {}
-		vout[name]['name'] = v['piece_name']
-		for x in range(len(v['picture_attributes'])):
-			vout[name][v['picture_attributes'][x]] = v['picture_attributes_scores'][x]
-
-	with open('vision.json', 'a+') as f:
-		f.write(json.dumps(vout, indent=4))
-
-def copy_images(entries, dest_folder_id):
-	for entry in entries:
-		if entry['type'] == 'folder':
-			if entry['name'].lower() != 'text' and entry['name'].lower() != 'videos':
-				response = box.items(entry['id'])
-				copy_images(response['entries'], dest_folder_id)
-		else:
-			name = entry['name'].lower()
-			if '.jpg' in name or '.jpeg' in name or '.png' in name:
-				try:
-					box.copy(entry['id'], dest_folder_id)
-				except:
-					error.append(entry['id'])
-
-def images(src_folder_id, dest_folder_id):
-	response = box.items(src_folder_id)
-	entries = response['entries']
-	copy_images(entries, dest_folder_id)
-
-def vision(src_folder_id, output_file):
-	vision_data = []
-	response = box.items(src_folder_id)
-	entries = response['entries']
-
-	text_res = []
-	for entry in entries:
-		name = entry['name'].lower()
-		if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
-			result = box.send_to_vision(name, entry['id'], image_type='text')
-			vision_data.append(result)
-			t = text.parse_text([result['text']], result['piece_name'])
-			text_res.append({'name':result['piece_name'], 'words':t})
-
-
-	with open(output_file, 'w') as f:
-		f.write(json.dumps(vision_data, indent=4))
-
-	with open(output_file + '.txt', 'w') as f:
-		f.write(json.dumps(text_res, indent=4))
-
-def vision_text(src_folder_id, output_file):
-	vision_data = []
-	response = box.items(src_folder_id)
-	entries = response['entries']
-
-	text_res = []
-	count = 0
-	for entry in entries:
-		name = entry['name'].lower()
-		if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
-			try:
-				result = box.send_to_vision(name, entry['id'], image_type='text')
-				vision_data.append(result)
-				t = text.parse_text([result['text']], result['piece_name'])
-				text_res.append({'name':result['piece_name'], 'words':t})
-			except:
-				pass
-		print(count)
-		count += 1
-
-	with open(output_file, 'w') as f:
-		f.write(json.dumps(vision_data, indent=4))
-
-	with open(output_file + '.txt', 'w') as f:
-		f.write(json.dumps(text_res, indent=4))
+VR_TEXT_ID = 47340302325
+R_TEXT_ID  = 47341387936
+OR_TEXT_ID = 47341790628
 
 def main():
-	# response = box.items(MEDIA_FOLDER_ID)
-	# entries = response['entries']
-	
-	# vision_data = []
-	# human_data = []
-	# for entry in entries:
-	# 	name = entry['name'].lower()
-	# 	if '.jpg' in name or '.png' in name or '.jpeg' in name:
-	# 		vision_data.append(box.send_to_vision(name, entry['id']))
-	# 	elif '.xlsx' in name or '.csv' in name:
-	# 		human_data += box.parse_excel(entry['id'])
+	# Send images through computer vision
+	print('Sending images through computer vision')
+	box.vision(VR_IMAGES_ID, 'vr')
+	box.vision(R_IMAGES_ID,  'r')
+	box.vision(OR_IMAGES_ID, 'or')
+	box.vision_text(VR_TEXT_ID, 'vr_text')
+	box.vision_text(R_TEXT_ID,  'r_text')
+	box.vision_text(OR_TEXT_ID, 'or_text')
+	print('Finished\n')
 
-	# # gv.output_to_file(json_data)
+	# Frequency analysis of computer vision results
+	print('Creating frequent attributes lists')
+	min_freq = .08
+	attributes.frequent(min_freq, 'vr')
+	attributes.frequent(min_freq, 'r')
+	attributes.frequent(min_freq, 'or')
+	attributes.frequent(min_freq, 'vr_text')
+	attributes.frequent(min_freq, 'r_text')
+	attributes.frequent(min_freq, 'or_text')
+	print('Finished')
 
-	# print('Vision Results: ' + str(len(vision_data)))
-	# print('Human Results: ' + str(len(human_data)))
-	# compare.compare(human_data, vision_data)
+	# Process computer vision results with frequency results
+	print('Processing results and trimming image attributes')
+	attributes.results('vr')
+	attributes.results('r')
+	attributes.results('or')
+	attributes.results('vr_text')
+	attributes.results('r_text')
+	attributes.results('or_text')
+	print('Finished\n')
 
-	# images(VR_FOLDER_ID, VR_DEST_ID)
-	# images(R_FOLDER_ID, R_DEST_ID)
-	# images(OR_FOLDER_ID, OR_DEST_ID)
-
-
-	# vision(VR_DEST_ID, 'output/vr.json')
-	# vision(R_DEST_ID, 'output/r.json')
-	# vision(OR_DEST_ID, 'output/or.json')
-	# vision(46275888427, 'output/text.json')
-	vision_text(44449241527, 'output/text.json.txt')
+	# Create predictive model from supervised learning
+	print('Training predictive model')
+	ml.aggregate_freq(['vr', 'r', 'or'])
+	ml.iter_results('vr', ml.VR)
+	ml.iter_results('r',  ml.R)
+	ml.iter_results('or', ml.OR)
+	ml.partition_data()
+	print('svm: ' + str(ml.svm()))
+	print('naive bayes: ' + str(ml.naive_bayes()))
+	print('nearest neighbors: ' + str(ml.nearest_neighbor(5)))
+	print('Finished\n')
 
 if __name__ == '__main__':
 	main()

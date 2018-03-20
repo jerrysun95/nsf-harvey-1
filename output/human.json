@@ -1,0 +1,8152 @@
+[
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_01", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "1.0", 
+        "text_attributes": [
+            "rescue", 
+            "migrating", 
+            "services", 
+            "crisis", 
+            "cleanup"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_02", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "1.0", 
+        "text_attributes": [
+            "migrating", 
+            "services", 
+            "crisis", 
+            "cleanup"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_03", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "rescue", 
+            "rescuer", 
+            "shelter", 
+            "map", 
+            "location", 
+            "identify", 
+            "volunteer", 
+            "wehicle"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_04", 
+        "attributes": [
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "neighbors", 
+            "helping", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_05", 
+        "attributes": [
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "neighbors", 
+            "loving", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_06",    
+        "attributes": [
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "neighbors", 
+            "rescuing", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_07", 
+        "attributes": [
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "neighbors", 
+            "saving", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_08", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "1.0", 
+        "text_attributes": [
+            "rescue", 
+            "mapping", 
+            "dispatching", 
+            "disaster", 
+            "technology", 
+            "volunteer", 
+            "mobilization", 
+            "crowdsourcing", 
+            "supplement", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_09", 
+        "attributes": [
+            "people", 
+            "water", 
+            "boat", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "Harvey", 
+            "flooded", 
+            "leaky", 
+            "rescues", 
+            "Houston", 
+            "neighborhood", 
+            "crowdsource", 
+            "organization", 
+            "help", 
+            "connect", 
+            "volunteer", 
+            "rescuer", 
+            "people", 
+            "mapping", 
+            "dispatching", 
+            "rechnology"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }
+,
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_01", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "1.0", 
+        "text_attributes": [
+            "rescue", 
+            "migrating", 
+            "services", 
+            "crisis", 
+            "cleanup"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_02", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "1.0", 
+        "text_attributes": [
+            "migrating", 
+            "services", 
+            "crisis", 
+            "cleanup"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_03", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "rescue", 
+            "rescuer", 
+            "shelter", 
+            "map", 
+            "location", 
+            "identify", 
+            "volunteer", 
+            "wehicle"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_04", 
+        "attributes": [
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "neighbors", 
+            "helping", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_05", 
+        "attributes": [
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "neighbors", 
+            "loving", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_06", 
+        "attributes": [
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "neighbors", 
+            "rescuing", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_07", 
+        "attributes": [
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "neighbors", 
+            "saving", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_08", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "1.0", 
+        "text_attributes": [
+            "rescue", 
+            "mapping", 
+            "dispatching", 
+            "disaster", 
+            "technology", 
+            "volunteer", 
+            "mobilization", 
+            "crowdsourcing", 
+            "supplement", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_09", 
+        "attributes": [
+            "people", 
+            "water", 
+            "boat", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "Harvey", 
+            "flooded", 
+            "leaky", 
+            "rescues", 
+            "Houston", 
+            "neighborhood", 
+            "crowdsource", 
+            "organization", 
+            "help", 
+            "connect", 
+            "volunteer", 
+            "rescuer", 
+            "people", 
+            "mapping", 
+            "dispatching", 
+            "rechnology"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_01", 
+        "attributes": [
+            "fog", 
+            "grass", 
+            "tree", 
+            "raincoat", 
+            "hat", 
+            "reflective vest"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_02", 
+        "attributes": [
+            "fog", 
+            "tree", 
+            "boat", 
+            "belongings", 
+            "bag", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_03", 
+        "attributes": [
+            "raincoat", 
+            "boat", 
+            "helping", 
+            "fence", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_04", 
+        "attributes": [
+            "tree", 
+            "SUV", 
+            "car"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_05", 
+        "attributes": [
+            "tree", 
+            "boat", 
+            "stop sign", 
+            "garage", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_06", 
+        "attributes": [
+            "tree", 
+            "raincoat", 
+            "hat", 
+            "person", 
+            "home", 
+            "garage"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_07", 
+        "attributes": [
+            "tree", 
+            "raincoat", 
+            "hat", 
+            "person", 
+            "boat", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_08", 
+        "attributes": [
+            "tree", 
+            "raincoat", 
+            "hat", 
+            "person", 
+            "boat", 
+            "grass", 
+            "cooler"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_09", 
+        "attributes": [
+            "tree", 
+            "raincoat", 
+            "jet ski", 
+            "rescue", 
+            "waverunner", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_10", 
+        "attributes": [
+            "tree", 
+            "raincoat", 
+            "jet ski", 
+            "rescue", 
+            "waverunner", 
+            "tree", 
+            "cars"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_11", 
+        "attributes": [
+            "tree", 
+            "raincoat", 
+            "umbrella", 
+            "trash bag", 
+            "shorts", 
+            "people", 
+            "boat motor"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_12", 
+        "attributes": [
+            "tree", 
+            "umbrella", 
+            "person"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_13", 
+        "attributes": [
+            "tree", 
+            "house", 
+            "person", 
+            "grass", 
+            "garage", 
+            "car"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_14", 
+        "attributes": [
+            "house", 
+            "feet", 
+            "legs", 
+            "garage", 
+            "boat"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_billdance_15", 
+        "attributes": [
+            "boat", 
+            "house", 
+            "person", 
+            "raincoat", 
+            "tree "
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }
+,
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_brock_01", 
+        "attributes": [
+            "fog", 
+            "flood", 
+            "boat", 
+            "sweatshirt"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "rain"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_brock_02", 
+        "attributes": [
+            "fog", 
+            "flood", 
+            "boat", 
+            "boat motor", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "rain"
+    }
+,
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_diana_01", 
+        "attributes": [
+            "water", 
+            "street", 
+            "tall buildings", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_diana_02", 
+        "attributes": [
+            "water", 
+            "street", 
+            "tall buildings", 
+            "tree", 
+            "car"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "flood"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_diana_03", 
+        "attributes": [
+            "furniture", 
+            "plant", 
+            "painting"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "water"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_diana_04", 
+        "attributes": [
+            "furniture", 
+            "plant", 
+            "painting"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "water"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_diana_05", 
+        "attributes": [
+            "water", 
+            "rain", 
+            "person", 
+            "sheriff", 
+            "truck", 
+            "grass", 
+            "raincoat"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "dark"
+    }, 
+    {
+        "respondent_type": "V", 
+        "piece_number": "vr_diana_06", 
+        "attributes": [
+            "truck", 
+            "people", 
+            "flood", 
+            "water", 
+            "raincoat", 
+            "tree", 
+            "container"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "0", 
+        "inside_outside": "raincoat"
+    }
+,
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_01", 
+        "attributes": [
+            "deris", 
+            "trash", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_02", 
+        "attributes": [
+            "people", 
+            "debris", 
+            "furniture", 
+            "window", 
+            "wall", 
+            "floor"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_03", 
+        "attributes": [
+            "debris", 
+            "people", 
+            "wall", 
+            "floor", 
+            "clock", 
+            "water"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_04", 
+        "attributes": [
+            "water", 
+            "rain", 
+            "grass", 
+            "tree ", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_05", 
+        "attributes": [
+            "water", 
+            "rain", 
+            "tree", 
+            "grass", 
+            "wall"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_06", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "Harvey", 
+            "difficult", 
+            "adrenaline", 
+            "hard", 
+            "fatigue", 
+            "emotional", 
+            "trauma", 
+            "community", 
+            "aftermath", 
+            "flooded", 
+            "neighborhoods", 
+            "debris", 
+            "junk", 
+            "despair", 
+            "surviors", 
+            "family", 
+            "friends", 
+            "support"
+        ], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_07", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "safe", 
+            "prayers", 
+            "insurance", 
+            "family", 
+            "move out", 
+            "take care"
+        ], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_08", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "safe", 
+            "nasty", 
+            "hope", 
+            "water", 
+            "house", 
+            "dangerous", 
+            "higher"
+        ], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_09", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "careful", 
+            "dangerous", 
+            "safe", 
+            "take care"
+        ], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_harryenergy_10", 
+        "attributes": [
+            "water", 
+            "rain", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "concerned", 
+            "harsh", 
+            "Harvey"
+        ], 
+        "timing": "During", 
+        "linked": "1", 
+        "inside_outside": ""
+    }
+,
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_01", 
+        "attributes": [
+            "water", 
+            "house", 
+            "stairs", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_02", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_03", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_04", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass", 
+            "stairs"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_05", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_06", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_07", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_08", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "wall", 
+            "road", 
+            "gate"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_09", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass", 
+            "wall", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_10", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_11", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "reserviors", 
+            "stormwater", 
+            "release", 
+            "damages", 
+            "flooded", 
+            "reduce", 
+            "water level", 
+            "neighborhoods", 
+            "safe", 
+            "dry"
+        ], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_12", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "reserviors", 
+            "stormwater", 
+            "release", 
+            "damages", 
+            "flooded", 
+            "reduce", 
+            "water level", 
+            "neighborhoods", 
+            "safe", 
+            "dry"
+        ], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_13", 
+        "attributes": [
+            "printout", 
+            "water ", 
+            "people", 
+            "boat", 
+            "tree", 
+            "building"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "energy", 
+            "corridor", 
+            "living", 
+            "hurricane", 
+            "Harvey"
+        ], 
+        "timing": "", 
+        "linked": "1", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_14", 
+        "attributes": [
+            "printout", 
+            "mobile phone", 
+            "map", 
+            "water", 
+            "tree", 
+            "house", 
+            "boat", 
+            "deris", 
+            "grass", 
+            "road", 
+            "sky"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "Harvey", 
+            "hurricane", 
+            "home ", 
+            "business", 
+            "flooded", 
+            "water", 
+            "reserviors", 
+            "government"
+        ], 
+        "timing": "", 
+        "linked": "1", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_15", 
+        "attributes": [
+            "printout", 
+            "mobile phone", 
+            "map", 
+            "water", 
+            "tree", 
+            "house", 
+            "boat", 
+            "deris", 
+            "grass", 
+            "road", 
+            "sky"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "1", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_16", 
+        "attributes": [
+            "map", 
+            "neighbors", 
+            "Fleetwood"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_17", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "grass", 
+            "stairs"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ileeneenergy_18", 
+        "attributes": [
+            "map", 
+            "neihbors", 
+            "Fleetwood"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0", 
+        "inside_outside": ""
+    }
+,
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_01", 
+        "attributes": [
+            "people", 
+            "house", 
+            "car"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "effort", 
+            "sister", 
+            "outstanding"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_02", 
+        "attributes": [
+            "people", 
+            "water", 
+            "tree", 
+            "grass", 
+            "house", 
+            "car", 
+            "junk"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "outstanding", 
+            "Military Veterans", 
+            "help", 
+            "serve", 
+            "Katy", 
+            "aftermath", 
+            "Harvey", 
+            "house", 
+            "home", 
+            "interconnections", 
+            "friends", 
+            "rescued", 
+            "emotion", 
+            "waters"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_03", 
+        "attributes": [
+            "people", 
+            "water", 
+            "tree", 
+            "house"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "thank you", 
+            "appreciation", 
+            "help"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_04", 
+        "attributes": [
+            "grass", 
+            "water", 
+            "people", 
+            "house", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_05", 
+        "attributes": [
+            "flood", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "seriously", 
+            "worse", 
+            "stench", 
+            "water", 
+            "terrible", 
+            "not safe", 
+            "waders", 
+            "tetanus", 
+            "shot", 
+            "pills", 
+            "chemicals", 
+            "bacteria", 
+            "terrible", 
+            "careful", 
+            "decontaminate", 
+            "exposure"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_06", 
+        "attributes": [
+            "map", 
+            "flood"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "Houston", 
+            "miracle", 
+            "plane", 
+            "Taxans"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_07", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "witness", 
+            "together", 
+            "stronger", 
+            "love", 
+            "home", 
+            "Harvey", 
+            "changed"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_08", 
+        "attributes": [
+            "people", 
+            "army", 
+            "car", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "honor", 
+            "opportunity", 
+            "people", 
+            "community", 
+            "love", 
+            "friends", 
+            "incredible", 
+            "family", 
+            "thank you"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_09", 
+        "attributes": [
+            "people", 
+            "army", 
+            "car", 
+            "plant"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_10", 
+        "attributes": [
+            "people", 
+            "army", 
+            "car", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "concerned", 
+            "harsh", 
+            "Harvey"
+        ], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_11", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "house", 
+            "car", 
+            "people"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "soldiers", 
+            "volunteers", 
+            "nation", 
+            "best", 
+            "bravest", 
+            "strongest", 
+            "blessing", 
+            "community", 
+            "Texas", 
+            "thank you"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_12", 
+        "attributes": [
+            "food", 
+            "resources", 
+            "car"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "thank", 
+            "neighbors", 
+            "supplies", 
+            "Katy", 
+            "help", 
+            "love", 
+            "prayers", 
+            "awesome job"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_13", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "crazy", 
+            "desperate", 
+            "scary", 
+            "friends", 
+            "family", 
+            "community", 
+            "donations", 
+            "food", 
+            "houses", 
+            "cars", 
+            "medicines", 
+            "organized", 
+            "rebuild", 
+            "volunteer", 
+            "mission", 
+            "peace"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_14", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "map", 
+            "voluntary"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_15", 
+        "attributes": [
+            "blackboard"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "check in"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_16", 
+        "attributes": [
+            "people", 
+            "tree", 
+            "grass", 
+            "car", 
+            "tent"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "household", 
+            "safely", 
+            "volunteer", 
+            "solider", 
+            "momentum", 
+            "red cross", 
+            "help"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_17", 
+        "attributes": [
+            "graph"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "reservoir", 
+            "home", 
+            "water", 
+            "recede", 
+            "plant", 
+            "affected ", 
+            "neighborhoods", 
+            "toxicity", 
+            "community", 
+            "bacteria", 
+            "infection", 
+            "hazard", 
+            "life", 
+            "flood", 
+            "evacuation", 
+            "damaged", 
+            "debris", 
+            "trash"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_18", 
+        "attributes": [
+            "people"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "water", 
+            "boats", 
+            "trucks", 
+            "friend", 
+            "thank you", 
+            "love"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_19", 
+        "attributes": [
+            "road", 
+            "tree", 
+            "grass", 
+            "sunshine", 
+            "car"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "incredible", 
+            "army", 
+            "guard", 
+            "houeses", 
+            "safely", 
+            "truck"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_20", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "house"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "guard", 
+            "Katy", 
+            "helpful", 
+            "house", 
+            "flooded", 
+            "supplies"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_21", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "house", 
+            "stop sign"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "army", 
+            "ecoli", 
+            "water", 
+            "precautions", 
+            "seriously"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_22", 
+        "attributes": [
+            "boat"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "serviced", 
+            "trucks", 
+            "safe", 
+            "water", 
+            "patience", 
+            "soldiers", 
+            "helping", 
+            "community", 
+            "prayers", 
+            "sad", 
+            "thank you"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_23", 
+        "attributes": [
+            "car", 
+            "people", 
+            "road", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "help", 
+            "people", 
+            "houses", 
+            "safe", 
+            "friend", 
+            "Houston", 
+            "rescue", 
+            "prayers"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_24", 
+        "attributes": [
+            "water", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_25", 
+        "attributes": [
+            "blackboard", 
+            "info", 
+            "check-in"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_26", 
+        "attributes": [
+            "water", 
+            "car"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_27", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_28", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_29", 
+        "attributes": [
+            "water", 
+            "boat", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_30", 
+        "attributes": [
+            "road", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "army", 
+            "helping", 
+            "community", 
+            "patient", 
+            "safe", 
+            "homes", 
+            "check-in", 
+            "info", 
+            "contact"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_31", 
+        "attributes": [
+            "medicines"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "flood ", 
+            "waters", 
+            "home", 
+            "toxic", 
+            "antibiotics", 
+            "cream", 
+            "infected", 
+            "untreated", 
+            "doctor", 
+            "urge", 
+            "carefully", 
+            "safe", 
+            "take care", 
+            "love", 
+            "thankful", 
+            "scary", 
+            "praying", 
+            "treatment"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_32", 
+        "attributes": [
+            "road", 
+            "tree", 
+            "water", 
+            "posts"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "damage", 
+            "safe"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_33", 
+        "attributes": [
+            "road", 
+            "water", 
+            "buildings", 
+            "car", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_34", 
+        "attributes": [
+            "water", 
+            "buildings", 
+            "sky", 
+            "clouds", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_35", 
+        "attributes": [
+            "road", 
+            "car", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "houses", 
+            "prayers", 
+            "family", 
+            "friends", 
+            "clearing up", 
+            "sunshine", 
+            "skies"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_36", 
+        "attributes": [
+            "water", 
+            "boat", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_37", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree", 
+            "car"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_38", 
+        "attributes": [
+            "water", 
+            "car", 
+            "tree", 
+            "people", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_39", 
+        "attributes": [
+            "water", 
+            "car", 
+            "tree", 
+            "people"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_40", 
+        "attributes": [
+            "water", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_41", 
+        "attributes": [
+            "water", 
+            "house", 
+            "car", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "heartwrenching", 
+            "worried", 
+            "house", 
+            "helping", 
+            "rescue", 
+            "sweep", 
+            "evacaations", 
+            "efforts", 
+            "tnak you"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_42", 
+        "attributes": [
+            "water", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_43", 
+        "attributes": [
+            "water", 
+            "ttree", 
+            "traffic lights"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_44", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "fence", 
+            "boots"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_45", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "house", 
+            "boat"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_46", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "people", 
+            "car"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_47", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "helicopter"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_48", 
+        "attributes": [
+            "water", 
+            "people", 
+            "traffic signs", 
+            "boat", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_49", 
+        "attributes": [
+            "water", 
+            "car", 
+            "tree", 
+            "wall"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_50", 
+        "attributes": [
+            "water", 
+            "boat", 
+            "people", 
+            "tree", 
+            "house"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "boats", 
+            "need"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_51", 
+        "attributes": [
+            "water", 
+            "people", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "closer", 
+            "occupancy"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_52", 
+        "attributes": [
+            "water", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "boat", 
+            "beck", 
+            "gathering info", 
+            "thank you", 
+            "help", 
+            "rescue", 
+            "seriously", 
+            "strength", 
+            "love", 
+            "safe", 
+            "incredible", 
+            "rian", 
+            "waterway", 
+            "adults", 
+            "dogs", 
+            "careful", 
+            "love", 
+            "praying"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_53", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "Houston", 
+            "friends", 
+            "devastation", 
+            "flooded", 
+            "water", 
+            "raining"
+        ], 
+        "timing": "After", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_54", 
+        "attributes": [
+            "water", 
+            "car", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "car", 
+            "empty", 
+            "rish", 
+            "water", 
+            "rain"
+        ], 
+        "timing": "Durign", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_55", 
+        "attributes": [
+            "water", 
+            "rain", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "window", 
+            "island", 
+            "bay", 
+            "crazy"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_56", 
+        "attributes": [
+            "water", 
+            "rain", 
+            "car", 
+            "tree", 
+            "grass", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_57", 
+        "attributes": [
+            "water", 
+            "people"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_58", 
+        "attributes": [
+            "water", 
+            "road"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_59", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "house", 
+            "car"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "praying", 
+            "safe", 
+            "homes"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_60", 
+        "attributes": [
+            "water", 
+            "furniture"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "house"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_61", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_62", 
+        "attributes": [
+            "TV news"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "flood", 
+            "water"
+        ], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_63", 
+        "attributes": [
+            "people", 
+            "bed"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "change", 
+            "packing", 
+            "flood", 
+            "safely", 
+            "love", 
+            "prayers", 
+            "house", 
+            "family", 
+            "strong", 
+            "Houston", 
+            "anxiously", 
+            "water", 
+            "worries", 
+            "scary", 
+            "roads", 
+            "devestating", 
+            "affected", 
+            "evacuated"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_64", 
+        "attributes": [
+            "window"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_65", 
+        "attributes": [
+            "weather forecast", 
+            "forecast"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_66", 
+        "attributes": [
+            "emergency alter"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_67", 
+        "attributes": [
+            "weather forecast"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "take ove", 
+            "needs", 
+            "safe", 
+            "sweetheart"
+        ], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_68", 
+        "attributes": [
+            "weather forecast"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_69", 
+        "attributes": [
+            "weather forecast"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_70", 
+        "attributes": [
+            "people"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "basement", 
+            "safe", 
+            "smile"
+        ], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "I "
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_71", 
+        "attributes": [
+            "people", 
+            "wall", 
+            "bedding"
+        ], 
+        "content": "", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_72", 
+        "attributes": [
+            "messages"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "weather", 
+            "tornado", 
+            "warnings", 
+            "safe", 
+            "bad", 
+            "prayers"
+        ], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_73", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "praying", 
+            "safe", 
+            "damage"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_74", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_75", 
+        "attributes": [
+            "messages"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_76", 
+        "attributes": [
+            "people", 
+            "floor", 
+            "wall"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "safe", 
+            "home", 
+            "Harvey"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_77", 
+        "attributes": [
+            "people", 
+            "sofa", 
+            "wall"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "adjustment", 
+            "complete", 
+            "pavement"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_78", 
+        "attributes": [
+            "bottle water", 
+            "price tag"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "preparations", 
+            "seriously", 
+            "food", 
+            "gas", 
+            "water", 
+            "hysteria", 
+            "waste", 
+            "batteries", 
+            "rice", 
+            "snack", 
+            "swim", 
+            "paddle", 
+            "board", 
+            "cottage", 
+            "take care", 
+            "safe", 
+            "hurricane", 
+            "rain"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_juliekaty_79", 
+        "attributes": [
+            "weather forecast"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "lazy", 
+            "rain", 
+            "struggle", 
+            "shower", 
+            "sprinklers", 
+            "awful"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }
+,
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_01", 
+        "attributes": [
+            "person"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "evacuation", 
+            "spanish", 
+            "judge", 
+            "reservoir", 
+            "water"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_02", 
+        "attributes": [
+            "help", 
+            "chalkboard", 
+            "hand"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "help", 
+            "demo", 
+            "cleanup", 
+            "share"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_03", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "jokes", 
+            "funny", 
+            "nails"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_04", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "jokes", 
+            "nails", 
+            "funny"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_05", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "water"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_06", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "jokes", 
+            "funny"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_07", 
+        "attributes": [
+            "foot", 
+            "gloves", 
+            "towel", 
+            "person", 
+            "leg"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "hashtags", 
+            "prepare"
+        ], 
+        "timing": "before", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_08", 
+        "attributes": [
+            "kids", 
+            "drinks", 
+            "car"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "dad", 
+            "Sonic"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_09", 
+        "attributes": [
+            "water", 
+            "grass ", 
+            "brick", 
+            "sky", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_10", 
+        "attributes": [
+            "water", 
+            "grass ", 
+            "brick", 
+            "sky", 
+            "tree"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "Buc-ee's", 
+            "first responder"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_11", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "damage", 
+            "coke", 
+            "buc-ee's"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_12", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "car", 
+            "park", 
+            "police cars"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_13", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "glad", 
+            "guys", 
+            "okay"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_14", 
+        "attributes": [
+            "lightning"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "park", 
+            "link", 
+            "information", 
+            "rain", 
+            "flood"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_15", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "rain", 
+            "flooding", 
+            "home", 
+            "neighboorhood", 
+            "message", 
+            "information", 
+            "data", 
+            "family"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_16", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "call", 
+            "safe", 
+            "phone", 
+            "dad", 
+            "problems"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_17", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "information", 
+            "thanks", 
+            "information"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_18", 
+        "attributes": [
+            "map", 
+            "blue", 
+            "streets"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "update", 
+            "reservoir", 
+            "water", 
+            "government", 
+            "information", 
+            "decision"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_19", 
+        "attributes": [
+            "rain", 
+            "grass", 
+            "tree", 
+            "sidewalk", 
+            "truck", 
+            "leaves"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "o"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_20", 
+        "attributes": [
+            "rain", 
+            "grass", 
+            "tree", 
+            "sidewalk", 
+            "truck"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "thanks", 
+            "update", 
+            "garage", 
+            "porch"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_21", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "update", 
+            "thanks", 
+            "flooding", 
+            "street", 
+            "house"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_22", 
+        "attributes": [
+            "map", 
+            "blue"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "flooding", 
+            "orders", 
+            "downtown"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_23", 
+        "attributes": [
+            "map", 
+            "blue"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "flooding", 
+            "home", 
+            "reservoir", 
+            "update", 
+            "path"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_24", 
+        "attributes": [
+            "house", 
+            "construction", 
+            "plywood", 
+            "roof"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "impact", 
+            "flood ", 
+            "water", 
+            "parkway", 
+            "roads", 
+            "drive", 
+            "homes", 
+            "subdivision", 
+            "closures", 
+            "map", 
+            "reservoir"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_25", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [
+            "Army", 
+            "engineers", 
+            "advisory", 
+            "county", 
+            "roads", 
+            "reservoir", 
+            "drive", 
+            "impassable", 
+            "impact", 
+            "conditions", 
+            "waters", 
+            "residential"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_26", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "dams", 
+            "scheduling", 
+            "homes", 
+            "flooding", 
+            "Katy"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_27", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "thanks", 
+            "confused", 
+            "information", 
+            "Houston", 
+            "water"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_28", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "leave", 
+            "New Braunfels"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_29", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "thanks", 
+            "safe", 
+            "glad", 
+            "appreciate", 
+            "updates", 
+            "tonight", 
+            "water"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_30", 
+        "attributes": [
+            "conference", 
+            "map", 
+            "people", 
+            "microphone", 
+            "arm"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "presentation", 
+            "explanation", 
+            "reservoir", 
+            "prayer", 
+            "move"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_31", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "save", 
+            "spill", 
+            "dam", 
+            "flood", 
+            "information", 
+            "god", 
+            "thanks", 
+            "helping", 
+            "evacuated", 
+            "friends"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_32", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "visit", 
+            "bayou", 
+            "velocity", 
+            "water", 
+            "bridge", 
+            "hope", 
+            "dam"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_33", 
+        "attributes": [
+            "chart", 
+            "graph"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "update", 
+            "dam", 
+            "water", 
+            "reservoir", 
+            "precaution", 
+            "information", 
+            "decision"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_34", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "emergency", 
+            "shelter", 
+            "flooded", 
+            "homes"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_35", 
+        "attributes": [
+            "pool", 
+            "grass", 
+            "tree", 
+            "roof", 
+            "house", 
+            "water"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "o"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_36", 
+        "attributes": [
+            "pool", 
+            "grass", 
+            "tree ", 
+            "roof ", 
+            "house", 
+            "water"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "hugs", 
+            "prayer", 
+            "updates", 
+            "thanks", 
+            "view", 
+            "safe", 
+            "share"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_37", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "stress", 
+            "action", 
+            "option", 
+            "news", 
+            "home", 
+            "flood", 
+            "thanks"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_38", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "parkway", 
+            "closed", 
+            "bayou", 
+            "news", 
+            "sheltering", 
+            "pray", 
+            "plan"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_39", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "heart", 
+            "hurts", 
+            "news", 
+            "sad", 
+            "evacuation", 
+            "voluntary", 
+            "neighborhood", 
+            "people", 
+            "praying"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_40", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "mayor", 
+            "engineer", 
+            "water", 
+            "threat", 
+            "homes", 
+            "dams", 
+            "Addicks", 
+            "precaution"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_41", 
+        "attributes": [
+            "car", 
+            "water", 
+            "grass", 
+            "flood"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "bayou", 
+            "bridge", 
+            "trucks", 
+            "jeeps", 
+            "move"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "o"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_42", 
+        "attributes": [
+            "car", 
+            "water", 
+            "grass", 
+            "flood"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "o"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_43", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "updates", 
+            "conditions", 
+            "worse", 
+            "closure", 
+            "road", 
+            "thanks"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_44", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "shelter", 
+            "list", 
+            "red cross", 
+            "evacuations"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_45", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "water", 
+            "dam", 
+            "release", 
+            "bayou", 
+            "ditches", 
+            "reservoir"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_46", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "plans", 
+            "family"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_47", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "share", 
+            "water", 
+            "dam", 
+            "park", 
+            "spillway", 
+            "theory", 
+            "engineer", 
+            "army", 
+            "chart", 
+            "plans", 
+            "decisions"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_48", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "share", 
+            "thanks", 
+            "aware"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_49", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "sheltering", 
+            "danger", 
+            "risk", 
+            "floor", 
+            "advise", 
+            "pray", 
+            "appreciate"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_50", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "thanks", 
+            "love", 
+            "water", 
+            "power", 
+            "floor", 
+            "morning", 
+            "plan"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_51", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "dry", 
+            "safe", 
+            "floors", 
+            "water", 
+            "garage", 
+            "neighbor", 
+            "grateful", 
+            "friends", 
+            "street"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_52", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "break", 
+            "trust", 
+            "pray", 
+            "safe", 
+            "thanks"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_53", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "updates", 
+            "elevation", 
+            "google", 
+            "earth", 
+            "information", 
+            "thanks", 
+            "appreciate", 
+            "safe"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_54", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_55", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "update", 
+            "share", 
+            "dam", 
+            "water", 
+            "spillway", 
+            "plans", 
+            "decisions", 
+            "reservoir"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_56", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "information", 
+            "decision", 
+            "twitter", 
+            "perspective", 
+            "elevation", 
+            "official"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_57", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "neighborhoods", 
+            "list", 
+            "tweet", 
+            "question"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_58", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "safe", 
+            "glad", 
+            "FEMA", 
+            "question", 
+            "call", 
+            "deploy", 
+            "pray", 
+            "water"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_59", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "thanks", 
+            "reading", 
+            "friends", 
+            "comment", 
+            "FEMA"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_60", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "updates", 
+            "thanks"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_61", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "updates", 
+            "post", 
+            "plans", 
+            "prayers", 
+            "home", 
+            "flood", 
+            "information", 
+            "army", 
+            "engineers"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_62", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "share", 
+            "discharge", 
+            "please"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_63", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "share", 
+            "please", 
+            "flood", 
+            "spillway", 
+            "elevation", 
+            "dry", 
+            "home", 
+            "bayou", 
+            "report", 
+            "addicks", 
+            "reservoir", 
+            "resources"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_64", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "urgent", 
+            "reservoir", 
+            "evacuating", 
+            "army", 
+            "engineers", 
+            "feet", 
+            "water", 
+            "homes", 
+            "assist", 
+            "help", 
+            "neighbors", 
+            "share"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_65", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "1.0", 
+        "text_attributes": [
+            "friends", 
+            "flooding", 
+            "closed", 
+            "army", 
+            "engineers", 
+            "priority", 
+            "orders", 
+            "downtown", 
+            "reservoir", 
+            "flooding"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_66", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "elevation", 
+            "home", 
+            "water", 
+            "map", 
+            "important", 
+            "theory", 
+            "plan", 
+            "pray"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_67", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "register", 
+            "area", 
+            "help", 
+            "support", 
+            "information"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_68", 
+        "attributes": [
+            "person", 
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "share", 
+            "decrease", 
+            "water", 
+            "peak", 
+            "monitoring", 
+            "levels"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_69", 
+        "attributes": [
+            "sign", 
+            "building", 
+            "theater", 
+            "support", 
+            "barrier", 
+            "door", 
+            "sky"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_70", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "information", 
+            "calculate", 
+            "house"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_71", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "share", 
+            "water", 
+            "level", 
+            "reservoir", 
+            "house", 
+            "estimate", 
+            "engineer", 
+            "dam", 
+            "rate"
+        ], 
+        "timing": "after", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_72", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "serve", 
+            "christian", 
+            "prayers", 
+            "generous", 
+            "family", 
+            "volunteer", 
+            "happy", 
+            "donation"
+        ], 
+        "timing": "after", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_73", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "conference", 
+            "calls", 
+            "commissioner", 
+            "district", 
+            "official", 
+            "overwhelmed"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_74", 
+        "attributes": [
+            "person", 
+            "oficial", 
+            "seal"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "impacted", 
+            "friends", 
+            "water", 
+            "evacuation", 
+            "map", 
+            "enforcement", 
+            "emergency", 
+            "home", 
+            "safe", 
+            "neighborhood"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_75", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "evacuation", 
+            "mandatory", 
+            "moron", 
+            "poor", 
+            "thought", 
+            "legal", 
+            "workaround", 
+            "unethical", 
+            "danger"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_76", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [
+            "map", 
+            "new", 
+            "degrees", 
+            "centers", 
+            "rumor", 
+            "dam", 
+            "evacuate"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_77", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "dam", 
+            "broke", 
+            "flood", 
+            "people", 
+            "home", 
+            "evacuated", 
+            "area", 
+            "panicked"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_78", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "houses", 
+            "fear", 
+            "roads", 
+            "evacuation", 
+            "god", 
+            "help", 
+            "underwater", 
+            "personnel", 
+            "understand", 
+            "wrong", 
+            "safe"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_79", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "lives", 
+            "food", 
+            "dry", 
+            "flooded", 
+            "scaring", 
+            "evacuation", 
+            "help", 
+            "god"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_80", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "election", 
+            "death", 
+            "lying", 
+            "resident", 
+            "panic", 
+            "stress", 
+            "acceptable", 
+            "laziness", 
+            "joking", 
+            "power", 
+            "authority", 
+            "homes", 
+            "safe"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_81", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "evacuation", 
+            "map", 
+            "fired", 
+            "panic", 
+            "stressed", 
+            "know", 
+            "flood", 
+            "announcement", 
+            "properly", 
+            "resign", 
+            "never", 
+            "information"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_82", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "move", 
+            "whining", 
+            "safe", 
+            "better", 
+            "stuck", 
+            "rescued", 
+            "gas", 
+            "risk", 
+            "families"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_83", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "warrior", 
+            "families", 
+            "status", 
+            "patience", 
+            "prediction", 
+            "flood", 
+            "nature"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_84", 
+        "attributes": [
+            "person", 
+            "coat", 
+            "chart", 
+            "red", 
+            "map"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "judge", 
+            "mandatory", 
+            "evacuation", 
+            "water", 
+            "level", 
+            "spanish", 
+            "reservoir"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "", 
+        "piece_number": "vr_kathrynkaty_85", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_86", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [
+            "judge", 
+            "thanks", 
+            "government", 
+            "house", 
+            "evacuated"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_87", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [
+            "submit", 
+            "resume", 
+            "flood", 
+            "thanks", 
+            "god"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_88", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "informative", 
+            "helpful", 
+            "brain", 
+            "panic", 
+            "major", 
+            "situation", 
+            "trauma", 
+            "wrong", 
+            "thanks"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_89", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "public", 
+            "share", 
+            "thanks", 
+            "announce", 
+            "major", 
+            "evacuations", 
+            "changed"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_90", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [
+            "share", 
+            "evacuation", 
+            "order", 
+            "mess", 
+            "calm", 
+            "safe", 
+            "stay", 
+            "home", 
+            "flooded"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_91", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "map", 
+            "evacuation", 
+            "orders", 
+            "revised", 
+            "status", 
+            "house", 
+            "updates"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_92", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [
+            "call", 
+            "conference", 
+            "flooding", 
+            "emergency", 
+            "number"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_93", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "conference", 
+            "system", 
+            "meeting", 
+            "information", 
+            "access", 
+            "dial"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_94", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [
+            "street", 
+            "zone", 
+            "conference"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_95", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "thanks", 
+            "updates", 
+            "zone", 
+            "dry", 
+            "home", 
+            "evacuation", 
+            "mandatory"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_96", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "stuck", 
+            "Kroger", 
+            "walk", 
+            "thanks", 
+            "needs", 
+            "help"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_97", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "news", 
+            "areas", 
+            "mandatory", 
+            "evacuation", 
+            "walk", 
+            "neighbors", 
+            "voluntary", 
+            "evacuation", 
+            "thanks"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_98", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "residents", 
+            "evacuation", 
+            "mandatory", 
+            "thanks", 
+            "zone", 
+            "roads", 
+            "dry", 
+            "fine"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_99", 
+        "attributes": [
+            "map", 
+            "red"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "residents", 
+            "area", 
+            "inside", 
+            "evacuation"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_100", 
+        "attributes": [
+            "map ", 
+            "red"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "share", 
+            "please", 
+            "update", 
+            "commissioner", 
+            "chief", 
+            "flooded", 
+            "supplies", 
+            "stuck", 
+            "evacuation", 
+            "zone"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_101", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "thanks", 
+            "information", 
+            "help", 
+            "disappointed", 
+            "official", 
+            "information", 
+            "decisions", 
+            "choices", 
+            "tv", 
+            "internet", 
+            "relax", 
+            "sleep"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_102", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "infrastructure", 
+            "facilities", 
+            "safely", 
+            "concern", 
+            "health", 
+            "safety", 
+            "actions", 
+            "thanks"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_103", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "actions", 
+            "water", 
+            "bathing", 
+            "toilets", 
+            "repairs", 
+            "planning", 
+            "preparation", 
+            "storm", 
+            "magnitude", 
+            "mitigate", 
+            "storm"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_104", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "severe", 
+            "flooding", 
+            "water", 
+            "relieve", 
+            "sewer", 
+            "sanitary", 
+            "actions", 
+            "district", 
+            "impaired", 
+            "residents"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_105", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "share", 
+            "please", 
+            "updates", 
+            "affected", 
+            "statement", 
+            "water", 
+            "safe", 
+            "drink", 
+            "loss", 
+            "federal", 
+            "guidelines"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_106", 
+        "attributes": [
+            "board", 
+            "white erase", 
+            "writing", 
+            "donations", 
+            "needed", 
+            "Katy", 
+            "ceiling "
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "i"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_107", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "infections", 
+            "life-threatening", 
+            "national guard", 
+            "ecoli", 
+            "water", 
+            "neighborhood", 
+            "facebook", 
+            "sewage", 
+            "toilet", 
+            "help", 
+            "remind", 
+            "problem"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_108", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "critical", 
+            "share", 
+            "please", 
+            "sewer", 
+            "toxicity", 
+            "rotting", 
+            "corpses", 
+            "fecal", 
+            "hospitals", 
+            "overwhelm", 
+            "national guard"
+        ], 
+        "timing": "after", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_109", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "house", 
+            "volunteer", 
+            "cleanup", 
+            "sign", 
+            "elevations"
+        ], 
+        "timing": "after", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_110", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "", 
+        "text_attributes": [
+            "share", 
+            "please", 
+            "important", 
+            "updates"
+        ], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_111", 
+        "attributes": [
+            "people", 
+            "waiters", 
+            "shoes", 
+            "trees", 
+            "water", 
+            "flood", 
+            "sky", 
+            "hosue"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "o"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_kathrynkaty_112", 
+        "attributes": [
+            "person", 
+            "car", 
+            "water", 
+            "flood", 
+            "house", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "during", 
+        "linked": "", 
+        "inside_outside": "o"
+    }
+,
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_01", 
+        "attributes": [
+            "people", 
+            "boat", 
+            "water", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "happy", 
+            "proud", 
+            "people", 
+            "Army", 
+            "strong", 
+            "Houston", 
+            "rescue", 
+            "efforts", 
+            "hurricane", 
+            "Harvey"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_02", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "Katy", 
+            "friends", 
+            "co-worker", 
+            "house", 
+            "water", 
+            "high", 
+            "Army", 
+            "house", 
+            "neighborhood", 
+            "missing ", 
+            "person"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_03", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "lost", 
+            "phone", 
+            "flooded", 
+            "neighborhood", 
+            "address"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_04", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "house", 
+            "checked", 
+            "neighbor", 
+            "pray", 
+            "safe", 
+            "sound", 
+            "hopeful", 
+            "outcome"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_05", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "boat", 
+            "address", 
+            "house", 
+            "friends", 
+            "wet", 
+            "clothes", 
+            "dry", 
+            "social media "
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_06", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "friends", 
+            "Facebook", 
+            "neighbor", 
+            "credit cards", 
+            "hotel"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_07", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "activity", 
+            "separate", 
+            "bank", 
+            "scary", 
+            "family", 
+            "Houston"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_08", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "prayers", 
+            "neighborhood", 
+            "house", 
+            "friends", 
+            "street", 
+            "lawn", 
+            "yard"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_09", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "alive", 
+            "relief", 
+            "glad", 
+            "emails", 
+            "calls", 
+            "texts", 
+            "rescued", 
+            "boat", 
+            "neighbors", 
+            "friends", 
+            "escaped", 
+            "harm", 
+            "thankful", 
+            "help", 
+            "house", 
+            "rebuild", 
+            "prayers", 
+            "community", 
+            "Katy"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_10", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "crazy", 
+            "posts", 
+            "desperate", 
+            "scary", 
+            "friends", 
+            "family", 
+            "community", 
+            "donations", 
+            "food", 
+            "house", 
+            "cars", 
+            "people", 
+            "stories", 
+            "evac areas", 
+            "homes", 
+            "apts", 
+            "pets", 
+            "medicines", 
+            "grateful", 
+            "trucks", 
+            "organized", 
+            "rebuild", 
+            "longer"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_11", 
+        "attributes": [
+            "people", 
+            "trucks", 
+            "tree", 
+            "grass", 
+            "road", 
+            "sky", 
+            "fence"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "volunteers", 
+            "mission"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_12", 
+        "attributes": [
+            "truck", 
+            "people", 
+            "tree", 
+            "road"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_13", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "map", 
+            "evac", 
+            "shrinking", 
+            "voluntary", 
+            "bigger"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_14", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "water", 
+            "flooded", 
+            "streets", 
+            "homes", 
+            "mess", 
+            "walk", 
+            "unprotected", 
+            "friend", 
+            "medications", 
+            "first aid knits", 
+            "detergent", 
+            "cleaning", 
+            "supplies"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_15", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "water", 
+            "flood", 
+            "receding", 
+            "dangerous", 
+            "pretective", 
+            "precautions", 
+            "leave", 
+            "safe", 
+            "contaminated", 
+            "exposure", 
+            "danger", 
+            "illness", 
+            "vaccine", 
+            "antibiotic", 
+            "waterproof", 
+            "duty", 
+            "wash", 
+            "hands", 
+            "bodys"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_16", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "Katy", 
+            "friends", 
+            "flood", 
+            "help", 
+            "waders", 
+            "location ", 
+            "Army", 
+            "trucks", 
+            "meds", 
+            "pets", 
+            "people", 
+            "waters", 
+            "unprotected", 
+            "clean", 
+            "antibiotics", 
+            "safe", 
+            "neighbors", 
+            "hard"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_17", 
+        "attributes": [
+            "picture"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "Harvey", 
+            "God", 
+            "bigger", 
+            "Texas"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_18", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "community", 
+            "family", 
+            "strong", 
+            "damage", 
+            "hurricane", 
+            "Harvey", 
+            "mission", 
+            "energy", 
+            "neighborhoods", 
+            "address", 
+            "safety", 
+            "security", 
+            "help", 
+            "mental", 
+            "physical", 
+            "emotional", 
+            "health", 
+            "energy", 
+            "shoes", 
+            "donate"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_19", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "donate", 
+            "shoes", 
+            "amazing", 
+            "generosity", 
+            "need"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_20", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "flood", 
+            "waters", 
+            "bitten", 
+            "ants", 
+            "toxic", 
+            "shot", 
+            "antibiotics", 
+            "infected", 
+            "escalated", 
+            "carefully", 
+            "power"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_21", 
+        "attributes": [
+            "medicines", 
+            "prescription"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "flood", 
+            "waters"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_22", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "home", 
+            "safe", 
+            "incredible", 
+            "phone", 
+            "water", 
+            "boats", 
+            "bridges", 
+            "streets", 
+            "families", 
+            "evacuated", 
+            "addresses", 
+            "gathering", 
+            "food", 
+            "fun"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_23", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "safe", 
+            "homes", 
+            "water", 
+            "sadly", 
+            "rescuing", 
+            "people"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_24", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "evac", 
+            "God", 
+            "love", 
+            "hero"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_25", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "phone", 
+            "harms", 
+            "authorities", 
+            "boat", 
+            "helping", 
+            "evacuate", 
+            "friends", 
+            "church", 
+            "kids", 
+            "volunteers", 
+            "sheltered", 
+            "angel", 
+            "people ", 
+            "hard", 
+            "car", 
+            "love", 
+            "teamwork", 
+            "sad"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_26", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "thank you", 
+            "rescuing", 
+            "families", 
+            "grateful", 
+            "cried", 
+            "tears", 
+            "anger", 
+            "control", 
+            "thankfulness", 
+            "person", 
+            "perished", 
+            "pray", 
+            "sorry", 
+            "hearts"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_27", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "families", 
+            "evacuating", 
+            "thank goodness", 
+            "safe", 
+            "madness", 
+            "insanity"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_28", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "madness", 
+            "insanity", 
+            "safe", 
+            "shooter", 
+            "arrested", 
+            "victim"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_29", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "help", 
+            "gun shots", 
+            "police"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_30", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "boat", 
+            "evac"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_31", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "evacuations ", 
+            "advise", 
+            "boat"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_32", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "Texas", 
+            "people", 
+            "desperate", 
+            "river", 
+            "rise", 
+            "record", 
+            "flood", 
+            "boat", 
+            "beck", 
+            "neighborhood", 
+            "house"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_33", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "neighborhood", 
+            "house", 
+            "police", 
+            "people", 
+            "help", 
+            "evacuating", 
+            "authorities", 
+            "prohibiting", 
+            "back", 
+            "safety", 
+            "prevent", 
+            "looting", 
+            "stressful"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_34", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "covef", 
+            "shots", 
+            "victim", 
+            "crazy"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_35", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "boat", 
+            "helping", 
+            "people", 
+            "evacuate", 
+            "safe"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_36", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "driver", 
+            "car ", 
+            "shot", 
+            "911", 
+            "defense", 
+            "witness"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_37", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "out"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_38", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass", 
+            "road", 
+            "sky"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "washed away", 
+            "sidewalk", 
+            "danger", 
+            "collapsing", 
+            "erosion"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_39", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass", 
+            "sky"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_40", 
+        "attributes": [
+            "water", 
+            "road", 
+            "tree", 
+            "grass", 
+            "sky"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_41", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "tired", 
+            "water", 
+            "ominous ", 
+            "text", 
+            "call", 
+            "reservior", 
+            "house", 
+            "elevations", 
+            "spillways", 
+            "Zello", 
+            "emerg", 
+            "neighbors", 
+            "appreciate", 
+            "offers", 
+            "sirens", 
+            "helicopters", 
+            "crazy", 
+            "flooded", 
+            "friends", 
+            "strong", 
+            "Katy", 
+            "Houston", 
+            "Texas"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_42", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass", 
+            "bridge"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "bayou", 
+            "neighborhood"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_43", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "drainage", 
+            "ditch", 
+            "running"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_44", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "drainage", 
+            "ditch"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_45", 
+        "attributes": [
+            "helicopter", 
+            "sky"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "blackhawks", 
+            "morning"
+        ], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_46", 
+        "attributes": [
+            "helicopter", 
+            "sky", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_47", 
+        "attributes": [
+            "helicopter", 
+            "sky", 
+            "tree", 
+            "dark"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "thank you", 
+            "responders", 
+            "crazy"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_48", 
+        "attributes": [
+            "helicopter", 
+            "sky", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_49", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "hearbroken", 
+            "going through", 
+            "strong", 
+            "praying", 
+            "hard", 
+            "friend", 
+            "love", 
+            "help", 
+            "quiet", 
+            "update", 
+            "evacuated", 
+            "safely", 
+            "home"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_50", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "brave", 
+            "dumb", 
+            "family", 
+            "peril", 
+            "prayers", 
+            "rain", 
+            "changes", 
+            "friend", 
+            "Katy"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_51", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "friend", 
+            "Katy", 
+            "addresses", 
+            "help", 
+            "safe", 
+            "hugs", 
+            "responders", 
+            "volunteers", 
+            "appreciated", 
+            "thank you", 
+            "worried", 
+            "water"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_52", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "worried", 
+            "water", 
+            "praying", 
+            "safety", 
+            "disturbed"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_53", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "bridge"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "outside", 
+            "neighborhood", 
+            "current", 
+            "bridge", 
+            "vibrating", 
+            "power", 
+            "water"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_54", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "outside", 
+            "neighborhood", 
+            "current", 
+            "bridge", 
+            "vibrating", 
+            "power", 
+            "water"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_55", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "shenanigans", 
+            "assess", 
+            "village", 
+            "devestation", 
+            "widespread", 
+            "flooded", 
+            "river", 
+            "monstrous", 
+            "friends", 
+            "neighbors", 
+            "evacuated", 
+            "shelter", 
+            "hopeful", 
+            "tired", 
+            "sleepy", 
+            "old", 
+            "nervous", 
+            "crying", 
+            "support", 
+            "family", 
+            "volunteering", 
+            "love", 
+            "strenghth"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_56", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "dogs", 
+            "thank you", 
+            "post", 
+            "picture", 
+            "crying", 
+            "God", 
+            "Texans", 
+            "prayers"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_57", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "Houston", 
+            "friends", 
+            "strong", 
+            "family", 
+            "thanks", 
+            "updates", 
+            "photos", 
+            "sad", 
+            "praying", 
+            "love", 
+            "tired", 
+            "sleepy", 
+            "old", 
+            "safe"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_58", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "heart breaks "
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_59", 
+        "attributes": [
+            "water", 
+            "people", 
+            "tree", 
+            "grass", 
+            "umbrella", 
+            "rain"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "walking", 
+            "road"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_60", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "snakes", 
+            "water", 
+            "scared", 
+            "biting", 
+            "yard"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_61", 
+        "attributes": [
+            "water", 
+            "car", 
+            "tree", 
+            "streetlight", 
+            "wall", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "RIP"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_62", 
+        "attributes": [
+            "water", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "bridge"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_63", 
+        "attributes": [
+            "water", 
+            "bridge", 
+            "grass", 
+            "tree", 
+            "people"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "bridge"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_64", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "bayou", 
+            "distance"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_65", 
+        "attributes": [
+            "water", 
+            "bridge", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "video", 
+            "swift", 
+            "current", 
+            "bridge", 
+            "vibrating", 
+            "power", 
+            "water"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_66", 
+        "attributes": [
+            "water", 
+            "tr", 
+            "streetlight", 
+            "house", 
+            "traffic sign"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "bayou", 
+            "forest"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_67", 
+        "attributes": [
+            "people", 
+            "road", 
+            "grass", 
+            "tree", 
+            "rain", 
+            "umbrella"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "exploers", 
+            "tracks", 
+            "cars", 
+            "sidewalk"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_68", 
+        "attributes": [
+            "tree", 
+            "house", 
+            "wall", 
+            "helicopter"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "crazy", 
+            "flying", 
+            "overhead", 
+            "rescue", 
+            "thank you", 
+            "responders"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_69", 
+        "attributes": [
+            "trucks", 
+            "water", 
+            "road", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "trucks", 
+            "boats", 
+            "people", 
+            "help"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_70", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "neighborhood", 
+            "bay"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_71", 
+        "attributes": [
+            "people", 
+            "dog", 
+            "couch", 
+            "chairs", 
+            "floor", 
+            "window"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "evening", 
+            "retire", 
+            "campsite", 
+            "second floor", 
+            "chairs", 
+            "couch"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_72", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "love", 
+            "sleep", 
+            "tight", 
+            "dry", 
+            "water", 
+            "praying", 
+            "safe", 
+            "worried", 
+            "house", 
+            "celebrate"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_73", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "celebrate", 
+            "puppy", 
+            "family", 
+            "safe", 
+            "call"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_74", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "puppy", 
+            "family", 
+            "safe", 
+            "call", 
+            "luck", 
+            "careful"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_75", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "dry", 
+            "exhaustion", 
+            "rain", 
+            "threat", 
+            "house", 
+            "flooding", 
+            "prepared", 
+            "thanks", 
+            "tired", 
+            "prayers", 
+            "driving"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_76", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "updates", 
+            "dry", 
+            "flood", 
+            "waters", 
+            "crazy", 
+            "Katy", 
+            "thank you", 
+            "praying"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_77", 
+        "attributes": [
+            "people", 
+            "tree", 
+            "water"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "Cinco Ranch"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_78", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "surreal", 
+            "entrance", 
+            "bayou", 
+            "water", 
+            "rushing", 
+            "drive"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_79", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "entrance", 
+            "bayou", 
+            "water", 
+            "rushing", 
+            "drive", 
+            "road", 
+            "bad"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_80", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "safe", 
+            "hugs", 
+            "prayers", 
+            "crazy", 
+            "thank you", 
+            "updates"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_81", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "crazy", 
+            "windy", 
+            "FB", 
+            "overload", 
+            "love"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_82", 
+        "attributes": [
+            "road", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "neighbors", 
+            "bridge"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_83", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "love", 
+            "prayers", 
+            "friends", 
+            "family", 
+            "Harvey", 
+            "Texas", 
+            "hugs", 
+            "thanks"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_84", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "fine", 
+            "street", 
+            "drainage", 
+            "thanks", 
+            "family", 
+            "homes", 
+            "good"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_85", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "thanks", 
+            "family", 
+            "homes", 
+            "good", 
+            "crazy", 
+            "dry", 
+            "worrisome", 
+            "news"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_86", 
+        "attributes": [
+            "desk", 
+            "chairs", 
+            "floor", 
+            "lights", 
+            "sofa"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "Facebook", 
+            "share", 
+            "listening", 
+            "source", 
+            "report", 
+            "hourly", 
+            "happen", 
+            "reservior", 
+            "release", 
+            "water", 
+            "house", 
+            "floods", 
+            "angry", 
+            "family", 
+            "wait", 
+            "friends", 
+            "neighbors", 
+            "real", 
+            "village", 
+            "together", 
+            "strong"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_87", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_88", 
+        "attributes": [
+            "desk", 
+            "chairs", 
+            "floor", 
+            "dog", 
+            "lights"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_89", 
+        "attributes": [
+            "sofa", 
+            "floor", 
+            "lights", 
+            "shelf", 
+            "window"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_90", 
+        "attributes": [
+            "desk", 
+            "chairs", 
+            "floor", 
+            "lights ", 
+            "fdoor", 
+            "wall", 
+            "window"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_91", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "rough", 
+            "nonstop", 
+            "tornado", 
+            "alarms", 
+            "unnerving", 
+            "threat", 
+            "evacuation", 
+            "reservior", 
+            "rain", 
+            "night", 
+            "immobile", 
+            "pain", 
+            "emergency", 
+            "luckily", 
+            "pets", 
+            "unexpected", 
+            "staycation", 
+            "closed", 
+            "warnings", 
+            "unscathed", 
+            "help", 
+            "people", 
+            "donations"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_92", 
+        "attributes": [
+            "Texas map"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "pray", 
+            "Texas"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_93", 
+        "attributes": [
+            "dog", 
+            "tent", 
+            "grass", 
+            "house", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "tent", 
+            "pups", 
+            "grass", 
+            "soaked"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_94", 
+        "attributes": [
+            "peopke", 
+            "tree", 
+            "pool", 
+            "grass", 
+            "road", 
+            "fence", 
+            "house"
+        ], 
+        "content": "0", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_95", 
+        "attributes": [
+            "beer", 
+            "pool", 
+            "tree", 
+            "fence"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "beer", 
+            "pool"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_96", 
+        "attributes": [
+            "people", 
+            "pool", 
+            "tree", 
+            "fence", 
+            "house", 
+            "pathway", 
+            "grass"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "pool", 
+            "fish"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_97", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "end", 
+            "pain", 
+            "meds", 
+            "doggie", 
+            "thank you", 
+            "good"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_98", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "hummor", 
+            "posts", 
+            "safe friend", 
+            "dog", 
+            "heals", 
+            "pray", 
+            "Texas", 
+            "problems"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_99", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "praying", 
+            "night", 
+            "freak out", 
+            "evacuated", 
+            "maintenance", 
+            "condo", 
+            "planning", 
+            "floor"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_100", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "bayou", 
+            "crazy", 
+            "drive", 
+            "curious", 
+            "changes"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_101", 
+        "attributes": [
+            "water", 
+            "grass", 
+            "tree"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "bayou", 
+            "Cinco Ranch"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_102", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "asleep", 
+            "strom", 
+            "FB", 
+            "broken", 
+            "rain", 
+            "prayers", 
+            "Houstonians", 
+            "thanks", 
+            "tagging", 
+            "reservior", 
+            "info", 
+            "water", 
+            "flood"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_103", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "flood", 
+            "sleep", 
+            "freaks out", 
+            "stupid", 
+            "band", 
+            "understandable", 
+            "disconnect", 
+            "distribution", 
+            "house", 
+            "lonely", 
+            "job"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_104", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "reservior", 
+            "stressing", 
+            "posted", 
+            "Cinco Ranch", 
+            "parking", 
+            "cars", 
+            "avoid", 
+            "flooding", 
+            "freaked out", 
+            "family", 
+            "community"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_105", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "community", 
+            "thoughts", 
+            "prayers", 
+            "thanks", 
+            "group", 
+            "discuss"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_106", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "thanks", 
+            "people", 
+            "Facebook", 
+            "tornadoes", 
+            "praying", 
+            "family", 
+            "friends", 
+            "safe"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_107", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "scare", 
+            "power", 
+            "beverages", 
+            "candles", 
+            "flashlights", 
+            "out", 
+            "cabinets", 
+            "drawers", 
+            "ready", 
+            "clean", 
+            "kitchen", 
+            "sink", 
+            "running", 
+            "disposal", 
+            "food", 
+            "stanky", 
+            "gross", 
+            "house"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_108", 
+        "attributes": [
+            "profile picture"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "hurricane", 
+            "Harvey"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_109", 
+        "attributes": [
+            "people"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "scare", 
+            "power", 
+            "out"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_110", 
+        "attributes": [
+            "kitchen", 
+            "candles", 
+            "dark"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "suddenly", 
+            "candlelight", 
+            "dinner", 
+            "thank you", 
+            "Harvey"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_111", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "raining", 
+            "buffet", 
+            "night", 
+            "neighbors"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_112", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "propane", 
+            "tanks", 
+            "HEB", 
+            "grill", 
+            "stinks", 
+            "candles", 
+            "out", 
+            "flashlights", 
+            "kids", 
+            "bed"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_113", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "restoration", 
+            "out", 
+            "thanks"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_114", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "power", 
+            "tonight", 
+            "FB", 
+            "rehearsal", 
+            "safe", 
+            "Harvey", 
+            "mess", 
+            "long", 
+            "house"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_115", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "long", 
+            "house", 
+            "stuffy", 
+            "people", 
+            "candlelight", 
+            "Harvey", 
+            "safe"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_116", 
+        "attributes": [], 
+        "content": "1", 
+        "text_attributes": [
+            "Cinco Ranch", 
+            "neighbor", 
+            "street", 
+            "outages", 
+            "flashlights", 
+            "ready", 
+            "devices", 
+            "charged", 
+            "safe", 
+            "friends"
+        ], 
+        "timing": "During", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_rachelkaty_117", 
+        "attributes": [
+            "people", 
+            "grocery"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "fuss", 
+            "lines", 
+            "plenty", 
+            "stock"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }
+,
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_01", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_02", 
+        "attributes": [
+            "water", 
+            "people", 
+            "tree", 
+            "light", 
+            "car"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_03", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "car", 
+            "sky", 
+            "clouds"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_04", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "wall", 
+            "trffic sign"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_05", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "car"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_06", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_07", 
+        "attributes": [
+            "road", 
+            "water", 
+            "grass", 
+            "tree", 
+            "sky", 
+            "clouds"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_08", 
+        "attributes": [
+            "soldiers", 
+            "road", 
+            "tree", 
+            "dark"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_09", 
+        "attributes": [
+            "soldiers", 
+            "road", 
+            "truck", 
+            "boat", 
+            "tree", 
+            "grass", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_10", 
+        "attributes": [
+            "soldiers", 
+            "truck", 
+            "tree", 
+            "road"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_11", 
+        "attributes": [
+            "map "
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_12", 
+        "attributes": [
+            "water", 
+            "house", 
+            "tree", 
+            "sky", 
+            "clouds", 
+            "streetlight"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_13", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "traffic sign", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_14", 
+        "attributes": [
+            "water", 
+            "car", 
+            "tree", 
+            "wall"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_15", 
+        "attributes": [
+            "blackboard"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "escorted", 
+            "check in ", 
+            "adults", 
+            "medical", 
+            "pets", 
+            "wait", 
+            "called"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_16", 
+        "attributes": [
+            "water", 
+            "traffic lights", 
+            "traffic sign", 
+            "tree", 
+            "wall"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_17", 
+        "attributes": [
+            "water", 
+            "traffic sign", 
+            "grass", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_18", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "house", 
+            "grass", 
+            "car"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_19", 
+        "attributes": [
+            "people", 
+            "water", 
+            "boat", 
+            "lights", 
+            "dark"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_20", 
+        "attributes": [
+            "people", 
+            "truck", 
+            "rain", 
+            "tree", 
+            "light"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_21", 
+        "attributes": [
+            "map "
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_22", 
+        "attributes": [
+            "people", 
+            "boat", 
+            "water", 
+            "car", 
+            "tree", 
+            "light", 
+            "dark", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_23", 
+        "attributes": [
+            "people", 
+            "boat", 
+            "tree", 
+            "light"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_24", 
+        "attributes": [
+            "people", 
+            "water", 
+            "boat", 
+            "tree", 
+            "light"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_25", 
+        "attributes": [
+            "people", 
+            "trash", 
+            "wall", 
+            "window", 
+            "light", 
+            "floor"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "I"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_26", 
+        "attributes": [
+            "water", 
+            "boat", 
+            "truck", 
+            "tree", 
+            "wall", 
+            "streetlight"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_27", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "sky", 
+            "coulds"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_28", 
+        "attributes": [
+            "water", 
+            "people", 
+            "boat", 
+            "tree", 
+            "house", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_29", 
+        "attributes": [
+            "water", 
+            "people", 
+            "boat", 
+            "road", 
+            "house", 
+            "sky", 
+            "clouds"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_30", 
+        "attributes": [
+            "water", 
+            "boat", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_31", 
+        "attributes": [
+            "water", 
+            "mud", 
+            "grass", 
+            "tree", 
+            "people"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_32", 
+        "attributes": [
+            "water", 
+            "truck", 
+            "tree", 
+            "grass", 
+            "boat"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_33", 
+        "attributes": [
+            "water", 
+            "truck", 
+            "boat", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_34", 
+        "attributes": [
+            "water", 
+            "door", 
+            "wall"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_35", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "boat", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_36", 
+        "attributes": [
+            "water", 
+            "people", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_37", 
+        "attributes": [
+            "water", 
+            "boat", 
+            "grass", 
+            "tree", 
+            "streetlight", 
+            "car", 
+            "sky"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_38", 
+        "attributes": [
+            "water", 
+            "people", 
+            "boat", 
+            "tree", 
+            "streetlight"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_39", 
+        "attributes": [
+            "water", 
+            "people", 
+            "boat", 
+            "tree", 
+            "streetlight", 
+            "traffic light"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_40", 
+        "attributes": [
+            "water", 
+            "car", 
+            "tree", 
+            "house", 
+            "light"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_41", 
+        "attributes": [
+            "water", 
+            "people", 
+            "boat", 
+            "tree", 
+            "streetlight"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_42", 
+        "attributes": [
+            "water", 
+            "people", 
+            "boat", 
+            "tree", 
+            "light", 
+            "car"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_43", 
+        "attributes": [
+            "chart"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "flood", 
+            "control", 
+            "district", 
+            "road"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_44", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_45", 
+        "attributes": [
+            "map "
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_46", 
+        "attributes": [
+            "map "
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_47", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_48", 
+        "attributes": [
+            "water", 
+            "mud", 
+            "grass", 
+            "fence"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "underwater", 
+            "danger", 
+            "home", 
+            "assisting", 
+            "manhole", 
+            "water", 
+            "pressure", 
+            "receding", 
+            "current", 
+            "sewer system"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_49", 
+        "attributes": [
+            "soldiers", 
+            "truck", 
+            "road", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_50", 
+        "attributes": [
+            "soldiers", 
+            "truck", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_51", 
+        "attributes": [
+            "people", 
+            "boat", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "Cajun Navy", 
+            "Harvey", 
+            "Army", 
+            "trucks", 
+            "cleaning out", 
+            "debris", 
+            "stank", 
+            "wash station"
+        ], 
+        "timing": "During", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_52", 
+        "attributes": [
+            "car", 
+            "tools", 
+            "road", 
+            "tree", 
+            "grass"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_53", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "Harvey", 
+            "challenges", 
+            "emergency", 
+            "communication", 
+            "terrifying", 
+            "Zello", 
+            "Facebook", 
+            "connection", 
+            "people", 
+            "help", 
+            "rescources", 
+            "assist", 
+            "over saturated", 
+            "mentally ", 
+            "emotionally", 
+            "radio", 
+            "information", 
+            "motivator"
+        ], 
+        "timing": "After", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_54", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "sky"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "reservoir", 
+            "parkway", 
+            "smell", 
+            "awful", 
+            "truck", 
+            "sludge", 
+            "cars", 
+            "floating", 
+            "rain", 
+            "nervous"
+        ], 
+        "timing": "After", 
+        "linked": "1.0", 
+        "inside_outside": "O"
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_55", 
+        "attributes": [
+            "map ", 
+            "flag of Texas"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "hurricane", 
+            "Harvey", 
+            "help", 
+            "victims", 
+            "loved"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_56", 
+        "attributes": [
+            "people", 
+            "water", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "neighbors", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_57", 
+        "attributes": [
+            "people", 
+            "water", 
+            "tree"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "neighbors", 
+            "helping", 
+            "people", 
+            "rescued", 
+            "911"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_58", 
+        "attributes": [], 
+        "content": "1.0", 
+        "text_attributes": [
+            "text", 
+            "zip code", 
+            "nearest", 
+            "shelter", 
+            "hurricane", 
+            "Harvey", 
+            "Houston", 
+            "flood", 
+            "relief", 
+            "recovery", 
+            "rescources", 
+            "availability", 
+            "volunteer", 
+            "needs"
+        ], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_59", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [
+            "shelter", 
+            "multi-service", 
+            "migrating", 
+            "crisis", 
+            "cleanup"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_ripkinkaty_60", 
+        "attributes": [
+            "water", 
+            "tree", 
+            "house"
+        ], 
+        "content": "0.0", 
+        "text_attributes": [], 
+        "timing": "During", 
+        "linked": "0.0", 
+        "inside_outside": "O"
+    }
+,
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_01", 
+        "attributes": [], 
+        "content": "0", 
+        "text_attributes": [
+            "safety"
+        ], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_02", 
+        "attributes": [], 
+        "content": "0", 
+        "text_attributes": [
+            "safety"
+        ], 
+        "timing": "", 
+        "linked": "0.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_03", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "neighbors"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "VR", 
+        "piece_number": "vr_barbara_04", 
+        "attributes": [
+            "map"
+        ], 
+        "content": "0", 
+        "text_attributes": [
+            "neighbors"
+        ], 
+        "timing": "", 
+        "linked": "1.0", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "", 
+        "piece_number": "", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "", 
+        "piece_number": "", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "", 
+        "piece_number": "", 
+        "attributes": [], 
+        "content": "", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }, 
+    {
+        "respondent_type": "", 
+        "piece_number": "", 
+        "attributes": [], 
+        "content": "\\", 
+        "text_attributes": [], 
+        "timing": "", 
+        "linked": "", 
+        "inside_outside": ""
+    }
+]

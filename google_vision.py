@@ -15,18 +15,18 @@ OUTPUT_FILE = "output/vision.json"
 # Creates JSON given a list of labels from Google Vision
 def create_json(labels, image_name):
     image_json = {}
-    image_json["piece_name"] = image_name
-    picture_attributes = []
-    picture_attributes_scores = []
+    image_json["name"] = image_name
+    attributes = []
+    attributes_scores = []
     print("Creating JSON for " + image_name)
 
     for label in labels:
         print(label['description'] + ": " + str(label['score']))
-        picture_attributes.append(label['description'].encode('utf-8'))
-        picture_attributes_scores.append(label['score'])
+        attributes.append(label['description'].encode('utf-8'))
+        attributes_scores.append(label['score'])
 
-    image_json["picture_attributes"] = picture_attributes
-    image_json["picture_attributes_scores"] = picture_attributes_scores
+    image_json["attributes"] = attributes
+    image_json["attributes_scores"] = attributes_scores
 
     print("")
     print("JSON (image) created")

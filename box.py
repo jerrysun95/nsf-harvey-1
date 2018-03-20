@@ -2,14 +2,14 @@ from boxpython import BoxAuthenticateFlow, BoxSession, BoxError
 from request import BoxRestRequest
 from StringIO import StringIO
 import google_vision as gv
-import keyring, requests, read_csv
+import keyring, requests, read_csv, text
 
-#Tokens Changed Callback
+# Tokens Changed Callback
 def tokens_changed(refresh_token, access_token):
     keyring.set_password("system", "BOX_ACCESS_TOKEN", access_token),
     keyring.set_password("system", "BOX_REFRESH_TOKEN", refresh_token)
 
-#Upload File
+# Upload File
 def upload(file_name, folder_id, file_location):
     print("Uploading " + file_name + " to folder id " + str(folder_id) + " from " + file_location + "...")
     response = box.upload_file(file_name, folder_id, file_location)
@@ -18,26 +18,28 @@ def upload(file_name, folder_id, file_location):
     print("")
     return response['entries'][0]['id']
 
-#Download File
+# Download File
 def download(file_id, file_location):
     print("Downloading file id " + str(file_id) + " to " + file_location + "...")
     response = box.download_file(file_id, file_location)
     print("Downloaded file")
     print("")
 
-#Delete File
+# Delete File
 def delete(file_id):
     print("Deleting " + file_id + "...")
     response = box.delete_file(file_id)
     print("Deleted file id " + file_id)
     print("")
 
+# Copy File
 def copy(file_id, dest_folder_id):
     print("Copying file " + str(file_id) + " to " + str(dest_folder_id) + "...")
     response = box.copy_file(file_id, dest_folder_id)
     print("Copied file")
     print("")
 
+# List files in folder
 def items(folder_id, lim=1000, ofs=0):
     print("Getting items in folder " + str(folder_id) + "...")
     response = box.get_folder_items(folder_id, limit=lim, offset=ofs, fields_list=['name', 'type', 'id'])
@@ -45,7 +47,7 @@ def items(folder_id, lim=1000, ofs=0):
     print("")
     return response
 
-#Helper method to manage request to Google Vision from send_to_vision
+# Helper method to manage request to Google Vision from send_to_vision
 def request(method, command):
     data = None
     querystring = None
@@ -78,7 +80,7 @@ def request(method, command):
     return requests.request(method=method, url=url, **kwargs)
 
 
-#Send to Google Vision
+# Send to Google Vision
 def send_to_vision(file_name, file_id, image_type='image', chunk_size=1034*1034*1):
     req = request("GET", "files/%s/content" % (file_id, ))
     total = -1
@@ -102,7 +104,7 @@ def send_to_vision(file_name, file_id, image_type='image', chunk_size=1034*1034*
     else:
         return None
 
-#Read file data from box
+# Read file data from box
 def get_file_data(file_id, chunk_size=1034*1034*1):
     file_content = ''
     req = request("GET", "files/%s/content" % (file_id))
@@ -119,7 +121,7 @@ def get_file_data(file_id, chunk_size=1034*1034*1):
             transferred += len(chunk)
     return file_content
 
-#Parse excel file from box
+# Parse excel file from box
 def parse_excel(file_id, chunk_size=1034*1034*1):
     print('Parsing excel file ' + str(file_id) + '...')
     file_data = get_file_data(file_id, chunk_size)
@@ -146,6 +148,54 @@ def setup_box():
     return BoxSession(keyring.get_password("system", "BOX_CLIENT_ID"),
         keyring.get_password("system", "BOX_CLIENT_SECRET"), refresh_token, access_token, tokens_changed)
 
+# Runs all images found in box source folder through google vision label detection
+# Writes results to output file
+def vision(src_folder_id, t):
+    vision_data = []
+
+    # Read folder to get file names and ids
+    response = box.items(src_folder_id)
+    entries = response['entries']
+
+    # Send each file to google vision for label detection
+    for entry in entries:
+        name = entry['name'].lower()
+        if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
+            try:
+                result = send_to_vision(name, entry['id'])
+                vision_data.append(result)
+            except:
+                pass
+
+    # Write results to output file
+    with open('output/' + t + '.json', 'w') as f:
+        f.write(json.dumps(vision_data, indent=4))
+
+# Runs all text images found in box source folder through google vision text detection
+# Writes results to output file
+def vision_text(src_folder_id, t):
+    vision_data = []
+
+    # Read folder to get file names and ids
+    response = box.items(src_folder_id)
+    entries = response['entries']
+
+    # Send each file to google vision for text detection
+    for entry in entries:
+        name = entry['name'].lower()
+        if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
+            try:
+                result = send_to_vision(name, entry['id'], image_type='text')
+                t = text.parse_text([result['text']], result['piece_name'])
+                result['attributes'] = t
+                vision_data.append(result)
+            except:
+                pass
+
+    # Write results to output file
+    with open('output/' + t + '_text.json', 'w') as f:
+        f.write(json.dumps(vision_data, indent=4))
+
 #----------------------------------------------------------------------------------------------
 # Access a BoxSession, upload file to box, send file to Google Vision, and delete file from Box
 #----------------------------------------------------------------------------------------------
@@ -166,12 +216,3 @@ box = setup_box()
 # # Generate BoxSession
 # box = BoxSession(keyring.get_password("system", "BOX_CLIENT_ID"), keyring.get_password("system", "BOX_CLIENT_SECRET"), refresh_token, access_token, tokens_changed)
 
-# # Uplaod file to Box
-# new_file_id = upload('obama.jpeg', 0, 'test_images/obama.jpeg')
-# # # Send file to Google Vision
-# try:
-#     send_to_vision('obama.jpeg', new_file_id)
-# finally:
-#     delete(new_file_id)
-
-# # Delete file from Google Vision

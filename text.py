@@ -58,6 +58,5 @@ def parse_text(doc, name):
 	res = []
 	for t in topics:
 		res.append(t[0])
-	print(res)
 	return res
 

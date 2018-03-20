@@ -8,3 +8,5 @@ scipy
 nltk
 stop-words
 gensim
+scikit-learn
+seaborn
