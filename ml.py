@@ -1,7 +1,8 @@
 import json
 from sklearn import svm
-from sklearn.neighbors import NearestNeighbors as nn
+from sklearn.neighbors import KNeighborsClassifier as nn
 from sklearn.naive_bayes import GaussianNB as gnb
+from sklearn.model_selection import cross_val_score, GridSearchCV
 
 # Maps frequent attribute to an index
 fmap = {}
@@ -27,7 +28,7 @@ def aggregate_freq(files):
 		with open('output/' + file + '_attributes.json') as f:
 			data = json.loads(f.read())
 			for d in data:
-				fmap[d] = 0
+				fmap[d['name']] = 0
 
 	# Map attribute to an index for quicker compilation of records later on
 	index = 0
@@ -42,7 +43,7 @@ def iter_results(t, label):
 
 	for d in data:
 		name = d['name']
-		rec = [0] * len(freq)
+		rec = [0] * len(fmap)
 
 		for a in d['attributes']:
 			i = fmap[a]
@@ -69,7 +70,7 @@ def partition_data():
 
 # Creates predictive model using svm algorithm and train_data
 # Returns the accuracy of the model using test_data
-def svm(gamma=0.001, C=100.):
+def my_svm(gamma=0.001, C=100.):
 	clf = svm.SVC(gamma=gamma, C=C)
 	clf.fit(train_data, train_labels)
 	
@@ -82,7 +83,7 @@ def svm(gamma=0.001, C=100.):
 
 # Creates predictive model using naive bayes algorithm and train_data
 # Returns the accuracy of the model using test_data
-def naive_bayes()
+def naive_bayes():
 	g = gnb()
 	g.fit(train_data, train_labels)
 
@@ -104,3 +105,43 @@ def nearest_neighbors(n_neighbors, algorithm='auto'):
 			correct += 1
 	accuracy = float(correct) / len(test_labels)
 	return accuracy
+
+# aggregate_freq(['vr', 'r', 'or'])
+# iter_results('vr', VR)
+# iter_results('r',  R)
+# iter_results('or', OR)
+
+# g = gnb()
+for i in range(1,20):
+	nbrs = nn(n_neighbors=i)
+	# g.fit(records, labels)
+	clf = svm.SVC()
+	scores = cross_val_score(nbrs, records, labels, cv=5)
+	print(scores)
+	print('average accuracy: ' + str(scores.mean()) + '\n')
+
+# Nearest Neighbor
+nbrs = nn()
+parameters = {'n_neighbors':[x for x in range(1,10)], 
+			  'weights':['uniform', 'distance'], 
+			  'algorithm':['auto', 'ball_tree', 'kd_tree', 'brute'], 
+			  'leaf_size':[x for x in range(25,36)], 
+			  'p':[1,2]}
+parameters = {'n_neighbors':[x for x in range(1,20)]}
+clf = GridSearchCV(nbrs, parameters, cv=5)
+
+# SVM
+# svc = svm.SVC()
+# parameters = {'C':[1.1 - 0.01*x for x in range(1,20)], 
+# 			  'kernel':['linear', 'poly', 'rbf', 'sigmoid'], 
+# 			  'shrinking':[True, False],
+# 			  'probability':[True, False]}
+# clf = GridSearchCV(svc, parameters, cv=5)
+# clf.fit(records, labels)
+# print(clf.cv_results_['mean_test_score'])
+# print(my_svm())
+# print(clf.best_score_)
+# print(clf.best_params_)
+# print(clf.best_estimator_)
+
+# g.fit(records, labels)

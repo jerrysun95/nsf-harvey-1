@@ -50,7 +50,7 @@ def freq_analysis_violin():
 	allf = {}
 	vf = {}
 	for x in vr:
-		for a in x['picture_attributes']:
+		for a in x['attributes']:
 			if a not in allf:
 				allf[a] = 0
 			if a not in vf:
@@ -60,7 +60,7 @@ def freq_analysis_violin():
 
 	rf = {}
 	for x in r:
-		for a in x['picture_attributes']:
+		for a in x['attributes']:
 			if a not in allf:
 				allf[a] = 0
 			if a not in rf:
@@ -70,7 +70,7 @@ def freq_analysis_violin():
 
 	of = {}
 	for x in o:
-		for a in x['picture_attributes']:
+		for a in x['attributes']:
 			if a not in allf:
 				allf[a] = 0
 			if a not in of:
@@ -94,7 +94,7 @@ def freq_analysis_violin():
 	d = {'Frequency':[], 'Type':[]}
 	for x in vf:
 		d['Frequency'].append(vf[x])
-		d['Type'].append('Volunteer Resucers')
+		d['Type'].append('Volunteer Rescuers')
 
 	for x in rf:
 		d['Frequency'].append(rf[x])
