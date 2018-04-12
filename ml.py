@@ -1,8 +1,13 @@
-import json
-from sklearn import svm
+import json, random
+from sklearn import svm, tree
 from sklearn.neighbors import KNeighborsClassifier as nn
 from sklearn.naive_bayes import GaussianNB as gnb
+from sklearn.naive_bayes import MultinomialNB as mnb
+from sklearn.naive_bayes import BernoulliNB as bnb
 from sklearn.model_selection import cross_val_score, GridSearchCV
+from sklearn.linear_model import SGDClassifier as sgd
+from sklearn.neural_network import MLPClassifier as mlp
+from sklearn.ensemble import VotingClassifier, BaggingClassifier, RandomForestClassifier, ExtraTreesClassifier, AdaBoostClassifier
 
 # Maps frequent attribute to an index
 fmap = {}
@@ -46,8 +51,9 @@ def iter_results(t, label):
 		rec = [0] * len(fmap)
 
 		for a in d['attributes']:
-			i = fmap[a]
-			rec[i] = 1
+			if a in fmap:
+				i = fmap[a]
+				rec[i] = 1
 
 		records.append(rec)
 		labels.append(label)
@@ -70,67 +76,158 @@ def partition_data():
 
 # Creates predictive model using svm algorithm and train_data
 # Returns the accuracy of the model using test_data
-def my_svm(gamma=0.001, C=100.):
-	clf = svm.SVC(gamma=gamma, C=C)
-	clf.fit(train_data, train_labels)
-	
-	correct = 0
-	for [p, a] in zip(clf.predict(test_data), test_labels):
-		if a == p:
-			correct += 1
-	accuracy = float(correct) / len(test_labels)
-	return accuracy
+def _svm():
+	svc = svm.SVC()
+	parameters = {'C':[.9 + 0.01*x for x in range(1,5)], 
+				  'kernel':['linear', 'poly', 'rbf'], 
+				  'shrinking':[True, False]}
+	clf = GridSearchCV(svc, parameters, cv=5)
+	clf.fit(records, labels)
+	return ('svc', clf.best_estimator_)
 
 # Creates predictive model using naive bayes algorithm and train_data
 # Returns the accuracy of the model using test_data
-def naive_bayes():
-	g = gnb()
-	g.fit(train_data, train_labels)
+def _gnb():
+	return ('gnb', gnb())
 
-	correct = 0
-	for [p, a] in zip(g.predict(test_data), test_labels):
-		if a == p:
-			correct += 1
-	accuracy = float(correct) / len(test_labels)
-	return accuracy
+def _mnb():
+	return ('mnb', mnb())
+
+def _bnb():
+	return ('bnb', bnb())
 
 # Creates predictive model using nearest neighbors algorithm and train_data
 # Returns the accuracy of the model using test_data
-def nearest_neighbors(n_neighbors, algorithm='auto'):
-	nbrs = nn(n_neighbors=n_neighbors, algorithm=algorithm).fit(train_data)
+def _knn():
+	nbrs = nn()
+	parameters = {'n_neighbors':[1], 
+				  'weights':['uniform', 'distance'], 
+				  'algorithm':['auto', 'ball_tree', 'kd_tree', 'brute']}
+	clf = GridSearchCV(nbrs, parameters, cv=5)
+	clf.fit(records, labels)
+	return ('knn', clf.best_estimator_)
 
-	correct = 0
-	for [p, a] in zip(nbrs.predict(test_data), test_labels):
-		if a == p:
-			correct += 1
-	accuracy = float(correct) / len(test_labels)
-	return accuracy
+def _dt():
+	return ('dt', tree.DecisionTreeClassifier())
+
+def _sgd():
+	s = sgd()
+	parameters = {'loss': ['hinge', 'log', 'modified_huber', 'squared_hinge', 'perceptron'],
+				  'penalty': ['l2', 'l1', 'none', 'elasticnet'],
+				  'alpha': [.00001]}
+	clf = GridSearchCV(s, parameters, cv=5)
+	clf.fit(records, labels)
+	return ('sgd', clf.best_estimator_)
+
+def _mlp():
+	return ('mlp', mlp())
+
+def voting_classifier(freq, data):
+	fmap = {}
+	aggregate_freq(freq)
+
+	global records, labels
+	records = []
+	labels = []
+	label = 0
+	for d in data:
+		iter_results(d, label)
+		label += 1
+
+	z = zip(records, labels)
+	random.shuffle(z)
+
+	records = [x[0] for x in z]
+	labels = [x[1] for x in z]
+
+	estimators = []
+	print 'svm'
+	estimators.append(_svm())
+	print 'gnb'
+	estimators.append(_gnb())
+	print 'mnb'
+	estimators.append(_mnb())
+	print 'bnb'
+	estimators.append(_bnb())
+	print 'knn'
+	estimators.append(_knn())
+	print 'dt'
+	estimators.append(_dt())
+	print 'sgd'
+	estimators.append(_sgd())
+	print 'mlp'
+	estimators.append(_mlp())
+
+	eclf = VotingClassifier(estimators=estimators, voting='hard')
+	scores = cross_val_score(eclf, records, labels, cv=5)
+	print(scores)
+	print(scores.mean())
+
+	return eclf, scores.mean()
 
 # aggregate_freq(['vr', 'r', 'or'])
 # iter_results('vr', VR)
 # iter_results('r',  R)
 # iter_results('or', OR)
 
-# g = gnb()
-for i in range(1,20):
-	nbrs = nn(n_neighbors=i)
-	# g.fit(records, labels)
-	clf = svm.SVC()
-	scores = cross_val_score(nbrs, records, labels, cv=5)
-	print(scores)
-	print('average accuracy: ' + str(scores.mean()) + '\n')
+	# aggregate_freq(['overall'])
+	# iter_results('overall', 0)
+	# iter_results('noise', 1)
 
-# Nearest Neighbor
-nbrs = nn()
-parameters = {'n_neighbors':[x for x in range(1,10)], 
-			  'weights':['uniform', 'distance'], 
-			  'algorithm':['auto', 'ball_tree', 'kd_tree', 'brute'], 
-			  'leaf_size':[x for x in range(25,36)], 
-			  'p':[1,2]}
-parameters = {'n_neighbors':[x for x in range(1,20)]}
-clf = GridSearchCV(nbrs, parameters, cv=5)
+# estimators = []
+# Naive Bayes
+# Multinomial Bayes
+# m = mnb()
+# bagging = BaggingClassifier(m, max_samples=0.4, max_features=0.4)
+# scores = cross_val_score(bagging, records, labels, cv=5)
+# estimators.append(('mnb', m))
+# scores = cross_val_score(g, records, labels, cv=5)
 
-# SVM
+# print('random forests')
+# rf = RandomForestClassifier(n_estimators=100)
+# scores = cross_val_score(rf, records, labels, cv=5)
+# print(scores)
+# print('average accuracy: ' + str(scores.mean()) + '\n')
+
+# print('extremely random trees')
+# erf = ExtraTreesClassifier(n_estimators=100)
+# scores = cross_val_score(erf, records, labels, cv=5)
+# print(scores)
+# print('average accuracy: ' + str(scores.mean()) + '\n')
+
+# print('adaboost')
+# abc = AdaBoostClassifier(n_estimators=50)
+# scores = cross_val_score(abc, records, labels, cv=5)
+# print(scores)
+# print('average accuracy: ' + str(scores.mean()) + '\n')
+
+# # # Gaussian Bayes
+# g = gnb()	
+# estimators.append(('gnb', g))
+# # scores = cross_val_score(g, records, labels, cv=5)
+# # print(scores)
+# # print('average accuracy: ' + str(scores.mean()) + '\n')
+
+# # # Bernoulli Bayes
+# b = bnb()
+# estimators.append(('bnb', b))
+# # scores = cross_val_score(g, records, labels, cv=5)
+# # print(scores)
+# # print('average accuracy: ' + str(scores.mean()) + '\n')
+
+# # Nearest Neighbor
+# nbrs = nn()
+# parameters = {'n_neighbors':[x for x in range(1,10)], 
+# 			  'weights':['uniform', 'distance'], 
+# 			  'algorithm':['auto', 'ball_tree', 'kd_tree', 'brute'], 
+# 			  'leaf_size':[x for x in range(25,36)], 
+# 			  'p':[1,2]}
+# parameters = {'n_neighbors':[x for x in range(1,20)]}
+# clf = GridSearchCV(nbrs, parameters, cv=5)
+# clf.fit(records, labels)
+# estimators.append(('knn', clf.best_estimator_))
+
+# # SVM
 # svc = svm.SVC()
 # parameters = {'C':[1.1 - 0.01*x for x in range(1,20)], 
 # 			  'kernel':['linear', 'poly', 'rbf', 'sigmoid'], 
@@ -138,10 +235,70 @@ clf = GridSearchCV(nbrs, parameters, cv=5)
 # 			  'probability':[True, False]}
 # clf = GridSearchCV(svc, parameters, cv=5)
 # clf.fit(records, labels)
-# print(clf.cv_results_['mean_test_score'])
-# print(my_svm())
-# print(clf.best_score_)
-# print(clf.best_params_)
-# print(clf.best_estimator_)
+# # print(clf.cv_results_['mean_test_score'])
+# estimators.append(('svc', clf.best_estimator_))
+# # print(my_svm())
+# # print(clf.best_score_)
+# # print(clf.best_params_)
+# # print(clf.best_estimator_)
 
-# g.fit(records, labels)
+# # Decision Trees
+# clf = tree.DecisionTreeClassifier()
+# estimators.append(('dt', clf))
+# # scores = cross_val_score(clf, records, labels, cv=5)
+# # print(scores)
+# # print(scores.mean())
+
+# # SGD
+# clf = sgd()
+# # scores = cross_val_score(clf, records, labels, cv=5)
+# # print(scores)
+# # print(scores.mean())
+# parameters = {'loss': ['hinge', 'log', 'modified_huber', 'squared_hinge', 'perceptron'],
+# 			  'penalty': ['l2', 'l1', 'none', 'elasticnet'],
+# 			  'alpha': [.00001 * x for x in 1,16]}
+# c = GridSearchCV(clf, parameters, cv=5)
+# c.fit(records, labels)
+# estimators.append(('sgd', c))
+# # print(c.cv_results_['mean_test_score'])
+# # print(c.best_score_)
+# # print(c.best_params_)
+
+# # Multilayer Perceptron
+# clf = mlp()
+# # scores = cross_val_score(clf, records, labels, cv=5)
+# # print(scores)
+# # print(scores.mean())
+# # parameters = {'hidden_layer_sizes': (80,),
+# #  			  'activation': ['identity', 'logistic', 'tanh', 'relu'],
+# #  			  'solver': ['lbfgs', 'sgd', 'adam'],
+# #  			  'alpha': [.00001 * x for x in 1,16],
+# #  			  'learning_rate': ['constant', 'invscaling', 'adaptive']}
+# # c = GridSearchCV(clf, parameters, cv=5)
+# # c.fit(records, labels)
+# # print(c.cv_results_['mean_test_score'])
+# # print(c.best_score_)
+# # print(c.best_params_)
+# # g.fit(records, labels)
+# estimators.append(('mlp', clf))
+
+# # Voting Classifier
+# # clf1 = mnb()
+# # clf2 = gnb()
+# # clf3 = tree.DecisionTreeClassifier()
+# # clf4 = nn()
+# # clf5 = svm.SVC()
+# # clf6 = sgd()
+# # clf7 = mlp()
+
+# # eclf = VotingClassifier(estimators=[('mnb', clf1), ('gnb', clf2), ('dt', clf3), ('knn', clf4), ('svc', clf5), ('sgd', clf6), ('mlp', clf7)],
+# # 						voting='hard')
+# eclf = VotingClassifier(estimators = estimators, voting='hard')
+# # for clf in [clf1, clf2, clf3, clf4, clf5, clf6, clf7, eclf]:
+# # 	scores = cross_val_score(clf, records, labels, cv=5)
+# # 	print(scores)
+# # 	print(scores.mean())
+
+# scores = cross_val_score(eclf, records, labels, cv=5)
+# print(scores)
+# print(scores.mean())

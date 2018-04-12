@@ -1,0 +1,58 @@
+[
+    {
+        "freq": 0.79, 
+        "name": "event"
+    }, 
+    {
+        "freq": 0.78, 
+        "name": "fun"
+    }, 
+    {
+        "freq": 0.46, 
+        "name": "smile"
+    }, 
+    {
+        "freq": 0.36, 
+        "name": "girl"
+    }, 
+    {
+        "freq": 0.35, 
+        "name": "socialite"
+    }, 
+    {
+        "freq": 0.35, 
+        "name": "party"
+    }, 
+    {
+        "freq": 0.27, 
+        "name": "friendship"
+    }, 
+    {
+        "freq": 0.24, 
+        "name": "drink"
+    }, 
+    {
+        "freq": 0.23, 
+        "name": "ceremony"
+    }, 
+    {
+        "freq": 0.21, 
+        "name": "public relations"
+    }, 
+    {
+        "freq": 0.21, 
+        "name": "restaurant"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "social group"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "fashion"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "product"
+    }
+]

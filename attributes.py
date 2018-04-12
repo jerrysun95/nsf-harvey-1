@@ -1,6 +1,10 @@
 import json, sys
 
-FREQ = sys.argv[1]
+FREQ = .1
+try:
+	FREQ = sys.argv[1]
+except:
+	pass
 
 # Frequency analysis of attributes
 # Writes list of sorted frequencies above MIN_FREQ to output file

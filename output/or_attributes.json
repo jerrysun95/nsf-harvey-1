@@ -1,147 +1,38 @@
 [
     {
         "freq": 0.56, 
-        "name": "vehicle", 
-        "avg_conf": 0.78
+        "name": "vehicle"
     }, 
     {
         "freq": 0.36, 
-        "name": "water", 
-        "avg_conf": 0.84
+        "name": "water"
     }, 
     {
         "freq": 0.36, 
-        "name": "mode of transport", 
-        "avg_conf": 0.88
+        "name": "mode of transport"
     }, 
     {
         "freq": 0.31, 
-        "name": "tree", 
-        "avg_conf": 0.74
+        "name": "tree"
     }, 
     {
         "freq": 0.25, 
-        "name": "waterway", 
-        "avg_conf": 0.94
+        "name": "waterway"
     }, 
     {
         "freq": 0.17, 
-        "name": "river", 
-        "avg_conf": 0.81
+        "name": "river"
     }, 
     {
         "freq": 0.17, 
-        "name": "transport", 
-        "avg_conf": 0.91
+        "name": "transport"
     }, 
     {
         "freq": 0.17, 
-        "name": "boat", 
-        "avg_conf": 0.77
+        "name": "boat"
     }, 
     {
         "freq": 0.17, 
-        "name": "motor vehicle", 
-        "avg_conf": 0.9
-    }, 
-    {
-        "freq": 0.14, 
-        "name": "water resources", 
-        "avg_conf": 0.78
-    }, 
-    {
-        "freq": 0.14, 
-        "name": "recreation", 
-        "avg_conf": 0.67
-    }, 
-    {
-        "freq": 0.14, 
-        "name": "canal", 
-        "avg_conf": 0.85
-    }, 
-    {
-        "freq": 0.14, 
-        "name": "boating", 
-        "avg_conf": 0.71
-    }, 
-    {
-        "freq": 0.14, 
-        "name": "car", 
-        "avg_conf": 0.78
-    }, 
-    {
-        "freq": 0.14, 
-        "name": "product", 
-        "avg_conf": 0.65
-    }, 
-    {
-        "freq": 0.11, 
-        "name": "disaster", 
-        "avg_conf": 0.74
-    }, 
-    {
-        "freq": 0.11, 
-        "name": "property", 
-        "avg_conf": 0.91
-    }, 
-    {
-        "freq": 0.11, 
-        "name": "natural disaster", 
-        "avg_conf": 0.77
-    }, 
-    {
-        "freq": 0.11, 
-        "name": "flood", 
-        "avg_conf": 0.8
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "sky", 
-        "avg_conf": 0.73
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "real estate", 
-        "avg_conf": 0.66
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "road", 
-        "avg_conf": 0.79
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "profession", 
-        "avg_conf": 0.77
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "area", 
-        "avg_conf": 0.67
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "personal protective equipment", 
-        "avg_conf": 0.62
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "official", 
-        "avg_conf": 0.64
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "water transportation", 
-        "avg_conf": 0.92
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "professional", 
-        "avg_conf": 0.63
-    }, 
-    {
-        "freq": 0.08, 
-        "name": "reflection", 
-        "avg_conf": 0.7
+        "name": "motor vehicle"
     }
 ]

@@ -3,9 +3,7 @@
         "attributes": [
             "mode of transport", 
             "vehicle", 
-            "boat", 
-            "recreation", 
-            "boating"
+            "boat"
         ], 
         "name": "or_simonkaty_003.png"
     }, 
@@ -13,18 +11,12 @@
         "attributes": [
             "vehicle", 
             "mode of transport", 
-            "boating", 
-            "recreation", 
-            "boat", 
-            "personal protective equipment", 
-            "product"
+            "boat"
         ], 
         "name": "or_simonkaty_004.png"
     }, 
     {
         "attributes": [
-            "property", 
-            "product", 
             "mode of transport"
         ], 
         "name": "or_simonkaty_005.png"
@@ -32,59 +24,39 @@
     {
         "attributes": [
             "vehicle", 
-            "mode of transport", 
-            "recreation", 
-            "profession", 
-            "product", 
-            "official", 
-            "personal protective equipment"
+            "mode of transport"
         ], 
         "name": "or_simonkaty_006.png"
     }, 
     {
-        "attributes": [
-            "product", 
-            "area"
-        ], 
+        "attributes": [], 
         "name": "or_simonkaty_007.png"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "or_simonkaty_009.png"
     }, 
     {
         "attributes": [
-            "water resources", 
             "river", 
             "water"
         ], 
         "name": "or_simonkaty_016.png"
     }, 
     {
-        "attributes": [
-            "area"
-        ], 
+        "attributes": [], 
         "name": "or_simonkaty_025.png"
     }, 
     {
         "attributes": [
             "tree", 
-            "road", 
-            "sky", 
-            "vehicle", 
-            "area"
+            "vehicle"
         ], 
         "name": "or_simonkaty_036.png"
     }, 
     {
         "attributes": [
-            "flood", 
             "tree", 
-            "natural disaster", 
-            "disaster", 
-            "road", 
             "water"
         ], 
         "name": "or_simonkaty_037.png"
@@ -92,9 +64,6 @@
     {
         "attributes": [
             "water", 
-            "flood", 
-            "natural disaster", 
-            "disaster", 
             "tree"
         ], 
         "name": "or_simonkaty_038.png"
@@ -103,21 +72,16 @@
         "attributes": [
             "waterway", 
             "water", 
-            "recreation", 
-            "vehicle", 
-            "sky", 
-            "boating"
+            "vehicle"
         ], 
         "name": "or_simonkaty_039.png"
     }, 
     {
         "attributes": [
             "waterway", 
-            "canal", 
             "water", 
             "river", 
             "boat", 
-            "water resources", 
             "tree", 
             "vehicle"
         ], 
@@ -129,9 +93,7 @@
     }, 
     {
         "attributes": [
-            "water", 
-            "water resources", 
-            "reflection"
+            "water"
         ], 
         "name": "or_simonkaty_042.png"
     }, 
@@ -148,12 +110,10 @@
     {
         "attributes": [
             "motor vehicle", 
-            "car", 
             "transport", 
             "vehicle", 
             "mode of transport", 
-            "tree", 
-            "road"
+            "tree"
         ], 
         "name": "or_simonkaty_044.png"
     }, 
@@ -165,49 +125,34 @@
         "name": "or_simonkaty_045.png"
     }, 
     {
-        "attributes": [
-            "profession", 
-            "professional", 
-            "official"
-        ], 
+        "attributes": [], 
         "name": "or_simonkaty_052.png"
     }, 
     {
         "attributes": [
-            "water transportation", 
             "waterway", 
             "boat", 
-            "boating", 
-            "personal protective equipment", 
             "vehicle"
         ], 
         "name": "or_simonkaty_056.png"
     }, 
     {
-        "attributes": [
-            "professional"
-        ], 
+        "attributes": [], 
         "name": "or_simonkaty_057.png"
     }, 
     {
         "attributes": [
             "water", 
-            "natural disaster", 
-            "flood", 
-            "disaster", 
-            "vehicle", 
-            "car"
+            "vehicle"
         ], 
         "name": "or_simonkaty_058.png"
     }, 
     {
         "attributes": [
             "waterway", 
-            "water transportation", 
             "river", 
             "water", 
             "vehicle", 
-            "canal", 
             "tree"
         ], 
         "name": "or_simonkaty_059.png"
@@ -215,12 +160,8 @@
     {
         "attributes": [
             "water", 
-            "flood", 
             "waterway", 
-            "natural disaster", 
-            "disaster", 
             "vehicle", 
-            "recreation", 
             "tree"
         ], 
         "name": "or_simonkaty_060.png"
@@ -228,10 +169,7 @@
     {
         "attributes": [
             "waterway", 
-            "property", 
-            "canal", 
             "water", 
-            "boating", 
             "boat", 
             "river", 
             "vehicle"
@@ -240,11 +178,8 @@
     }, 
     {
         "attributes": [
-            "profession", 
             "mode of transport", 
-            "official", 
-            "vehicle", 
-            "professional"
+            "vehicle"
         ], 
         "name": "or_simonkaty_062.png"
     }, 
@@ -253,8 +188,7 @@
             "waterway", 
             "water", 
             "mode of transport", 
-            "tree", 
-            "reflection"
+            "tree"
         ], 
         "name": "or_simonkaty_063.png"
     }, 
@@ -271,7 +205,6 @@
         "attributes": [
             "transport", 
             "mode of transport", 
-            "car", 
             "vehicle", 
             "motor vehicle"
         ], 
@@ -289,55 +222,40 @@
     {
         "attributes": [
             "transport", 
-            "vehicle", 
-            "real estate"
+            "vehicle"
         ], 
         "name": "or_simonkaty_073.png"
     }, 
     {
-        "attributes": [
-            "property", 
-            "real estate", 
-            "car"
-        ], 
+        "attributes": [], 
         "name": "or_simonkaty_074.png"
     }, 
     {
         "attributes": [
             "waterway", 
             "water", 
-            "canal", 
-            "river", 
-            "sky", 
-            "water resources", 
-            "real estate", 
-            "reflection"
+            "river"
         ], 
         "name": "or_simonkaty_075.png"
     }, 
     {
         "attributes": [
             "waterway", 
-            "water transportation", 
             "river", 
-            "canal", 
             "water", 
             "boat", 
-            "tree", 
-            "water resources"
+            "tree"
         ], 
         "name": "or_simonkaty_076.png"
     }, 
     {
         "attributes": [
-            "property", 
             "mode of transport"
         ], 
         "name": "or_simonkaty_077.png"
     }, 
     {
         "attributes": [
-            "car", 
             "motor vehicle", 
             "vehicle", 
             "mode of transport"

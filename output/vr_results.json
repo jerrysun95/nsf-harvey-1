@@ -1,113 +1,68 @@
 [
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_barbara_01.jpg"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_barbara_02.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "mode of transport", 
-            "tree", 
-            "grass", 
-            "phenomenon"
+            "tree"
         ], 
         "name": "vr_billdance_01.png"
     }, 
     {
-        "attributes": [
-            "mode of transport", 
-            "phenomenon", 
-            "recreation", 
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_billdance_02.png"
     }, 
     {
-        "attributes": [
-            "mode of transport", 
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_billdance_03.png"
     }, 
     {
         "attributes": [
-            "car", 
-            "mode of transport", 
             "natural disaster", 
             "disaster", 
-            "phenomenon", 
             "water", 
             "flood"
         ], 
         "name": "vr_billdance_04.png"
     }, 
     {
-        "attributes": [
-            "mode of transport", 
-            "phenomenon", 
-            "recreation", 
-            "automotive exterior"
-        ], 
+        "attributes": [], 
         "name": "vr_billdance_05.png"
     }, 
     {
         "attributes": [
-            "mode of transport", 
-            "phenomenon", 
-            "grass", 
-            "tree", 
-            "recreation"
+            "tree"
         ], 
         "name": "vr_billdance_06.png"
     }, 
     {
-        "attributes": [
-            "mode of transport", 
-            "car", 
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_billdance_07.png"
     }, 
     {
-        "attributes": [
-            "mode of transport", 
-            "phenomenon", 
-            "recreation"
-        ], 
+        "attributes": [], 
         "name": "vr_billdance_08.png"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "mode of transport", 
-            "automotive exterior", 
-            "recreation"
+            "vehicle"
         ], 
         "name": "vr_billdance_09.png"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "mode of transport", 
-            "phenomenon", 
-            "product", 
-            "recreation"
+            "vehicle"
         ], 
         "name": "vr_billdance_10.png"
     }, 
     {
-        "attributes": [
-            "mode of transport", 
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_billdance_11.png"
     }, 
     {
@@ -116,43 +71,30 @@
     }, 
     {
         "attributes": [
-            "mode of transport", 
-            "phenomenon", 
             "tree", 
             "natural disaster", 
             "disaster", 
-            "grass", 
             "water", 
             "flood"
         ], 
         "name": "vr_billdance_13.png"
     }, 
     {
-        "attributes": [
-            "mode of transport", 
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_billdance_14.png"
     }, 
     {
-        "attributes": [
-            "mode of transport", 
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_billdance_15.png"
     }, 
     {
-        "attributes": [
-            "sky"
-        ], 
+        "attributes": [], 
         "name": "vr_brock_01.jpeg"
     }, 
     {
         "attributes": [
             "river", 
             "water", 
-            "phenomenon", 
-            "sky", 
             "tree"
         ], 
         "name": "vr_brock_02.jpg"
@@ -162,31 +104,24 @@
             "waterway", 
             "water", 
             "flood", 
-            "mode of transport", 
-            "bayou", 
             "natural disaster", 
             "tree", 
             "floodplain", 
-            "river", 
-            "plant"
+            "river"
         ], 
         "name": "vr_carolkaty_01.png"
     }, 
     {
         "attributes": [
-            "waterway", 
-            "mode of transport"
+            "waterway"
         ], 
         "name": "vr_carolkaty_04.png"
     }, 
     {
         "attributes": [
-            "car", 
             "vehicle", 
-            "motor vehicle", 
             "disaster", 
             "natural disaster", 
-            "automotive exterior", 
             "flood"
         ], 
         "name": "vr_carolkaty_06.png"
@@ -207,8 +142,6 @@
             "waterway", 
             "water resources", 
             "river", 
-            "phenomenon", 
-            "sky", 
             "tree", 
             "floodplain"
         ], 
@@ -224,19 +157,14 @@
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "mode of transport"
+            "vehicle"
         ], 
         "name": "vr_diana_05.png"
     }, 
     {
         "attributes": [
-            "car", 
             "vehicle", 
-            "tree", 
-            "recreation", 
-            "plant", 
-            "sky"
+            "tree"
         ], 
         "name": "vr_diana_06.jpg"
     }, 
@@ -259,7 +187,6 @@
     {
         "attributes": [
             "water", 
-            "grass", 
             "water resources", 
             "floodplain", 
             "tree"
@@ -280,18 +207,13 @@
         "attributes": [
             "water resources", 
             "tree", 
-            "water", 
-            "watercourse", 
-            "grass"
+            "water"
         ], 
         "name": "vr_harryenergy_10.jpg"
     }, 
     {
         "attributes": [
-            "plant", 
             "water", 
-            "grass", 
-            "watercourse", 
             "tree"
         ], 
         "name": "vr_ileeneenergy_01.jpg"
@@ -299,9 +221,7 @@
     {
         "attributes": [
             "waterway", 
-            "bayou", 
-            "tree", 
-            "reflection"
+            "tree"
         ], 
         "name": "vr_ileeneenergy_02.jpg"
     }, 
@@ -313,23 +233,19 @@
     }, 
     {
         "attributes": [
-            "reflection", 
             "water", 
             "waterway", 
             "tree", 
             "bank", 
-            "water resources", 
-            "grass"
+            "water resources"
         ], 
         "name": "vr_ileeneenergy_04.jpg"
     }, 
     {
         "attributes": [
-            "reflection", 
             "water", 
             "waterway", 
-            "tree", 
-            "bayou"
+            "tree"
         ], 
         "name": "vr_ileeneenergy_05.jpg"
     }, 
@@ -338,21 +254,15 @@
             "water", 
             "waterway", 
             "water resources", 
-            "watercourse", 
             "bank", 
-            "grass", 
-            "tree", 
-            "plant"
+            "tree"
         ], 
         "name": "vr_ileeneenergy_06.jpg"
     }, 
     {
         "attributes": [
-            "grass", 
             "water", 
-            "tree", 
-            "watercourse", 
-            "plant"
+            "tree"
         ], 
         "name": "vr_ileeneenergy_07.jpg"
     }, 
@@ -360,7 +270,6 @@
         "attributes": [
             "water", 
             "tree", 
-            "reflection", 
             "natural disaster"
         ], 
         "name": "vr_ileeneenergy_08.jpg"
@@ -368,11 +277,9 @@
     {
         "attributes": [
             "waterway", 
-            "reflection", 
             "water", 
             "tree", 
             "bank", 
-            "bayou", 
             "river"
         ], 
         "name": "vr_ileeneenergy_09.jpg"
@@ -380,7 +287,6 @@
     {
         "attributes": [
             "tree", 
-            "plant", 
             "water"
         ], 
         "name": "vr_ileeneenergy_10.jpg"
@@ -415,26 +321,19 @@
     }, 
     {
         "attributes": [
-            "plant", 
             "water", 
-            "watercourse", 
-            "grass", 
             "tree"
         ], 
         "name": "vr_ileeneenergy_17.jpg"
     }, 
     {
-        "attributes": [
-            "product", 
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_ileeneenergy_18.jpg"
     }, 
     {
         "attributes": [
             "vehicle", 
-            "tree", 
-            "recreation"
+            "tree"
         ], 
         "name": "vr_juliekaty_01.jpg"
     }, 
@@ -443,7 +342,6 @@
             "water", 
             "waterway", 
             "water resources", 
-            "watercourse", 
             "flood", 
             "river", 
             "floodplain", 
@@ -454,18 +352,12 @@
     }, 
     {
         "attributes": [
-            "recreation", 
-            "tree", 
-            "plant", 
-            "car", 
-            "product"
+            "tree"
         ], 
         "name": "vr_juliekaty_03.jpg"
     }, 
     {
         "attributes": [
-            "grass", 
-            "plant", 
             "tree"
         ], 
         "name": "vr_juliekaty_04.jpg"
@@ -482,55 +374,39 @@
     {
         "attributes": [
             "water", 
-            "water resources", 
-            "watercourse"
+            "water resources"
         ], 
         "name": "vr_juliekaty_06.jpg"
     }, 
     {
         "attributes": [
             "vehicle", 
-            "mode of transport", 
-            "car", 
-            "tree", 
-            "recreation"
+            "tree"
         ], 
         "name": "vr_juliekaty_08.jpg"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "car", 
-            "automotive exterior", 
-            "motor vehicle"
+            "vehicle"
         ], 
         "name": "vr_juliekaty_09.jpg"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "motor vehicle", 
-            "mode of transport", 
-            "car"
+            "vehicle"
         ], 
         "name": "vr_juliekaty_10.jpg"
     }, 
     {
         "attributes": [
-            "car", 
             "vehicle", 
-            "mode of transport", 
-            "water", 
-            "recreation"
+            "water"
         ], 
         "name": "vr_juliekaty_11.jpg"
     }, 
     {
         "attributes": [
-            "car", 
-            "vehicle", 
-            "automotive exterior", 
-            "motor vehicle"
+            "vehicle"
         ], 
         "name": "vr_juliekaty_12.jpg"
     }, 
@@ -540,7 +416,6 @@
     }, 
     {
         "attributes": [
-            "grass", 
             "tree"
         ], 
         "name": "vr_juliekaty_15.jpg"
@@ -548,27 +423,16 @@
     {
         "attributes": [
             "vehicle", 
-            "car", 
-            "tree", 
-            "plant", 
-            "grass", 
-            "recreation"
+            "tree"
         ], 
         "name": "vr_juliekaty_16.jpg"
     }, 
     {
-        "attributes": [
-            "product", 
-            "recreation"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_18.jpg"
     }, 
     {
         "attributes": [
-            "mode of transport", 
-            "sky", 
-            "car", 
-            "phenomenon", 
             "tree"
         ], 
         "name": "vr_juliekaty_19.jpg"
@@ -590,31 +454,24 @@
             "water", 
             "disaster", 
             "bank", 
-            "river", 
-            "watercourse"
+            "river"
         ], 
         "name": "vr_juliekaty_21.jpg"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "product"
+            "vehicle"
         ], 
         "name": "vr_juliekaty_22.jpg"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "motor vehicle", 
-            "mode of transport", 
-            "car"
+            "vehicle"
         ], 
         "name": "vr_juliekaty_23.jpg"
     }, 
     {
         "attributes": [
-            "reflection", 
-            "bayou", 
             "water", 
             "waterway", 
             "floodplain", 
@@ -629,77 +486,54 @@
     }, 
     {
         "attributes": [
-            "automotive exterior", 
-            "product", 
-            "vehicle", 
-            "car"
+            "vehicle"
         ], 
         "name": "vr_juliekaty_26.jpg"
     }, 
     {
-        "attributes": [
-            "sky"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_27.jpg"
     }, 
     {
-        "attributes": [
-            "sky"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_28.jpg"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "mode of transport", 
-            "motor vehicle", 
-            "automotive exterior"
+            "vehicle"
         ], 
         "name": "vr_juliekaty_29.jpg"
     }, 
     {
         "attributes": [
-            "car", 
             "vehicle", 
-            "motor vehicle", 
-            "tree", 
-            "plant", 
-            "mode of transport"
+            "tree"
         ], 
         "name": "vr_juliekaty_30.jpg"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_31.jpg"
     }, 
     {
         "attributes": [
-            "sky", 
             "tree"
         ], 
         "name": "vr_juliekaty_32.jpg"
     }, 
     {
         "attributes": [
-            "car", 
             "vehicle"
         ], 
         "name": "vr_juliekaty_33.jpg"
     }, 
     {
-        "attributes": [
-            "sky"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_34.jpg"
     }, 
     {
         "attributes": [
-            "sky", 
-            "tree", 
-            "plant", 
-            "grass"
+            "tree"
         ], 
         "name": "vr_juliekaty_35.jpg"
     }, 
@@ -712,25 +546,20 @@
     }, 
     {
         "attributes": [
-            "grass", 
             "tree", 
             "water", 
             "bank", 
-            "plant", 
             "floodplain"
         ], 
         "name": "vr_juliekaty_37.jpg"
     }, 
     {
         "attributes": [
-            "car", 
-            "motor vehicle", 
             "natural disaster", 
             "vehicle", 
             "flood", 
             "disaster", 
             "water", 
-            "automotive exterior", 
             "floodplain"
         ], 
         "name": "vr_juliekaty_38.jpg"
@@ -783,8 +612,7 @@
             "water resources", 
             "tree", 
             "river", 
-            "bank", 
-            "sky"
+            "bank"
         ], 
         "name": "vr_juliekaty_42.jpg"
     }, 
@@ -811,7 +639,6 @@
             "disaster", 
             "floodplain", 
             "water resources", 
-            "bayou", 
             "river"
         ], 
         "name": "vr_juliekaty_44.jpg"
@@ -825,7 +652,6 @@
             "floodplain", 
             "river", 
             "water resources", 
-            "bayou", 
             "tree"
         ], 
         "name": "vr_juliekaty_45.jpg"
@@ -844,15 +670,13 @@
     }, 
     {
         "attributes": [
-            "sky", 
             "waterway", 
             "river", 
             "water resources", 
             "water", 
             "floodplain", 
             "flood", 
-            "natural disaster", 
-            "phenomenon"
+            "natural disaster"
         ], 
         "name": "vr_juliekaty_47.jpg"
     }, 
@@ -880,8 +704,7 @@
             "river", 
             "water resources", 
             "bank", 
-            "tree", 
-            "bayou"
+            "tree"
         ], 
         "name": "vr_juliekaty_49.jpg"
     }, 
@@ -895,8 +718,7 @@
             "river", 
             "vehicle", 
             "tree", 
-            "floodplain", 
-            "recreation"
+            "floodplain"
         ], 
         "name": "vr_juliekaty_50.jpg"
     }, 
@@ -909,7 +731,6 @@
             "bank", 
             "flood", 
             "floodplain", 
-            "watercourse", 
             "natural disaster", 
             "disaster"
         ], 
@@ -922,7 +743,6 @@
             "natural disaster", 
             "river", 
             "floodplain", 
-            "bayou", 
             "water resources", 
             "bank", 
             "tree", 
@@ -932,9 +752,6 @@
     }, 
     {
         "attributes": [
-            "car", 
-            "mode of transport", 
-            "grass", 
             "tree"
         ], 
         "name": "vr_juliekaty_54.jpg"
@@ -946,14 +763,12 @@
             "floodplain", 
             "flood", 
             "natural disaster", 
-            "bank", 
-            "grass"
+            "bank"
         ], 
         "name": "vr_juliekaty_55.jpg"
     }, 
     {
         "attributes": [
-            "grass", 
             "water", 
             "tree", 
             "floodplain", 
@@ -968,7 +783,6 @@
     }, 
     {
         "attributes": [
-            "sky", 
             "water resources"
         ], 
         "name": "vr_juliekaty_58.jpg"
@@ -977,26 +791,20 @@
         "attributes": [
             "water", 
             "water resources", 
-            "grass", 
             "tree", 
             "floodplain", 
             "bank", 
             "flood", 
-            "natural disaster", 
-            "watercourse"
+            "natural disaster"
         ], 
         "name": "vr_juliekaty_59.jpg"
     }, 
     {
-        "attributes": [
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_60.jpg"
     }, 
     {
-        "attributes": [
-            "sky"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_61.jpg"
     }, 
     {
@@ -1004,9 +812,7 @@
         "name": "vr_juliekaty_62.jpg"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_63.jpg"
     }, 
     {
@@ -1036,9 +842,7 @@
         "name": "vr_juliekaty_70.jpg"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_71.jpg"
     }, 
     {
@@ -1060,8 +864,7 @@
             "water resources", 
             "bank", 
             "water", 
-            "floodplain", 
-            "sky"
+            "floodplain"
         ], 
         "name": "vr_juliekaty_74.jpg"
     }, 
@@ -1074,9 +877,7 @@
         "name": "vr_juliekaty_77.jpg"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_78.jpg"
     }, 
     {
@@ -1085,10 +886,7 @@
     }, 
     {
         "attributes": [
-            "sky", 
             "water", 
-            "grass", 
-            "phenomenon", 
             "river", 
             "tree", 
             "water resources"
@@ -1098,7 +896,6 @@
     {
         "attributes": [
             "tree", 
-            "recreation", 
             "vehicle"
         ], 
         "name": "vr_kathrynkaty_111.png"
@@ -1110,7 +907,6 @@
             "water resources", 
             "river", 
             "flood", 
-            "watercourse", 
             "bank", 
             "natural disaster", 
             "disaster", 
@@ -1121,30 +917,18 @@
     {
         "attributes": [
             "tree", 
-            "grass", 
-            "water", 
-            "plant"
+            "water"
         ], 
         "name": "vr_kathrynkaty_19.png"
     }, 
     {
-        "attributes": [
-            "grass", 
-            "plant", 
-            "sky", 
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_kathrynkaty_35.png"
     }, 
     {
         "attributes": [
-            "car", 
-            "motor vehicle", 
-            "grass", 
-            "plant", 
             "vehicle", 
-            "tree", 
-            "automotive exterior"
+            "tree"
         ], 
         "name": "vr_kathrynkaty_42.png"
     }, 
@@ -1156,9 +940,7 @@
         "attributes": [
             "waterway", 
             "vehicle", 
-            "recreation", 
-            "tree", 
-            "car"
+            "tree"
         ], 
         "name": "vr_rachelkaty_01.png"
     }, 
@@ -1171,8 +953,7 @@
             "floodplain", 
             "flood", 
             "water", 
-            "natural disaster", 
-            "watercourse"
+            "natural disaster"
         ], 
         "name": "vr_rachelkaty_100.png"
     }, 
@@ -1192,9 +973,7 @@
     {
         "attributes": [
             "tree", 
-            "vehicle", 
-            "plant", 
-            "recreation"
+            "vehicle"
         ], 
         "name": "vr_rachelkaty_11.png"
     }, 
@@ -1204,16 +983,13 @@
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "recreation"
+            "vehicle"
         ], 
         "name": "vr_rachelkaty_117.png"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "motor vehicle", 
-            "mode of transport"
+            "vehicle"
         ], 
         "name": "vr_rachelkaty_12.png"
     }, 
@@ -1222,10 +998,7 @@
         "name": "vr_rachelkaty_13.png"
     }, 
     {
-        "attributes": [
-            "product", 
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_rachelkaty_21.png"
     }, 
     {
@@ -1235,8 +1008,6 @@
             "water resources", 
             "river", 
             "bank", 
-            "watercourse", 
-            "reflection", 
             "floodplain"
         ], 
         "name": "vr_rachelkaty_38.png"
@@ -1246,11 +1017,9 @@
             "river", 
             "waterway", 
             "water resources", 
-            "watercourse", 
             "water", 
             "bank", 
             "floodplain", 
-            "mode of transport", 
             "flood", 
             "natural disaster"
         ], 
@@ -1264,8 +1033,7 @@
             "bank", 
             "water resources", 
             "tree", 
-            "floodplain", 
-            "sky"
+            "floodplain"
         ], 
         "name": "vr_rachelkaty_40.png"
     }, 
@@ -1277,7 +1045,6 @@
             "water resources", 
             "bank", 
             "floodplain", 
-            "grass", 
             "tree"
         ], 
         "name": "vr_rachelkaty_42.png"
@@ -1287,8 +1054,7 @@
             "water resources", 
             "water", 
             "bank", 
-            "floodplain", 
-            "grass"
+            "floodplain"
         ], 
         "name": "vr_rachelkaty_43.png"
     }, 
@@ -1299,37 +1065,28 @@
             "water", 
             "waterway", 
             "river", 
-            "floodplain", 
-            "watercourse", 
-            "grass"
+            "floodplain"
         ], 
         "name": "vr_rachelkaty_44.png"
     }, 
     {
-        "attributes": [
-            "sky"
-        ], 
+        "attributes": [], 
         "name": "vr_rachelkaty_45.png"
     }, 
     {
         "attributes": [
-            "sky", 
-            "tree", 
-            "plant"
+            "tree"
         ], 
         "name": "vr_rachelkaty_46.png"
     }, 
     {
         "attributes": [
-            "sky", 
-            "tree", 
-            "phenomenon"
+            "tree"
         ], 
         "name": "vr_rachelkaty_47.png"
     }, 
     {
         "attributes": [
-            "sky", 
             "tree"
         ], 
         "name": "vr_rachelkaty_48.png"
@@ -1347,12 +1104,10 @@
     {
         "attributes": [
             "water", 
-            "sky", 
             "water resources", 
             "floodplain", 
             "natural disaster", 
-            "flood", 
-            "grass"
+            "flood"
         ], 
         "name": "vr_rachelkaty_54.png"
     }, 
@@ -1369,24 +1124,18 @@
     }, 
     {
         "attributes": [
-            "water", 
-            "recreation"
+            "water"
         ], 
         "name": "vr_rachelkaty_59.png"
     }, 
     {
         "attributes": [
-            "motor vehicle", 
-            "car", 
-            "vehicle", 
-            "mode of transport", 
-            "automotive exterior"
+            "vehicle"
         ], 
         "name": "vr_rachelkaty_61.png"
     }, 
     {
         "attributes": [
-            "grass", 
             "water"
         ], 
         "name": "vr_rachelkaty_62.png"
@@ -1405,10 +1154,7 @@
         "name": "vr_rachelkaty_63.png"
     }, 
     {
-        "attributes": [
-            "grass", 
-            "sky"
-        ], 
+        "attributes": [], 
         "name": "vr_rachelkaty_64.png"
     }, 
     {
@@ -1433,41 +1179,30 @@
             "floodplain", 
             "water resources", 
             "disaster", 
-            "bayou", 
             "bank"
         ], 
         "name": "vr_rachelkaty_66.png"
     }, 
     {
         "attributes": [
-            "tree", 
-            "plant", 
-            "grass", 
-            "recreation"
+            "tree"
         ], 
         "name": "vr_rachelkaty_67.png"
     }, 
     {
         "attributes": [
-            "sky", 
-            "tree", 
-            "plant"
+            "tree"
         ], 
         "name": "vr_rachelkaty_68.png"
     }, 
     {
         "attributes": [
-            "motor vehicle", 
-            "vehicle", 
-            "car", 
-            "automotive exterior"
+            "vehicle"
         ], 
         "name": "vr_rachelkaty_69.png"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_rachelkaty_71.png"
     }, 
     {
@@ -1483,8 +1218,7 @@
             "flood", 
             "bank", 
             "natural disaster", 
-            "disaster", 
-            "watercourse"
+            "disaster"
         ], 
         "name": "vr_rachelkaty_78.png"
     }, 
@@ -1497,9 +1231,7 @@
             "floodplain", 
             "flood", 
             "natural disaster", 
-            "disaster", 
-            "watercourse", 
-            "grass"
+            "disaster"
         ], 
         "name": "vr_rachelkaty_79.png"
     }, 
@@ -1530,9 +1262,7 @@
         "name": "vr_rachelkaty_90.png"
     }, 
     {
-        "attributes": [
-            "grass"
-        ], 
+        "attributes": [], 
         "name": "vr_rachelkaty_93.png"
     }, 
     {
@@ -1545,10 +1275,8 @@
     }, 
     {
         "attributes": [
-            "plant", 
             "tree", 
-            "water", 
-            "grass"
+            "water"
         ], 
         "name": "vr_rachelkaty_96.png"
     }, 
@@ -1556,9 +1284,6 @@
         "attributes": [
             "water", 
             "tree", 
-            "plant", 
-            "reflection", 
-            "bayou", 
             "flood", 
             "floodplain", 
             "bank", 
@@ -1568,10 +1293,7 @@
     }, 
     {
         "attributes": [
-            "reflection", 
-            "water", 
-            "phenomenon", 
-            "sky"
+            "water"
         ], 
         "name": "vr_ripkinkaty_02.jpg"
     }, 
@@ -1583,9 +1305,7 @@
             "tree", 
             "natural disaster", 
             "river", 
-            "reflection", 
-            "disaster", 
-            "sky"
+            "disaster"
         ], 
         "name": "vr_ripkinkaty_03.png"
     }, 
@@ -1608,7 +1328,6 @@
             "flood", 
             "natural disaster", 
             "disaster", 
-            "car", 
             "water"
         ], 
         "name": "vr_ripkinkaty_05.png"
@@ -1618,15 +1337,11 @@
         "name": "vr_ripkinkaty_06.png"
     }, 
     {
-        "attributes": [
-            "sky"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_07.png"
     }, 
     {
-        "attributes": [
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_08.png"
     }, 
     {
@@ -1637,11 +1352,7 @@
     }, 
     {
         "attributes": [
-            "motor vehicle", 
-            "vehicle", 
-            "car", 
-            "mode of transport", 
-            "automotive exterior"
+            "vehicle"
         ], 
         "name": "vr_ripkinkaty_10.png"
     }, 
@@ -1651,15 +1362,12 @@
     }, 
     {
         "attributes": [
-            "reflection", 
             "water", 
             "waterway", 
             "water resources", 
-            "sky", 
             "river", 
             "flood", 
             "floodplain", 
-            "bayou", 
             "tree"
         ], 
         "name": "vr_ripkinkaty_12.png"
@@ -1667,22 +1375,15 @@
     {
         "attributes": [
             "water", 
-            "reflection", 
-            "tree", 
-            "plant", 
-            "sky", 
-            "recreation"
+            "tree"
         ], 
         "name": "vr_ripkinkaty_13.png"
     }, 
     {
         "attributes": [
-            "motor vehicle", 
             "water", 
-            "car", 
             "natural disaster", 
             "vehicle", 
-            "automotive exterior", 
             "flood", 
             "disaster", 
             "water resources", 
@@ -1699,9 +1400,7 @@
             "water resources", 
             "river", 
             "disaster", 
-            "bank", 
-            "bayou", 
-            "watercourse"
+            "bank"
         ], 
         "name": "vr_ripkinkaty_16.png"
     }, 
@@ -1713,15 +1412,13 @@
             "natural disaster", 
             "disaster", 
             "floodplain", 
-            "bank", 
-            "watercourse"
+            "bank"
         ], 
         "name": "vr_ripkinkaty_17.png"
     }, 
     {
         "attributes": [
             "water", 
-            "reflection", 
             "flood", 
             "natural disaster", 
             "floodplain", 
@@ -1734,24 +1431,17 @@
         "name": "vr_ripkinkaty_18.png"
     }, 
     {
-        "attributes": [
-            "recreation"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_19.png"
     }, 
     {
         "attributes": [
-            "car", 
-            "motor vehicle", 
-            "vehicle", 
-            "mode of transport", 
-            "automotive exterior"
+            "vehicle"
         ], 
         "name": "vr_ripkinkaty_20.png"
     }, 
     {
         "attributes": [
-            "sky", 
             "water resources"
         ], 
         "name": "vr_ripkinkaty_21.png"
@@ -1759,29 +1449,19 @@
     {
         "attributes": [
             "water", 
-            "car", 
-            "mode of transport", 
-            "reflection", 
-            "phenomenon", 
             "tree"
         ], 
         "name": "vr_ripkinkaty_22.png"
     }, 
     {
         "attributes": [
-            "car", 
-            "mode of transport", 
-            "phenomenon", 
-            "tree", 
-            "reflection"
+            "tree"
         ], 
         "name": "vr_ripkinkaty_23.png"
     }, 
     {
         "attributes": [
-            "water", 
-            "mode of transport", 
-            "phenomenon"
+            "water"
         ], 
         "name": "vr_ripkinkaty_24.png"
     }, 
@@ -1791,10 +1471,7 @@
     }, 
     {
         "attributes": [
-            "car", 
-            "motor vehicle", 
-            "vehicle", 
-            "mode of transport"
+            "vehicle"
         ], 
         "name": "vr_ripkinkaty_26.png"
     }, 
@@ -1804,12 +1481,8 @@
             "tree", 
             "flood", 
             "natural disaster", 
-            "sky", 
             "floodplain", 
-            "disaster", 
-            "reflection", 
-            "grass", 
-            "plant"
+            "disaster"
         ], 
         "name": "vr_ripkinkaty_27.png"
     }, 
@@ -1817,7 +1490,6 @@
         "attributes": [
             "waterway", 
             "vehicle", 
-            "recreation", 
             "water"
         ], 
         "name": "vr_ripkinkaty_28.png"
@@ -1827,13 +1499,10 @@
             "waterway", 
             "water", 
             "tree", 
-            "bayou", 
             "flood", 
             "disaster", 
-            "plant", 
             "natural disaster", 
-            "vehicle", 
-            "recreation"
+            "vehicle"
         ], 
         "name": "vr_ripkinkaty_29.png"
     }, 
@@ -1842,10 +1511,8 @@
             "water", 
             "waterway", 
             "tree", 
-            "reflection", 
             "natural disaster", 
             "flood", 
-            "bayou", 
             "disaster", 
             "river", 
             "floodplain"
@@ -1856,20 +1523,13 @@
         "attributes": [
             "tree", 
             "water", 
-            "floodplain", 
-            "recreation", 
-            "grass", 
-            "plant", 
-            "bayou"
+            "floodplain"
         ], 
         "name": "vr_ripkinkaty_31.png"
     }, 
     {
         "attributes": [
-            "motor vehicle", 
-            "car", 
             "vehicle", 
-            "automotive exterior", 
             "tree"
         ], 
         "name": "vr_ripkinkaty_32.png"
@@ -1877,16 +1537,13 @@
     {
         "attributes": [
             "vehicle", 
-            "automotive exterior", 
             "tree", 
             "disaster"
         ], 
         "name": "vr_ripkinkaty_33.png"
     }, 
     {
-        "attributes": [
-            "automotive exterior"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_34.png"
     }, 
     {
@@ -1894,7 +1551,6 @@
             "waterway", 
             "water", 
             "vehicle", 
-            "bayou", 
             "river", 
             "tree"
         ], 
@@ -1909,9 +1565,7 @@
             "disaster", 
             "water resources", 
             "tree", 
-            "bank", 
-            "grass", 
-            "recreation"
+            "bank"
         ], 
         "name": "vr_ripkinkaty_36.png"
     }, 
@@ -1919,7 +1573,6 @@
         "attributes": [
             "waterway", 
             "water", 
-            "car", 
             "natural disaster", 
             "river", 
             "tree", 
@@ -1931,25 +1584,18 @@
         "name": "vr_ripkinkaty_37.png"
     }, 
     {
-        "attributes": [
-            "phenomenon", 
-            "recreation"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_38.png"
     }, 
     {
         "attributes": [
             "water", 
-            "recreation", 
             "tree"
         ], 
         "name": "vr_ripkinkaty_39.png"
     }, 
     {
         "attributes": [
-            "car", 
-            "motor vehicle", 
-            "reflection", 
             "water", 
             "natural disaster", 
             "vehicle", 
@@ -1958,23 +1604,17 @@
         "name": "vr_ripkinkaty_40.png"
     }, 
     {
-        "attributes": [
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_41.png"
     }, 
     {
         "attributes": [
-            "reflection", 
-            "mode of transport", 
             "water"
         ], 
         "name": "vr_ripkinkaty_42.png"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_43.png"
     }, 
     {
@@ -1990,73 +1630,53 @@
             "water", 
             "river", 
             "water resources", 
-            "sky", 
             "bank", 
             "tree", 
-            "phenomenon", 
             "floodplain"
         ], 
         "name": "vr_ripkinkaty_47.png"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "motor vehicle", 
-            "mode of transport", 
-            "car"
+            "vehicle"
         ], 
         "name": "vr_ripkinkaty_49.png"
     }, 
     {
         "attributes": [
-            "car", 
-            "motor vehicle", 
             "vehicle"
         ], 
         "name": "vr_ripkinkaty_50.png"
     }, 
     {
         "attributes": [
-            "vehicle", 
-            "automotive exterior"
+            "vehicle"
         ], 
         "name": "vr_ripkinkaty_51.png"
     }, 
     {
         "attributes": [
-            "car", 
-            "motor vehicle", 
             "vehicle", 
-            "mode of transport", 
-            "automotive exterior", 
             "tree"
         ], 
         "name": "vr_ripkinkaty_52.png"
     }, 
     {
         "attributes": [
-            "sky", 
             "water", 
-            "reflection", 
             "river", 
-            "tree", 
-            "phenomenon"
+            "tree"
         ], 
         "name": "vr_ripkinkaty_54.png"
     }, 
     {
-        "attributes": [
-            "product"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_59.jpg"
     }, 
     {
         "attributes": [
             "water", 
             "tree", 
-            "plant", 
-            "reflection", 
-            "bayou", 
             "flood", 
             "floodplain"
         ], 
@@ -2064,11 +1684,7 @@
     }, 
     {
         "attributes": [
-            "car", 
-            "motor vehicle", 
-            "vehicle", 
-            "mode of transport", 
-            "automotive exterior"
+            "vehicle"
         ], 
         "name": "vr_sarge_01.jpg"
     }, 
@@ -2079,19 +1695,13 @@
             "river", 
             "tree", 
             "vehicle", 
-            "reflection", 
             "natural disaster"
         ], 
         "name": "vr_sarge_02.jpg"
     }, 
     {
         "attributes": [
-            "car", 
-            "sky", 
-            "vehicle", 
-            "motor vehicle", 
-            "grass", 
-            "plant"
+            "vehicle"
         ], 
         "name": "vr_sarge_03.jpg"
     }, 
@@ -2100,7 +1710,6 @@
             "water", 
             "waterway", 
             "river", 
-            "reflection", 
             "vehicle", 
             "water resources"
         ], 
@@ -2109,10 +1718,8 @@
     {
         "attributes": [
             "water", 
-            "reflection", 
             "river", 
             "flood", 
-            "sky", 
             "water resources", 
             "natural disaster", 
             "tree", 
@@ -2122,14 +1729,10 @@
     }, 
     {
         "attributes": [
-            "car", 
             "water", 
             "vehicle", 
-            "reflection", 
-            "motor vehicle", 
             "river", 
             "natural disaster", 
-            "plant", 
             "tree"
         ], 
         "name": "vr_sarge_06.jpg"
@@ -2150,7 +1753,6 @@
             "river", 
             "tree", 
             "vehicle", 
-            "reflection", 
             "natural disaster"
         ], 
         "name": "vr_sarge_08.jpg"
@@ -2160,7 +1762,6 @@
             "water", 
             "waterway", 
             "water resources", 
-            "reflection", 
             "tree", 
             "natural disaster", 
             "river", 
@@ -2172,9 +1773,7 @@
     {
         "attributes": [
             "waterway", 
-            "reflection", 
             "water", 
-            "bayou", 
             "water resources", 
             "river", 
             "tree"
@@ -2183,7 +1782,6 @@
     }, 
     {
         "attributes": [
-            "reflection", 
             "water", 
             "tree"
         ], 
@@ -2192,10 +1790,8 @@
     {
         "attributes": [
             "waterway", 
-            "reflection", 
             "water", 
             "river", 
-            "sky", 
             "water resources"
         ], 
         "name": "vr_sarge_12.jpg"
@@ -2214,9 +1810,7 @@
             "waterway", 
             "water", 
             "water resources", 
-            "bayou", 
             "river", 
-            "reflection", 
             "tree", 
             "natural disaster", 
             "bank", 
@@ -2230,11 +1824,7 @@
             "river", 
             "water resources", 
             "tree", 
-            "phenomenon", 
-            "reflection", 
-            "watercourse", 
-            "bank", 
-            "sky"
+            "bank"
         ], 
         "name": "vr_sarge_15.jpg"
     }, 
@@ -2242,8 +1832,7 @@
         "attributes": [
             "water", 
             "waterway", 
-            "vehicle", 
-            "recreation"
+            "vehicle"
         ], 
         "name": "vr_sarge_16.jpg"
     }, 
@@ -2262,7 +1851,6 @@
             "water", 
             "river", 
             "water resources", 
-            "bayou", 
             "natural disaster"
         ], 
         "name": "vr_sarge_18.jpg"
@@ -2270,8 +1858,7 @@
     {
         "attributes": [
             "vehicle", 
-            "water", 
-            "recreation"
+            "water"
         ], 
         "name": "vr_sarge_19.jpg"
     }, 
@@ -2279,7 +1866,6 @@
         "attributes": [
             "water", 
             "vehicle", 
-            "recreation", 
             "tree"
         ], 
         "name": "vr_sarge_20.jpg"

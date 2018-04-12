@@ -115,4 +115,52 @@ def freq_analysis_violin():
 	sns.despine(bottom=True, left=True)
 	plt.show()
 
-freq_analysis_violin()
+def signal_noise_bar():
+	sns.set(style='white')
+
+	# n = np.genfromtxt('../output/optimal.json')
+	with open('../output/optimal.json') as f:
+		n = json.loads(f.read())
+	d = {'minimum frequency':[], 'accuracy':[]}
+	for x in n:
+		d['minimum frequency'].append(x[0])
+		d['accuracy'].append(x[1])
+
+	df = pd.DataFrame(data=d)
+	# print(df)
+	ax = sns.barplot(x='minimum frequency', y='accuracy', data = df, palette='Blues')
+
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Accuracy')
+	plt.title('Signal vs Noise')
+	plt.xticks(rotation='vertical')
+	axes = plt.gca()
+	axes.set_ylim([.95, 1.])
+	plt.show()
+
+def resp_types_bar():
+	sns.set(style='white')
+
+	# n = np.genfromtxt('../output/optimal.json')
+	with open('../output/optimal_resp.json') as f:
+		n = json.loads(f.read())
+	d = {'minimum frequency':[], 'accuracy':[]}
+	for x in n:
+		d['minimum frequency'].append(x[0])
+		d['accuracy'].append(x[1])
+
+	df = pd.DataFrame(data=d)
+	# print(df)
+	ax = sns.barplot(x='minimum frequency', y='accuracy', data = df, palette='Blues')
+
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Accuracy')
+	plt.title('Respondent Types Accuracy')
+	plt.xticks(rotation='vertical')
+	axes = plt.gca()
+	axes.set_ylim([.65, .85])
+	plt.show()
+
+resp_types_bar()
