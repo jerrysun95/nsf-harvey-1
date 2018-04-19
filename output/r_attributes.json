@@ -18,5 +18,85 @@
     {
         "freq": 0.17, 
         "name": "plant"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "water resources"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "floor"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "flood"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "natural disaster"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "grass"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "flooring"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "river"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "window"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "disaster"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "road"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "motor vehicle"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "sky"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "bank"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "house"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "waterway"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "floodplain"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "property"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "reflection"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "wood"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "automotive exterior"
     }
 ]

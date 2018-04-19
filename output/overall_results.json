@@ -5,13 +5,15 @@
             "car", 
             "natural disaster", 
             "disaster", 
-            "vehicle"
+            "vehicle", 
+            "motor vehicle"
         ], 
         "name": "r_annsharp_00.jpg"
     }, 
     {
         "attributes": [
-            "sky"
+            "sky", 
+            "phenomenon"
         ], 
         "name": "r_annsharp_01.jpg"
     }, 
@@ -68,6 +70,7 @@
     {
         "attributes": [
             "sky", 
+            "phenomenon", 
             "reflection"
         ], 
         "name": "r_annsharp_13.jpg"
@@ -76,6 +79,8 @@
         "attributes": [
             "car", 
             "mode of transport", 
+            "phenomenon", 
+            "motor vehicle", 
             "vehicle"
         ], 
         "name": "r_annsharp_14.jpg"
@@ -173,6 +178,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "natural disaster", 
             "disaster", 
@@ -189,7 +195,8 @@
     }, 
     {
         "attributes": [
-            "sky"
+            "sky", 
+            "phenomenon"
         ], 
         "name": "r_faith_10.jpg"
     }, 
@@ -265,6 +272,7 @@
     }, 
     {
         "attributes": [
+            "phenomenon", 
             "sky"
         ], 
         "name": "r_faith_19.jpg"
@@ -272,6 +280,7 @@
     {
         "attributes": [
             "tree", 
+            "phenomenon", 
             "water"
         ], 
         "name": "r_faith_20.jpg"
@@ -289,6 +298,7 @@
         "attributes": [
             "car", 
             "reflection", 
+            "motor vehicle", 
             "mode of transport"
         ], 
         "name": "r_faith_22.png"
@@ -298,6 +308,7 @@
             "reflection", 
             "water", 
             "sky", 
+            "phenomenon", 
             "tree"
         ], 
         "name": "r_faith_23.png"
@@ -305,7 +316,8 @@
     {
         "attributes": [
             "reflection", 
-            "water"
+            "water", 
+            "phenomenon"
         ], 
         "name": "r_faith_24.jpg"
     }, 
@@ -319,13 +331,15 @@
     {
         "attributes": [
             "sky", 
-            "tree"
+            "tree", 
+            "phenomenon"
         ], 
         "name": "r_faith_26.jpg"
     }, 
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "reflection", 
             "tree"
@@ -334,7 +348,8 @@
     }, 
     {
         "attributes": [
-            "sky"
+            "sky", 
+            "phenomenon"
         ], 
         "name": "r_faith_28.jpg"
     }, 
@@ -349,7 +364,8 @@
     {
         "attributes": [
             "sky", 
-            "tree"
+            "tree", 
+            "phenomenon"
         ], 
         "name": "r_faith_30.jpg"
     }, 
@@ -358,6 +374,7 @@
             "reflection", 
             "water", 
             "tree", 
+            "phenomenon", 
             "sky"
         ], 
         "name": "r_faith_31.jpg"
@@ -578,6 +595,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "tree", 
             "plant"
@@ -587,6 +605,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "mode of transport"
         ], 
@@ -650,6 +669,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "car"
         ], 
         "name": "r_johnenergy_25.jpg"
@@ -750,7 +770,8 @@
         "attributes": [
             "car", 
             "vehicle", 
-            "tree"
+            "tree", 
+            "motor vehicle"
         ], 
         "name": "r_johnenergy_38.jpg"
     }, 
@@ -765,6 +786,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "plant", 
             "tree"
@@ -804,6 +826,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "tree", 
             "vehicle"
         ], 
@@ -813,6 +836,7 @@
         "attributes": [
             "car", 
             "vehicle", 
+            "motor vehicle", 
             "water"
         ], 
         "name": "r_johnsnow_01.jpg"
@@ -840,6 +864,7 @@
         "attributes": [
             "tree", 
             "water", 
+            "phenomenon", 
             "grass", 
             "natural disaster", 
             "flood"
@@ -874,6 +899,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "water", 
             "car"
         ], 
@@ -976,6 +1002,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "mode of transport"
         ], 
@@ -983,6 +1010,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "car", 
             "vehicle", 
             "mode of transport"
@@ -991,6 +1019,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "car", 
             "vehicle"
         ], 
@@ -1023,6 +1052,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "sky", 
             "tree"
@@ -1032,6 +1062,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "tree", 
             "plant"
@@ -1164,7 +1195,8 @@
             "water", 
             "vehicle", 
             "reflection", 
-            "car"
+            "car", 
+            "motor vehicle"
         ], 
         "name": "r_tracy katy_11.jpg"
     }, 
@@ -1239,20 +1271,23 @@
             "water", 
             "mode of transport", 
             "tree", 
-            "grass"
+            "grass", 
+            "phenomenon"
         ], 
         "name": "vr_billdance_01.png"
     }, 
     {
         "attributes": [
             "mode of transport", 
+            "phenomenon", 
             "recreation"
         ], 
         "name": "vr_billdance_02.png"
     }, 
     {
         "attributes": [
-            "mode of transport"
+            "mode of transport", 
+            "phenomenon"
         ], 
         "name": "vr_billdance_03.png"
     }, 
@@ -1262,6 +1297,7 @@
             "mode of transport", 
             "natural disaster", 
             "disaster", 
+            "phenomenon", 
             "water", 
             "flood"
         ], 
@@ -1270,6 +1306,7 @@
     {
         "attributes": [
             "mode of transport", 
+            "phenomenon", 
             "recreation"
         ], 
         "name": "vr_billdance_05.png"
@@ -1277,6 +1314,7 @@
     {
         "attributes": [
             "mode of transport", 
+            "phenomenon", 
             "grass", 
             "tree", 
             "recreation"
@@ -1286,13 +1324,15 @@
     {
         "attributes": [
             "mode of transport", 
-            "car"
+            "car", 
+            "phenomenon"
         ], 
         "name": "vr_billdance_07.png"
     }, 
     {
         "attributes": [
             "mode of transport", 
+            "phenomenon", 
             "recreation"
         ], 
         "name": "vr_billdance_08.png"
@@ -1309,13 +1349,15 @@
         "attributes": [
             "vehicle", 
             "mode of transport", 
+            "phenomenon", 
             "recreation"
         ], 
         "name": "vr_billdance_10.png"
     }, 
     {
         "attributes": [
-            "mode of transport"
+            "mode of transport", 
+            "phenomenon"
         ], 
         "name": "vr_billdance_11.png"
     }, 
@@ -1326,6 +1368,7 @@
     {
         "attributes": [
             "mode of transport", 
+            "phenomenon", 
             "tree", 
             "natural disaster", 
             "disaster", 
@@ -1337,13 +1380,15 @@
     }, 
     {
         "attributes": [
-            "mode of transport"
+            "mode of transport", 
+            "phenomenon"
         ], 
         "name": "vr_billdance_14.png"
     }, 
     {
         "attributes": [
-            "mode of transport"
+            "mode of transport", 
+            "phenomenon"
         ], 
         "name": "vr_billdance_15.png"
     }, 
@@ -1357,6 +1402,7 @@
         "attributes": [
             "river", 
             "water", 
+            "phenomenon", 
             "sky", 
             "tree"
         ], 
@@ -1387,6 +1433,7 @@
         "attributes": [
             "car", 
             "vehicle", 
+            "motor vehicle", 
             "disaster", 
             "natural disaster", 
             "flood"
@@ -1409,6 +1456,7 @@
             "waterway", 
             "water resources", 
             "river", 
+            "phenomenon", 
             "sky", 
             "tree", 
             "floodplain"
@@ -1687,13 +1735,15 @@
     {
         "attributes": [
             "vehicle", 
-            "car"
+            "car", 
+            "motor vehicle"
         ], 
         "name": "vr_juliekaty_09.jpg"
     }, 
     {
         "attributes": [
             "vehicle", 
+            "motor vehicle", 
             "mode of transport", 
             "car"
         ], 
@@ -1712,7 +1762,8 @@
     {
         "attributes": [
             "car", 
-            "vehicle"
+            "vehicle", 
+            "motor vehicle"
         ], 
         "name": "vr_juliekaty_12.jpg"
     }, 
@@ -1749,6 +1800,7 @@
             "mode of transport", 
             "sky", 
             "car", 
+            "phenomenon", 
             "tree"
         ], 
         "name": "vr_juliekaty_19.jpg"
@@ -1783,6 +1835,7 @@
     {
         "attributes": [
             "vehicle", 
+            "motor vehicle", 
             "mode of transport", 
             "car"
         ], 
@@ -1825,7 +1878,8 @@
     {
         "attributes": [
             "vehicle", 
-            "mode of transport"
+            "mode of transport", 
+            "motor vehicle"
         ], 
         "name": "vr_juliekaty_29.jpg"
     }, 
@@ -1833,6 +1887,7 @@
         "attributes": [
             "car", 
             "vehicle", 
+            "motor vehicle", 
             "tree", 
             "plant", 
             "mode of transport"
@@ -1893,6 +1948,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "natural disaster", 
             "vehicle", 
             "flood", 
@@ -2016,7 +2072,8 @@
             "water", 
             "floodplain", 
             "flood", 
-            "natural disaster"
+            "natural disaster", 
+            "phenomenon"
         ], 
         "name": "vr_juliekaty_47.jpg"
     }, 
@@ -2148,7 +2205,9 @@
         "name": "vr_juliekaty_59.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "phenomenon"
+        ], 
         "name": "vr_juliekaty_60.jpg"
     }, 
     {
@@ -2240,6 +2299,7 @@
             "sky", 
             "water", 
             "grass", 
+            "phenomenon", 
             "river", 
             "tree", 
             "water resources"
@@ -2281,13 +2341,15 @@
         "attributes": [
             "grass", 
             "plant", 
-            "sky"
+            "sky", 
+            "phenomenon"
         ], 
         "name": "vr_kathrynkaty_35.png"
     }, 
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "grass", 
             "plant", 
             "vehicle", 
@@ -2358,6 +2420,7 @@
     {
         "attributes": [
             "vehicle", 
+            "motor vehicle", 
             "mode of transport"
         ], 
         "name": "vr_rachelkaty_12.png"
@@ -2461,7 +2524,8 @@
     {
         "attributes": [
             "sky", 
-            "tree"
+            "tree", 
+            "phenomenon"
         ], 
         "name": "vr_rachelkaty_47.png"
     }, 
@@ -2514,6 +2578,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "car", 
             "vehicle", 
             "mode of transport"
@@ -2592,6 +2657,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "vehicle", 
             "car"
         ], 
@@ -2698,6 +2764,7 @@
         "attributes": [
             "reflection", 
             "water", 
+            "phenomenon", 
             "sky"
         ], 
         "name": "vr_ripkinkaty_02.jpg"
@@ -2751,7 +2818,9 @@
         "name": "vr_ripkinkaty_07.png"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "phenomenon"
+        ], 
         "name": "vr_ripkinkaty_08.png"
     }, 
     {
@@ -2762,6 +2831,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "vehicle", 
             "car", 
             "mode of transport"
@@ -2799,6 +2869,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "water", 
             "car", 
             "natural disaster", 
@@ -2859,6 +2930,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "mode of transport"
         ], 
@@ -2877,6 +2949,7 @@
             "car", 
             "mode of transport", 
             "reflection", 
+            "phenomenon", 
             "tree"
         ], 
         "name": "vr_ripkinkaty_22.png"
@@ -2885,6 +2958,7 @@
         "attributes": [
             "car", 
             "mode of transport", 
+            "phenomenon", 
             "tree", 
             "reflection"
         ], 
@@ -2893,7 +2967,8 @@
     {
         "attributes": [
             "water", 
-            "mode of transport"
+            "mode of transport", 
+            "phenomenon"
         ], 
         "name": "vr_ripkinkaty_24.png"
     }, 
@@ -2904,6 +2979,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "mode of transport"
         ], 
@@ -2974,6 +3050,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "car", 
             "vehicle", 
             "tree"
@@ -3034,6 +3111,7 @@
     }, 
     {
         "attributes": [
+            "phenomenon", 
             "recreation"
         ], 
         "name": "vr_ripkinkaty_38.png"
@@ -3049,6 +3127,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "reflection", 
             "water", 
             "natural disaster", 
@@ -3058,7 +3137,9 @@
         "name": "vr_ripkinkaty_40.png"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "phenomenon"
+        ], 
         "name": "vr_ripkinkaty_41.png"
     }, 
     {
@@ -3089,6 +3170,7 @@
             "sky", 
             "bank", 
             "tree", 
+            "phenomenon", 
             "floodplain"
         ], 
         "name": "vr_ripkinkaty_47.png"
@@ -3096,6 +3178,7 @@
     {
         "attributes": [
             "vehicle", 
+            "motor vehicle", 
             "mode of transport", 
             "car"
         ], 
@@ -3104,6 +3187,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle"
         ], 
         "name": "vr_ripkinkaty_50.png"
@@ -3117,6 +3201,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "mode of transport", 
             "tree"
@@ -3129,7 +3214,8 @@
             "water", 
             "reflection", 
             "river", 
-            "tree"
+            "tree", 
+            "phenomenon"
         ], 
         "name": "vr_ripkinkaty_54.png"
     }, 
@@ -3151,6 +3237,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "mode of transport"
         ], 
@@ -3173,6 +3260,7 @@
             "car", 
             "sky", 
             "vehicle", 
+            "motor vehicle", 
             "grass", 
             "plant"
         ], 
@@ -3209,6 +3297,7 @@
             "water", 
             "vehicle", 
             "reflection", 
+            "motor vehicle", 
             "river", 
             "natural disaster", 
             "plant", 
@@ -3310,6 +3399,7 @@
             "river", 
             "water resources", 
             "tree", 
+            "phenomenon", 
             "reflection", 
             "bank", 
             "sky"
@@ -3445,6 +3535,7 @@
         "attributes": [
             "waterway", 
             "water", 
+            "phenomenon", 
             "recreation", 
             "vehicle", 
             "sky"
@@ -3472,6 +3563,7 @@
             "water", 
             "water resources", 
             "grass", 
+            "phenomenon", 
             "reflection", 
             "plant"
         ], 
@@ -3480,6 +3572,7 @@
     {
         "attributes": [
             "vehicle", 
+            "motor vehicle", 
             "mode of transport", 
             "tree"
         ], 
@@ -3487,6 +3580,7 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "car", 
             "vehicle", 
             "mode of transport", 
@@ -3580,6 +3674,7 @@
     {
         "attributes": [
             "vehicle", 
+            "motor vehicle", 
             "mode of transport"
         ], 
         "name": "or_simonkaty_064.png"
@@ -3588,14 +3683,16 @@
         "attributes": [
             "mode of transport", 
             "car", 
-            "vehicle"
+            "vehicle", 
+            "motor vehicle"
         ], 
         "name": "or_simonkaty_065.png"
     }, 
     {
         "attributes": [
             "mode of transport", 
-            "vehicle"
+            "vehicle", 
+            "motor vehicle"
         ], 
         "name": "or_simonkaty_066.png"
     }, 
@@ -3641,6 +3738,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "mode of transport"
         ], 

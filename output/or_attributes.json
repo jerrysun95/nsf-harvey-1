@@ -34,5 +34,45 @@
     {
         "freq": 0.17, 
         "name": "motor vehicle"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "water resources"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "recreation"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "canal"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "boating"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "car"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "disaster"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "property"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "natural disaster"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "flood"
     }
 ]

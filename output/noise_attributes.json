@@ -1,58 +1,86 @@
 [
     {
-        "freq": 0.79, 
-        "name": "event"
-    }, 
-    {
-        "freq": 0.78, 
+        "freq": 0.63, 
         "name": "fun"
     }, 
     {
-        "freq": 0.46, 
-        "name": "smile"
-    }, 
-    {
-        "freq": 0.36, 
+        "freq": 0.41, 
         "name": "girl"
     }, 
     {
-        "freq": 0.35, 
-        "name": "socialite"
+        "freq": 0.32, 
+        "name": "event"
     }, 
     {
-        "freq": 0.35, 
-        "name": "party"
+        "freq": 0.28, 
+        "name": "recreation"
     }, 
     {
         "freq": 0.27, 
-        "name": "friendship"
-    }, 
-    {
-        "freq": 0.24, 
-        "name": "drink"
+        "name": "smile"
     }, 
     {
         "freq": 0.23, 
-        "name": "ceremony"
+        "name": "tree"
     }, 
     {
-        "freq": 0.21, 
-        "name": "public relations"
+        "freq": 0.22, 
+        "name": "plant"
     }, 
     {
-        "freq": 0.21, 
-        "name": "restaurant"
+        "freq": 0.18, 
+        "name": "grass"
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "sports"
     }, 
     {
         "freq": 0.15, 
+        "name": "friendship"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "competition event"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "leisure"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "vacation"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "competition"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "party"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "socialite"
+    }, 
+    {
+        "freq": 0.11, 
         "name": "social group"
     }, 
     {
-        "freq": 0.14, 
-        "name": "fashion"
+        "freq": 0.11, 
+        "name": "sport venue"
     }, 
     {
-        "freq": 0.14, 
-        "name": "product"
+        "freq": 0.1, 
+        "name": "water"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "family"
     }
 ]

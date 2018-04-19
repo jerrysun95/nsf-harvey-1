@@ -70,5 +70,13 @@
     {
         "freq": 0.12, 
         "name": "reflection"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "motor vehicle"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "phenomenon"
     }
 ]

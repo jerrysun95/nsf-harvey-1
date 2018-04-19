@@ -42,5 +42,41 @@
     {
         "freq": 0.17, 
         "name": "disaster"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "car"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "sky"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "mode of transport"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "grass"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "recreation"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "phenomenon"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "reflection"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "plant"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "motor vehicle"
     }
 ]

@@ -77,7 +77,7 @@ def vision_from_file(image_name, photo_file):
         for label in labels:
             print(label['description'] + ": " + str(label['score']))
         # print(response)
-        return response
+        return create_json(labels, image_name)
 
 # Send image data to Google Vision
 def vision_from_data(image_name, image_content, request_type):

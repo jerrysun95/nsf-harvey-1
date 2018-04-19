@@ -2,20 +2,36 @@
     {
         "attributes": [
             "car", 
-            "vehicle"
+            "natural disaster", 
+            "disaster", 
+            "vehicle", 
+            "motor vehicle", 
+            "road"
         ], 
         "name": "r_annsharp_00.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "sky"
+        ], 
         "name": "r_annsharp_01.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "property", 
+            "flooring", 
+            "wood", 
+            "window"
+        ], 
         "name": "r_annsharp_02.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "wood"
+        ], 
         "name": "r_annsharp_03.jpg"
     }, 
     {
@@ -27,7 +43,10 @@
         "name": "r_annsharp_05.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "flooring", 
+            "floor"
+        ], 
         "name": "r_annsharp_06.jpg"
     }, 
     {
@@ -36,13 +55,17 @@
     }, 
     {
         "attributes": [
-            "plant"
+            "plant", 
+            "grass", 
+            "window"
         ], 
         "name": "r_annsharp_08.jpg"
     }, 
     {
         "attributes": [
-            "plant"
+            "grass", 
+            "plant", 
+            "property"
         ], 
         "name": "r_annsharp_09.jpg"
     }, 
@@ -59,18 +82,25 @@
         "name": "r_annsharp_12.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "sky", 
+            "reflection"
+        ], 
         "name": "r_annsharp_13.jpg"
     }, 
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
+            "automotive exterior", 
             "vehicle"
         ], 
         "name": "r_annsharp_14.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor"
+        ], 
         "name": "r_annsharp_15.jpg"
     }, 
     {
@@ -87,12 +117,21 @@
     }, 
     {
         "attributes": [
-            "tree"
+            "tree", 
+            "property", 
+            "window", 
+            "house", 
+            "grass", 
+            "wood"
         ], 
         "name": "r_caspakaty_06.png"
     }, 
     {
         "attributes": [
+            "property", 
+            "disaster", 
+            "house", 
+            "natural disaster", 
             "water"
         ], 
         "name": "r_caspakaty_21.png"
@@ -107,24 +146,31 @@
     {
         "attributes": [
             "car", 
+            "automotive exterior", 
             "vehicle"
         ], 
         "name": "r_faith_02.jpg"
     }, 
     {
         "attributes": [
-            "vehicle"
+            "vehicle", 
+            "automotive exterior"
         ], 
         "name": "r_faith_03.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "automotive exterior"
+        ], 
         "name": "r_faith_04.jpg"
     }, 
     {
         "attributes": [
             "tree", 
-            "plant"
+            "plant", 
+            "grass", 
+            "house", 
+            "window"
         ], 
         "name": "r_faith_05.jpg"
     }, 
@@ -132,7 +178,9 @@
         "attributes": [
             "tree", 
             "plant", 
-            "vehicle"
+            "vehicle", 
+            "grass", 
+            "house"
         ], 
         "name": "r_faith_06.jpg"
     }, 
@@ -140,50 +188,76 @@
         "attributes": [
             "car", 
             "tree", 
+            "property", 
             "vehicle", 
-            "plant"
+            "plant", 
+            "road"
         ], 
         "name": "r_faith_07.jpg"
     }, 
     {
         "attributes": [
             "car", 
-            "vehicle"
+            "motor vehicle", 
+            "vehicle", 
+            "natural disaster", 
+            "disaster", 
+            "automotive exterior", 
+            "road", 
+            "flood"
         ], 
         "name": "r_faith_08.jpg"
     }, 
     {
         "attributes": [
+            "road", 
+            "disaster", 
             "vehicle"
         ], 
         "name": "r_faith_09.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "sky"
+        ], 
         "name": "r_faith_10.jpg"
     }, 
     {
         "attributes": [
             "tree", 
             "plant", 
-            "water"
+            "water", 
+            "grass"
         ], 
         "name": "r_faith_11.jpg"
     }, 
     {
         "attributes": [
-            "water"
+            "waterway", 
+            "water resources", 
+            "water", 
+            "river"
         ], 
         "name": "r_faith_12.jpg"
     }, 
     {
         "attributes": [
+            "disaster", 
+            "road", 
+            "water resources", 
+            "natural disaster", 
             "vehicle"
         ], 
         "name": "r_faith_13.jpg"
     }, 
     {
         "attributes": [
+            "flood", 
+            "natural disaster", 
+            "water resources", 
+            "disaster", 
+            "river", 
+            "floodplain", 
             "water"
         ], 
         "name": "r_faith_14.jpg"
@@ -191,27 +265,41 @@
     {
         "attributes": [
             "water", 
-            "tree"
+            "tree", 
+            "reflection", 
+            "flood", 
+            "natural disaster"
         ], 
         "name": "r_faith_15.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "tree", 
+            "water resources", 
+            "grass"
         ], 
         "name": "r_faith_16.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "wood", 
+            "sky"
+        ], 
         "name": "r_faith_17.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "automotive exterior", 
+            "flooring"
+        ], 
         "name": "r_faith_18.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "sky"
+        ], 
         "name": "r_faith_19.jpg"
     }, 
     {
@@ -223,38 +311,50 @@
     }, 
     {
         "attributes": [
+            "reflection", 
             "water", 
+            "sky", 
             "tree"
         ], 
         "name": "r_faith_21.jpg"
     }, 
     {
         "attributes": [
-            "car"
+            "car", 
+            "reflection", 
+            "motor vehicle"
         ], 
         "name": "r_faith_22.png"
     }, 
     {
         "attributes": [
+            "reflection", 
             "water", 
+            "sky", 
+            "window", 
+            "house", 
             "tree"
         ], 
         "name": "r_faith_23.png"
     }, 
     {
         "attributes": [
-            "water"
+            "reflection", 
+            "water", 
+            "floor"
         ], 
         "name": "r_faith_24.jpg"
     }, 
     {
         "attributes": [
-            "tree"
+            "tree", 
+            "sky"
         ], 
         "name": "r_faith_25.jpg"
     }, 
     {
         "attributes": [
+            "sky", 
             "tree"
         ], 
         "name": "r_faith_26.jpg"
@@ -262,29 +362,41 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
-            "tree"
+            "reflection", 
+            "window", 
+            "tree", 
+            "automotive exterior"
         ], 
         "name": "r_faith_27.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "sky"
+        ], 
         "name": "r_faith_28.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "sky", 
+            "grass"
+        ], 
         "name": "r_faith_29.jpg"
     }, 
     {
         "attributes": [
+            "sky", 
             "tree"
         ], 
         "name": "r_faith_30.jpg"
     }, 
     {
         "attributes": [
+            "reflection", 
             "water", 
-            "tree"
+            "tree", 
+            "sky"
         ], 
         "name": "r_faith_31.jpg"
     }, 
@@ -301,25 +413,34 @@
     }, 
     {
         "attributes": [
+            "waterway", 
             "vehicle", 
             "water"
         ], 
         "name": "r_haibinkaty_02.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "property", 
+            "floor", 
+            "window", 
+            "flooring"
+        ], 
         "name": "r_haibinkaty_03.jpg"
     }, 
     {
         "attributes": [
             "vehicle", 
             "car", 
-            "water"
+            "water", 
+            "automotive exterior", 
+            "floor"
         ], 
         "name": "r_haibinkaty_04.jpg"
     }, 
     {
         "attributes": [
+            "waterway", 
             "water", 
             "vehicle", 
             "car", 
@@ -332,8 +453,13 @@
         "attributes": [
             "car", 
             "water", 
+            "road", 
             "tree", 
-            "vehicle"
+            "flood", 
+            "natural disaster", 
+            "disaster", 
+            "vehicle", 
+            "floodplain"
         ], 
         "name": "r_haibinkaty_06.jpg"
     }, 
@@ -346,24 +472,36 @@
     }, 
     {
         "attributes": [
+            "waterway", 
             "water", 
-            "tree"
+            "flood", 
+            "river", 
+            "natural disaster", 
+            "bank", 
+            "tree", 
+            "floodplain", 
+            "disaster"
         ], 
         "name": "r_haibinkaty_08.jpg"
     }, 
     {
         "attributes": [
+            "sky", 
             "tree", 
             "water", 
             "plant", 
+            "house", 
             "vehicle"
         ], 
         "name": "r_haibinkaty_video.mov.jpg"
     }, 
     {
         "attributes": [
+            "waterway", 
             "water", 
+            "water resources", 
             "vehicle", 
+            "river", 
             "tree"
         ], 
         "name": "r_johnenergy_01.jpg"
@@ -371,8 +509,13 @@
     {
         "attributes": [
             "water", 
+            "waterway", 
+            "water resources", 
+            "river", 
             "tree", 
-            "vehicle"
+            "vehicle", 
+            "natural disaster", 
+            "flood"
         ], 
         "name": "r_johnenergy_02.jpg"
     }, 
@@ -388,15 +531,28 @@
     {
         "attributes": [
             "water", 
+            "waterway", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
             "tree", 
-            "vehicle"
+            "river", 
+            "vehicle", 
+            "water resources"
         ], 
         "name": "r_johnenergy_04.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "water resources", 
+            "tree", 
+            "bank", 
+            "river"
         ], 
         "name": "r_johnenergy_05.jpg"
     }, 
@@ -404,41 +560,68 @@
         "attributes": [
             "water", 
             "tree", 
-            "plant"
+            "bank", 
+            "reflection", 
+            "plant", 
+            "flood", 
+            "floodplain", 
+            "river", 
+            "grass"
         ], 
         "name": "r_johnenergy_06.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "tree", 
+            "bank", 
+            "grass", 
+            "floodplain", 
+            "water resources"
         ], 
         "name": "r_johnenergy_07.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "tree", 
+            "floodplain", 
+            "bank", 
+            "water resources", 
+            "grass", 
+            "flood"
         ], 
         "name": "r_johnenergy_08.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "waterway", 
+            "water resources", 
+            "tree", 
+            "grass", 
+            "bank"
         ], 
         "name": "r_johnenergy_09.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "waterway", 
+            "tree", 
+            "water resources", 
+            "bank", 
+            "river", 
+            "grass", 
+            "floodplain"
         ], 
         "name": "r_johnenergy_10.jpg"
     }, 
     {
         "attributes": [
             "car", 
+            "road", 
+            "motor vehicle", 
             "vehicle", 
             "tree", 
             "plant"
@@ -448,43 +631,75 @@
     {
         "attributes": [
             "car", 
-            "vehicle"
+            "motor vehicle", 
+            "vehicle", 
+            "automotive exterior"
         ], 
         "name": "r_johnenergy_12.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "property", 
+            "flooring", 
+            "house"
+        ], 
         "name": "r_johnenergy_13.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "wood"
+        ], 
         "name": "r_johnenergy_14.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "house"
+        ], 
         "name": "r_johnenergy_15.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "window"
+        ], 
         "name": "r_johnenergy_16.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "wood"
+        ], 
         "name": "r_johnenergy_17.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring"
+        ], 
         "name": "r_johnenergy_18.jpg"
     }, 
     {
         "attributes": [
+            "property", 
             "plant", 
+            "floor", 
+            "flooring", 
+            "window", 
             "water"
         ], 
         "name": "r_johnenergy_19.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "window"
+        ], 
         "name": "r_johnenergy_20.jpg"
     }, 
     {
@@ -494,27 +709,44 @@
         "name": "r_johnenergy_21.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "window", 
+            "house"
+        ], 
         "name": "r_johnenergy_22.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "wood"
+        ], 
         "name": "r_johnenergy_23.jpg"
     }, 
     {
         "attributes": [
-            "water"
+            "water", 
+            "reflection", 
+            "window"
         ], 
         "name": "r_johnenergy_24.jpg"
     }, 
     {
         "attributes": [
+            "motor vehicle", 
+            "automotive exterior", 
             "car"
         ], 
         "name": "r_johnenergy_25.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "property", 
+            "wood", 
+            "window"
+        ], 
         "name": "r_johnenergy_26.jpg"
     }, 
     {
@@ -524,13 +756,21 @@
         "name": "r_johnenergy_27.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "property", 
+            "flooring", 
+            "wood", 
+            "house"
+        ], 
         "name": "r_johnenergy_28.jpg"
     }, 
     {
         "attributes": [
             "water", 
+            "window", 
             "plant", 
+            "house", 
             "tree"
         ], 
         "name": "r_johnenergy_29.jpg"
@@ -546,12 +786,22 @@
     {
         "attributes": [
             "water", 
+            "water resources", 
+            "flood", 
+            "natural disaster", 
+            "bank", 
+            "floodplain", 
+            "river", 
+            "disaster", 
             "tree"
         ], 
         "name": "r_johnenergy_32.jpg"
     }, 
     {
         "attributes": [
+            "property", 
+            "house", 
+            "window", 
             "water"
         ], 
         "name": "r_johnenergy_33.jpg"
@@ -559,22 +809,36 @@
     {
         "attributes": [
             "water", 
-            "tree"
+            "waterway", 
+            "river", 
+            "water resources", 
+            "reflection", 
+            "tree", 
+            "bank"
         ], 
         "name": "r_johnenergy_34.jpg"
     }, 
     {
         "attributes": [
             "water", 
+            "property", 
             "plant", 
-            "tree"
+            "tree", 
+            "house", 
+            "bank"
         ], 
         "name": "r_johnenergy_35.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "water resources", 
+            "natural disaster", 
+            "river", 
+            "flood", 
+            "reflection", 
+            "tree", 
+            "disaster"
         ], 
         "name": "r_johnenergy_36.jpg"
     }, 
@@ -590,28 +854,36 @@
         "attributes": [
             "car", 
             "vehicle", 
-            "tree"
+            "road", 
+            "tree", 
+            "property", 
+            "motor vehicle"
         ], 
         "name": "r_johnenergy_38.jpg"
     }, 
     {
         "attributes": [
             "plant", 
-            "tree"
+            "tree", 
+            "grass"
         ], 
         "name": "r_johnenergy_39.jpg"
     }, 
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
+            "road", 
             "plant", 
+            "automotive exterior", 
             "tree"
         ], 
         "name": "r_johnenergy_40.jpg"
     }, 
     {
         "attributes": [
+            "wood", 
             "tree"
         ], 
         "name": "r_johnenergy_41.jpg"
@@ -619,6 +891,7 @@
     {
         "attributes": [
             "water", 
+            "water resources", 
             "plant", 
             "tree"
         ], 
@@ -627,12 +900,15 @@
     {
         "attributes": [
             "tree", 
-            "plant"
+            "plant", 
+            "grass"
         ], 
         "name": "r_johnenergy_43.jpg"
     }, 
     {
         "attributes": [
+            "house", 
+            "property", 
             "tree", 
             "plant"
         ], 
@@ -641,8 +917,12 @@
     {
         "attributes": [
             "car", 
+            "property", 
+            "motor vehicle", 
             "tree", 
-            "vehicle"
+            "road", 
+            "vehicle", 
+            "house"
         ], 
         "name": "r_johnenergy_45.jpg"
     }, 
@@ -650,19 +930,27 @@
         "attributes": [
             "car", 
             "vehicle", 
-            "water"
+            "motor vehicle", 
+            "water", 
+            "automotive exterior"
         ], 
         "name": "r_johnsnow_01.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "tree", 
+            "reflection", 
+            "grass", 
+            "water resources", 
+            "floodplain"
         ], 
         "name": "r_mickann_01.png"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "window"
+        ], 
         "name": "r_mickann_02.png"
     }, 
     {
@@ -672,7 +960,10 @@
     {
         "attributes": [
             "tree", 
-            "water"
+            "water", 
+            "grass", 
+            "natural disaster", 
+            "flood"
         ], 
         "name": "r_mickann_05.png"
     }, 
@@ -681,7 +972,11 @@
         "name": "r_mickann_06.png"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "wood"
+        ], 
         "name": "r_mickann_07.png"
     }, 
     {
@@ -691,7 +986,12 @@
         "name": "r_mickann_08.png"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "property", 
+            "wood"
+        ], 
         "name": "r_mickann_09.png"
     }, 
     {
@@ -704,34 +1004,67 @@
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "water", 
-            "car"
+            "car", 
+            "automotive exterior", 
+            "window"
         ], 
         "name": "r_samenergy_10.jpg"
     }, 
     {
         "attributes": [
+            "waterway", 
             "water", 
+            "river", 
+            "flood", 
+            "water resources", 
+            "natural disaster", 
+            "disaster", 
+            "bank", 
+            "floodplain", 
             "tree"
         ], 
         "name": "r_samenergy_11.jpg"
     }, 
     {
         "attributes": [
-            "water"
+            "water", 
+            "waterway", 
+            "flood", 
+            "river", 
+            "bank", 
+            "natural disaster", 
+            "disaster", 
+            "water resources", 
+            "floodplain"
         ], 
         "name": "r_samenergy_12.jpg"
     }, 
     {
         "attributes": [
-            "water"
+            "water", 
+            "waterway", 
+            "flood", 
+            "river", 
+            "bank", 
+            "natural disaster", 
+            "water resources", 
+            "floodplain", 
+            "disaster"
         ], 
         "name": "r_samenergy_13.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "flood", 
+            "natural disaster", 
+            "disaster", 
+            "floodplain", 
+            "river", 
+            "tree", 
+            "bank"
         ], 
         "name": "r_samenergy_14.jpg"
     }, 
@@ -739,18 +1072,22 @@
         "attributes": [
             "tree", 
             "water", 
-            "plant"
+            "plant", 
+            "grass"
         ], 
         "name": "r_samenergy_15.jpg"
     }, 
     {
         "attributes": [
+            "road", 
+            "grass", 
             "tree"
         ], 
         "name": "r_samenergy_16.jpg"
     }, 
     {
         "attributes": [
+            "road", 
             "vehicle", 
             "tree"
         ], 
@@ -764,6 +1101,7 @@
     }, 
     {
         "attributes": [
+            "road", 
             "car", 
             "vehicle"
         ], 
@@ -772,19 +1110,26 @@
     {
         "attributes": [
             "car", 
-            "vehicle"
+            "motor vehicle", 
+            "vehicle", 
+            "automotive exterior"
         ], 
         "name": "r_samenergy_2.jpg"
     }, 
     {
         "attributes": [
+            "motor vehicle", 
             "car", 
-            "vehicle"
+            "vehicle", 
+            "road", 
+            "automotive exterior"
         ], 
         "name": "r_samenergy_20.jpg"
     }, 
     {
         "attributes": [
+            "road", 
+            "motor vehicle", 
             "car", 
             "vehicle"
         ], 
@@ -793,6 +1138,8 @@
     {
         "attributes": [
             "car", 
+            "road", 
+            "sky", 
             "vehicle"
         ], 
         "name": "r_samenergy_22.jpg"
@@ -816,7 +1163,10 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
+            "road", 
+            "sky", 
             "tree"
         ], 
         "name": "r_samenergy_25.jpg"
@@ -824,6 +1174,7 @@
     {
         "attributes": [
             "car", 
+            "motor vehicle", 
             "vehicle", 
             "tree", 
             "plant"
@@ -833,21 +1184,36 @@
     {
         "attributes": [
             "water", 
+            "property", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
             "tree"
         ], 
         "name": "r_samenergy_4.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "wood"
+        ], 
         "name": "r_samenergy_5.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "floor", 
+            "flooring"
+        ], 
         "name": "r_samenergy_6.jpg"
     }, 
     {
         "attributes": [
+            "property", 
             "tree", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
             "water"
         ], 
         "name": "r_samenergy_7.jpg"
@@ -857,19 +1223,30 @@
         "name": "r_samenergy_8.jpg"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "road"
+        ], 
         "name": "r_samenergy_9.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "waterway", 
+            "water resources", 
+            "reflection", 
+            "flood", 
+            "tree", 
+            "natural disaster", 
+            "floodplain", 
+            "river"
         ], 
         "name": "r_tracy katy_01.jpg"
     }, 
     {
         "attributes": [
-            "tree"
+            "grass", 
+            "tree", 
+            "road"
         ], 
         "name": "r_tracy katy_02.jpg"
     }, 
@@ -877,14 +1254,17 @@
         "attributes": [
             "water", 
             "tree", 
-            "plant"
+            "water resources", 
+            "plant", 
+            "bank"
         ], 
         "name": "r_tracy katy_03.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "tree", 
+            "grass"
         ], 
         "name": "r_tracy katy_04.jpg"
     }, 
@@ -899,32 +1279,48 @@
     {
         "attributes": [
             "tree", 
-            "plant"
+            "plant", 
+            "grass"
         ], 
         "name": "r_tracy katy_06.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "window", 
+            "wood", 
+            "floor", 
+            "tree", 
+            "house"
         ], 
         "name": "r_tracy katy_07.jpg"
     }, 
     {
         "attributes": [
+            "floor", 
+            "wood", 
+            "window", 
             "water"
         ], 
         "name": "r_tracy katy_08.jpg"
     }, 
     {
         "attributes": [
-            "water"
+            "reflection", 
+            "water", 
+            "wood", 
+            "floor", 
+            "flooring"
         ], 
         "name": "r_tracy katy_09.jpg"
     }, 
     {
         "attributes": [
-            "water"
+            "waterway", 
+            "water", 
+            "reflection", 
+            "river", 
+            "water resources"
         ], 
         "name": "r_tracy katy_10.jpg"
     }, 
@@ -932,14 +1328,24 @@
         "attributes": [
             "water", 
             "vehicle", 
-            "car"
+            "reflection", 
+            "car", 
+            "motor vehicle", 
+            "automotive exterior"
         ], 
         "name": "r_tracy katy_11.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "tree"
+            "flood", 
+            "river", 
+            "natural disaster", 
+            "bank", 
+            "tree", 
+            "floodplain", 
+            "disaster", 
+            "water resources"
         ], 
         "name": "r_tracy katy_12.jpg"
     }, 
@@ -952,16 +1358,27 @@
     }, 
     {
         "attributes": [
+            "waterway", 
             "water", 
             "tree", 
-            "plant"
+            "river", 
+            "plant", 
+            "bank", 
+            "flood"
         ], 
         "name": "r_tracy katy_14.jpg"
     }, 
     {
         "attributes": [
+            "waterway", 
             "water", 
-            "tree"
+            "bank", 
+            "river", 
+            "sky", 
+            "tree", 
+            "water resources", 
+            "flood", 
+            "floodplain"
         ], 
         "name": "r_tracy katy_15.jpg"
     }, 
@@ -969,6 +1386,8 @@
         "attributes": [
             "tree", 
             "plant", 
+            "sky", 
+            "house", 
             "car"
         ], 
         "name": "r_tracy katy_16.jpg"

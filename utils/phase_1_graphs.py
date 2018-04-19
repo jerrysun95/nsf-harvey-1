@@ -163,4 +163,122 @@ def resp_types_bar():
 	axes.set_ylim([.65, .85])
 	plt.show()
 
-resp_types_bar()
+def signal_noise_stacking_svm():
+	sns.set(style='white')
+	with open('../output/optimal_stack_large.json') as f:
+		data = json.loads(f.read())
+	d = {'minimum frequency':[], 'accuracy':[]}
+	d['minimum frequency'] = [x[0] for x in data]
+	d['accuracy'] = [x[1] for x in data]
+
+	df = pd.DataFrame(data=d)
+	ax = sns.barplot(x='minimum frequency', y='accuracy', data=df, palette='Blues')
+
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Accuracy')
+	plt.title('Signal vs Noise Accuracy (Stacking with SVM)')
+	plt.xticks(rotation='vertical')
+	axes = plt.gca()
+	axes.set_ylim([.90, 1])
+	plt.show()
+
+def signal_noise_stacking_mlp():
+	sns.set(style='white')
+	with open('../output/optimal_stack_large_mlp.json') as f:
+		data = json.loads(f.read())
+	d = {'minimum frequency':[], 'accuracy':[]}
+	d['minimum frequency'] = [x[0] for x in data]
+	d['accuracy'] = [x[1] for x in data]
+
+	df = pd.DataFrame(data=d)
+	ax = sns.barplot(x='minimum frequency', y='accuracy', data=df, palette='Purples')
+
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Accuracy')
+	plt.title('Signal vs Noise Accuracy (Stacking with MLP)')
+	plt.xticks(rotation='vertical')
+	axes = plt.gca()
+	axes.set_ylim([.90, 1])
+	plt.show()
+
+def resp_types_accuracies_line():
+	sns.set(style='white')
+	with open('../output/optimal_resp_svm_line.json') as f:
+		data = json.loads(f.read())
+	t = ['svm', 'gnb', 'mnb', 'bnb', 'knn', 'dt', 'sgd', 'mlp']
+	d = {'minimum frequency':[], 'accuracy':[], 'type':[]}
+
+	for x in data:
+		d['minimum frequency'].append(x[0])
+		d['accuracy'].append(x[1])
+		d['type'].append('stacked')
+		for i in range(len(x[2])):
+			d['minimum frequency'].append(x[0])
+			d['accuracy'].append(x[2][i])
+			d['type'].append(t[i])
+
+	df = pd.DataFrame(data=d)
+	# ax = sns.tsplot(x='minimum frequency', y='accuracy', unit='type', data=df, palette='Blues')
+
+	plt.plot([x[0] for x in data], [x[2][0] for x in data])
+	plt.plot([x[0] for x in data], [x[2][1] for x in data])
+	plt.plot([x[0] for x in data], [x[2][2] for x in data])
+	plt.plot([x[0] for x in data], [x[2][3] for x in data])
+	plt.plot([x[0] for x in data], [x[2][4] for x in data])
+	plt.plot([x[0] for x in data], [x[2][5] for x in data])
+	plt.plot([x[0] for x in data], [x[2][6] for x in data])
+	plt.plot([x[0] for x in data], [x[2][7] for x in data])
+
+	plt.plot([x[0] for x in data], [x[1] for x in data])
+	plt.axis([0,.1,0,1])
+
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Accuracy')
+	plt.title('Respondent Type Classifier Accuracy (Stacking with SVM)')
+	plt.xticks(rotation='vertical')
+	plt.show()
+
+def signal_noise_accuracies_line():
+	sns.set(style='white')
+	with open('../output/optimal_noise_svm_line.json') as f:
+		data = json.loads(f.read())
+	t = ['svm', 'gnb', 'mnb', 'bnb', 'knn', 'dt', 'sgd', 'mlp']
+	d = {'minimum frequency':[], 'accuracy':[], 'type':[]}
+
+	for x in data:
+		d['minimum frequency'].append(x[0])
+		d['accuracy'].append(x[1])
+		d['type'].append('stacked')
+		for i in range(len(x[2])):
+			d['minimum frequency'].append(x[0])
+			d['accuracy'].append(x[2][i])
+			d['type'].append(t[i])
+
+	df = pd.DataFrame(data=d)
+	# ax = sns.tsplot(x='minimum frequency', y='accuracy', unit='type', data=df, palette='Blues')
+
+	plt.plot([x[0] for x in data], [x[2][0] for x in data])
+	plt.plot([x[0] for x in data], [x[2][1] for x in data])
+	plt.plot([x[0] for x in data], [x[2][2] for x in data])
+	plt.plot([x[0] for x in data], [x[2][3] for x in data])
+	plt.plot([x[0] for x in data], [x[2][4] for x in data])
+	plt.plot([x[0] for x in data], [x[2][5] for x in data])
+	plt.plot([x[0] for x in data], [x[2][6] for x in data])
+	plt.plot([x[0] for x in data], [x[2][7] for x in data])
+
+	plt.plot([x[0] for x in data], [x[1] for x in data])
+	plt.axis([0,.1,0,1])
+
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Accuracy')
+	plt.title('Signal vs Noise Classifier Accuracy (Stacking with SVM)')
+	plt.xticks(rotation='vertical')
+	plt.show()
+
+# resp_types_bar()
+signal_noise_stacking_mlp()
+# signal_noise_accuracies_line()

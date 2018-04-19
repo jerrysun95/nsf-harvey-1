@@ -2,7 +2,8 @@ from boxpython import BoxAuthenticateFlow, BoxSession, BoxError
 from request import BoxRestRequest
 from StringIO import StringIO
 import google_vision as gv
-import keyring, requests, read_csv, text
+import keyring, requests, read_csv, text, os, json
+from multiprocessing import Pool as ThreadPool
 
 # Tokens Changed Callback
 def tokens_changed(refresh_token, access_token):
@@ -40,7 +41,7 @@ def copy(file_id, dest_folder_id):
     print("")
 
 # List files in folder
-def items(folder_id, lim=1000, ofs=0):
+def items(folder_id, lim=5000, ofs=0):
     print("Getting items in folder " + str(folder_id) + "...")
     response = box.get_folder_items(folder_id, limit=lim, offset=ofs, fields_list=['name', 'type', 'id'])
     print("Got " + str(len(response['entries'])) + " items in folder " + str(folder_id))
@@ -154,18 +155,54 @@ def vision(src_folder_id, t):
     vision_data = []
 
     # Read folder to get file names and ids
-    response = box.items(src_folder_id)
+    response = items(src_folder_id)
     entries = response['entries']
 
+    # # Send each file to google vision for label detection
+    # for entry in entries:
+    #     name = entry['name'].lower()
+    #     if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
+    #         try:
+    #             result = send_to_vision(name, entry['id'])
+    #             vision_data.append(result)
+    #         except:
+    #             pass
+
+    pool = ThreadPool(16)
+    vision_data = pool.map(vision_thread, entries)
+
+    # Write results to output file
+    with open('output/' + t + '.json', 'w') as f:
+        f.write(json.dumps(vision_data, indent=4))
+
+def vision_thread(entry):
     # Send each file to google vision for label detection
-    for entry in entries:
-        name = entry['name'].lower()
-        if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
-            try:
-                result = send_to_vision(name, entry['id'])
-                vision_data.append(result)
-            except:
-                pass
+    result = {}
+    name = entry['name'].lower()
+    print('---------' + name + '---------')
+    if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
+        try:
+            result = send_to_vision(name, entry['id'])
+        except:
+            result = {'name':name, 'attributes_scores':[], 'attributes':[], 'error':True}
+    return result
+
+def vision_local_thread(entry):
+    name = entry[entry.rfind('/') + 1:].lower()
+    print('---------' + name + '---------')
+
+    # try:
+    result = gv.vision_from_file(name, entry)
+    # except:
+    #     result = {'name':name, 'attributes_scores':[], 'attributes':[], 'error':True}
+    return result
+
+def vision_local(src_folder, t, files):
+    # entries = os.listdir(src_folder)
+    entries = [src_folder + '/' + x for x in files]
+
+    pool = ThreadPool(4)
+    vision_data = pool.map(vision_local_thread, entries)
 
     # Write results to output file
     with open('output/' + t + '.json', 'w') as f:
