@@ -1,0 +1,13 @@
+requests
+keyring
+boxpython
+pandas
+numpy
+matplotlib
+scipy
+nltk
+stop-words
+gensim
+scikit-learn
+seaborn
+multiprocessing

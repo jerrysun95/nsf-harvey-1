@@ -1,0 +1,82 @@
+[
+    {
+        "freq": 0.42, 
+        "name": "water"
+    }, 
+    {
+        "freq": 0.4, 
+        "name": "tree"
+    }, 
+    {
+        "freq": 0.27, 
+        "name": "vehicle"
+    }, 
+    {
+        "freq": 0.22, 
+        "name": "water resources"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "river"
+    }, 
+    {
+        "freq": 0.19, 
+        "name": "natural disaster"
+    }, 
+    {
+        "freq": 0.18, 
+        "name": "waterway"
+    }, 
+    {
+        "freq": 0.18, 
+        "name": "flood"
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "car"
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "floodplain"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "disaster"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "bank"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "mode of transport"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "grass"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "plant"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "sky"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "recreation"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "reflection"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "motor vehicle"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "phenomenon"
+    }
+]

@@ -1,0 +1,900 @@
+[
+    {
+        "attributes_scores": [
+            0.87525606, 
+            0.7595404, 
+            0.72359025, 
+            0.67526275, 
+            0.6318076, 
+            0.63007694
+        ], 
+        "attributes": [
+            "mode of transport", 
+            "vehicle", 
+            "boat", 
+            "recreation", 
+            "watercraft rowing", 
+            "boating"
+        ], 
+        "name": "or_simonkaty_003.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9206135, 
+            0.87490755, 
+            0.7044069, 
+            0.6982422, 
+            0.66855675, 
+            0.6574122, 
+            0.6254511, 
+            0.59623015, 
+            0.58915263, 
+            0.5778705
+        ], 
+        "attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "boating", 
+            "recreation", 
+            "boats and boating equipment and supplies", 
+            "boat", 
+            "sunglasses", 
+            "personal protective equipment", 
+            "fun", 
+            "product"
+        ], 
+        "name": "or_simonkaty_004.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.94347364, 
+            0.92090666, 
+            0.8806646, 
+            0.87525594, 
+            0.86299723, 
+            0.8417839, 
+            0.8333079, 
+            0.8147459, 
+            0.7879557, 
+            0.7438566
+        ], 
+        "attributes": [
+            "property", 
+            "handrail", 
+            "product", 
+            "mode of transport", 
+            "stairs", 
+            "wall", 
+            "home", 
+            "balcony", 
+            "window", 
+            "glass"
+        ], 
+        "name": "or_simonkaty_005.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9002663, 
+            0.8752532, 
+            0.790171, 
+            0.6630943, 
+            0.6523136, 
+            0.5970887, 
+            0.5513713, 
+            0.5133172, 
+            0.51157254, 
+            0.5105895
+        ], 
+        "attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "community", 
+            "recreation", 
+            "profession", 
+            "military police", 
+            "product", 
+            "official", 
+            "staff", 
+            "personal protective equipment"
+        ], 
+        "name": "or_simonkaty_006.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.96580726, 
+            0.89022714, 
+            0.8693646, 
+            0.74507946, 
+            0.73431814, 
+            0.70662534, 
+            0.6720096, 
+            0.6350711, 
+            0.6007623, 
+            0.52864456
+        ], 
+        "attributes": [
+            "text", 
+            "font", 
+            "web page", 
+            "line", 
+            "screenshot", 
+            "product", 
+            "area", 
+            "media", 
+            "document", 
+            "online advertising"
+        ], 
+        "name": "or_simonkaty_007.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.805499, 
+            0.74274474, 
+            0.5173886, 
+            0.5032469
+        ], 
+        "attributes": [
+            "chin", 
+            "mouth", 
+            "product", 
+            "facial hair"
+        ], 
+        "name": "or_simonkaty_009.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.86419594, 
+            0.7718791, 
+            0.71848655, 
+            0.7051815, 
+            0.66007525, 
+            0.62667835, 
+            0.60676384, 
+            0.56578887
+        ], 
+        "attributes": [
+            "water resources", 
+            "reservoir", 
+            "floodplain", 
+            "river", 
+            "lake", 
+            "land lot", 
+            "bank", 
+            "water"
+        ], 
+        "name": "or_simonkaty_016.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9623197, 
+            0.7024796, 
+            0.6720096, 
+            0.56385636, 
+            0.5403755
+        ], 
+        "attributes": [
+            "map", 
+            "line", 
+            "area", 
+            "ecoregion", 
+            "product design"
+        ], 
+        "name": "or_simonkaty_025.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9360443, 
+            0.8910951, 
+            0.876962, 
+            0.78680503, 
+            0.76570326, 
+            0.7531159, 
+            0.7012471, 
+            0.6867866, 
+            0.68647695, 
+            0.6720096
+        ], 
+        "attributes": [
+            "tree", 
+            "road", 
+            "traffic light", 
+            "sky", 
+            "street light", 
+            "signaling device", 
+            "residential area", 
+            "light fixture", 
+            "vehicle", 
+            "area"
+        ], 
+        "name": "or_simonkaty_036.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.7623301, 
+            0.7443945, 
+            0.7428512, 
+            0.6914836, 
+            0.6382963, 
+            0.6267618, 
+            0.5762454, 
+            0.50556403
+        ], 
+        "attributes": [
+            "flood", 
+            "tree", 
+            "natural disaster", 
+            "disaster", 
+            "road", 
+            "lane", 
+            "water", 
+            "road surface"
+        ], 
+        "name": "or_simonkaty_037.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8035621, 
+            0.74362284, 
+            0.74158233, 
+            0.70418775, 
+            0.6329396, 
+            0.52562374
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
+            "tree", 
+            "sign"
+        ], 
+        "name": "or_simonkaty_038.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9037037, 
+            0.87370473, 
+            0.85888654, 
+            0.7547649, 
+            0.7400079, 
+            0.7366649, 
+            0.72630936, 
+            0.6865007, 
+            0.67075664, 
+            0.65456283
+        ], 
+        "attributes": [
+            "vertebrate", 
+            "waterway", 
+            "water", 
+            "phenomenon", 
+            "recreation", 
+            "hobby", 
+            "vehicle", 
+            "sky", 
+            "cloud", 
+            "boating"
+        ], 
+        "name": "or_simonkaty_039.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.97748214, 
+            0.8967708, 
+            0.8898378, 
+            0.8599396, 
+            0.84984857, 
+            0.8270996, 
+            0.8051075, 
+            0.7992679, 
+            0.78143364, 
+            0.7549219
+        ], 
+        "attributes": [
+            "waterway", 
+            "canal", 
+            "water", 
+            "nature reserve", 
+            "river", 
+            "boat", 
+            "water resources", 
+            "bank", 
+            "tree", 
+            "vehicle"
+        ], 
+        "name": "or_simonkaty_040.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9845145, 
+            0.88394713, 
+            0.8826418, 
+            0.8792548, 
+            0.8492482, 
+            0.80563366, 
+            0.6415635, 
+            0.6042771, 
+            0.5623476, 
+            0.5515432
+        ], 
+        "attributes": [
+            "dog", 
+            "dog breed", 
+            "labrador retriever", 
+            "dog like mammal", 
+            "retriever", 
+            "snout", 
+            "dog breed group", 
+            "companion dog", 
+            "sporting group", 
+            "golden retriever"
+        ], 
+        "name": "or_simonkaty_041.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9628336, 
+            0.7983413, 
+            0.78784996, 
+            0.7547649, 
+            0.6775836, 
+            0.67628366, 
+            0.6440385, 
+            0.6386531, 
+            0.6031754, 
+            0.54957706
+        ], 
+        "attributes": [
+            "water", 
+            "water resources", 
+            "grass", 
+            "phenomenon", 
+            "water feature", 
+            "sunlight", 
+            "reflection", 
+            "landscape", 
+            "grass family", 
+            "plant"
+        ], 
+        "name": "or_simonkaty_042.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9535492, 
+            0.9422345, 
+            0.9232316, 
+            0.9068525, 
+            0.88305897, 
+            0.87517935, 
+            0.73874027, 
+            0.6736957, 
+            0.5663409, 
+            0.562061
+        ], 
+        "attributes": [
+            "vehicle", 
+            "tractor", 
+            "agricultural machinery", 
+            "motor vehicle", 
+            "transport", 
+            "mode of transport", 
+            "automotive tire", 
+            "tire", 
+            "asphalt", 
+            "tree"
+        ], 
+        "name": "or_simonkaty_043.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9718261, 
+            0.9544577, 
+            0.8865188, 
+            0.8848405, 
+            0.87523776, 
+            0.8682345, 
+            0.8561904, 
+            0.8308512, 
+            0.6311694, 
+            0.59329295
+        ], 
+        "attributes": [
+            "motor vehicle", 
+            "car", 
+            "transport", 
+            "vehicle", 
+            "mode of transport", 
+            "tree", 
+            "asphalt", 
+            "road", 
+            "road surface", 
+            "lane"
+        ], 
+        "name": "or_simonkaty_044.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.7722435, 
+            0.72339714, 
+            0.71305364, 
+            0.70088536, 
+            0.6621179, 
+            0.55989903
+        ], 
+        "attributes": [
+            "signage", 
+            "sign", 
+            "advertising", 
+            "tree", 
+            "grass", 
+            "vehicle"
+        ], 
+        "name": "or_simonkaty_045.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.96051896, 
+            0.8162939, 
+            0.78380525, 
+            0.7691529, 
+            0.73779774, 
+            0.71635586, 
+            0.69439536, 
+            0.682915, 
+            0.67618185, 
+            0.6572045
+        ], 
+        "attributes": [
+            "red", 
+            "youth", 
+            "community", 
+            "profession", 
+            "indoor games and sports", 
+            "fun", 
+            "games", 
+            "socialite", 
+            "professional", 
+            "official"
+        ], 
+        "name": "or_simonkaty_052.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9240506, 
+            0.8890937, 
+            0.80244213, 
+            0.7983015, 
+            0.7547678, 
+            0.751227, 
+            0.65154225, 
+            0.6412685, 
+            0.627769, 
+            0.5795936
+        ], 
+        "attributes": [
+            "water transportation", 
+            "waterway", 
+            "boat", 
+            "inflatable boat", 
+            "boating", 
+            "personal protective equipment", 
+            "watercraft", 
+            "rescue", 
+            "boats and boating equipment and supplies", 
+            "vehicle"
+        ], 
+        "name": "or_simonkaty_056.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.71188253, 
+            0.70592904, 
+            0.61959743, 
+            0.59461606, 
+            0.5767912, 
+            0.5261714, 
+            0.5232075, 
+            0.5151296, 
+            0.5060137
+        ], 
+        "attributes": [
+            "institution", 
+            "communication", 
+            "professional", 
+            "service", 
+            "job", 
+            "presentation", 
+            "business", 
+            "seminar", 
+            "meeting"
+        ], 
+        "name": "or_simonkaty_057.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8763046, 
+            0.81457484, 
+            0.80315095, 
+            0.7749686, 
+            0.7302522, 
+            0.62739295, 
+            0.62150264, 
+            0.50916153
+        ], 
+        "attributes": [
+            "water", 
+            "natural disaster", 
+            "flood", 
+            "disaster", 
+            "vehicle", 
+            "city car", 
+            "car", 
+            "sedan"
+        ], 
+        "name": "or_simonkaty_058.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9766038, 
+            0.92227626, 
+            0.9037037, 
+            0.87221766, 
+            0.8429285, 
+            0.78521633, 
+            0.7800765, 
+            0.7723777, 
+            0.72917974, 
+            0.6953709
+        ], 
+        "attributes": [
+            "waterway", 
+            "water transportation", 
+            "vertebrate", 
+            "river", 
+            "water", 
+            "vehicle", 
+            "outdoor recreation", 
+            "canal", 
+            "watercourse", 
+            "tree"
+        ], 
+        "name": "or_simonkaty_059.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9608522, 
+            0.87449586, 
+            0.8441007, 
+            0.79230326, 
+            0.7834977, 
+            0.7424357, 
+            0.5843661, 
+            0.5757709
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "waterway", 
+            "natural disaster", 
+            "disaster", 
+            "vehicle", 
+            "recreation", 
+            "tree"
+        ], 
+        "name": "or_simonkaty_060.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9770565, 
+            0.8759238, 
+            0.8557994, 
+            0.8493142, 
+            0.82486904, 
+            0.8192865, 
+            0.80491835, 
+            0.7993845, 
+            0.70806295, 
+            0.66484606
+        ], 
+        "attributes": [
+            "waterway", 
+            "property", 
+            "canal", 
+            "water", 
+            "boating", 
+            "lake", 
+            "boat", 
+            "river", 
+            "vehicle", 
+            "reservoir"
+        ], 
+        "name": "or_simonkaty_061.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8802936, 
+            0.8748549, 
+            0.75407803, 
+            0.7270646, 
+            0.6556132, 
+            0.632366, 
+            0.62679255, 
+            0.5832694, 
+            0.5399442
+        ], 
+        "attributes": [
+            "profession", 
+            "mode of transport", 
+            "official", 
+            "vehicle", 
+            "paramedic", 
+            "staff", 
+            "job", 
+            "professional", 
+            "military officer"
+        ], 
+        "name": "or_simonkaty_062.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.94508684, 
+            0.9372972, 
+            0.9296667, 
+            0.87728685, 
+            0.87525654, 
+            0.85519934, 
+            0.8518623, 
+            0.8298521, 
+            0.8009735, 
+            0.77659935
+        ], 
+        "attributes": [
+            "nature", 
+            "waterway", 
+            "water", 
+            "residential area", 
+            "mode of transport", 
+            "tree", 
+            "evening", 
+            "morning", 
+            "reflection", 
+            "lighting"
+        ], 
+        "name": "or_simonkaty_063.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9767201, 
+            0.96784115, 
+            0.95108116, 
+            0.8999772, 
+            0.87525654, 
+            0.8486572, 
+            0.8305783, 
+            0.7490442, 
+            0.72056144, 
+            0.6759779
+        ], 
+        "attributes": [
+            "vehicle", 
+            "transport", 
+            "motor vehicle", 
+            "truck", 
+            "mode of transport", 
+            "military vehicle", 
+            "military", 
+            "commercial vehicle", 
+            "army", 
+            "medium tactical vehicle replacement"
+        ], 
+        "name": "or_simonkaty_064.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9251407, 
+            0.8752539, 
+            0.84995645, 
+            0.8485475, 
+            0.8417735, 
+            0.78347266, 
+            0.67827445, 
+            0.663148, 
+            0.6358465, 
+            0.56754017
+        ], 
+        "attributes": [
+            "transport", 
+            "mode of transport", 
+            "car", 
+            "firefighter", 
+            "vehicle", 
+            "motor vehicle", 
+            "emergency service", 
+            "fire department", 
+            "automotive exterior", 
+            "public transport"
+        ], 
+        "name": "or_simonkaty_065.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.90774983, 
+            0.8752468, 
+            0.8627293, 
+            0.8298957, 
+            0.65081507, 
+            0.6484048, 
+            0.576671, 
+            0.56840914
+        ], 
+        "attributes": [
+            "transport", 
+            "mode of transport", 
+            "vehicle", 
+            "motor vehicle", 
+            "machine", 
+            "fire station", 
+            "truck", 
+            "fire department"
+        ], 
+        "name": "or_simonkaty_066.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.90104747, 
+            0.83584636, 
+            0.8110593, 
+            0.6242734, 
+            0.6038936, 
+            0.57365155, 
+            0.5498022, 
+            0.510121
+        ], 
+        "attributes": [
+            "transport", 
+            "structure", 
+            "building", 
+            "vehicle", 
+            "real estate", 
+            "facade", 
+            "city", 
+            "outlet store"
+        ], 
+        "name": "or_simonkaty_073.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9182312, 
+            0.8528688, 
+            0.7496105, 
+            0.71147466, 
+            0.64654255, 
+            0.64231753, 
+            0.6246667, 
+            0.52628976, 
+            0.52139175, 
+            0.50503
+        ], 
+        "attributes": [
+            "property", 
+            "town", 
+            "building", 
+            "real estate", 
+            "facade", 
+            "commercial building", 
+            "family car", 
+            "car", 
+            "window", 
+            "luxury vehicle"
+        ], 
+        "name": "or_simonkaty_074.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9767389, 
+            0.95319486, 
+            0.84692967, 
+            0.8387127, 
+            0.73302966, 
+            0.72873116, 
+            0.6829566, 
+            0.6789192, 
+            0.6654023, 
+            0.63906974
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "canal", 
+            "town", 
+            "river", 
+            "sky", 
+            "water resources", 
+            "real estate", 
+            "reflection", 
+            "channel"
+        ], 
+        "name": "or_simonkaty_075.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9772331, 
+            0.9340116, 
+            0.9240498, 
+            0.90833956, 
+            0.89822954, 
+            0.8637746, 
+            0.82365113, 
+            0.80264914, 
+            0.7750594, 
+            0.7720819
+        ], 
+        "attributes": [
+            "waterway", 
+            "body of water", 
+            "water transportation", 
+            "river", 
+            "bayou", 
+            "canal", 
+            "water", 
+            "boat", 
+            "tree", 
+            "water resources"
+        ], 
+        "name": "or_simonkaty_076.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9178403, 
+            0.87510514, 
+            0.873513, 
+            0.84519887, 
+            0.7804008, 
+            0.76658344, 
+            0.7511165, 
+            0.7264341, 
+            0.65781057, 
+            0.6274154
+        ], 
+        "attributes": [
+            "property", 
+            "mode of transport", 
+            "room", 
+            "home", 
+            "lighting", 
+            "wall", 
+            "interior design", 
+            "door", 
+            "wood", 
+            "darkness"
+        ], 
+        "name": "or_simonkaty_077.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.96792316, 
+            0.95224845, 
+            0.9195708, 
+            0.87525654, 
+            0.8371194, 
+            0.8362285, 
+            0.80084616, 
+            0.79852706, 
+            0.7884881, 
+            0.74842036
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "vehicle door", 
+            "vehicle registration plate", 
+            "family car", 
+            "glass", 
+            "automotive exterior", 
+            "full size car"
+        ], 
+        "name": "or_simonkaty_078.png"
+    }
+]

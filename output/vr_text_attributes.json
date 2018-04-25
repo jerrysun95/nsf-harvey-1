@@ -1,0 +1,118 @@
+[
+    {
+        "freq": 0.95, 
+        "name": "water"
+    }, 
+    {
+        "freq": 0.84, 
+        "name": "get"
+    }, 
+    {
+        "freq": 0.8, 
+        "name": "s"
+    }, 
+    {
+        "freq": 0.69, 
+        "name": "t"
+    }, 
+    {
+        "freq": 0.69, 
+        "name": "will"
+    }, 
+    {
+        "freq": 0.62, 
+        "name": "need"
+    }, 
+    {
+        "freq": 0.59, 
+        "name": "know"
+    }, 
+    {
+        "freq": 0.56, 
+        "name": "help"
+    }, 
+    {
+        "freq": 0.55, 
+        "name": "safe"
+    }, 
+    {
+        "freq": 0.52, 
+        "name": "call"
+    }, 
+    {
+        "freq": 0.48, 
+        "name": "just"
+    }, 
+    {
+        "freq": 0.48, 
+        "name": "thank"
+    }, 
+    {
+        "freq": 0.45, 
+        "name": "rescu"
+    }, 
+    {
+        "freq": 0.44, 
+        "name": "stay"
+    }, 
+    {
+        "freq": 0.39, 
+        "name": "pleas"
+    }, 
+    {
+        "freq": 0.38, 
+        "name": "flood"
+    }, 
+    {
+        "freq": 0.31, 
+        "name": "peopl"
+    }, 
+    {
+        "freq": 0.3, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.26, 
+        "name": "reservoir"
+    }, 
+    {
+        "freq": 0.26, 
+        "name": "can"
+    }, 
+    {
+        "freq": 0.25, 
+        "name": "barker"
+    }, 
+    {
+        "freq": 0.22, 
+        "name": "told"
+    }, 
+    {
+        "freq": 0.22, 
+        "name": "take"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "00"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "request"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "phone"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "1"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "cinco"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "hous"
+    }
+]

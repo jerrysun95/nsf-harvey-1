@@ -1,0 +1,78 @@
+[
+    {
+        "freq": 0.56, 
+        "name": "vehicle"
+    }, 
+    {
+        "freq": 0.36, 
+        "name": "water"
+    }, 
+    {
+        "freq": 0.36, 
+        "name": "mode of transport"
+    }, 
+    {
+        "freq": 0.31, 
+        "name": "tree"
+    }, 
+    {
+        "freq": 0.25, 
+        "name": "waterway"
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "river"
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "transport"
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "boat"
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "motor vehicle"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "water resources"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "recreation"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "canal"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "boating"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "car"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "disaster"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "property"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "natural disaster"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "flood"
+    }
+]

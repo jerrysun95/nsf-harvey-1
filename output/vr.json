@@ -1,0 +1,6098 @@
+[
+    {
+        "attributes_scores": [
+            0.9302894, 
+            0.78202724, 
+            0.7612092, 
+            0.7530068, 
+            0.68366826, 
+            0.6720096, 
+            0.6563857, 
+            0.58707136, 
+            0.53591025, 
+            0.5134642
+        ], 
+        "attributes": [
+            "text", 
+            "line", 
+            "font", 
+            "product", 
+            "diagram", 
+            "area", 
+            "technology", 
+            "circle", 
+            "graphic design", 
+            "point"
+        ], 
+        "name": "vr_barbara_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8972348, 
+            0.7745224, 
+            0.7266213, 
+            0.6720096, 
+            0.6699301, 
+            0.66196483, 
+            0.6473127, 
+            0.6336928, 
+            0.57434756, 
+            0.560828
+        ], 
+        "attributes": [
+            "text", 
+            "line", 
+            "font", 
+            "area", 
+            "product", 
+            "technology", 
+            "diagram", 
+            "circle", 
+            "map", 
+            "point"
+        ], 
+        "name": "vr_barbara_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94491893, 
+            0.93700224, 
+            0.92169785, 
+            0.87525654, 
+            0.80223495, 
+            0.8018783, 
+            0.76279914, 
+            0.7547649, 
+            0.6925251, 
+            0.50579685
+        ], 
+        "attributes": [
+            "water", 
+            "green", 
+            "ecosystem", 
+            "mode of transport", 
+            "tree", 
+            "grass", 
+            "geological phenomenon", 
+            "phenomenon", 
+            "biome", 
+            "lawn"
+        ], 
+        "name": "vr_billdance_01.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.87525654, 
+            0.80304825, 
+            0.7789504, 
+            0.7547649, 
+            0.67013454, 
+            0.6200307, 
+            0.6047159, 
+            0.597283, 
+            0.58851624, 
+            0.57835823
+        ], 
+        "attributes": [
+            "mode of transport", 
+            "games", 
+            "player", 
+            "phenomenon", 
+            "recreation", 
+            "skating", 
+            "sports", 
+            "extreme sport", 
+            "asphalt", 
+            "product"
+        ], 
+        "name": "vr_billdance_02.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.96214545, 
+            0.9422603, 
+            0.9387666, 
+            0.9268003, 
+            0.9037037, 
+            0.8752561, 
+            0.83328414, 
+            0.8268512, 
+            0.8068352, 
+            0.7547649
+        ], 
+        "attributes": [
+            "people", 
+            "games", 
+            "man", 
+            "mammal", 
+            "vertebrate", 
+            "mode of transport", 
+            "player", 
+            "event", 
+            "interaction", 
+            "phenomenon"
+        ], 
+        "name": "vr_billdance_03.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.88135284, 
+            0.87525654, 
+            0.8304237, 
+            0.81811523, 
+            0.81584245, 
+            0.7827527, 
+            0.7547649, 
+            0.753708, 
+            0.7411629, 
+            0.6891466
+        ], 
+        "attributes": [
+            "car", 
+            "mode of transport", 
+            "natural disaster", 
+            "disaster", 
+            "family car", 
+            "geological phenomenon", 
+            "phenomenon", 
+            "city car", 
+            "water", 
+            "flood"
+        ], 
+        "name": "vr_billdance_04.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.87525654, 
+            0.81565994, 
+            0.776231, 
+            0.7705815, 
+            0.7547649, 
+            0.6469294, 
+            0.60320276, 
+            0.5784732, 
+            0.5662278, 
+            0.5485747
+        ], 
+        "attributes": [
+            "mode of transport", 
+            "technology", 
+            "games", 
+            "player", 
+            "phenomenon", 
+            "display device", 
+            "recreation", 
+            "vehicle registration plate", 
+            "event", 
+            "automotive exterior"
+        ], 
+        "name": "vr_billdance_05.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9683087, 
+            0.87525654, 
+            0.7547649, 
+            0.6977209, 
+            0.66319805, 
+            0.6577237, 
+            0.57823783, 
+            0.57194275, 
+            0.50580585
+        ], 
+        "attributes": [
+            "blue", 
+            "mode of transport", 
+            "phenomenon", 
+            "grass", 
+            "home", 
+            "screenshot", 
+            "tree", 
+            "recreation", 
+            "window"
+        ], 
+        "name": "vr_billdance_06.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9158506, 
+            0.87525654, 
+            0.8276995, 
+            0.80815125, 
+            0.7849234, 
+            0.7547649, 
+            0.70498216, 
+            0.65520096, 
+            0.64632726, 
+            0.61703783
+        ], 
+        "attributes": [
+            "man", 
+            "mode of transport", 
+            "car", 
+            "player", 
+            "official", 
+            "phenomenon", 
+            "interaction", 
+            "event", 
+            "technology", 
+            "driving"
+        ], 
+        "name": "vr_billdance_07.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9037037, 
+            0.87525654, 
+            0.7547649, 
+            0.58265585, 
+            0.56184554, 
+            0.5265569, 
+            0.5237925, 
+            0.51612616, 
+            0.50496644
+        ], 
+        "attributes": [
+            "vertebrate", 
+            "mode of transport", 
+            "phenomenon", 
+            "recreation", 
+            "fun", 
+            "screenshot", 
+            "conversation", 
+            "song", 
+            "girl"
+        ], 
+        "name": "vr_billdance_08.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8854382, 
+            0.87525654, 
+            0.8193894, 
+            0.732931, 
+            0.5516452, 
+            0.5320784, 
+            0.52459705
+        ], 
+        "attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "jet ski", 
+            "watercraft", 
+            "automotive exterior", 
+            "recreation", 
+            "boating"
+        ], 
+        "name": "vr_billdance_09.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8766463, 
+            0.87525654, 
+            0.7547649, 
+            0.7478307, 
+            0.6608008, 
+            0.59664845, 
+            0.59238386, 
+            0.57805073, 
+            0.53599393, 
+            0.5181842
+        ], 
+        "attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "phenomenon", 
+            "personal protective equipment", 
+            "racing", 
+            "adventure", 
+            "material", 
+            "extreme sport", 
+            "product", 
+            "recreation"
+        ], 
+        "name": "vr_billdance_10.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.87525654, 
+            0.7547649, 
+            0.7182592, 
+            0.7044412
+        ], 
+        "attributes": [
+            "mode of transport", 
+            "phenomenon", 
+            "event", 
+            "fun"
+        ], 
+        "name": "vr_billdance_11.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9789709, 
+            0.97316825, 
+            0.9509761, 
+            0.9442477, 
+            0.94401455, 
+            0.93293923, 
+            0.9322164, 
+            0.92958033, 
+            0.8996315, 
+            0.8803716
+        ], 
+        "attributes": [
+            "face", 
+            "hair", 
+            "person", 
+            "man", 
+            "facial expression", 
+            "human hair color", 
+            "nose", 
+            "skin", 
+            "eyebrow", 
+            "girl"
+        ], 
+        "name": "vr_billdance_12.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.88117665, 
+            0.87525654, 
+            0.7547649, 
+            0.7446365, 
+            0.6679457, 
+            0.63862336, 
+            0.6195527, 
+            0.5868146, 
+            0.5797336, 
+            0.5626035
+        ], 
+        "attributes": [
+            "property", 
+            "mode of transport", 
+            "phenomenon", 
+            "tree", 
+            "natural disaster", 
+            "disaster", 
+            "land lot", 
+            "grass", 
+            "water", 
+            "flood"
+        ], 
+        "name": "vr_billdance_13.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.954593, 
+            0.9394642, 
+            0.9251615, 
+            0.9037037, 
+            0.87525654, 
+            0.8176745, 
+            0.75584555, 
+            0.7547649, 
+            0.7435536, 
+            0.7234148
+        ], 
+        "attributes": [
+            "black", 
+            "green", 
+            "mammal", 
+            "vertebrate", 
+            "mode of transport", 
+            "snapshot", 
+            "games", 
+            "phenomenon", 
+            "mouth", 
+            "organ"
+        ], 
+        "name": "vr_billdance_14.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9670608, 
+            0.9581468, 
+            0.92866325, 
+            0.9247834, 
+            0.9037037, 
+            0.87525654, 
+            0.8176745, 
+            0.78223515, 
+            0.7547649, 
+            0.74524945
+        ], 
+        "attributes": [
+            "people", 
+            "face", 
+            "man", 
+            "mammal", 
+            "vertebrate", 
+            "mode of transport", 
+            "snapshot", 
+            "interaction", 
+            "phenomenon", 
+            "event"
+        ], 
+        "name": "vr_billdance_15.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.7674475, 
+            0.58014184, 
+            0.54136926
+        ], 
+        "attributes": [
+            "fog", 
+            "mist", 
+            "sky"
+        ], 
+        "name": "vr_brock_01.jpeg"
+    }, 
+    {
+        "attributes_scores": [
+            0.93126917, 
+            0.86982554, 
+            0.83244866, 
+            0.7994891, 
+            0.7547649, 
+            0.74236864, 
+            0.73563266, 
+            0.71793807, 
+            0.68097186, 
+            0.6572571
+        ], 
+        "attributes": [
+            "fog", 
+            "mist", 
+            "river", 
+            "water", 
+            "phenomenon", 
+            "morning", 
+            "sky", 
+            "tree", 
+            "cloud", 
+            "haze"
+        ], 
+        "name": "vr_brock_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96530885, 
+            0.943195, 
+            0.90780425, 
+            0.87514347, 
+            0.83107406, 
+            0.81655395, 
+            0.78572464, 
+            0.7844315, 
+            0.7542439, 
+            0.7459035
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "flood", 
+            "mode of transport", 
+            "bayou", 
+            "natural disaster", 
+            "tree", 
+            "floodplain", 
+            "river", 
+            "plant"
+        ], 
+        "name": "vr_carolkaty_01.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.98405015, 
+            0.9773647, 
+            0.9693482, 
+            0.9334463, 
+            0.92404896, 
+            0.91475755, 
+            0.89624137, 
+            0.87525564, 
+            0.8730679, 
+            0.871044
+        ], 
+        "attributes": [
+            "rowing", 
+            "waterway", 
+            "watercraft rowing", 
+            "boating", 
+            "water transportation", 
+            "canoeing", 
+            "canoe", 
+            "mode of transport", 
+            "boat", 
+            "outdoor recreation"
+        ], 
+        "name": "vr_carolkaty_04.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.95957154, 
+            0.8963768, 
+            0.8767721, 
+            0.8581484, 
+            0.8400133, 
+            0.75480247, 
+            0.7363905, 
+            0.69631785, 
+            0.59099084, 
+            0.59087396
+        ], 
+        "attributes": [
+            "car", 
+            "property", 
+            "vehicle", 
+            "motor vehicle", 
+            "luxury vehicle", 
+            "disaster", 
+            "family car", 
+            "natural disaster", 
+            "automotive exterior", 
+            "flood"
+        ], 
+        "name": "vr_carolkaty_06.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8849285, 
+            0.84696287, 
+            0.76588976, 
+            0.692928, 
+            0.65967035, 
+            0.5554755
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "water resources", 
+            "flood", 
+            "disaster", 
+            "natural disaster"
+        ], 
+        "name": "vr_diana_01.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9348319, 
+            0.8087163, 
+            0.7594006, 
+            0.7547649, 
+            0.73243237, 
+            0.708061, 
+            0.6971703, 
+            0.66909397, 
+            0.6468363, 
+            0.62729925
+        ], 
+        "attributes": [
+            "waterway", 
+            "water resources", 
+            "river", 
+            "phenomenon", 
+            "city", 
+            "sky", 
+            "skyline", 
+            "residential area", 
+            "tree", 
+            "floodplain"
+        ], 
+        "name": "vr_diana_02.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9459242, 
+            0.8993187, 
+            0.8804449, 
+            0.85168177, 
+            0.778856, 
+            0.7539505, 
+            0.66143006, 
+            0.6176295, 
+            0.5808584, 
+            0.5788143
+        ], 
+        "attributes": [
+            "countertop", 
+            "floor", 
+            "room", 
+            "flooring", 
+            "tile", 
+            "interior design", 
+            "sink", 
+            "hardwood", 
+            "glass", 
+            "table"
+        ], 
+        "name": "vr_diana_03.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.91928077, 
+            0.83683354, 
+            0.7724597, 
+            0.576533, 
+            0.5308863, 
+            0.52328587, 
+            0.5094557
+        ], 
+        "attributes": [
+            "countertop", 
+            "floor", 
+            "flooring", 
+            "tile", 
+            "sink", 
+            "interior design", 
+            "table"
+        ], 
+        "name": "vr_diana_04.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8839294, 
+            0.8752562, 
+            0.86183125, 
+            0.5762445
+        ], 
+        "attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "transport", 
+            "asphalt"
+        ], 
+        "name": "vr_diana_05.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9465486, 
+            0.8914582, 
+            0.86107975, 
+            0.7831994, 
+            0.7675164, 
+            0.70787996, 
+            0.65115416, 
+            0.5920201, 
+            0.5569134, 
+            0.5208718
+        ], 
+        "attributes": [
+            "car", 
+            "day", 
+            "vehicle", 
+            "tree", 
+            "recreation", 
+            "plant", 
+            "crowd", 
+            "fun", 
+            "event", 
+            "sky"
+        ], 
+        "name": "vr_diana_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.947164, 
+            0.8018126, 
+            0.7722129, 
+            0.6407558
+        ], 
+        "attributes": [
+            "waste", 
+            "scrap", 
+            "litter", 
+            "vehicle"
+        ], 
+        "name": "vr_harryenergy_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.54291046
+        ], 
+        "attributes": [
+            "floor"
+        ], 
+        "name": "vr_harryenergy_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.7525085, 
+            0.62768126, 
+            0.60038054, 
+            0.51502895
+        ], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "vehicle", 
+            "window"
+        ], 
+        "name": "vr_harryenergy_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9032555, 
+            0.86090285, 
+            0.8591517, 
+            0.7971836, 
+            0.7867442, 
+            0.7375326, 
+            0.7331981, 
+            0.6706247, 
+            0.62952536, 
+            0.57353497
+        ], 
+        "attributes": [
+            "walkway", 
+            "water", 
+            "path", 
+            "grass", 
+            "road surface", 
+            "water resources", 
+            "driveway", 
+            "asphalt", 
+            "floodplain", 
+            "tree"
+        ], 
+        "name": "vr_harryenergy_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.91739094, 
+            0.8816003, 
+            0.87719834, 
+            0.8290923, 
+            0.8051847, 
+            0.7550662, 
+            0.72387713, 
+            0.6914786, 
+            0.68743044, 
+            0.6734295
+        ], 
+        "attributes": [
+            "nature reserve", 
+            "vegetation", 
+            "ecosystem", 
+            "water resources", 
+            "geological phenomenon", 
+            "water", 
+            "bank", 
+            "river", 
+            "floodplain", 
+            "biome"
+        ], 
+        "name": "vr_harryenergy_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9302512, 
+            0.9175432, 
+            0.8855837, 
+            0.7844323, 
+            0.66377366, 
+            0.60725474, 
+            0.581841, 
+            0.5757059, 
+            0.52881974, 
+            0.51068205
+        ], 
+        "attributes": [
+            "water resources", 
+            "ecosystem", 
+            "nature reserve", 
+            "tree", 
+            "screenshot", 
+            "water", 
+            "watercourse", 
+            "ecoregion", 
+            "wetland", 
+            "grass"
+        ], 
+        "name": "vr_harryenergy_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9288031, 
+            0.8404816, 
+            0.79898274, 
+            0.77306217, 
+            0.766077, 
+            0.6801922, 
+            0.67670363, 
+            0.6725429, 
+            0.66413295, 
+            0.6344638
+        ], 
+        "attributes": [
+            "walkway", 
+            "garden", 
+            "plant", 
+            "courtyard", 
+            "water", 
+            "grass", 
+            "watercourse", 
+            "tree", 
+            "yard", 
+            "outdoor structure"
+        ], 
+        "name": "vr_ileeneenergy_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.89892316, 
+            0.895793, 
+            0.8533442, 
+            0.83962077, 
+            0.81255066, 
+            0.8093587, 
+            0.8007906, 
+            0.7707252, 
+            0.7667075, 
+            0.7452517
+        ], 
+        "attributes": [
+            "property", 
+            "waterway", 
+            "bayou", 
+            "nature reserve", 
+            "tree", 
+            "residential area", 
+            "reflection", 
+            "home", 
+            "pond", 
+            "real estate"
+        ], 
+        "name": "vr_ileeneenergy_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94375855, 
+            0.94180673, 
+            0.90245473, 
+            0.87039447, 
+            0.81048167, 
+            0.77369076, 
+            0.7623679, 
+            0.68248534, 
+            0.6798409, 
+            0.6393811
+        ], 
+        "attributes": [
+            "home", 
+            "property", 
+            "house", 
+            "estate", 
+            "real estate", 
+            "mansion", 
+            "cottage", 
+            "residential area", 
+            "tree", 
+            "farmhouse"
+        ], 
+        "name": "vr_ileeneenergy_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97515506, 
+            0.96194404, 
+            0.9341602, 
+            0.9074361, 
+            0.88286865, 
+            0.8197427, 
+            0.7604116, 
+            0.74973255, 
+            0.7198436, 
+            0.7116148
+        ], 
+        "attributes": [
+            "reflection", 
+            "water", 
+            "body of water", 
+            "waterway", 
+            "pond", 
+            "tree", 
+            "bank", 
+            "water resources", 
+            "grass", 
+            "lake"
+        ], 
+        "name": "vr_ileeneenergy_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96109444, 
+            0.96016634, 
+            0.9397888, 
+            0.9110558, 
+            0.8420444, 
+            0.8182035, 
+            0.80328155, 
+            0.771551, 
+            0.7700588, 
+            0.75127697
+        ], 
+        "attributes": [
+            "reflection", 
+            "water", 
+            "waterway", 
+            "property", 
+            "home", 
+            "house", 
+            "tree", 
+            "bayou", 
+            "cottage", 
+            "real estate"
+        ], 
+        "name": "vr_ileeneenergy_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9316053, 
+            0.85931695, 
+            0.78849494, 
+            0.7880635, 
+            0.77799237, 
+            0.77125114, 
+            0.76887685, 
+            0.7571124, 
+            0.73775756, 
+            0.73289925
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "water resources", 
+            "watercourse", 
+            "yard", 
+            "bank", 
+            "pond", 
+            "grass", 
+            "tree", 
+            "plant"
+        ], 
+        "name": "vr_ileeneenergy_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8325207, 
+            0.7828816, 
+            0.7562023, 
+            0.7421007, 
+            0.7358145, 
+            0.68779635, 
+            0.68288887, 
+            0.66363245, 
+            0.6141203, 
+            0.60184896
+        ], 
+        "attributes": [
+            "grass", 
+            "water", 
+            "walkway", 
+            "tree", 
+            "yard", 
+            "landscape", 
+            "garden", 
+            "lawn", 
+            "watercourse", 
+            "plant"
+        ], 
+        "name": "vr_ileeneenergy_07.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.81814545, 
+            0.79083, 
+            0.6977796, 
+            0.55560005, 
+            0.54508066, 
+            0.52572346
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "reflection", 
+            "outdoor structure", 
+            "landscape", 
+            "natural disaster"
+        ], 
+        "name": "vr_ileeneenergy_08.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9704328, 
+            0.9665009, 
+            0.96448207, 
+            0.9347029, 
+            0.86890376, 
+            0.8153981, 
+            0.81489664, 
+            0.81152, 
+            0.79432344, 
+            0.76786137
+        ], 
+        "attributes": [
+            "waterway", 
+            "reflection", 
+            "water", 
+            "body of water", 
+            "tree", 
+            "pond", 
+            "bank", 
+            "bayou", 
+            "canal", 
+            "river"
+        ], 
+        "name": "vr_ileeneenergy_09.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.92047155, 
+            0.8822439, 
+            0.8762839, 
+            0.8662764, 
+            0.81163615, 
+            0.7770729, 
+            0.76803786, 
+            0.7221168, 
+            0.6699988, 
+            0.6394137
+        ], 
+        "attributes": [
+            "tree", 
+            "plant", 
+            "property", 
+            "vegetation", 
+            "water", 
+            "yard", 
+            "pond", 
+            "landscape", 
+            "garden", 
+            "backyard"
+        ], 
+        "name": "vr_ileeneenergy_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97962505, 
+            0.8554242, 
+            0.6918975, 
+            0.68301874, 
+            0.6720096, 
+            0.6006954, 
+            0.5611267, 
+            0.5555696, 
+            0.54315704
+        ], 
+        "attributes": [
+            "map", 
+            "text", 
+            "diagram", 
+            "line", 
+            "area", 
+            "plan", 
+            "angle", 
+            "product design", 
+            "font"
+        ], 
+        "name": "vr_ileeneenergy_12.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.87124413, 
+            0.83117056, 
+            0.77950317, 
+            0.776352, 
+            0.7496618, 
+            0.741217, 
+            0.61957467, 
+            0.61043555, 
+            0.5977508
+        ], 
+        "attributes": [
+            "vehicle", 
+            "water", 
+            "advertising", 
+            "boat", 
+            "kayak", 
+            "poster", 
+            "water resources", 
+            "sports equipment", 
+            "font"
+        ], 
+        "name": "vr_ileeneenergy_13.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.5693032, 
+            0.5510787
+        ], 
+        "attributes": [
+            "tree", 
+            "screenshot"
+        ], 
+        "name": "vr_ileeneenergy_14.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.593235
+        ], 
+        "attributes": [
+            "tree"
+        ], 
+        "name": "vr_ileeneenergy_15.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9858258, 
+            0.67669266, 
+            0.6720096, 
+            0.5585169, 
+            0.5183835
+        ], 
+        "attributes": [
+            "map", 
+            "line", 
+            "area", 
+            "screenshot", 
+            "font"
+        ], 
+        "name": "vr_ileeneenergy_16.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8930699, 
+            0.86210406, 
+            0.8434936, 
+            0.7890282, 
+            0.7822322, 
+            0.74747574, 
+            0.69196665, 
+            0.673562, 
+            0.665568, 
+            0.6359704
+        ], 
+        "attributes": [
+            "walkway", 
+            "plant", 
+            "garden", 
+            "courtyard", 
+            "water", 
+            "watercourse", 
+            "grass", 
+            "yard", 
+            "tree", 
+            "outdoor structure"
+        ], 
+        "name": "vr_ileeneenergy_17.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.88227504, 
+            0.8014812, 
+            0.70516574, 
+            0.671972, 
+            0.66664636, 
+            0.61489433
+        ], 
+        "attributes": [
+            "text", 
+            "product", 
+            "product", 
+            "font", 
+            "material", 
+            "product design"
+        ], 
+        "name": "vr_ileeneenergy_18.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.88337845, 
+            0.8051162, 
+            0.6787887, 
+            0.6742839, 
+            0.6740496, 
+            0.67342484, 
+            0.6558867, 
+            0.5966861, 
+            0.5320271, 
+            0.51458704
+        ], 
+        "attributes": [
+            "community", 
+            "youth", 
+            "crowd", 
+            "race", 
+            "vehicle", 
+            "tree", 
+            "recreation", 
+            "tourism", 
+            "competition event", 
+            "energy"
+        ], 
+        "name": "vr_juliekaty_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.95763135, 
+            0.85548854, 
+            0.7628226, 
+            0.7016147, 
+            0.6587597, 
+            0.64675677, 
+            0.61328346, 
+            0.59394836, 
+            0.5774197, 
+            0.54821384
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "water resources", 
+            "watercourse", 
+            "flood", 
+            "river", 
+            "floodplain", 
+            "bank", 
+            "pond", 
+            "tree"
+        ], 
+        "name": "vr_juliekaty_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.77835345, 
+            0.77130544, 
+            0.768221, 
+            0.61652094, 
+            0.57526505, 
+            0.5629189, 
+            0.5445185, 
+            0.53346634
+        ], 
+        "attributes": [
+            "recreation", 
+            "outdoor recreation", 
+            "tree", 
+            "plant", 
+            "car", 
+            "adventure", 
+            "product", 
+            "fun"
+        ], 
+        "name": "vr_juliekaty_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9541623, 
+            0.9487096, 
+            0.9438722, 
+            0.9277084, 
+            0.8829232, 
+            0.75713915, 
+            0.7407648, 
+            0.72273636, 
+            0.7085917, 
+            0.7005846
+        ], 
+        "attributes": [
+            "grass", 
+            "lawn", 
+            "plant", 
+            "tree", 
+            "yard", 
+            "land lot", 
+            "walkway", 
+            "grass family", 
+            "backyard", 
+            "soil"
+        ], 
+        "name": "vr_juliekaty_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94273627, 
+            0.928908, 
+            0.91074544, 
+            0.868265, 
+            0.7897277, 
+            0.7751103, 
+            0.7610513, 
+            0.7582877, 
+            0.70974547, 
+            0.6959769
+        ], 
+        "attributes": [
+            "water resources", 
+            "waterway", 
+            "nature reserve", 
+            "floodplain", 
+            "bird's eye view", 
+            "suburb", 
+            "river island", 
+            "land lot", 
+            "river", 
+            "aerial photography"
+        ], 
+        "name": "vr_juliekaty_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9428795, 
+            0.8079897, 
+            0.75972563, 
+            0.6844155, 
+            0.6832617, 
+            0.66917163, 
+            0.6183103, 
+            0.5431109
+        ], 
+        "attributes": [
+            "water", 
+            "water resources", 
+            "rock", 
+            "watercourse", 
+            "earth", 
+            "mineral", 
+            "geology", 
+            "texture"
+        ], 
+        "name": "vr_juliekaty_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9186095, 
+            0.89390326, 
+            0.8752522, 
+            0.7456815, 
+            0.6585148, 
+            0.6124187, 
+            0.5537508, 
+            0.5500044, 
+            0.5335554, 
+            0.50339705
+        ], 
+        "attributes": [
+            "vehicle", 
+            "transport", 
+            "mode of transport", 
+            "troop", 
+            "militia", 
+            "car", 
+            "tree", 
+            "military", 
+            "military organization", 
+            "recreation"
+        ], 
+        "name": "vr_juliekaty_08.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94862944, 
+            0.93275046, 
+            0.6399369, 
+            0.6333462, 
+            0.6040393, 
+            0.57344484, 
+            0.5642803, 
+            0.5519809
+        ], 
+        "attributes": [
+            "vehicle", 
+            "car", 
+            "automotive tire", 
+            "automotive exterior", 
+            "motor vehicle", 
+            "auto part", 
+            "machine", 
+            "tire"
+        ], 
+        "name": "vr_juliekaty_09.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96958417, 
+            0.9681021, 
+            0.9543014, 
+            0.9292269, 
+            0.87525433, 
+            0.8701161, 
+            0.8471738, 
+            0.7774399, 
+            0.7569802, 
+            0.7258917
+        ], 
+        "attributes": [
+            "vehicle", 
+            "army", 
+            "transport", 
+            "motor vehicle", 
+            "mode of transport", 
+            "troop", 
+            "military", 
+            "military vehicle", 
+            "car", 
+            "militia"
+        ], 
+        "name": "vr_juliekaty_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9387824, 
+            0.91857445, 
+            0.8752516, 
+            0.8384894, 
+            0.5469903
+        ], 
+        "attributes": [
+            "car", 
+            "vehicle", 
+            "mode of transport", 
+            "water", 
+            "recreation"
+        ], 
+        "name": "vr_juliekaty_11.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9660354, 
+            0.9217045, 
+            0.6670378, 
+            0.6116701, 
+            0.5007678
+        ], 
+        "attributes": [
+            "car", 
+            "vehicle", 
+            "automotive exterior", 
+            "motor vehicle", 
+            "auto part"
+        ], 
+        "name": "vr_juliekaty_12.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9516816, 
+            0.57715446, 
+            0.50402856
+        ], 
+        "attributes": [
+            "map", 
+            "atlas", 
+            "plan"
+        ], 
+        "name": "vr_juliekaty_14.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.90077376, 
+            0.8506341, 
+            0.8379354, 
+            0.6482022, 
+            0.63409024, 
+            0.6265848, 
+            0.6235536, 
+            0.52360535, 
+            0.51341987
+        ], 
+        "attributes": [
+            "grave", 
+            "headstone", 
+            "grass", 
+            "sign", 
+            "signage", 
+            "tree", 
+            "font", 
+            "banner", 
+            "chalk"
+        ], 
+        "name": "vr_juliekaty_15.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97120273, 
+            0.9364859, 
+            0.917461, 
+            0.8977398, 
+            0.8890333, 
+            0.883577, 
+            0.81384456, 
+            0.79820246, 
+            0.74620926, 
+            0.7404611
+        ], 
+        "attributes": [
+            "land vehicle", 
+            "vehicle", 
+            "car", 
+            "day", 
+            "public space", 
+            "tree", 
+            "plant", 
+            "community", 
+            "grass", 
+            "recreation"
+        ], 
+        "name": "vr_juliekaty_16.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.90349156, 
+            0.8508542, 
+            0.8393358, 
+            0.81165075, 
+            0.7962386, 
+            0.7376875, 
+            0.71699077, 
+            0.62960446, 
+            0.5826053, 
+            0.5615059
+        ], 
+        "attributes": [
+            "day", 
+            "headgear", 
+            "fashion accessory", 
+            "youth", 
+            "product", 
+            "smile", 
+            "fun", 
+            "cool", 
+            "recreation", 
+            "team"
+        ], 
+        "name": "vr_juliekaty_18.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8913635, 
+            0.8752511, 
+            0.852597, 
+            0.83816695, 
+            0.8177786, 
+            0.7547649, 
+            0.75122637, 
+            0.7366974, 
+            0.73648864, 
+            0.71568656
+        ], 
+        "attributes": [
+            "lane", 
+            "mode of transport", 
+            "morning", 
+            "sky", 
+            "car", 
+            "phenomenon", 
+            "sunlight", 
+            "screenshot", 
+            "tree", 
+            "asphalt"
+        ], 
+        "name": "vr_juliekaty_19.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.93472165, 
+            0.79883116, 
+            0.78738964
+        ], 
+        "attributes": [
+            "vehicle", 
+            "boat", 
+            "water"
+        ], 
+        "name": "vr_juliekaty_20.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9226125, 
+            0.88792366, 
+            0.87030816, 
+            0.80305886, 
+            0.7869233, 
+            0.7482149, 
+            0.73741287, 
+            0.7369416, 
+            0.72900647, 
+            0.5085102
+        ], 
+        "attributes": [
+            "waterway", 
+            "water resources", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "water", 
+            "disaster", 
+            "bank", 
+            "river", 
+            "watercourse"
+        ], 
+        "name": "vr_juliekaty_21.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8803007, 
+            0.8032129, 
+            0.77754366, 
+            0.73068535, 
+            0.7272132, 
+            0.7195922, 
+            0.6564288, 
+            0.5830318, 
+            0.5744637, 
+            0.5497721
+        ], 
+        "attributes": [
+            "helmet", 
+            "personal protective equipment", 
+            "protective gear in sports", 
+            "technology", 
+            "vehicle", 
+            "product", 
+            "headgear", 
+            "automotive tire", 
+            "machine", 
+            "protective equipment in gridiron football"
+        ], 
+        "name": "vr_juliekaty_22.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97689486, 
+            0.97524744, 
+            0.94949645, 
+            0.92792845, 
+            0.91563827, 
+            0.8983612, 
+            0.87525654, 
+            0.8466662, 
+            0.7899497, 
+            0.74999774
+        ], 
+        "attributes": [
+            "vehicle", 
+            "motor vehicle", 
+            "transport", 
+            "automotive tire", 
+            "tire", 
+            "military vehicle", 
+            "mode of transport", 
+            "car", 
+            "automotive wheel system", 
+            "truck"
+        ], 
+        "name": "vr_juliekaty_23.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94356066, 
+            0.93517125, 
+            0.9322722, 
+            0.91205716, 
+            0.88168645, 
+            0.8205993, 
+            0.7955151, 
+            0.7947221, 
+            0.781453, 
+            0.7794967
+        ], 
+        "attributes": [
+            "reflection", 
+            "bayou", 
+            "water", 
+            "waterway", 
+            "wetland", 
+            "floodplain", 
+            "river", 
+            "pond", 
+            "swamp", 
+            "tree"
+        ], 
+        "name": "vr_juliekaty_24.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.91442657, 
+            0.88309467, 
+            0.85864526, 
+            0.666777, 
+            0.66627085, 
+            0.54383236, 
+            0.535753, 
+            0.50241137
+        ], 
+        "attributes": [
+            "text", 
+            "blackboard", 
+            "font", 
+            "writing", 
+            "chalk", 
+            "square", 
+            "banner", 
+            "signage"
+        ], 
+        "name": "vr_juliekaty_25.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.71671975, 
+            0.7003529, 
+            0.6735913, 
+            0.66640365, 
+            0.6494721, 
+            0.6264476, 
+            0.59778535, 
+            0.5622133, 
+            0.56086665, 
+            0.5078325
+        ], 
+        "attributes": [
+            "automotive exterior", 
+            "floor", 
+            "product", 
+            "bumper", 
+            "vehicle", 
+            "wood", 
+            "flooring", 
+            "car", 
+            "angle", 
+            "glass"
+        ], 
+        "name": "vr_juliekaty_26.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9842851, 
+            0.63019156, 
+            0.6214205
+        ], 
+        "attributes": [
+            "map", 
+            "product design", 
+            "sky"
+        ], 
+        "name": "vr_juliekaty_27.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.98428506, 
+            0.6301916, 
+            0.62142056
+        ], 
+        "attributes": [
+            "map", 
+            "product design", 
+            "sky"
+        ], 
+        "name": "vr_juliekaty_28.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9255993, 
+            0.8751505, 
+            0.6862846, 
+            0.63147265
+        ], 
+        "attributes": [
+            "vehicle", 
+            "mode of transport", 
+            "motor vehicle", 
+            "automotive exterior"
+        ], 
+        "name": "vr_juliekaty_29.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9839135, 
+            0.9738417, 
+            0.9350551, 
+            0.9330619, 
+            0.915672, 
+            0.90246445, 
+            0.89864075, 
+            0.87525177, 
+            0.8619958, 
+            0.8321763
+        ], 
+        "attributes": [
+            "car", 
+            "land vehicle", 
+            "vehicle", 
+            "motor vehicle", 
+            "tree", 
+            "plant", 
+            "asphalt", 
+            "mode of transport", 
+            "road", 
+            "transport"
+        ], 
+        "name": "vr_juliekaty_30.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8652735, 
+            0.75282705, 
+            0.60141784, 
+            0.5918142, 
+            0.57957566, 
+            0.5668956
+        ], 
+        "attributes": [
+            "text", 
+            "product", 
+            "font", 
+            "label", 
+            "material", 
+            "paper"
+        ], 
+        "name": "vr_juliekaty_31.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.878487, 
+            0.86830556, 
+            0.787141, 
+            0.6867235, 
+            0.6720096, 
+            0.6460449, 
+            0.5600672, 
+            0.5203812, 
+            0.5037869
+        ], 
+        "attributes": [
+            "road", 
+            "infrastructure", 
+            "sky", 
+            "residential area", 
+            "area", 
+            "tree", 
+            "road surface", 
+            "lane", 
+            "cloud"
+        ], 
+        "name": "vr_juliekaty_32.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97215647, 
+            0.8785352, 
+            0.87587553, 
+            0.8312185, 
+            0.82707644, 
+            0.7979231, 
+            0.79180837, 
+            0.7536993, 
+            0.7182228, 
+            0.6720096
+        ], 
+        "attributes": [
+            "road", 
+            "infrastructure", 
+            "lane", 
+            "transport", 
+            "car", 
+            "asphalt", 
+            "vehicle", 
+            "residential area", 
+            "road surface", 
+            "area"
+        ], 
+        "name": "vr_juliekaty_33.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9505046, 
+            0.85607076, 
+            0.83033186, 
+            0.822237, 
+            0.81480795, 
+            0.80291045, 
+            0.7940341, 
+            0.77157503, 
+            0.75094444, 
+            0.74569577
+        ], 
+        "attributes": [
+            "metropolitan area", 
+            "skyscraper", 
+            "city", 
+            "urban area", 
+            "skyline", 
+            "sky", 
+            "tower block", 
+            "downtown", 
+            "daytime", 
+            "condominium"
+        ], 
+        "name": "vr_juliekaty_34.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9872005, 
+            0.9579174, 
+            0.92612517, 
+            0.8933585, 
+            0.8657553, 
+            0.8315425, 
+            0.827165, 
+            0.8152737, 
+            0.81091213, 
+            0.7743247
+        ], 
+        "attributes": [
+            "road", 
+            "asphalt", 
+            "lane", 
+            "infrastructure", 
+            "sky", 
+            "tree", 
+            "plant", 
+            "road surface", 
+            "path", 
+            "grass"
+        ], 
+        "name": "vr_juliekaty_35.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8996705, 
+            0.689711, 
+            0.6659487, 
+            0.6248053, 
+            0.5708824, 
+            0.5298801
+        ], 
+        "attributes": [
+            "water", 
+            "wood", 
+            "water resources", 
+            "floor", 
+            "angle", 
+            "concrete"
+        ], 
+        "name": "vr_juliekaty_36.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9284022, 
+            0.8836313, 
+            0.8558381, 
+            0.85195655, 
+            0.7463298, 
+            0.7394636, 
+            0.72712696, 
+            0.6953757, 
+            0.66715485, 
+            0.6612608
+        ], 
+        "attributes": [
+            "lawn", 
+            "grass", 
+            "tree", 
+            "water", 
+            "land lot", 
+            "yard", 
+            "path", 
+            "bank", 
+            "plant", 
+            "floodplain"
+        ], 
+        "name": "vr_juliekaty_37.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9686958, 
+            0.9327437, 
+            0.8312155, 
+            0.81393826, 
+            0.7895426, 
+            0.7652704, 
+            0.7561403, 
+            0.7232538, 
+            0.6483809, 
+            0.5952489
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "natural disaster", 
+            "vehicle", 
+            "flood", 
+            "disaster", 
+            "water", 
+            "luxury vehicle", 
+            "automotive exterior", 
+            "floodplain"
+        ], 
+        "name": "vr_juliekaty_38.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8555815, 
+            0.8259124, 
+            0.7557363, 
+            0.7174549, 
+            0.71309954, 
+            0.67984664, 
+            0.6147664, 
+            0.6101125, 
+            0.5834266
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "river", 
+            "tree", 
+            "water resources", 
+            "bank"
+        ], 
+        "name": "vr_juliekaty_39.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.92919296, 
+            0.85672045, 
+            0.80025697, 
+            0.7935845, 
+            0.76924056, 
+            0.7634298, 
+            0.7489931, 
+            0.7026555, 
+            0.55561906, 
+            0.55001736
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "river", 
+            "water resources", 
+            "bank", 
+            "disaster", 
+            "tree", 
+            "reservoir"
+        ], 
+        "name": "vr_juliekaty_40.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8980726, 
+            0.84693205, 
+            0.7802248, 
+            0.73809683, 
+            0.6981823, 
+            0.67000467, 
+            0.62102795, 
+            0.5615256, 
+            0.54046386, 
+            0.5000236
+        ], 
+        "attributes": [
+            "flood", 
+            "natural disaster", 
+            "water", 
+            "disaster", 
+            "floodplain", 
+            "land lot", 
+            "home", 
+            "sand", 
+            "floor", 
+            "road surface"
+        ], 
+        "name": "vr_juliekaty_41.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9032321, 
+            0.87642497, 
+            0.7936561, 
+            0.7396348, 
+            0.672595, 
+            0.653757, 
+            0.60632133, 
+            0.5953233, 
+            0.58044946, 
+            0.52373064
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "water resources", 
+            "tree", 
+            "river", 
+            "bank", 
+            "sky"
+        ], 
+        "name": "vr_juliekaty_42.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.86281806, 
+            0.84274167, 
+            0.83699036, 
+            0.82513446, 
+            0.8242372, 
+            0.7756595, 
+            0.77537066, 
+            0.5221231
+        ], 
+        "attributes": [
+            "flood", 
+            "water", 
+            "natural disaster", 
+            "river", 
+            "water resources", 
+            "floodplain", 
+            "disaster", 
+            "bank"
+        ], 
+        "name": "vr_juliekaty_43.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.92136264, 
+            0.8160058, 
+            0.7639171, 
+            0.75839126, 
+            0.7316895, 
+            0.72363544, 
+            0.6084928, 
+            0.60175765, 
+            0.5674971, 
+            0.5571283
+        ], 
+        "attributes": [
+            "waterway", 
+            "flood", 
+            "natural disaster", 
+            "water", 
+            "tree", 
+            "disaster", 
+            "floodplain", 
+            "water resources", 
+            "bayou", 
+            "river"
+        ], 
+        "name": "vr_juliekaty_44.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9222236, 
+            0.89367294, 
+            0.8517399, 
+            0.79736036, 
+            0.7281595, 
+            0.6301058, 
+            0.62915564, 
+            0.6020153, 
+            0.56781167
+        ], 
+        "attributes": [
+            "flood", 
+            "water", 
+            "natural disaster", 
+            "disaster", 
+            "floodplain", 
+            "river", 
+            "water resources", 
+            "bayou", 
+            "tree"
+        ], 
+        "name": "vr_juliekaty_45.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9503561, 
+            0.8450526, 
+            0.72179127, 
+            0.72103035, 
+            0.7190825, 
+            0.7076799, 
+            0.6742976
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "river", 
+            "natural disaster", 
+            "water resources", 
+            "floodplain", 
+            "disaster"
+        ], 
+        "name": "vr_juliekaty_46.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.93899727, 
+            0.9323852, 
+            0.9231311, 
+            0.8496685, 
+            0.82821494, 
+            0.82305574, 
+            0.7773838, 
+            0.77336043, 
+            0.7599867, 
+            0.7547649
+        ], 
+        "attributes": [
+            "sky", 
+            "waterway", 
+            "river", 
+            "water resources", 
+            "cloud", 
+            "water", 
+            "floodplain", 
+            "flood", 
+            "natural disaster", 
+            "phenomenon"
+        ], 
+        "name": "vr_juliekaty_47.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.93334544, 
+            0.9188379, 
+            0.88581204, 
+            0.7989396, 
+            0.79329354, 
+            0.75578463, 
+            0.74272066, 
+            0.6676939, 
+            0.66304874, 
+            0.6067664
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "river", 
+            "bank", 
+            "water resources", 
+            "water transportation"
+        ], 
+        "name": "vr_juliekaty_48.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8321514, 
+            0.8248067, 
+            0.7445431, 
+            0.7161839, 
+            0.6988021, 
+            0.65546787, 
+            0.6291749, 
+            0.6023745, 
+            0.597327, 
+            0.52216756
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "river", 
+            "water resources", 
+            "bank", 
+            "tree", 
+            "bayou"
+        ], 
+        "name": "vr_juliekaty_49.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94503933, 
+            0.87808174, 
+            0.8732375, 
+            0.77580744, 
+            0.7502873, 
+            0.71366507, 
+            0.66655874, 
+            0.65214914, 
+            0.58974236, 
+            0.5739835
+        ], 
+        "attributes": [
+            "waterway", 
+            "flood", 
+            "water", 
+            "disaster", 
+            "natural disaster", 
+            "river", 
+            "vehicle", 
+            "tree", 
+            "floodplain", 
+            "recreation"
+        ], 
+        "name": "vr_juliekaty_50.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9591507, 
+            0.93445396, 
+            0.9306867, 
+            0.9206238, 
+            0.8316232, 
+            0.8139531, 
+            0.79803467, 
+            0.7955169, 
+            0.78699887, 
+            0.6642151
+        ], 
+        "attributes": [
+            "waterway", 
+            "water resources", 
+            "river", 
+            "water", 
+            "bank", 
+            "flood", 
+            "floodplain", 
+            "watercourse", 
+            "natural disaster", 
+            "disaster"
+        ], 
+        "name": "vr_juliekaty_51.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9269266, 
+            0.8631163, 
+            0.7726899, 
+            0.7675515, 
+            0.76325536, 
+            0.7510641, 
+            0.6969419, 
+            0.67732173, 
+            0.668705, 
+            0.66052645
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "river", 
+            "floodplain", 
+            "bayou", 
+            "water resources", 
+            "bank", 
+            "tree", 
+            "disaster"
+        ], 
+        "name": "vr_juliekaty_52.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9665812, 
+            0.93438405, 
+            0.9288097, 
+            0.90774304, 
+            0.87514734, 
+            0.8134049, 
+            0.7757547, 
+            0.77075607, 
+            0.75731856, 
+            0.64282525
+        ], 
+        "attributes": [
+            "road", 
+            "lane", 
+            "asphalt", 
+            "car", 
+            "mode of transport", 
+            "road surface", 
+            "path", 
+            "grass", 
+            "tree", 
+            "walkway"
+        ], 
+        "name": "vr_juliekaty_54.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9188793, 
+            0.8903065, 
+            0.83800536, 
+            0.837523, 
+            0.7985304, 
+            0.7976256, 
+            0.7568122, 
+            0.7530401, 
+            0.7005269, 
+            0.69659525
+        ], 
+        "attributes": [
+            "water", 
+            "water resources", 
+            "floodplain", 
+            "flood", 
+            "reservoir", 
+            "natural disaster", 
+            "bank", 
+            "land lot", 
+            "lake", 
+            "grass"
+        ], 
+        "name": "vr_juliekaty_55.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.786028, 
+            0.76418656, 
+            0.7261871, 
+            0.67295617, 
+            0.6472823, 
+            0.63285756, 
+            0.6218305, 
+            0.6000515, 
+            0.59872085, 
+            0.57999563
+        ], 
+        "attributes": [
+            "grass", 
+            "water", 
+            "road surface", 
+            "tree", 
+            "floodplain", 
+            "soil", 
+            "land lot", 
+            "water resources", 
+            "sand", 
+            "flood"
+        ], 
+        "name": "vr_juliekaty_56.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.62411666, 
+            0.54839414, 
+            0.5201658
+        ], 
+        "attributes": [
+            "floor", 
+            "texture", 
+            "flooring"
+        ], 
+        "name": "vr_juliekaty_57.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.82425207, 
+            0.8075491, 
+            0.78526217, 
+            0.7671468, 
+            0.73572105, 
+            0.7135967, 
+            0.7094532, 
+            0.58447313, 
+            0.5805605, 
+            0.5244336
+        ], 
+        "attributes": [
+            "horizon", 
+            "sea", 
+            "sky", 
+            "shore", 
+            "pier", 
+            "water resources", 
+            "fixed link", 
+            "road", 
+            "coast", 
+            "cloud"
+        ], 
+        "name": "vr_juliekaty_58.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.93468755, 
+            0.8643824, 
+            0.85390055, 
+            0.768394, 
+            0.73097473, 
+            0.69165325, 
+            0.6821526, 
+            0.6615115, 
+            0.6462736, 
+            0.6147174
+        ], 
+        "attributes": [
+            "water", 
+            "water resources", 
+            "grass", 
+            "tree", 
+            "floodplain", 
+            "bank", 
+            "flood", 
+            "natural disaster", 
+            "watercourse", 
+            "walkway"
+        ], 
+        "name": "vr_juliekaty_59.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9587502, 
+            0.85535955, 
+            0.79492277, 
+            0.75871277, 
+            0.7547649, 
+            0.7336385, 
+            0.6615998, 
+            0.65726787, 
+            0.6499789, 
+            0.5647124
+        ], 
+        "attributes": [
+            "black", 
+            "light", 
+            "darkness", 
+            "floor", 
+            "phenomenon", 
+            "lighting", 
+            "wood", 
+            "night", 
+            "flooring", 
+            "angle"
+        ], 
+        "name": "vr_juliekaty_60.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.75230783, 
+            0.71674716, 
+            0.7140375, 
+            0.71120465, 
+            0.70986, 
+            0.6188474, 
+            0.60501665, 
+            0.5630872, 
+            0.53852636
+        ], 
+        "attributes": [
+            "map", 
+            "biome", 
+            "screenshot", 
+            "atmosphere", 
+            "world", 
+            "earth", 
+            "sky", 
+            "font", 
+            "space"
+        ], 
+        "name": "vr_juliekaty_61.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9177481, 
+            0.9079134, 
+            0.8823997, 
+            0.8663477, 
+            0.81342685, 
+            0.80711937, 
+            0.7849941, 
+            0.7602127, 
+            0.7538713, 
+            0.73881096
+        ], 
+        "attributes": [
+            "screen", 
+            "display device", 
+            "technology", 
+            "television", 
+            "computer monitor", 
+            "electronic device", 
+            "lcd tv", 
+            "media", 
+            "television set", 
+            "multimedia"
+        ], 
+        "name": "vr_juliekaty_62.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9227936, 
+            0.9195774, 
+            0.90414655, 
+            0.8674364, 
+            0.84458995, 
+            0.8175734, 
+            0.7966243, 
+            0.79443395, 
+            0.73759264, 
+            0.7238886
+        ], 
+        "attributes": [
+            "skin", 
+            "sitting", 
+            "day", 
+            "product", 
+            "leg", 
+            "child", 
+            "fun", 
+            "furniture", 
+            "girl", 
+            "arm"
+        ], 
+        "name": "vr_juliekaty_63.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8738797, 
+            0.85657567, 
+            0.7000764, 
+            0.6804483, 
+            0.675656, 
+            0.6070615, 
+            0.6046663, 
+            0.54084325, 
+            0.54021835, 
+            0.53306323
+        ], 
+        "attributes": [
+            "glass", 
+            "window", 
+            "window covering", 
+            "door", 
+            "daylighting", 
+            "window screen", 
+            "facade", 
+            "window treatment", 
+            "sash window", 
+            "window blind"
+        ], 
+        "name": "vr_juliekaty_64.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9195655, 
+            0.8937199, 
+            0.87968576, 
+            0.8275842, 
+            0.80927896, 
+            0.7706501, 
+            0.75321203, 
+            0.7437872, 
+            0.7379754, 
+            0.7208015
+        ], 
+        "attributes": [
+            "display device", 
+            "screen", 
+            "technology", 
+            "computer monitor", 
+            "television", 
+            "display advertising", 
+            "media", 
+            "led backlit lcd display", 
+            "multimedia", 
+            "lcd tv"
+        ], 
+        "name": "vr_juliekaty_65.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9005691, 
+            0.81826466, 
+            0.73656845, 
+            0.6969296, 
+            0.6925811, 
+            0.6355091, 
+            0.5995446, 
+            0.5776907, 
+            0.5610033, 
+            0.54175645
+        ], 
+        "attributes": [
+            "text", 
+            "gadget", 
+            "technology", 
+            "multimedia", 
+            "screenshot", 
+            "font", 
+            "electronics", 
+            "media", 
+            "electronic device", 
+            "computer wallpaper"
+        ], 
+        "name": "vr_juliekaty_66.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9032441, 
+            0.84860003, 
+            0.7005698, 
+            0.6919273, 
+            0.6879308, 
+            0.57843703, 
+            0.52629405, 
+            0.5235424, 
+            0.5196716
+        ], 
+        "attributes": [
+            "technology", 
+            "display device", 
+            "electronic device", 
+            "multimedia", 
+            "electronics", 
+            "media", 
+            "screen", 
+            "gadget", 
+            "display advertising"
+        ], 
+        "name": "vr_juliekaty_67.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8691445, 
+            0.8610454, 
+            0.69696784, 
+            0.62192476, 
+            0.5989559, 
+            0.5597446, 
+            0.5010008
+        ], 
+        "attributes": [
+            "map", 
+            "water resources", 
+            "land lot", 
+            "urban design", 
+            "elevation", 
+            "roof", 
+            "plan"
+        ], 
+        "name": "vr_juliekaty_68.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.76723546, 
+            0.7663542, 
+            0.7473352, 
+            0.747044, 
+            0.7291318, 
+            0.6926256, 
+            0.6624271, 
+            0.6483102, 
+            0.6290947, 
+            0.6165047
+        ], 
+        "attributes": [
+            "shoulder", 
+            "arm", 
+            "leg", 
+            "muscle", 
+            "finger", 
+            "mouth", 
+            "hand", 
+            "joint", 
+            "abdomen", 
+            "trunk"
+        ], 
+        "name": "vr_juliekaty_70.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.88954043, 
+            0.8740368, 
+            0.8176745, 
+            0.8162047, 
+            0.7969664, 
+            0.7884856, 
+            0.7356782, 
+            0.7019703, 
+            0.67605436, 
+            0.65829366
+        ], 
+        "attributes": [
+            "day", 
+            "room", 
+            "snapshot", 
+            "sitting", 
+            "furniture", 
+            "product", 
+            "girl", 
+            "fun", 
+            "arm", 
+            "bed"
+        ], 
+        "name": "vr_juliekaty_71.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9645734, 
+            0.9405879, 
+            0.93441135, 
+            0.92422235, 
+            0.8930483, 
+            0.87538004, 
+            0.8533898, 
+            0.81133664, 
+            0.6657272, 
+            0.63540787
+        ], 
+        "attributes": [
+            "waterway", 
+            "water resources", 
+            "body of water", 
+            "river", 
+            "water", 
+            "bank", 
+            "reservoir", 
+            "floodplain", 
+            "lake", 
+            "natural disaster"
+        ], 
+        "name": "vr_juliekaty_73.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96986943, 
+            0.94480497, 
+            0.9436268, 
+            0.91079813, 
+            0.87604445, 
+            0.8700859, 
+            0.8375085, 
+            0.8315867, 
+            0.77747035, 
+            0.7587557
+        ], 
+        "attributes": [
+            "waterway", 
+            "river", 
+            "water resources", 
+            "bank", 
+            "reservoir", 
+            "water", 
+            "loch", 
+            "floodplain", 
+            "sky", 
+            "wetland"
+        ], 
+        "name": "vr_juliekaty_74.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9098634, 
+            0.9029436, 
+            0.8887792, 
+            0.88821375, 
+            0.865735, 
+            0.8074553, 
+            0.7561731, 
+            0.7475599, 
+            0.73878247, 
+            0.7133097
+        ], 
+        "attributes": [
+            "human hair color", 
+            "pink", 
+            "day", 
+            "chin", 
+            "shoulder", 
+            "cheek", 
+            "selfie", 
+            "neck", 
+            "arm", 
+            "mouth"
+        ], 
+        "name": "vr_juliekaty_76.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9097389, 
+            0.84722954, 
+            0.8089945, 
+            0.79378814, 
+            0.7889245, 
+            0.7755276, 
+            0.719263, 
+            0.7141641, 
+            0.6840309, 
+            0.68131113
+        ], 
+        "attributes": [
+            "human hair color", 
+            "chin", 
+            "shoulder", 
+            "selfie", 
+            "blond", 
+            "headgear", 
+            "neck", 
+            "girl", 
+            "arm", 
+            "muscle"
+        ], 
+        "name": "vr_juliekaty_77.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.60972255, 
+            0.5899644
+        ], 
+        "attributes": [
+            "table", 
+            "product"
+        ], 
+        "name": "vr_juliekaty_78.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.85511154, 
+            0.8551018, 
+            0.8175883, 
+            0.7920463, 
+            0.77433795, 
+            0.6914996, 
+            0.6655453, 
+            0.61700535, 
+            0.6074591, 
+            0.55687726
+        ], 
+        "attributes": [
+            "hand", 
+            "joint", 
+            "leg", 
+            "finger", 
+            "arm", 
+            "service", 
+            "muscle", 
+            "foot", 
+            "nail", 
+            "knee"
+        ], 
+        "name": "vr_kathrynkaty_07.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9343557, 
+            0.8907176, 
+            0.8533487, 
+            0.84174865, 
+            0.82186586, 
+            0.8039663, 
+            0.7547649, 
+            0.7083474, 
+            0.67142886, 
+            0.6357359
+        ], 
+        "attributes": [
+            "green", 
+            "sky", 
+            "water", 
+            "grass", 
+            "cloud", 
+            "reservoir", 
+            "phenomenon", 
+            "river", 
+            "tree", 
+            "water resources"
+        ], 
+        "name": "vr_kathrynkaty_09.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9234963, 
+            0.8989427, 
+            0.89492816, 
+            0.83435, 
+            0.83156097, 
+            0.78784364, 
+            0.7815551, 
+            0.7605635, 
+            0.6982484, 
+            0.61195564
+        ], 
+        "attributes": [
+            "social group", 
+            "tree", 
+            "day", 
+            "community", 
+            "youth", 
+            "recreation", 
+            "team", 
+            "outdoor recreation", 
+            "fun", 
+            "vehicle"
+        ], 
+        "name": "vr_kathrynkaty_111.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9513298, 
+            0.92057556, 
+            0.7778287, 
+            0.70156217, 
+            0.695461, 
+            0.67577887, 
+            0.6387806, 
+            0.5324864, 
+            0.5319192, 
+            0.510651
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "water resources", 
+            "river", 
+            "flood", 
+            "watercourse", 
+            "bank", 
+            "natural disaster", 
+            "disaster", 
+            "floodplain"
+        ], 
+        "name": "vr_kathrynkaty_112.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.92418253, 
+            0.87665004, 
+            0.82602394, 
+            0.82222694, 
+            0.82028484, 
+            0.7908113, 
+            0.7609148, 
+            0.70926666, 
+            0.64856744, 
+            0.5871577
+        ], 
+        "attributes": [
+            "tree", 
+            "grass", 
+            "water", 
+            "walkway", 
+            "plant", 
+            "lawn", 
+            "park", 
+            "landscape", 
+            "yard", 
+            "landscaping"
+        ], 
+        "name": "vr_kathrynkaty_19.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.94306415, 
+            0.89520264, 
+            0.8875115, 
+            0.87465525, 
+            0.8501403, 
+            0.82075834, 
+            0.79247326, 
+            0.77049637, 
+            0.7547649, 
+            0.7269047
+        ], 
+        "attributes": [
+            "green", 
+            "ecosystem", 
+            "property", 
+            "grass", 
+            "plant", 
+            "light", 
+            "architecture", 
+            "sky", 
+            "phenomenon", 
+            "lighting"
+        ], 
+        "name": "vr_kathrynkaty_35.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9819185, 
+            0.9294475, 
+            0.8985024, 
+            0.8742859, 
+            0.87266654, 
+            0.8559916, 
+            0.84929603, 
+            0.81846434, 
+            0.79755, 
+            0.72577596
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "road", 
+            "grass", 
+            "plant", 
+            "vehicle", 
+            "asphalt", 
+            "family car", 
+            "tree", 
+            "automotive exterior"
+        ], 
+        "name": "vr_kathrynkaty_42.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8987747, 
+            0.8529935, 
+            0.7527064, 
+            0.7149745, 
+            0.59956366, 
+            0.59346694, 
+            0.57342273, 
+            0.51208025
+        ], 
+        "attributes": [
+            "property", 
+            "building", 
+            "advertising", 
+            "facade", 
+            "elevation", 
+            "condominium", 
+            "roof", 
+            "window"
+        ], 
+        "name": "vr_kathrynkaty_69.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.90346795, 
+            0.79880184, 
+            0.7736339, 
+            0.6195446, 
+            0.5615196, 
+            0.53691995, 
+            0.5305529
+        ], 
+        "attributes": [
+            "waterway", 
+            "vehicle", 
+            "inflatable boat", 
+            "recreation", 
+            "tree", 
+            "car", 
+            "fun"
+        ], 
+        "name": "vr_rachelkaty_01.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.94010603, 
+            0.9099223, 
+            0.8913775, 
+            0.879778, 
+            0.8396098, 
+            0.8133371, 
+            0.80203444, 
+            0.78748405, 
+            0.7580023, 
+            0.7010016
+        ], 
+        "attributes": [
+            "water resources", 
+            "river", 
+            "waterway", 
+            "bank", 
+            "floodplain", 
+            "flood", 
+            "reservoir", 
+            "water", 
+            "natural disaster", 
+            "watercourse"
+        ], 
+        "name": "vr_rachelkaty_100.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9519887, 
+            0.93948865, 
+            0.8811158, 
+            0.8759163, 
+            0.86480993, 
+            0.85071975, 
+            0.84045136, 
+            0.7928916, 
+            0.68552804, 
+            0.63736874
+        ], 
+        "attributes": [
+            "water", 
+            "river", 
+            "waterway", 
+            "water resources", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "bank", 
+            "land lot", 
+            "wetland"
+        ], 
+        "name": "vr_rachelkaty_101.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.94621986, 
+            0.8421817, 
+            0.7691749, 
+            0.73487246, 
+            0.7038939, 
+            0.5971423, 
+            0.514609, 
+            0.51242876
+        ], 
+        "attributes": [
+            "tree", 
+            "transport", 
+            "vehicle", 
+            "plant", 
+            "recreation", 
+            "road", 
+            "asphalt", 
+            "tourism"
+        ], 
+        "name": "vr_rachelkaty_11.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9195969, 
+            0.8172829, 
+            0.78148776, 
+            0.66451544
+        ], 
+        "attributes": [
+            "candle", 
+            "lighting", 
+            "darkness", 
+            "night"
+        ], 
+        "name": "vr_rachelkaty_110.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.6415406, 
+            0.5622032, 
+            0.5127768, 
+            0.5081844, 
+            0.5042756
+        ], 
+        "attributes": [
+            "vacation", 
+            "city", 
+            "vehicle", 
+            "recreation", 
+            "tourism"
+        ], 
+        "name": "vr_rachelkaty_117.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9776275, 
+            0.97010875, 
+            0.9542619, 
+            0.87525654, 
+            0.87053335, 
+            0.8577855, 
+            0.8515445, 
+            0.82717156, 
+            0.81754875, 
+            0.7616105
+        ], 
+        "attributes": [
+            "vehicle", 
+            "motor vehicle", 
+            "transport", 
+            "mode of transport", 
+            "automotive tire", 
+            "military vehicle", 
+            "truck", 
+            "commercial vehicle", 
+            "tire", 
+            "armored car"
+        ], 
+        "name": "vr_rachelkaty_12.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9355355, 
+            0.88088787, 
+            0.65210015, 
+            0.6164974, 
+            0.5676293
+        ], 
+        "attributes": [
+            "map", 
+            "text", 
+            "design", 
+            "atlas", 
+            "font"
+        ], 
+        "name": "vr_rachelkaty_13.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8078543, 
+            0.7305721, 
+            0.5842677, 
+            0.54648733, 
+            0.502383
+        ], 
+        "attributes": [
+            "product", 
+            "product", 
+            "font", 
+            "square", 
+            "label"
+        ], 
+        "name": "vr_rachelkaty_21.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9556413, 
+            0.93535113, 
+            0.9131927, 
+            0.859538, 
+            0.80596274, 
+            0.70512176, 
+            0.69854647, 
+            0.6729967, 
+            0.65307665, 
+            0.64286375
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "water resources", 
+            "river", 
+            "bank", 
+            "watercourse", 
+            "reflection", 
+            "floodplain", 
+            "lake", 
+            "reservoir"
+        ], 
+        "name": "vr_rachelkaty_38.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.975378, 
+            0.9604772, 
+            0.95779836, 
+            0.920668, 
+            0.90873796, 
+            0.90145373, 
+            0.8852619, 
+            0.8752449, 
+            0.8704495, 
+            0.86815405
+        ], 
+        "attributes": [
+            "river", 
+            "waterway", 
+            "water resources", 
+            "watercourse", 
+            "water", 
+            "bank", 
+            "floodplain", 
+            "mode of transport", 
+            "flood", 
+            "natural disaster"
+        ], 
+        "name": "vr_rachelkaty_39.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9674784, 
+            0.9299786, 
+            0.908364, 
+            0.88979244, 
+            0.79988223, 
+            0.7910187, 
+            0.7863123, 
+            0.7832171, 
+            0.7593914, 
+            0.7460491
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "river", 
+            "bank", 
+            "water resources", 
+            "reservoir", 
+            "tree", 
+            "floodplain", 
+            "canal", 
+            "sky"
+        ], 
+        "name": "vr_rachelkaty_40.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9451779, 
+            0.8973628, 
+            0.8259962, 
+            0.810477, 
+            0.8077103, 
+            0.7599354, 
+            0.7446265, 
+            0.7299462, 
+            0.70907915, 
+            0.64630044
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "river", 
+            "water resources", 
+            "bank", 
+            "floodplain", 
+            "reservoir", 
+            "grass", 
+            "tree", 
+            "land lot"
+        ], 
+        "name": "vr_rachelkaty_42.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9332701, 
+            0.9302268, 
+            0.91909766, 
+            0.877613, 
+            0.850781, 
+            0.8368031, 
+            0.7945182, 
+            0.79111874, 
+            0.7779676, 
+            0.73527235
+        ], 
+        "attributes": [
+            "water resources", 
+            "water", 
+            "bank", 
+            "reservoir", 
+            "floodplain", 
+            "nature reserve", 
+            "wetland", 
+            "grass", 
+            "pond", 
+            "lake"
+        ], 
+        "name": "vr_rachelkaty_43.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9173007, 
+            0.90802747, 
+            0.8991877, 
+            0.88053536, 
+            0.87499005, 
+            0.8113374, 
+            0.7625514, 
+            0.7165383, 
+            0.684468, 
+            0.61601394
+        ], 
+        "attributes": [
+            "water resources", 
+            "bank", 
+            "water", 
+            "waterway", 
+            "river", 
+            "floodplain", 
+            "reservoir", 
+            "watercourse", 
+            "grass", 
+            "wetland"
+        ], 
+        "name": "vr_rachelkaty_44.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9599874, 
+            0.94997567, 
+            0.91118884, 
+            0.9048639, 
+            0.8182335, 
+            0.815534, 
+            0.78863066, 
+            0.6877612, 
+            0.6813785, 
+            0.5741448
+        ], 
+        "attributes": [
+            "helicopter", 
+            "rotorcraft", 
+            "aircraft", 
+            "helicopter rotor", 
+            "sky", 
+            "aviation", 
+            "flight", 
+            "propeller", 
+            "air force", 
+            "airplane"
+        ], 
+        "name": "vr_rachelkaty_45.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9590248, 
+            0.8853141, 
+            0.8290862, 
+            0.80877763, 
+            0.80847836, 
+            0.7642544, 
+            0.6801412, 
+            0.61132354, 
+            0.5998024, 
+            0.59260267
+        ], 
+        "attributes": [
+            "sky", 
+            "flight", 
+            "tree", 
+            "atmosphere of earth", 
+            "airplane", 
+            "aircraft", 
+            "aviation", 
+            "wing", 
+            "plant", 
+            "cloud"
+        ], 
+        "name": "vr_rachelkaty_46.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9753376, 
+            0.95143646, 
+            0.9082746, 
+            0.8649403, 
+            0.86380297, 
+            0.8201422, 
+            0.7547649, 
+            0.74157095, 
+            0.7012993, 
+            0.6983709
+        ], 
+        "attributes": [
+            "sky", 
+            "black", 
+            "tree", 
+            "darkness", 
+            "atmosphere", 
+            "atmosphere of earth", 
+            "phenomenon", 
+            "morning", 
+            "evening", 
+            "night"
+        ], 
+        "name": "vr_rachelkaty_47.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9574837, 
+            0.90369475, 
+            0.85834736, 
+            0.81278527, 
+            0.80446535, 
+            0.8039885, 
+            0.7956509, 
+            0.71128976, 
+            0.6492039, 
+            0.548554
+        ], 
+        "attributes": [
+            "sky", 
+            "flight", 
+            "airplane", 
+            "atmosphere of earth", 
+            "aircraft", 
+            "tree", 
+            "aviation", 
+            "wing", 
+            "air travel", 
+            "cloud"
+        ], 
+        "name": "vr_rachelkaty_48.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8660155, 
+            0.76305604, 
+            0.5795441, 
+            0.54163945, 
+            0.5334751
+        ], 
+        "attributes": [
+            "water resources", 
+            "water", 
+            "natural disaster", 
+            "disaster", 
+            "bank"
+        ], 
+        "name": "vr_rachelkaty_53.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8709741, 
+            0.80019116, 
+            0.79220164, 
+            0.7641834, 
+            0.7203668, 
+            0.7160379, 
+            0.7105737, 
+            0.66606057, 
+            0.5690678, 
+            0.5297369
+        ], 
+        "attributes": [
+            "water", 
+            "sky", 
+            "water resources", 
+            "land lot", 
+            "reservoir", 
+            "floodplain", 
+            "natural disaster", 
+            "flood", 
+            "plain", 
+            "grass"
+        ], 
+        "name": "vr_rachelkaty_54.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.91260296, 
+            0.90035087, 
+            0.765777, 
+            0.7610921, 
+            0.7470172, 
+            0.65885097, 
+            0.6519826, 
+            0.614764, 
+            0.60898393, 
+            0.60005695
+        ], 
+        "attributes": [
+            "water resources", 
+            "waterway", 
+            "floodplain", 
+            "reservoir", 
+            "land lot", 
+            "flood", 
+            "natural disaster", 
+            "river", 
+            "levee", 
+            "real estate"
+        ], 
+        "name": "vr_rachelkaty_58.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.95217526, 
+            0.83257955, 
+            0.8302636, 
+            0.75855964, 
+            0.7403593, 
+            0.717039, 
+            0.68386537, 
+            0.63225996, 
+            0.63045406, 
+            0.59530765
+        ], 
+        "attributes": [
+            "water", 
+            "vacation", 
+            "fun", 
+            "leisure", 
+            "beach", 
+            "umbrella", 
+            "recreation", 
+            "rain", 
+            "sand", 
+            "adventure"
+        ], 
+        "name": "vr_rachelkaty_59.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.97214055, 
+            0.95915854, 
+            0.9427303, 
+            0.8752004, 
+            0.85470384, 
+            0.83407557, 
+            0.826597, 
+            0.8000995, 
+            0.76147765, 
+            0.70669574
+        ], 
+        "attributes": [
+            "motor vehicle", 
+            "car", 
+            "vehicle", 
+            "mode of transport", 
+            "road", 
+            "luxury vehicle", 
+            "transport", 
+            "automotive exterior", 
+            "sport utility vehicle", 
+            "off roading"
+        ], 
+        "name": "vr_rachelkaty_61.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9091462, 
+            0.90751994, 
+            0.905691, 
+            0.7689518, 
+            0.73161006, 
+            0.70953774, 
+            0.69477206, 
+            0.6833006, 
+            0.58902484, 
+            0.58156174
+        ], 
+        "attributes": [
+            "grass", 
+            "road", 
+            "nature reserve", 
+            "meadow", 
+            "water", 
+            "land lot", 
+            "signage", 
+            "sign", 
+            "prairie", 
+            "grassland"
+        ], 
+        "name": "vr_rachelkaty_62.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.942376, 
+            0.8464287, 
+            0.8250027, 
+            0.7558616, 
+            0.7488026, 
+            0.7431252, 
+            0.7381023, 
+            0.6858618, 
+            0.647587, 
+            0.5738871
+        ], 
+        "attributes": [
+            "waterway", 
+            "water resources", 
+            "bank", 
+            "natural disaster", 
+            "river", 
+            "floodplain", 
+            "flood", 
+            "land lot", 
+            "disaster", 
+            "road"
+        ], 
+        "name": "vr_rachelkaty_63.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8287864, 
+            0.7879125, 
+            0.61999625, 
+            0.6119545, 
+            0.6036039, 
+            0.5947334, 
+            0.57935745, 
+            0.5676679, 
+            0.5445638
+        ], 
+        "attributes": [
+            "land lot", 
+            "grass", 
+            "plain", 
+            "landscape", 
+            "field", 
+            "sky", 
+            "sand", 
+            "asphalt", 
+            "road"
+        ], 
+        "name": "vr_rachelkaty_64.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.88417614, 
+            0.8719121, 
+            0.7510719, 
+            0.6288589, 
+            0.5910409, 
+            0.54575306, 
+            0.52164876
+        ], 
+        "attributes": [
+            "waterway", 
+            "water resources", 
+            "water", 
+            "bank", 
+            "natural disaster", 
+            "river", 
+            "disaster"
+        ], 
+        "name": "vr_rachelkaty_65.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8987433, 
+            0.8820146, 
+            0.8593255, 
+            0.81900775, 
+            0.81202084, 
+            0.7840627, 
+            0.7557173, 
+            0.6804135, 
+            0.67162585, 
+            0.6386439
+        ], 
+        "attributes": [
+            "flood", 
+            "waterway", 
+            "water", 
+            "river", 
+            "natural disaster", 
+            "floodplain", 
+            "water resources", 
+            "disaster", 
+            "bayou", 
+            "bank"
+        ], 
+        "name": "vr_rachelkaty_66.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.94427735, 
+            0.94281644, 
+            0.9009436, 
+            0.878896, 
+            0.8238259, 
+            0.8153206, 
+            0.69888055, 
+            0.6873429, 
+            0.6352075, 
+            0.55886567
+        ], 
+        "attributes": [
+            "tree", 
+            "path", 
+            "plant", 
+            "woody plant", 
+            "trail", 
+            "walking", 
+            "grass", 
+            "recreation", 
+            "adventure", 
+            "leisure"
+        ], 
+        "name": "vr_rachelkaty_67.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9683612, 
+            0.9585278, 
+            0.92137897, 
+            0.9169196, 
+            0.8997838, 
+            0.87420607, 
+            0.8614256, 
+            0.82275826, 
+            0.8035332, 
+            0.80222714
+        ], 
+        "attributes": [
+            "sky", 
+            "tree", 
+            "cloud", 
+            "property", 
+            "woody plant", 
+            "home", 
+            "house", 
+            "plant", 
+            "residential area", 
+            "roof"
+        ], 
+        "name": "vr_rachelkaty_68.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.97751886, 
+            0.96924955, 
+            0.963841, 
+            0.96201074, 
+            0.9141311, 
+            0.90493625, 
+            0.8659646, 
+            0.8425743, 
+            0.78737426, 
+            0.77703524
+        ], 
+        "attributes": [
+            "motor vehicle", 
+            "land vehicle", 
+            "vehicle", 
+            "car", 
+            "transport", 
+            "pickup truck", 
+            "truck", 
+            "automotive exterior", 
+            "automotive wheel system", 
+            "bumper"
+        ], 
+        "name": "vr_rachelkaty_69.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.92593145, 
+            0.89731354, 
+            0.77373034, 
+            0.6633782, 
+            0.58435076, 
+            0.51695424, 
+            0.51056415
+        ], 
+        "attributes": [
+            "mammal", 
+            "dog", 
+            "dog like mammal", 
+            "product", 
+            "snout", 
+            "flooring", 
+            "furniture"
+        ], 
+        "name": "vr_rachelkaty_71.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9776093, 
+            0.96462363, 
+            0.96046454, 
+            0.9457312, 
+            0.9454233, 
+            0.9441938, 
+            0.9356237, 
+            0.9285061, 
+            0.91805536, 
+            0.9104428
+        ], 
+        "attributes": [
+            "face", 
+            "eyebrow", 
+            "nose", 
+            "facial expression", 
+            "skin", 
+            "cheek", 
+            "smile", 
+            "person", 
+            "chin", 
+            "human hair color"
+        ], 
+        "name": "vr_rachelkaty_77.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9199191, 
+            0.86495674, 
+            0.85618335, 
+            0.82192034, 
+            0.81490177, 
+            0.814807, 
+            0.7441952, 
+            0.6051629, 
+            0.56040436, 
+            0.55118334
+        ], 
+        "attributes": [
+            "water", 
+            "river", 
+            "water resources", 
+            "floodplain", 
+            "flood", 
+            "bank", 
+            "natural disaster", 
+            "disaster", 
+            "watercourse", 
+            "lake"
+        ], 
+        "name": "vr_rachelkaty_78.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9271469, 
+            0.86279595, 
+            0.84732664, 
+            0.82547146, 
+            0.81470037, 
+            0.8055481, 
+            0.7496709, 
+            0.5928199, 
+            0.5873013, 
+            0.561489
+        ], 
+        "attributes": [
+            "water", 
+            "water resources", 
+            "river", 
+            "bank", 
+            "floodplain", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
+            "watercourse", 
+            "grass"
+        ], 
+        "name": "vr_rachelkaty_79.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8696301, 
+            0.8161058, 
+            0.74771315, 
+            0.7378909, 
+            0.67617434, 
+            0.65277046, 
+            0.6398521, 
+            0.570435, 
+            0.5679288, 
+            0.5258791
+        ], 
+        "attributes": [
+            "runway", 
+            "airport", 
+            "aviation", 
+            "airline", 
+            "airplane", 
+            "airport apron", 
+            "aircraft", 
+            "road", 
+            "wide body aircraft", 
+            "landing"
+        ], 
+        "name": "vr_rachelkaty_82.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9356371, 
+            0.83457184, 
+            0.79324424, 
+            0.7592075, 
+            0.7150935, 
+            0.61151725, 
+            0.54382, 
+            0.52313393
+        ], 
+        "attributes": [
+            "furniture", 
+            "living room", 
+            "interior design", 
+            "home", 
+            "table", 
+            "flooring", 
+            "advertising", 
+            "brand"
+        ], 
+        "name": "vr_rachelkaty_86.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.94531465, 
+            0.7409432, 
+            0.6720096, 
+            0.54384947, 
+            0.51081866, 
+            0.50681335
+        ], 
+        "attributes": [
+            "map", 
+            "urban design", 
+            "area", 
+            "tree", 
+            "land lot", 
+            "world"
+        ], 
+        "name": "vr_rachelkaty_87.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.86004114, 
+            0.81093353, 
+            0.7857466, 
+            0.6908425, 
+            0.68857664, 
+            0.6732918, 
+            0.65004206, 
+            0.61867934, 
+            0.60946447
+        ], 
+        "attributes": [
+            "room", 
+            "countertop", 
+            "flooring", 
+            "furniture", 
+            "floor", 
+            "table", 
+            "interior design", 
+            "kitchen", 
+            "hardwood"
+        ], 
+        "name": "vr_rachelkaty_88.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.95389074, 
+            0.849133, 
+            0.8231148, 
+            0.79901683, 
+            0.7986666, 
+            0.76158243, 
+            0.695436, 
+            0.6894096, 
+            0.5388802
+        ], 
+        "attributes": [
+            "furniture", 
+            "room", 
+            "chair", 
+            "floor", 
+            "flooring", 
+            "interior design", 
+            "living room", 
+            "hardwood", 
+            "couch"
+        ], 
+        "name": "vr_rachelkaty_89.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.96821856, 
+            0.87522334, 
+            0.8539568, 
+            0.791638, 
+            0.7079539, 
+            0.6916271, 
+            0.68281525, 
+            0.64870566, 
+            0.62111926, 
+            0.61746824
+        ], 
+        "attributes": [
+            "furniture", 
+            "table", 
+            "room", 
+            "chair", 
+            "interior design", 
+            "home", 
+            "flooring", 
+            "living room", 
+            "floor", 
+            "hardwood"
+        ], 
+        "name": "vr_rachelkaty_90.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.91589373, 
+            0.83872783, 
+            0.8007827, 
+            0.72977954, 
+            0.7003738, 
+            0.6512426, 
+            0.5940158, 
+            0.57965285, 
+            0.57961947, 
+            0.57734084
+        ], 
+        "attributes": [
+            "canopy", 
+            "tent", 
+            "shade", 
+            "backyard", 
+            "house", 
+            "outdoor furniture", 
+            "grass", 
+            "pavilion", 
+            "awning", 
+            "roof"
+        ], 
+        "name": "vr_rachelkaty_93.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.95755875, 
+            0.9343418, 
+            0.8204109, 
+            0.81073004, 
+            0.8087424, 
+            0.8069074, 
+            0.77855563, 
+            0.68397355, 
+            0.63299555, 
+            0.56036496
+        ], 
+        "attributes": [
+            "clothing", 
+            "footwear", 
+            "shoulder", 
+            "outerwear", 
+            "jacket", 
+            "headgear", 
+            "jeans", 
+            "denim", 
+            "cap", 
+            "shorts"
+        ], 
+        "name": "vr_rachelkaty_94.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9078849, 
+            0.905638, 
+            0.8808602, 
+            0.8467613, 
+            0.82048017, 
+            0.7481099, 
+            0.6386013, 
+            0.6155044, 
+            0.5102491
+        ], 
+        "attributes": [
+            "bottle", 
+            "beer", 
+            "drink", 
+            "alcoholic beverage", 
+            "beer bottle", 
+            "glass bottle", 
+            "alcohol", 
+            "lager", 
+            "ale"
+        ], 
+        "name": "vr_rachelkaty_95.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.95454574, 
+            0.95129454, 
+            0.9461342, 
+            0.9177522, 
+            0.90038854, 
+            0.8849481, 
+            0.8722304, 
+            0.8682536, 
+            0.8557453, 
+            0.84642243
+        ], 
+        "attributes": [
+            "plant", 
+            "green", 
+            "tree", 
+            "leisure", 
+            "day", 
+            "water", 
+            "grass", 
+            "woody plant", 
+            "vacation", 
+            "lawn"
+        ], 
+        "name": "vr_rachelkaty_96.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.92118794, 
+            0.9076343, 
+            0.78768325, 
+            0.6907319, 
+            0.656854, 
+            0.6444062, 
+            0.5650362, 
+            0.53532386, 
+            0.52442485, 
+            0.50303054
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "plant", 
+            "reflection", 
+            "bayou", 
+            "wetland", 
+            "flood", 
+            "floodplain", 
+            "bank", 
+            "river"
+        ], 
+        "name": "vr_ripkinkaty_01.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.95039284, 
+            0.90987223, 
+            0.8617695, 
+            0.8286579, 
+            0.7931464, 
+            0.7880638, 
+            0.7670039, 
+            0.7623664, 
+            0.7547649, 
+            0.6838512
+        ], 
+        "attributes": [
+            "night", 
+            "darkness", 
+            "light", 
+            "reflection", 
+            "atmosphere of earth", 
+            "atmosphere", 
+            "lighting", 
+            "water", 
+            "phenomenon", 
+            "sky"
+        ], 
+        "name": "vr_ripkinkaty_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9553066, 
+            0.93674994, 
+            0.7889191, 
+            0.7621458, 
+            0.75082356, 
+            0.7313095, 
+            0.69730586, 
+            0.68218696, 
+            0.6594032, 
+            0.61061066
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "flood", 
+            "tree", 
+            "natural disaster", 
+            "river", 
+            "reflection", 
+            "disaster", 
+            "sky", 
+            "canal"
+        ], 
+        "name": "vr_ripkinkaty_03.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9675837, 
+            0.89139646, 
+            0.8343436, 
+            0.8239333, 
+            0.76421475, 
+            0.7368812, 
+            0.660811, 
+            0.5781888, 
+            0.57194966, 
+            0.56461346
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "tree", 
+            "disaster", 
+            "water resources", 
+            "floodplain", 
+            "bank", 
+            "river", 
+            "water feature"
+        ], 
+        "name": "vr_ripkinkaty_04.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.89803153, 
+            0.83405995, 
+            0.8329559, 
+            0.7903378, 
+            0.75839174, 
+            0.74990207, 
+            0.745242, 
+            0.742689, 
+            0.72819, 
+            0.65125453
+        ], 
+        "attributes": [
+            "property", 
+            "luxury vehicle", 
+            "flood", 
+            "natural disaster", 
+            "home", 
+            "disaster", 
+            "residential area", 
+            "car", 
+            "real estate", 
+            "water"
+        ], 
+        "name": "vr_ripkinkaty_05.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8646878, 
+            0.8317878, 
+            0.7766452, 
+            0.77242863, 
+            0.76155317, 
+            0.7282984, 
+            0.6108887, 
+            0.5861508, 
+            0.56953955, 
+            0.5501144
+        ], 
+        "attributes": [
+            "garage door", 
+            "siding", 
+            "home", 
+            "door", 
+            "house", 
+            "window", 
+            "facade", 
+            "shed", 
+            "outdoor structure", 
+            "brickwork"
+        ], 
+        "name": "vr_ripkinkaty_06.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9447203, 
+            0.8292888, 
+            0.7009355, 
+            0.56409144, 
+            0.54298913
+        ], 
+        "attributes": [
+            "track", 
+            "sky", 
+            "rail transport", 
+            "cloud", 
+            "walkway"
+        ], 
+        "name": "vr_ripkinkaty_07.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.76134384, 
+            0.7547649, 
+            0.72458786, 
+            0.534605, 
+            0.50918543
+        ], 
+        "attributes": [
+            "darkness", 
+            "phenomenon", 
+            "night", 
+            "midnight", 
+            "performance art"
+        ], 
+        "name": "vr_ripkinkaty_08.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.98990446, 
+            0.96485376, 
+            0.94854033, 
+            0.92112905, 
+            0.9051358, 
+            0.86669856, 
+            0.84367114, 
+            0.8353542, 
+            0.7911115, 
+            0.7861812
+        ], 
+        "attributes": [
+            "army", 
+            "military", 
+            "vehicle", 
+            "soldier", 
+            "troop", 
+            "military police", 
+            "military organization", 
+            "transport", 
+            "militia", 
+            "infantry"
+        ], 
+        "name": "vr_ripkinkaty_09.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9769429, 
+            0.973108, 
+            0.9608808, 
+            0.9171627, 
+            0.87525654, 
+            0.7826537, 
+            0.7795237, 
+            0.6907874, 
+            0.674393, 
+            0.6497417
+        ], 
+        "attributes": [
+            "motor vehicle", 
+            "vehicle", 
+            "transport", 
+            "car", 
+            "mode of transport", 
+            "truck", 
+            "commercial vehicle", 
+            "automotive exterior", 
+            "off roading", 
+            "military vehicle"
+        ], 
+        "name": "vr_ripkinkaty_10.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8736858, 
+            0.7194233, 
+            0.6720096, 
+            0.618132, 
+            0.5703638, 
+            0.55079955
+        ], 
+        "attributes": [
+            "text", 
+            "line", 
+            "area", 
+            "font", 
+            "map", 
+            "point"
+        ], 
+        "name": "vr_ripkinkaty_11.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9654114, 
+            0.94320774, 
+            0.8818167, 
+            0.8418829, 
+            0.81846756, 
+            0.7861398, 
+            0.7426854, 
+            0.69862336, 
+            0.67069125, 
+            0.66424125
+        ], 
+        "attributes": [
+            "reflection", 
+            "water", 
+            "waterway", 
+            "water resources", 
+            "sky", 
+            "river", 
+            "flood", 
+            "floodplain", 
+            "bayou", 
+            "tree"
+        ], 
+        "name": "vr_ripkinkaty_12.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9585622, 
+            0.9423917, 
+            0.93429565, 
+            0.7982269, 
+            0.7970309, 
+            0.7718421, 
+            0.6269331, 
+            0.5725999, 
+            0.563189, 
+            0.5519439
+        ], 
+        "attributes": [
+            "water", 
+            "green", 
+            "reflection", 
+            "structure", 
+            "architecture", 
+            "tree", 
+            "plant", 
+            "shade", 
+            "sky", 
+            "recreation"
+        ], 
+        "name": "vr_ripkinkaty_13.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.88146937, 
+            0.86313283, 
+            0.8067452, 
+            0.79956484, 
+            0.75670004, 
+            0.7314528, 
+            0.7145111, 
+            0.7136363, 
+            0.6929747, 
+            0.65332353
+        ], 
+        "attributes": [
+            "motor vehicle", 
+            "water", 
+            "car", 
+            "natural disaster", 
+            "vehicle", 
+            "automotive exterior", 
+            "flood", 
+            "disaster", 
+            "water resources", 
+            "tree"
+        ], 
+        "name": "vr_ripkinkaty_14.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.90544844, 
+            0.8960607, 
+            0.8353503, 
+            0.8127538, 
+            0.79328895, 
+            0.78560543, 
+            0.77248365, 
+            0.727591, 
+            0.55763483, 
+            0.5477264
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "water resources", 
+            "river", 
+            "disaster", 
+            "bank", 
+            "bayou", 
+            "watercourse"
+        ], 
+        "name": "vr_ripkinkaty_16.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9403572, 
+            0.89128256, 
+            0.8896059, 
+            0.80607337, 
+            0.738778, 
+            0.7052813, 
+            0.6687528, 
+            0.5246377
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "water resources", 
+            "natural disaster", 
+            "disaster", 
+            "floodplain", 
+            "bank", 
+            "watercourse"
+        ], 
+        "name": "vr_ripkinkaty_17.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.93067974, 
+            0.8890894, 
+            0.8400144, 
+            0.7561147, 
+            0.73533666, 
+            0.7348168, 
+            0.6818189, 
+            0.66561943, 
+            0.655562, 
+            0.59394056
+        ], 
+        "attributes": [
+            "water", 
+            "reflection", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "water resources", 
+            "river", 
+            "disaster", 
+            "tree", 
+            "bank"
+        ], 
+        "name": "vr_ripkinkaty_18.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.7327238, 
+            0.5881825
+        ], 
+        "attributes": [
+            "night", 
+            "recreation"
+        ], 
+        "name": "vr_ripkinkaty_19.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.97516704, 
+            0.96169084, 
+            0.95956236, 
+            0.8752543, 
+            0.7292197, 
+            0.70319927, 
+            0.690748, 
+            0.6387439, 
+            0.6091115, 
+            0.5807611
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "off roading", 
+            "off road vehicle", 
+            "automotive tire", 
+            "automotive exterior", 
+            "mud", 
+            "tire"
+        ], 
+        "name": "vr_ripkinkaty_20.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8966339, 
+            0.7491899, 
+            0.73000485, 
+            0.6720096, 
+            0.6105149, 
+            0.6037209, 
+            0.54162246
+        ], 
+        "attributes": [
+            "map", 
+            "sky", 
+            "line", 
+            "area", 
+            "water resources", 
+            "font", 
+            "angle"
+        ], 
+        "name": "vr_ripkinkaty_21.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.92414385, 
+            0.8920646, 
+            0.88015646, 
+            0.8749749, 
+            0.8636309, 
+            0.7547649, 
+            0.7377333, 
+            0.73252255, 
+            0.7062588, 
+            0.679145
+        ], 
+        "attributes": [
+            "water", 
+            "car", 
+            "night", 
+            "mode of transport", 
+            "reflection", 
+            "phenomenon", 
+            "evening", 
+            "tree", 
+            "geological phenomenon", 
+            "fun"
+        ], 
+        "name": "vr_ripkinkaty_22.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.91698027, 
+            0.87524885, 
+            0.8329099, 
+            0.7547649, 
+            0.73599005, 
+            0.73469746, 
+            0.7236156, 
+            0.69227546, 
+            0.64939797, 
+            0.63527554
+        ], 
+        "attributes": [
+            "car", 
+            "mode of transport", 
+            "night", 
+            "phenomenon", 
+            "tree", 
+            "lighting", 
+            "geological phenomenon", 
+            "evening", 
+            "screenshot", 
+            "reflection"
+        ], 
+        "name": "vr_ripkinkaty_23.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9460992, 
+            0.8831031, 
+            0.8750476, 
+            0.86281866, 
+            0.8465425, 
+            0.7966927, 
+            0.7939518, 
+            0.7547649, 
+            0.7531521, 
+            0.732809
+        ], 
+        "attributes": [
+            "water", 
+            "night", 
+            "mode of transport", 
+            "light", 
+            "campfire", 
+            "darkness", 
+            "atmosphere of earth", 
+            "phenomenon", 
+            "atmosphere", 
+            "morning"
+        ], 
+        "name": "vr_ripkinkaty_24.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.90498924, 
+            0.89290524, 
+            0.6565067, 
+            0.6310915, 
+            0.5868666, 
+            0.5566899, 
+            0.5480689, 
+            0.5203831
+        ], 
+        "attributes": [
+            "room", 
+            "property", 
+            "home", 
+            "floor", 
+            "interior design", 
+            "house", 
+            "window", 
+            "flooring"
+        ], 
+        "name": "vr_ripkinkaty_25.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.98558444, 
+            0.9721266, 
+            0.96411806, 
+            0.9403695, 
+            0.8752308, 
+            0.8411341, 
+            0.7779367, 
+            0.76379776, 
+            0.6682556, 
+            0.6547801
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "land vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "automotive design", 
+            "luxury vehicle", 
+            "road", 
+            "sports car", 
+            "asphalt"
+        ], 
+        "name": "vr_ripkinkaty_26.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.96350074, 
+            0.904388, 
+            0.74828196, 
+            0.7353165, 
+            0.7122205, 
+            0.68288815, 
+            0.6539413, 
+            0.6289771, 
+            0.56670785, 
+            0.54366386
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "flood", 
+            "natural disaster", 
+            "sky", 
+            "floodplain", 
+            "disaster", 
+            "reflection", 
+            "grass", 
+            "plant"
+        ], 
+        "name": "vr_ripkinkaty_27.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9556501, 
+            0.9219884, 
+            0.90695524, 
+            0.7219815, 
+            0.7058841, 
+            0.5401381, 
+            0.5247319, 
+            0.52143556
+        ], 
+        "attributes": [
+            "waterway", 
+            "water transportation", 
+            "inflatable boat", 
+            "boat", 
+            "vehicle", 
+            "fun", 
+            "recreation", 
+            "water"
+        ], 
+        "name": "vr_ripkinkaty_28.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9478129, 
+            0.94697315, 
+            0.8202533, 
+            0.694238, 
+            0.6783391, 
+            0.6504869, 
+            0.63399166, 
+            0.61895347, 
+            0.61541605, 
+            0.56574416
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "tree", 
+            "bayou", 
+            "flood", 
+            "disaster", 
+            "plant", 
+            "natural disaster", 
+            "vehicle", 
+            "recreation"
+        ], 
+        "name": "vr_ripkinkaty_29.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9684372, 
+            0.9120981, 
+            0.86931586, 
+            0.84027416, 
+            0.7229301, 
+            0.72271985, 
+            0.69618887, 
+            0.6610109, 
+            0.6234627, 
+            0.616428
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "tree", 
+            "reflection", 
+            "natural disaster", 
+            "flood", 
+            "bayou", 
+            "disaster", 
+            "river", 
+            "floodplain"
+        ], 
+        "name": "vr_ripkinkaty_30.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8723161, 
+            0.7295366, 
+            0.62347436, 
+            0.56685275, 
+            0.56381553, 
+            0.563102, 
+            0.5536146, 
+            0.5417609, 
+            0.53953344, 
+            0.53034556
+        ], 
+        "attributes": [
+            "tree", 
+            "water", 
+            "floodplain", 
+            "park", 
+            "recreation", 
+            "grass", 
+            "plant", 
+            "landscape", 
+            "bayou", 
+            "state park"
+        ], 
+        "name": "vr_ripkinkaty_31.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9777427, 
+            0.94262165, 
+            0.8989569, 
+            0.80531096, 
+            0.7853792, 
+            0.7692137, 
+            0.75239176, 
+            0.6922761, 
+            0.63255244, 
+            0.63158107
+        ], 
+        "attributes": [
+            "motor vehicle", 
+            "car", 
+            "vehicle", 
+            "off roading", 
+            "automotive exterior", 
+            "mud", 
+            "tree", 
+            "mud bogging", 
+            "truck", 
+            "landscape"
+        ], 
+        "name": "vr_ripkinkaty_32.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8564521, 
+            0.8305166, 
+            0.6274966, 
+            0.62361914, 
+            0.5905893, 
+            0.52141756
+        ], 
+        "attributes": [
+            "vehicle", 
+            "boat", 
+            "automotive exterior", 
+            "plant community", 
+            "tree", 
+            "disaster"
+        ], 
+        "name": "vr_ripkinkaty_33.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8385341, 
+            0.8360627, 
+            0.79946953, 
+            0.7967525, 
+            0.7960495, 
+            0.6351483, 
+            0.5837706
+        ], 
+        "attributes": [
+            "glass", 
+            "door", 
+            "architecture", 
+            "iron", 
+            "window", 
+            "metal", 
+            "automotive exterior"
+        ], 
+        "name": "vr_ripkinkaty_34.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9749148, 
+            0.95198447, 
+            0.8995264, 
+            0.8951819, 
+            0.8829911, 
+            0.8668604, 
+            0.83874685, 
+            0.8357198, 
+            0.8302843, 
+            0.72028625
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "boat", 
+            "vehicle", 
+            "water transportation", 
+            "bayou", 
+            "river", 
+            "canal", 
+            "tree", 
+            "kayak"
+        ], 
+        "name": "vr_ripkinkaty_35.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8184557, 
+            0.8135362, 
+            0.76814055, 
+            0.75242376, 
+            0.7338192, 
+            0.7128515, 
+            0.67912704, 
+            0.63965154, 
+            0.55370903, 
+            0.52181256
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "floodplain", 
+            "natural disaster", 
+            "disaster", 
+            "water resources", 
+            "tree", 
+            "bank", 
+            "grass", 
+            "recreation"
+        ], 
+        "name": "vr_ripkinkaty_36.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9559487, 
+            0.94182754, 
+            0.86039424, 
+            0.77399564, 
+            0.739871, 
+            0.7365114, 
+            0.7364791, 
+            0.71284705, 
+            0.69218653, 
+            0.6585599
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "car", 
+            "natural disaster", 
+            "river", 
+            "tree", 
+            "vehicle", 
+            "flood", 
+            "disaster", 
+            "water resources"
+        ], 
+        "name": "vr_ripkinkaty_37.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.7547649, 
+            0.667694, 
+            0.5611972
+        ], 
+        "attributes": [
+            "phenomenon", 
+            "night", 
+            "recreation"
+        ], 
+        "name": "vr_ripkinkaty_38.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.94665235, 
+            0.7533733, 
+            0.54654, 
+            0.545144, 
+            0.5096498
+        ], 
+        "attributes": [
+            "water", 
+            "night", 
+            "recreation", 
+            "tree", 
+            "water feature"
+        ], 
+        "name": "vr_ripkinkaty_39.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.925033, 
+            0.8702362, 
+            0.783498, 
+            0.76162565, 
+            0.7558992, 
+            0.72146344, 
+            0.7019143, 
+            0.681278, 
+            0.6582118, 
+            0.6531788
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "reflection", 
+            "water", 
+            "natural disaster", 
+            "night", 
+            "family car", 
+            "luxury vehicle", 
+            "vehicle", 
+            "disaster"
+        ], 
+        "name": "vr_ripkinkaty_40.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.7547649, 
+            0.7198032, 
+            0.63203174, 
+            0.5417608, 
+            0.5132959
+        ], 
+        "attributes": [
+            "phenomenon", 
+            "night", 
+            "event", 
+            "fire", 
+            "fun"
+        ], 
+        "name": "vr_ripkinkaty_41.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9645309, 
+            0.95389813, 
+            0.9535093, 
+            0.9251375, 
+            0.8846203, 
+            0.87493676, 
+            0.87122893, 
+            0.85112375, 
+            0.8401329, 
+            0.8377563
+        ], 
+        "attributes": [
+            "night", 
+            "photograph", 
+            "black", 
+            "darkness", 
+            "reflection", 
+            "mode of transport", 
+            "light", 
+            "water", 
+            "fun", 
+            "atmosphere"
+        ], 
+        "name": "vr_ripkinkaty_42.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.931077, 
+            0.8304323, 
+            0.77404565, 
+            0.77069294, 
+            0.69496876, 
+            0.6720096, 
+            0.6164022, 
+            0.6094798, 
+            0.5448916
+        ], 
+        "attributes": [
+            "text", 
+            "plot", 
+            "diagram", 
+            "line", 
+            "font", 
+            "area", 
+            "product", 
+            "angle", 
+            "number"
+        ], 
+        "name": "vr_ripkinkaty_43.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9841288, 
+            0.8478227, 
+            0.70430243, 
+            0.6720096
+        ], 
+        "attributes": [
+            "map", 
+            "urban design", 
+            "atlas", 
+            "area"
+        ], 
+        "name": "vr_ripkinkaty_45.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.97507924, 
+            0.73872024, 
+            0.6720096, 
+            0.5487403
+        ], 
+        "attributes": [
+            "map", 
+            "line", 
+            "area", 
+            "angle"
+        ], 
+        "name": "vr_ripkinkaty_46.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.89415777, 
+            0.88737774, 
+            0.844442, 
+            0.7944347, 
+            0.7679203, 
+            0.76186997, 
+            0.7616489, 
+            0.7547649, 
+            0.7246042, 
+            0.7243669
+        ], 
+        "attributes": [
+            "water", 
+            "river", 
+            "water resources", 
+            "sky", 
+            "bank", 
+            "tree", 
+            "morning", 
+            "phenomenon", 
+            "floodplain", 
+            "sunlight"
+        ], 
+        "name": "vr_ripkinkaty_47.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.96961766, 
+            0.959629, 
+            0.9461623, 
+            0.9153779, 
+            0.8752471, 
+            0.8543823, 
+            0.8125628, 
+            0.7208129, 
+            0.70505345, 
+            0.698798
+        ], 
+        "attributes": [
+            "vehicle", 
+            "army", 
+            "transport", 
+            "motor vehicle", 
+            "mode of transport", 
+            "troop", 
+            "military", 
+            "military police", 
+            "militia", 
+            "car"
+        ], 
+        "name": "vr_ripkinkaty_49.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.98450756, 
+            0.98129284, 
+            0.9700549, 
+            0.9683041, 
+            0.9612568, 
+            0.95566416, 
+            0.8603736, 
+            0.80626994, 
+            0.77950084, 
+            0.7627993
+        ], 
+        "attributes": [
+            "army", 
+            "car", 
+            "motor vehicle", 
+            "military", 
+            "vehicle", 
+            "soldier", 
+            "military organization", 
+            "military vehicle", 
+            "troop", 
+            "infantry"
+        ], 
+        "name": "vr_ripkinkaty_50.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.78844976, 
+            0.7383205, 
+            0.69447845, 
+            0.6304025, 
+            0.62328225, 
+            0.6069972, 
+            0.5022099
+        ], 
+        "attributes": [
+            "glass", 
+            "windshield", 
+            "vehicle", 
+            "automotive window part", 
+            "automotive exterior", 
+            "window", 
+            "photo caption"
+        ], 
+        "name": "vr_ripkinkaty_51.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9840018, 
+            0.9747959, 
+            0.9718279, 
+            0.9671529, 
+            0.8751342, 
+            0.8190422, 
+            0.7807709, 
+            0.73519826, 
+            0.71421576, 
+            0.6945009
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "land vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "automotive exterior", 
+            "tree", 
+            "automotive tire", 
+            "bumper", 
+            "tire"
+        ], 
+        "name": "vr_ripkinkaty_52.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9830489, 
+            0.96951616, 
+            0.9622648, 
+            0.9562432, 
+            0.86555004, 
+            0.83850306, 
+            0.83543223, 
+            0.8266343, 
+            0.816125, 
+            0.7547649
+        ], 
+        "attributes": [
+            "sky", 
+            "cloud", 
+            "water", 
+            "reflection", 
+            "horizon", 
+            "atmosphere", 
+            "black and white", 
+            "river", 
+            "tree", 
+            "phenomenon"
+        ], 
+        "name": "vr_ripkinkaty_54.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9459025, 
+            0.8550625, 
+            0.6720096, 
+            0.6703013, 
+            0.62512696, 
+            0.5563543, 
+            0.53797877
+        ], 
+        "attributes": [
+            "text", 
+            "font", 
+            "area", 
+            "line", 
+            "writing", 
+            "number", 
+            "product"
+        ], 
+        "name": "vr_ripkinkaty_59.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9359788, 
+            0.91075945, 
+            0.7902513, 
+            0.73626775, 
+            0.6283948, 
+            0.61044234, 
+            0.5543262, 
+            0.5397347, 
+            0.5169753
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "plant", 
+            "reflection", 
+            "wetland", 
+            "bayou", 
+            "flood", 
+            "branch", 
+            "floodplain"
+        ], 
+        "name": "vr_ripkinkaty_60.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.97590995, 
+            0.9728806, 
+            0.9551327, 
+            0.8922486, 
+            0.8749138, 
+            0.8466543, 
+            0.7963902, 
+            0.77879477, 
+            0.7625992, 
+            0.7544428
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "transport", 
+            "mode of transport", 
+            "automotive tire", 
+            "tire", 
+            "automotive exterior", 
+            "automotive wheel system", 
+            "automobile repair shop"
+        ], 
+        "name": "vr_sarge_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9754462, 
+            0.9593641, 
+            0.9013241, 
+            0.8718883, 
+            0.81266046, 
+            0.7981228, 
+            0.7808446, 
+            0.7741367, 
+            0.7602618, 
+            0.6754406
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "water transportation", 
+            "river", 
+            "tree", 
+            "vehicle", 
+            "reflection", 
+            "canal", 
+            "boat", 
+            "natural disaster"
+        ], 
+        "name": "vr_sarge_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.98224944, 
+            0.9548296, 
+            0.9082577, 
+            0.906103, 
+            0.86479086, 
+            0.830846, 
+            0.82275134, 
+            0.81138414, 
+            0.71606433, 
+            0.7045147
+        ], 
+        "attributes": [
+            "car", 
+            "road", 
+            "asphalt", 
+            "sky", 
+            "lane", 
+            "vehicle", 
+            "motor vehicle", 
+            "atmosphere of earth", 
+            "grass", 
+            "plant"
+        ], 
+        "name": "vr_sarge_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9730476, 
+            0.9680583, 
+            0.93462247, 
+            0.9239678, 
+            0.89588326, 
+            0.8437764, 
+            0.80857664, 
+            0.76410604, 
+            0.7451812, 
+            0.68867314
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "body of water", 
+            "water transportation", 
+            "river", 
+            "reflection", 
+            "vehicle", 
+            "boat", 
+            "water resources", 
+            "boating"
+        ], 
+        "name": "vr_sarge_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96943134, 
+            0.9223325, 
+            0.86667114, 
+            0.8353526, 
+            0.802851, 
+            0.78024405, 
+            0.769104, 
+            0.7008688, 
+            0.6859949, 
+            0.68386304
+        ], 
+        "attributes": [
+            "water", 
+            "reflection", 
+            "river", 
+            "flood", 
+            "sky", 
+            "water resources", 
+            "natural disaster", 
+            "cloud", 
+            "tree", 
+            "disaster"
+        ], 
+        "name": "vr_sarge_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.974504, 
+            0.94990855, 
+            0.8921843, 
+            0.7463084, 
+            0.7408036, 
+            0.7145109, 
+            0.68612283, 
+            0.64361256, 
+            0.6397216, 
+            0.6336195
+        ], 
+        "attributes": [
+            "car", 
+            "water", 
+            "vehicle", 
+            "reflection", 
+            "motor vehicle", 
+            "river", 
+            "natural disaster", 
+            "plant", 
+            "family car", 
+            "tree"
+        ], 
+        "name": "vr_sarge_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97188747, 
+            0.9403445, 
+            0.9122589, 
+            0.91200083, 
+            0.8616518, 
+            0.83668655, 
+            0.8077883, 
+            0.8013869, 
+            0.7875448, 
+            0.7841952
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "boat", 
+            "water transportation", 
+            "vehicle", 
+            "boating", 
+            "river", 
+            "kayaking", 
+            "kayak", 
+            "boats and boating equipment and supplies"
+        ], 
+        "name": "vr_sarge_07.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9754462, 
+            0.9593641, 
+            0.9013239, 
+            0.8718883, 
+            0.81266046, 
+            0.79812276, 
+            0.78084457, 
+            0.7741367, 
+            0.76026183, 
+            0.67544055
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "water transportation", 
+            "river", 
+            "tree", 
+            "vehicle", 
+            "reflection", 
+            "canal", 
+            "boat", 
+            "natural disaster"
+        ], 
+        "name": "vr_sarge_08.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.95682806, 
+            0.9386419, 
+            0.86394054, 
+            0.84981465, 
+            0.7578476, 
+            0.71369416, 
+            0.67416245, 
+            0.6415251, 
+            0.6261725, 
+            0.620832
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "water resources", 
+            "reflection", 
+            "tree", 
+            "natural disaster", 
+            "pond", 
+            "river", 
+            "flood", 
+            "disaster"
+        ], 
+        "name": "vr_sarge_09.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9770342, 
+            0.9759413, 
+            0.96537304, 
+            0.93536794, 
+            0.9295453, 
+            0.8988662, 
+            0.8932236, 
+            0.88007736, 
+            0.86720884, 
+            0.8442514
+        ], 
+        "attributes": [
+            "waterway", 
+            "reflection", 
+            "water", 
+            "body of water", 
+            "bayou", 
+            "water resources", 
+            "river", 
+            "lake", 
+            "tree", 
+            "pond"
+        ], 
+        "name": "vr_sarge_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9265831, 
+            0.91917384, 
+            0.9003482, 
+            0.88796204, 
+            0.82093465, 
+            0.80251455, 
+            0.7358103, 
+            0.7183979, 
+            0.6654867, 
+            0.65642565
+        ], 
+        "attributes": [
+            "property", 
+            "reflection", 
+            "house", 
+            "home", 
+            "water", 
+            "architecture", 
+            "real estate", 
+            "tree", 
+            "cottage", 
+            "roof"
+        ], 
+        "name": "vr_sarge_11.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97769535, 
+            0.9589973, 
+            0.9552313, 
+            0.9449247, 
+            0.9423242, 
+            0.935398, 
+            0.8945785, 
+            0.8898582, 
+            0.8644689, 
+            0.85806626
+        ], 
+        "attributes": [
+            "waterway", 
+            "reflection", 
+            "canal", 
+            "water", 
+            "river", 
+            "body of water", 
+            "lake", 
+            "sky", 
+            "loch", 
+            "water resources"
+        ], 
+        "name": "vr_sarge_12.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9263273, 
+            0.91703373, 
+            0.9156407, 
+            0.90126187, 
+            0.85989726, 
+            0.78406805, 
+            0.68825066, 
+            0.649292, 
+            0.6381707, 
+            0.6047069
+        ], 
+        "attributes": [
+            "boat", 
+            "water", 
+            "waterway", 
+            "vehicle", 
+            "water transportation", 
+            "boating", 
+            "plant community", 
+            "tree", 
+            "boats and boating equipment and supplies", 
+            "watercraft"
+        ], 
+        "name": "vr_sarge_13.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96454465, 
+            0.9590437, 
+            0.82451653, 
+            0.8037915, 
+            0.7827908, 
+            0.7606993, 
+            0.7030856, 
+            0.6537473, 
+            0.6509584, 
+            0.64421743
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "water resources", 
+            "bayou", 
+            "river", 
+            "reflection", 
+            "tree", 
+            "natural disaster", 
+            "bank", 
+            "disaster"
+        ], 
+        "name": "vr_sarge_14.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9571515, 
+            0.8771439, 
+            0.86227936, 
+            0.8204793, 
+            0.7845925, 
+            0.7547649, 
+            0.71656996, 
+            0.69998485, 
+            0.63540155, 
+            0.6214813
+        ], 
+        "attributes": [
+            "water", 
+            "river", 
+            "water resources", 
+            "tree", 
+            "geological phenomenon", 
+            "phenomenon", 
+            "reflection", 
+            "watercourse", 
+            "bank", 
+            "sky"
+        ], 
+        "name": "vr_sarge_15.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.95172656, 
+            0.93706405, 
+            0.906875, 
+            0.83418703, 
+            0.7029928, 
+            0.6934341, 
+            0.65752363, 
+            0.6475584, 
+            0.6137075, 
+            0.58263284
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "boat", 
+            "boating", 
+            "skiff", 
+            "boats and boating equipment and supplies", 
+            "vehicle", 
+            "hobby", 
+            "roof", 
+            "recreation"
+        ], 
+        "name": "vr_sarge_16.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9645359, 
+            0.9256714, 
+            0.8819083, 
+            0.8355682, 
+            0.8274, 
+            0.8068096, 
+            0.7892081, 
+            0.76477283, 
+            0.7600978, 
+            0.7280799
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "water transportation", 
+            "vehicle", 
+            "boat", 
+            "hobby", 
+            "outdoor recreation", 
+            "boating", 
+            "boats and boating equipment and supplies", 
+            "tree"
+        ], 
+        "name": "vr_sarge_17.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9755636, 
+            0.9401046, 
+            0.82566595, 
+            0.800387, 
+            0.78867954, 
+            0.7439367, 
+            0.70780665, 
+            0.69694334, 
+            0.6735346, 
+            0.6472163
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "water transportation", 
+            "river", 
+            "canal", 
+            "boat", 
+            "water resources", 
+            "bayou", 
+            "natural disaster", 
+            "boating"
+        ], 
+        "name": "vr_sarge_18.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.86912894, 
+            0.83605033, 
+            0.79770917, 
+            0.76246417, 
+            0.74486166, 
+            0.6779931, 
+            0.57871044, 
+            0.56663376, 
+            0.5137331
+        ], 
+        "attributes": [
+            "vehicle", 
+            "water", 
+            "outdoor recreation", 
+            "recreation", 
+            "personal protective equipment", 
+            "boating", 
+            "boat", 
+            "fishing", 
+            "fun"
+        ], 
+        "name": "vr_sarge_19.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.81955415, 
+            0.80288726, 
+            0.7226816, 
+            0.6430622, 
+            0.6348859, 
+            0.5757747, 
+            0.52942264, 
+            0.5185819
+        ], 
+        "attributes": [
+            "water", 
+            "vehicle", 
+            "boat", 
+            "personal protective equipment", 
+            "recreation", 
+            "boating", 
+            "adventure", 
+            "tree"
+        ], 
+        "name": "vr_sarge_20.jpg"
+    }
+]

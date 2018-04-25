@@ -1,0 +1,3836 @@
+[
+    {
+        "attributes_scores": [
+            0.8751741, 
+            0.8461207, 
+            0.8041942, 
+            0.74863875, 
+            0.74726593, 
+            0.7438774, 
+            0.72825307, 
+            0.671939, 
+            0.66886604, 
+            0.6462702
+        ], 
+        "attributes": [
+            "mode of transport", 
+            "family car", 
+            "car", 
+            "city car", 
+            "natural disaster", 
+            "disaster", 
+            "vehicle", 
+            "mid size car", 
+            "motor vehicle", 
+            "road"
+        ], 
+        "name": "r_annsharp_00.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.83664554, 
+            0.7777186, 
+            0.7547649, 
+            0.73485786, 
+            0.6708138, 
+            0.6325463, 
+            0.609531
+        ], 
+        "attributes": [
+            "light", 
+            "sky", 
+            "phenomenon", 
+            "lighting", 
+            "darkness", 
+            "space", 
+            "night"
+        ], 
+        "name": "r_annsharp_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.89965844, 
+            0.893541, 
+            0.88164026, 
+            0.8670828, 
+            0.7123813, 
+            0.6835225, 
+            0.6045582, 
+            0.6041758, 
+            0.5338611, 
+            0.5258003
+        ], 
+        "attributes": [
+            "floor", 
+            "property", 
+            "room", 
+            "flooring", 
+            "wood", 
+            "hardwood", 
+            "window", 
+            "glass", 
+            "door", 
+            "mirror"
+        ], 
+        "name": "r_annsharp_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.7698172, 
+            0.68658143, 
+            0.6006563
+        ], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "wood"
+        ], 
+        "name": "r_annsharp_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.76618814, 
+            0.66255736, 
+            0.6195834, 
+            0.5874514
+        ], 
+        "attributes": [
+            "gadget", 
+            "electronic device", 
+            "glass", 
+            "technology"
+        ], 
+        "name": "r_annsharp_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.6552248, 
+            0.6259954, 
+            0.56934774, 
+            0.5178654, 
+            0.5062244
+        ], 
+        "attributes": [
+            "electronics", 
+            "multimedia", 
+            "gadget", 
+            "product", 
+            "font"
+        ], 
+        "name": "r_annsharp_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.869212, 
+            0.84613997, 
+            0.8010826, 
+            0.60090727, 
+            0.60080063, 
+            0.5906585, 
+            0.5865721, 
+            0.57232857
+        ], 
+        "attributes": [
+            "furniture", 
+            "room", 
+            "table", 
+            "square", 
+            "flooring", 
+            "floor", 
+            "chair", 
+            "interior design"
+        ], 
+        "name": "r_annsharp_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.81942326, 
+            0.6384702, 
+            0.61981434, 
+            0.60455626, 
+            0.6022417, 
+            0.5593209, 
+            0.55138767, 
+            0.54421943, 
+            0.5265445
+        ], 
+        "attributes": [
+            "food", 
+            "breakfast", 
+            "dairy product", 
+            "cuisine", 
+            "dessert", 
+            "flavor", 
+            "meal", 
+            "ingredient", 
+            "dish"
+        ], 
+        "name": "r_annsharp_07.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9051446, 
+            0.8725348, 
+            0.73088247, 
+            0.64861935, 
+            0.6278145, 
+            0.5524368, 
+            0.54380316, 
+            0.52907, 
+            0.51659447, 
+            0.51269376
+        ], 
+        "attributes": [
+            "plant", 
+            "grass", 
+            "herb", 
+            "yard", 
+            "grass family", 
+            "landscaping", 
+            "backyard", 
+            "wood stain", 
+            "garden", 
+            "window"
+        ], 
+        "name": "r_annsharp_08.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.93214047, 
+            0.9152718, 
+            0.90528756, 
+            0.8980275, 
+            0.8774741, 
+            0.8750915, 
+            0.81616694, 
+            0.7683196, 
+            0.7163635, 
+            0.6701302
+        ], 
+        "attributes": [
+            "walkway", 
+            "grass", 
+            "plant", 
+            "path", 
+            "property", 
+            "lawn", 
+            "yard", 
+            "road surface", 
+            "backyard", 
+            "sidewalk"
+        ], 
+        "name": "r_annsharp_09.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8447264, 
+            0.79167616, 
+            0.63373756, 
+            0.59602743, 
+            0.5739955, 
+            0.5413968
+        ], 
+        "attributes": [
+            "product", 
+            "food", 
+            "product", 
+            "cuisine", 
+            "plastic", 
+            "flavor"
+        ], 
+        "name": "r_annsharp_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9351786, 
+            0.9167136, 
+            0.87932235, 
+            0.8616801, 
+            0.73600906, 
+            0.7308826, 
+            0.6776057, 
+            0.6562459, 
+            0.56584036, 
+            0.54212093
+        ], 
+        "attributes": [
+            "food", 
+            "meal", 
+            "dish", 
+            "cuisine", 
+            "full breakfast", 
+            "breakfast", 
+            "vegetarian food", 
+            "brunch", 
+            "lunch", 
+            "american food"
+        ], 
+        "name": "r_annsharp_11.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9350677, 
+            0.9117989, 
+            0.87015015, 
+            0.84640986, 
+            0.80046743, 
+            0.5436021, 
+            0.5367073, 
+            0.53414375, 
+            0.51882315, 
+            0.5153195
+        ], 
+        "attributes": [
+            "food", 
+            "dish", 
+            "meal", 
+            "cuisine", 
+            "cookware and bakeware", 
+            "asian food", 
+            "recipe", 
+            "brunch", 
+            "breakfast", 
+            "vegetable"
+        ], 
+        "name": "r_annsharp_12.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.861504, 
+            0.8602158, 
+            0.8076094, 
+            0.7975785, 
+            0.78701425, 
+            0.7547649, 
+            0.7152707, 
+            0.7132309, 
+            0.67299294, 
+            0.64429146
+        ], 
+        "attributes": [
+            "sky", 
+            "light", 
+            "atmosphere", 
+            "lighting", 
+            "atmosphere of earth", 
+            "phenomenon", 
+            "sunlight", 
+            "night", 
+            "darkness", 
+            "reflection"
+        ], 
+        "name": "r_annsharp_13.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94136316, 
+            0.87518317, 
+            0.82462853, 
+            0.7547649, 
+            0.7402621, 
+            0.7283343, 
+            0.6547552, 
+            0.6487485, 
+            0.6442024, 
+            0.6400903
+        ], 
+        "attributes": [
+            "car", 
+            "mode of transport", 
+            "light", 
+            "phenomenon", 
+            "motor vehicle", 
+            "lighting", 
+            "automotive exterior", 
+            "windshield", 
+            "vehicle", 
+            "sunlight"
+        ], 
+        "name": "r_annsharp_14.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9288245, 
+            0.90159464, 
+            0.7381512, 
+            0.6245652, 
+            0.5923383, 
+            0.5491319, 
+            0.54661417
+        ], 
+        "attributes": [
+            "furniture", 
+            "chair", 
+            "table", 
+            "product design", 
+            "square", 
+            "angle", 
+            "floor"
+        ], 
+        "name": "r_annsharp_15.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9192928, 
+            0.91765314, 
+            0.9146584, 
+            0.9084952, 
+            0.8926711, 
+            0.88039666, 
+            0.87081105, 
+            0.8077631, 
+            0.77113086, 
+            0.71375114
+        ], 
+        "attributes": [
+            "liqueur", 
+            "drink", 
+            "alcoholic beverage", 
+            "distilled beverage", 
+            "product", 
+            "liquor store", 
+            "wine", 
+            "alcohol", 
+            "bottle", 
+            "product"
+        ], 
+        "name": "r_caspakaty_01.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.84824044, 
+            0.78387845, 
+            0.7740087, 
+            0.7571387, 
+            0.74857354, 
+            0.73219204, 
+            0.6996778, 
+            0.5755428, 
+            0.5517987
+        ], 
+        "attributes": [
+            "product", 
+            "cola", 
+            "coca cola", 
+            "product", 
+            "soft drink", 
+            "retail", 
+            "carbonated soft drinks", 
+            "supermarket", 
+            "inventory"
+        ], 
+        "name": "r_caspakaty_04.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.89165056, 
+            0.88514036, 
+            0.782356, 
+            0.7546047, 
+            0.6920383, 
+            0.6632987, 
+            0.6589367, 
+            0.6507809, 
+            0.57045525, 
+            0.5287484
+        ], 
+        "attributes": [
+            "day", 
+            "child", 
+            "fun", 
+            "vacation", 
+            "smile", 
+            "recreation", 
+            "summer", 
+            "toddler", 
+            "girl", 
+            "leisure"
+        ], 
+        "name": "r_caspakaty_05.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.950358, 
+            0.9248718, 
+            0.8967871, 
+            0.8809121, 
+            0.8240131, 
+            0.8091089, 
+            0.785587, 
+            0.77392775, 
+            0.74851596, 
+            0.7447088
+        ], 
+        "attributes": [
+            "tree", 
+            "property", 
+            "wall", 
+            "woody plant", 
+            "window", 
+            "structure", 
+            "house", 
+            "brickwork", 
+            "grass", 
+            "wood"
+        ], 
+        "name": "r_caspakaty_06.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9224722, 
+            0.8904305, 
+            0.80320716, 
+            0.7958771, 
+            0.77796656, 
+            0.77155244, 
+            0.7704242, 
+            0.7276735, 
+            0.6315194, 
+            0.6194237
+        ], 
+        "attributes": [
+            "property", 
+            "home", 
+            "neighbourhood", 
+            "residential area", 
+            "disaster", 
+            "real estate", 
+            "house", 
+            "natural disaster", 
+            "cottage", 
+            "water"
+        ], 
+        "name": "r_caspakaty_21.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8421627, 
+            0.7965759, 
+            0.556025, 
+            0.5326508
+        ], 
+        "attributes": [
+            "tree", 
+            "vehicle", 
+            "recreation", 
+            "traffic light"
+        ], 
+        "name": "r_faith_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9469272, 
+            0.8843966, 
+            0.8751742, 
+            0.8720306, 
+            0.8485454, 
+            0.82725143, 
+            0.8164029, 
+            0.8122258, 
+            0.77794623, 
+            0.7542941
+        ], 
+        "attributes": [
+            "car", 
+            "bumper", 
+            "mode of transport", 
+            "automotive exterior", 
+            "vehicle door", 
+            "light", 
+            "vehicle", 
+            "family car", 
+            "auto part", 
+            "glass"
+        ], 
+        "name": "r_faith_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8871819, 
+            0.66999114, 
+            0.5795328, 
+            0.54282254
+        ], 
+        "attributes": [
+            "waste", 
+            "scrap", 
+            "vehicle", 
+            "automotive exterior"
+        ], 
+        "name": "r_faith_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.87511283, 
+            0.60875815, 
+            0.5746977, 
+            0.5742945, 
+            0.53648746
+        ], 
+        "attributes": [
+            "mode of transport", 
+            "automotive tire", 
+            "automotive exterior", 
+            "machine", 
+            "tire"
+        ], 
+        "name": "r_faith_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.88078296, 
+            0.85707647, 
+            0.7512164, 
+            0.66007376, 
+            0.5510192, 
+            0.54487354, 
+            0.52526444, 
+            0.50385356
+        ], 
+        "attributes": [
+            "tree", 
+            "plant", 
+            "grass", 
+            "house", 
+            "recreation", 
+            "outdoor structure", 
+            "roof", 
+            "window"
+        ], 
+        "name": "r_faith_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9525986, 
+            0.8782708, 
+            0.8420782, 
+            0.78028244, 
+            0.72730273, 
+            0.6452565, 
+            0.6297366, 
+            0.6081621, 
+            0.55172217, 
+            0.5211963
+        ], 
+        "attributes": [
+            "tree", 
+            "woody plant", 
+            "plant", 
+            "roof", 
+            "vehicle", 
+            "grass", 
+            "house", 
+            "outdoor structure", 
+            "recreation", 
+            "backyard"
+        ], 
+        "name": "r_faith_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96476734, 
+            0.9417134, 
+            0.9191854, 
+            0.91662776, 
+            0.8960968, 
+            0.87581307, 
+            0.87519974, 
+            0.8658393, 
+            0.8620419, 
+            0.80798495
+        ], 
+        "attributes": [
+            "car", 
+            "asphalt", 
+            "tree", 
+            "property", 
+            "vehicle", 
+            "neighbourhood", 
+            "mode of transport", 
+            "residential area", 
+            "plant", 
+            "road"
+        ], 
+        "name": "r_faith_07.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.92386025, 
+            0.89048356, 
+            0.7758189, 
+            0.7509529, 
+            0.6815396, 
+            0.63439506, 
+            0.63434696, 
+            0.58127224, 
+            0.56750387
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "natural disaster", 
+            "disaster", 
+            "automotive exterior", 
+            "road", 
+            "flood", 
+            "family car"
+        ], 
+        "name": "r_faith_08.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.81046224, 
+            0.54063284, 
+            0.5326526, 
+            0.52259195, 
+            0.517818
+        ], 
+        "attributes": [
+            "road", 
+            "disaster", 
+            "rain", 
+            "land lot", 
+            "vehicle"
+        ], 
+        "name": "r_faith_09.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9750183, 
+            0.90191716, 
+            0.83962625, 
+            0.8220375, 
+            0.81176746, 
+            0.7547649, 
+            0.7018951, 
+            0.6752748, 
+            0.6136606, 
+            0.60272783
+        ], 
+        "attributes": [
+            "sky", 
+            "cloud", 
+            "flight", 
+            "atmosphere of earth", 
+            "atmosphere", 
+            "phenomenon", 
+            "daytime", 
+            "meteorological phenomenon", 
+            "fly", 
+            "wing"
+        ], 
+        "name": "r_faith_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9487606, 
+            0.88573, 
+            0.7844805, 
+            0.7786099, 
+            0.7665774, 
+            0.7598606, 
+            0.7327005, 
+            0.68026155, 
+            0.60523576, 
+            0.53498775
+        ], 
+        "attributes": [
+            "tree", 
+            "ecosystem", 
+            "leaf", 
+            "branch", 
+            "plant", 
+            "water", 
+            "geological phenomenon", 
+            "biome", 
+            "grass", 
+            "map"
+        ], 
+        "name": "r_faith_11.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.951406, 
+            0.873115, 
+            0.81908, 
+            0.81045187, 
+            0.7944485, 
+            0.66542804, 
+            0.62502575, 
+            0.60728294
+        ], 
+        "attributes": [
+            "waterway", 
+            "water transportation", 
+            "water resources", 
+            "water", 
+            "boating", 
+            "recreation", 
+            "river", 
+            "boats and boating equipment and supplies"
+        ], 
+        "name": "r_faith_12.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8039337, 
+            0.74086565, 
+            0.7365728, 
+            0.7097519, 
+            0.7083846, 
+            0.52245355, 
+            0.5021361
+        ], 
+        "attributes": [
+            "disaster", 
+            "road", 
+            "geological phenomenon", 
+            "water resources", 
+            "natural disaster", 
+            "vehicle", 
+            "concrete bridge"
+        ], 
+        "name": "r_faith_13.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8681782, 
+            0.83193135, 
+            0.7774162, 
+            0.7662941, 
+            0.70736575, 
+            0.6945525, 
+            0.6325543
+        ], 
+        "attributes": [
+            "flood", 
+            "natural disaster", 
+            "water resources", 
+            "disaster", 
+            "river", 
+            "floodplain", 
+            "water"
+        ], 
+        "name": "r_faith_14.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94850403, 
+            0.68795466, 
+            0.6807592, 
+            0.5859888, 
+            0.55963933, 
+            0.55145156, 
+            0.54676485, 
+            0.5095779, 
+            0.5071988
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "reflection", 
+            "water feature", 
+            "flood", 
+            "pond", 
+            "outdoor structure", 
+            "recreation", 
+            "natural disaster"
+        ], 
+        "name": "r_faith_15.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9336106, 
+            0.8040573, 
+            0.6855739, 
+            0.61946476, 
+            0.60018915
+        ], 
+        "attributes": [
+            "water", 
+            "wall", 
+            "tree", 
+            "water resources", 
+            "grass"
+        ], 
+        "name": "r_faith_16.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.91873914, 
+            0.69539875, 
+            0.63258106, 
+            0.5651253, 
+            0.5528945, 
+            0.53393906
+        ], 
+        "attributes": [
+            "wall", 
+            "wood", 
+            "concrete", 
+            "sky", 
+            "angle", 
+            "texture"
+        ], 
+        "name": "r_faith_17.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8338864, 
+            0.7662452, 
+            0.7203616, 
+            0.6850803, 
+            0.5739879, 
+            0.571907, 
+            0.5651515, 
+            0.5102498
+        ], 
+        "attributes": [
+            "wall", 
+            "floor", 
+            "bumper", 
+            "automotive exterior", 
+            "angle", 
+            "flooring", 
+            "concrete", 
+            "auto part"
+        ], 
+        "name": "r_faith_18.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8009597, 
+            0.7824314, 
+            0.7547649, 
+            0.7059234, 
+            0.6417572, 
+            0.515956, 
+            0.50007266
+        ], 
+        "attributes": [
+            "night", 
+            "geological phenomenon", 
+            "phenomenon", 
+            "soil", 
+            "darkness", 
+            "screenshot", 
+            "sky"
+        ], 
+        "name": "r_faith_19.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.89234734, 
+            0.8379601, 
+            0.7547649, 
+            0.6929824, 
+            0.5782233, 
+            0.53302395, 
+            0.52899015
+        ], 
+        "attributes": [
+            "night", 
+            "tree", 
+            "phenomenon", 
+            "darkness", 
+            "water", 
+            "fire", 
+            "smoke"
+        ], 
+        "name": "r_faith_20.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.95749426, 
+            0.86111915, 
+            0.7778187, 
+            0.76328903, 
+            0.7550134, 
+            0.7021709, 
+            0.667524, 
+            0.5998886, 
+            0.5722078, 
+            0.5301155
+        ], 
+        "attributes": [
+            "reflection", 
+            "light", 
+            "water", 
+            "night", 
+            "lighting", 
+            "darkness", 
+            "sunlight", 
+            "sky", 
+            "tree", 
+            "glass"
+        ], 
+        "name": "r_faith_21.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9832874, 
+            0.9761655, 
+            0.9301952, 
+            0.8752497, 
+            0.8688798, 
+            0.85392743, 
+            0.83172673, 
+            0.8026627, 
+            0.78995264, 
+            0.7535804
+        ], 
+        "attributes": [
+            "car", 
+            "reflection", 
+            "motor vehicle", 
+            "mode of transport", 
+            "light", 
+            "automotive lighting", 
+            "automotive design", 
+            "night", 
+            "photography", 
+            "darkness"
+        ], 
+        "name": "r_faith_22.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9420304, 
+            0.88898355, 
+            0.8334872, 
+            0.7547649, 
+            0.7509475, 
+            0.7250681, 
+            0.7154544, 
+            0.6748606, 
+            0.6547019, 
+            0.6108212
+        ], 
+        "attributes": [
+            "reflection", 
+            "water", 
+            "sky", 
+            "phenomenon", 
+            "lighting", 
+            "window", 
+            "darkness", 
+            "night", 
+            "house", 
+            "tree"
+        ], 
+        "name": "r_faith_23.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.92266595, 
+            0.8461495, 
+            0.82322294, 
+            0.7547649, 
+            0.6183776, 
+            0.5615559, 
+            0.5355369
+        ], 
+        "attributes": [
+            "reflection", 
+            "water", 
+            "light", 
+            "phenomenon", 
+            "asphalt", 
+            "floor", 
+            "shadow"
+        ], 
+        "name": "r_faith_24.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8996266, 
+            0.8795154, 
+            0.87593347, 
+            0.76865274, 
+            0.66803926, 
+            0.61132336, 
+            0.5964383, 
+            0.54790294, 
+            0.54737043, 
+            0.5442518
+        ], 
+        "attributes": [
+            "night", 
+            "darkness", 
+            "light", 
+            "lighting", 
+            "tree", 
+            "sky", 
+            "midnight", 
+            "computer wallpaper", 
+            "neon", 
+            "angle"
+        ], 
+        "name": "r_faith_25.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9532936, 
+            0.91446716, 
+            0.8765813, 
+            0.8541427, 
+            0.85080844, 
+            0.83678025, 
+            0.8199981, 
+            0.7943386, 
+            0.78641397, 
+            0.7547649
+        ], 
+        "attributes": [
+            "black", 
+            "darkness", 
+            "light", 
+            "sky", 
+            "night", 
+            "atmosphere", 
+            "wall", 
+            "tree", 
+            "lighting", 
+            "phenomenon"
+        ], 
+        "name": "r_faith_26.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.98500407, 
+            0.97312295, 
+            0.96164244, 
+            0.8783683, 
+            0.8647802, 
+            0.84175074, 
+            0.8249336, 
+            0.81311065, 
+            0.80933356, 
+            0.78896666
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "land vehicle", 
+            "vehicle", 
+            "reflection", 
+            "family car", 
+            "window", 
+            "vehicle door", 
+            "tree", 
+            "automotive exterior"
+        ], 
+        "name": "r_faith_27.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8841218, 
+            0.8684429, 
+            0.85854185, 
+            0.8078175, 
+            0.7961471, 
+            0.7547649, 
+            0.7411246, 
+            0.69343096, 
+            0.6778083, 
+            0.657496
+        ], 
+        "attributes": [
+            "sky", 
+            "cloud", 
+            "atmosphere", 
+            "atmosphere of earth", 
+            "wind", 
+            "phenomenon", 
+            "field", 
+            "rural area", 
+            "tornado", 
+            "storm"
+        ], 
+        "name": "r_faith_28.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.91871744, 
+            0.8972695, 
+            0.88482636, 
+            0.87525123, 
+            0.861925, 
+            0.8541703, 
+            0.8509283, 
+            0.82875866, 
+            0.8232156, 
+            0.8137659
+        ], 
+        "attributes": [
+            "sky", 
+            "ecosystem", 
+            "grass", 
+            "mode of transport", 
+            "field", 
+            "structure", 
+            "cloud", 
+            "grassland", 
+            "land lot", 
+            "atmosphere of earth"
+        ], 
+        "name": "r_faith_29.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8892059, 
+            0.85680187, 
+            0.8517083, 
+            0.8198256, 
+            0.80094683, 
+            0.7870131, 
+            0.78039193, 
+            0.7547649, 
+            0.7380121, 
+            0.610207
+        ], 
+        "attributes": [
+            "darkness", 
+            "light", 
+            "night", 
+            "sky", 
+            "atmosphere", 
+            "tree", 
+            "lighting", 
+            "phenomenon", 
+            "sunlight", 
+            "evening"
+        ], 
+        "name": "r_faith_30.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9381691, 
+            0.8910352, 
+            0.8247517, 
+            0.78257453, 
+            0.7547649, 
+            0.74850714, 
+            0.717578, 
+            0.60007626, 
+            0.5397504, 
+            0.5330272
+        ], 
+        "attributes": [
+            "reflection", 
+            "night", 
+            "water", 
+            "tree", 
+            "phenomenon", 
+            "darkness", 
+            "street light", 
+            "evening", 
+            "sky", 
+            "midnight"
+        ], 
+        "name": "r_faith_31.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.83624214, 
+            0.6922622, 
+            0.6675717, 
+            0.6589916, 
+            0.632059, 
+            0.613968, 
+            0.6039321, 
+            0.57236016, 
+            0.57089394, 
+            0.53502303
+        ], 
+        "attributes": [
+            "textile", 
+            "bedtime", 
+            "child", 
+            "toddler", 
+            "material", 
+            "product", 
+            "bedding", 
+            "linens", 
+            "sleep", 
+            "bed sheet"
+        ], 
+        "name": "r_geri_01.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.73922527, 
+            0.64122325, 
+            0.59598714, 
+            0.5259048, 
+            0.51503974
+        ], 
+        "attributes": [
+            "vehicle", 
+            "tree", 
+            "recreation", 
+            "dry suit", 
+            "personal protective equipment"
+        ], 
+        "name": "r_haibinkaty_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9097035, 
+            0.8828722, 
+            0.84892154, 
+            0.82379436, 
+            0.76077884, 
+            0.6309338, 
+            0.5892824, 
+            0.5224471
+        ], 
+        "attributes": [
+            "waterway", 
+            "vehicle", 
+            "water", 
+            "water transportation", 
+            "boat", 
+            "recreation", 
+            "boating", 
+            "boats and boating equipment and supplies"
+        ], 
+        "name": "r_haibinkaty_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.92294216, 
+            0.90417296, 
+            0.89051574, 
+            0.8018731, 
+            0.74023306, 
+            0.67987967, 
+            0.6758623, 
+            0.671007, 
+            0.654778, 
+            0.6521389
+        ], 
+        "attributes": [
+            "room", 
+            "property", 
+            "furniture", 
+            "shelving", 
+            "home", 
+            "door", 
+            "floor", 
+            "chair", 
+            "window", 
+            "flooring"
+        ], 
+        "name": "r_haibinkaty_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.90873337, 
+            0.8714298, 
+            0.83915365, 
+            0.5841636, 
+            0.56638753, 
+            0.5594054
+        ], 
+        "attributes": [
+            "vehicle", 
+            "car", 
+            "water", 
+            "recreation", 
+            "automotive exterior", 
+            "floor"
+        ], 
+        "name": "r_haibinkaty_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96567357, 
+            0.89445096, 
+            0.87461597, 
+            0.8212942, 
+            0.8173555, 
+            0.81608886, 
+            0.79739314, 
+            0.75974405, 
+            0.7012334, 
+            0.6818577
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "vehicle", 
+            "car", 
+            "tree", 
+            "water transportation", 
+            "boat", 
+            "boating", 
+            "plant", 
+            "canal"
+        ], 
+        "name": "r_haibinkaty_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9506543, 
+            0.9412603, 
+            0.8649356, 
+            0.83168036, 
+            0.8122254, 
+            0.78496313, 
+            0.7610183, 
+            0.71742207, 
+            0.64077204, 
+            0.60250634
+        ], 
+        "attributes": [
+            "car", 
+            "water", 
+            "road", 
+            "tree", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
+            "vehicle", 
+            "street", 
+            "floodplain"
+        ], 
+        "name": "r_haibinkaty_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.81743115, 
+            0.7978786, 
+            0.783381, 
+            0.7322581, 
+            0.72865915, 
+            0.72854483, 
+            0.6962955, 
+            0.694117, 
+            0.68657756, 
+            0.6385504
+        ], 
+        "attributes": [
+            "youth", 
+            "community", 
+            "crowd", 
+            "interaction", 
+            "car", 
+            "girl", 
+            "recreation", 
+            "vehicle", 
+            "temple", 
+            "street"
+        ], 
+        "name": "r_haibinkaty_07.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94915146, 
+            0.8621442, 
+            0.8582488, 
+            0.7965186, 
+            0.7676209, 
+            0.727665, 
+            0.7146146, 
+            0.69659024, 
+            0.6901083, 
+            0.6594413
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "flood", 
+            "river", 
+            "natural disaster", 
+            "bank", 
+            "tree", 
+            "canal", 
+            "floodplain", 
+            "disaster"
+        ], 
+        "name": "r_haibinkaty_08.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9243438, 
+            0.8417252, 
+            0.81201947, 
+            0.8082756, 
+            0.77276945, 
+            0.6899252, 
+            0.6523677, 
+            0.6318587, 
+            0.6304341, 
+            0.6186482
+        ], 
+        "attributes": [
+            "sky", 
+            "tree", 
+            "water", 
+            "atmosphere of earth", 
+            "plant", 
+            "cloud", 
+            "roof", 
+            "house", 
+            "vehicle", 
+            "outdoor structure"
+        ], 
+        "name": "r_haibinkaty_video.mov.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9730316, 
+            0.8974905, 
+            0.8766784, 
+            0.8571112, 
+            0.85047686, 
+            0.76720595, 
+            0.70957893, 
+            0.66748816, 
+            0.6538576, 
+            0.61876905
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "water resources", 
+            "vehicle", 
+            "river", 
+            "tree", 
+            "watercourse", 
+            "jungle", 
+            "canal", 
+            "rapid"
+        ], 
+        "name": "r_johnenergy_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9630858, 
+            0.89868915, 
+            0.8579627, 
+            0.7993749, 
+            0.63862026, 
+            0.6203298, 
+            0.5961526, 
+            0.51815337, 
+            0.500888
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "water resources", 
+            "river", 
+            "tree", 
+            "watercourse", 
+            "vehicle", 
+            "natural disaster", 
+            "flood"
+        ], 
+        "name": "r_johnenergy_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.92302847, 
+            0.90922856, 
+            0.8686895, 
+            0.74859756, 
+            0.70965225, 
+            0.6949918, 
+            0.63867223, 
+            0.61977947, 
+            0.6193464, 
+            0.55558527
+        ], 
+        "attributes": [
+            "car", 
+            "water", 
+            "vehicle", 
+            "fun", 
+            "recreation", 
+            "leg", 
+            "tree", 
+            "leisure", 
+            "vacation", 
+            "personal flotation device"
+        ], 
+        "name": "r_johnenergy_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9665724, 
+            0.9270932, 
+            0.8615006, 
+            0.78053635, 
+            0.73135287, 
+            0.72410053, 
+            0.70470464, 
+            0.63770103, 
+            0.5947671, 
+            0.59015006
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
+            "tree", 
+            "river", 
+            "vehicle", 
+            "watercourse", 
+            "water resources"
+        ], 
+        "name": "r_johnenergy_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9213335, 
+            0.86452085, 
+            0.7958589, 
+            0.7276868, 
+            0.7266567, 
+            0.6614549, 
+            0.62285274, 
+            0.5958708, 
+            0.5881558, 
+            0.5503449
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "floodplain", 
+            "disaster", 
+            "water resources", 
+            "tree", 
+            "bank", 
+            "river", 
+            "watercourse"
+        ], 
+        "name": "r_johnenergy_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9605724, 
+            0.8985416, 
+            0.76966566, 
+            0.76907545, 
+            0.7384739, 
+            0.728353, 
+            0.725707, 
+            0.70798165, 
+            0.66145134, 
+            0.65759957
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "bank", 
+            "reflection", 
+            "plant", 
+            "bayou", 
+            "flood", 
+            "floodplain", 
+            "river", 
+            "grass"
+        ], 
+        "name": "r_johnenergy_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9619288, 
+            0.8652567, 
+            0.8193536, 
+            0.80787015, 
+            0.75428355, 
+            0.7528105, 
+            0.72413206, 
+            0.6977063, 
+            0.6458335, 
+            0.63944125
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "bank", 
+            "grass", 
+            "floodplain", 
+            "wetland", 
+            "water resources", 
+            "bayou", 
+            "pond", 
+            "landscape"
+        ], 
+        "name": "r_johnenergy_07.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.90387046, 
+            0.8230353, 
+            0.80374885, 
+            0.7876477, 
+            0.70167303, 
+            0.69011194, 
+            0.68597966, 
+            0.68334377, 
+            0.6584109, 
+            0.636242
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "floodplain", 
+            "bayou", 
+            "bank", 
+            "water resources", 
+            "state park", 
+            "wetland", 
+            "grass", 
+            "flood"
+        ], 
+        "name": "r_johnenergy_08.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9568321, 
+            0.9396081, 
+            0.91952574, 
+            0.86769277, 
+            0.7511779, 
+            0.72106874, 
+            0.7170862, 
+            0.7057014, 
+            0.6784116, 
+            0.67105705
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "water resources", 
+            "pond", 
+            "tree", 
+            "water feature", 
+            "watercourse", 
+            "grass", 
+            "reservoir", 
+            "bank"
+        ], 
+        "name": "r_johnenergy_09.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9565115, 
+            0.94630736, 
+            0.8488562, 
+            0.84554577, 
+            0.7626674, 
+            0.7366259, 
+            0.72107476, 
+            0.68495864, 
+            0.67004365, 
+            0.658905
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "tree", 
+            "water resources", 
+            "bank", 
+            "river", 
+            "grass", 
+            "floodplain", 
+            "watercourse", 
+            "pond"
+        ], 
+        "name": "r_johnenergy_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9861655, 
+            0.977037, 
+            0.96395046, 
+            0.9522494, 
+            0.93222046, 
+            0.92414916, 
+            0.9212352, 
+            0.89869016, 
+            0.8943321, 
+            0.8892524
+        ], 
+        "attributes": [
+            "car", 
+            "road", 
+            "motor vehicle", 
+            "vehicle", 
+            "tree", 
+            "lane", 
+            "plant", 
+            "asphalt", 
+            "woody plant", 
+            "transport"
+        ], 
+        "name": "r_johnenergy_11.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.98488456, 
+            0.9780131, 
+            0.96925056, 
+            0.9485163, 
+            0.8751761, 
+            0.80123156, 
+            0.7934055, 
+            0.7523599, 
+            0.7262138, 
+            0.71965396
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "land vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "automotive exterior", 
+            "automotive design", 
+            "family car", 
+            "vehicle door", 
+            "automotive wheel system"
+        ], 
+        "name": "r_johnenergy_12.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.91437536, 
+            0.9053751, 
+            0.81510925, 
+            0.7414572, 
+            0.72890365, 
+            0.72147065, 
+            0.7011242, 
+            0.68405384, 
+            0.6789197, 
+            0.65058184
+        ], 
+        "attributes": [
+            "floor", 
+            "property", 
+            "flooring", 
+            "home", 
+            "tile", 
+            "table", 
+            "interior design", 
+            "furniture", 
+            "house", 
+            "chair"
+        ], 
+        "name": "r_johnenergy_13.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9452626, 
+            0.9042137, 
+            0.8900771, 
+            0.8741879, 
+            0.873559, 
+            0.79423714, 
+            0.77961904, 
+            0.7517682, 
+            0.74620897, 
+            0.58142394
+        ], 
+        "attributes": [
+            "floor", 
+            "yellow", 
+            "flooring", 
+            "tile", 
+            "room", 
+            "wall", 
+            "wood stain", 
+            "hardwood", 
+            "wood", 
+            "wood flooring"
+        ], 
+        "name": "r_johnenergy_14.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9602775, 
+            0.9352391, 
+            0.82364106, 
+            0.72500587, 
+            0.71517444, 
+            0.7076482, 
+            0.6628162, 
+            0.6259356, 
+            0.6196007, 
+            0.60976994
+        ], 
+        "attributes": [
+            "bathroom", 
+            "room", 
+            "floor", 
+            "tile", 
+            "plumbing fixture", 
+            "flooring", 
+            "house", 
+            "toilet", 
+            "sink", 
+            "home"
+        ], 
+        "name": "r_johnenergy_15.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.82872343, 
+            0.74424, 
+            0.7278895, 
+            0.52100176, 
+            0.514465
+        ], 
+        "attributes": [
+            "floor", 
+            "tile", 
+            "flooring", 
+            "concrete", 
+            "window"
+        ], 
+        "name": "r_johnenergy_16.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9764192, 
+            0.9545103, 
+            0.9028102, 
+            0.8801479, 
+            0.8547174, 
+            0.8500509, 
+            0.8167882, 
+            0.80684954, 
+            0.75666016, 
+            0.6363089
+        ], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "hardwood", 
+            "laminate flooring", 
+            "wood flooring", 
+            "room", 
+            "wood", 
+            "tile", 
+            "wood stain", 
+            "furniture"
+        ], 
+        "name": "r_johnenergy_17.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9356257, 
+            0.6791928, 
+            0.65242106, 
+            0.627438, 
+            0.6156299, 
+            0.510251
+        ], 
+        "attributes": [
+            "room", 
+            "floor", 
+            "flooring", 
+            "home", 
+            "furniture", 
+            "product"
+        ], 
+        "name": "r_johnenergy_18.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9119653, 
+            0.82262254, 
+            0.7757821, 
+            0.7665487, 
+            0.68110085, 
+            0.59291977, 
+            0.5843231, 
+            0.573932, 
+            0.54207194, 
+            0.50894946
+        ], 
+        "attributes": [
+            "property", 
+            "plant", 
+            "floor", 
+            "glass", 
+            "flooring", 
+            "table", 
+            "daylighting", 
+            "window", 
+            "water", 
+            "interior design"
+        ], 
+        "name": "r_johnenergy_19.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.78593755, 
+            0.7344402, 
+            0.71268463
+        ], 
+        "attributes": [
+            "window", 
+            "glass", 
+            "door"
+        ], 
+        "name": "r_johnenergy_20.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97524613, 
+            0.9695318, 
+            0.95088065, 
+            0.7940181, 
+            0.7917266, 
+            0.7857287, 
+            0.7241328, 
+            0.6982176, 
+            0.6621671, 
+            0.65677226
+        ], 
+        "attributes": [
+            "road bicycle", 
+            "land vehicle", 
+            "bicycle", 
+            "sports equipment", 
+            "bicycle accessory", 
+            "vehicle", 
+            "cycling", 
+            "hybrid bicycle", 
+            "bicycle frame", 
+            "bicycle wheel"
+        ], 
+        "name": "r_johnenergy_21.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.81891984, 
+            0.7839251, 
+            0.7745293, 
+            0.76104516, 
+            0.65489185, 
+            0.6255221, 
+            0.6101657, 
+            0.6075607, 
+            0.59823847, 
+            0.57356983
+        ], 
+        "attributes": [
+            "interior design", 
+            "window", 
+            "structure", 
+            "house", 
+            "home", 
+            "window treatment", 
+            "glass", 
+            "daylighting", 
+            "window covering", 
+            "curtain"
+        ], 
+        "name": "r_johnenergy_22.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9660485, 
+            0.9382419, 
+            0.92286104, 
+            0.8984429, 
+            0.8823876, 
+            0.8135286, 
+            0.8068372, 
+            0.8028279, 
+            0.7838141, 
+            0.69444263
+        ], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "furniture", 
+            "hardwood", 
+            "wood", 
+            "wood flooring", 
+            "chair", 
+            "laminate flooring", 
+            "table", 
+            "wood stain"
+        ], 
+        "name": "r_johnenergy_23.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9450898, 
+            0.8666564, 
+            0.6617936, 
+            0.53378356, 
+            0.51162636
+        ], 
+        "attributes": [
+            "water", 
+            "wall", 
+            "reflection", 
+            "window", 
+            "concrete"
+        ], 
+        "name": "r_johnenergy_24.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94805086, 
+            0.9429621, 
+            0.9166338, 
+            0.8641366, 
+            0.8440235, 
+            0.8325277, 
+            0.81663054, 
+            0.81563234, 
+            0.79618245, 
+            0.72348845
+        ], 
+        "attributes": [
+            "motor vehicle", 
+            "tire", 
+            "automotive tire", 
+            "wheel", 
+            "bumper", 
+            "automotive exterior", 
+            "auto part", 
+            "automotive wheel system", 
+            "car", 
+            "fender"
+        ], 
+        "name": "r_johnenergy_25.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9473168, 
+            0.9049129, 
+            0.9046016, 
+            0.87556916, 
+            0.7850105, 
+            0.7544632, 
+            0.7275158, 
+            0.7201934, 
+            0.7082567, 
+            0.6968003
+        ], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "property", 
+            "room", 
+            "hardwood", 
+            "tile", 
+            "wood", 
+            "window", 
+            "wood flooring", 
+            "interior design"
+        ], 
+        "name": "r_johnenergy_26.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.7363882
+        ], 
+        "attributes": [
+            "water"
+        ], 
+        "name": "r_johnenergy_27.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94020057, 
+            0.91927576, 
+            0.8842183, 
+            0.8562678, 
+            0.7242022, 
+            0.65114003, 
+            0.64466685, 
+            0.6440122, 
+            0.62540555, 
+            0.611398
+        ], 
+        "attributes": [
+            "floor", 
+            "property", 
+            "flooring", 
+            "tile", 
+            "hardwood", 
+            "wood", 
+            "wood flooring", 
+            "home", 
+            "glass", 
+            "house"
+        ], 
+        "name": "r_johnenergy_28.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.93193936, 
+            0.70866424, 
+            0.68477297, 
+            0.61145806, 
+            0.6065435, 
+            0.55952597
+        ], 
+        "attributes": [
+            "water", 
+            "window", 
+            "plant", 
+            "glass", 
+            "house", 
+            "tree"
+        ], 
+        "name": "r_johnenergy_29.jpg"
+    }, 
+    {
+        "attributes_scores": [], 
+        "attributes": [], 
+        "name": "r_johnenergy_30.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.52291197
+        ], 
+        "attributes": [
+            "food"
+        ], 
+        "name": "r_johnenergy_31.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9618686, 
+            0.7877574, 
+            0.787542, 
+            0.7520396, 
+            0.6862283, 
+            0.6608667, 
+            0.61520743, 
+            0.6061457, 
+            0.57029045, 
+            0.5146148
+        ], 
+        "attributes": [
+            "water", 
+            "water resources", 
+            "flood", 
+            "natural disaster", 
+            "bank", 
+            "pond", 
+            "floodplain", 
+            "river", 
+            "disaster", 
+            "tree"
+        ], 
+        "name": "r_johnenergy_32.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.92372864, 
+            0.8592891, 
+            0.81854874, 
+            0.76511645, 
+            0.7366399, 
+            0.72493696, 
+            0.7199301, 
+            0.66126716, 
+            0.6588199, 
+            0.65817887
+        ], 
+        "attributes": [
+            "property", 
+            "home", 
+            "brickwork", 
+            "house", 
+            "real estate", 
+            "backyard", 
+            "door", 
+            "window", 
+            "water", 
+            "brick"
+        ], 
+        "name": "r_johnenergy_33.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9725771, 
+            0.96161646, 
+            0.95670134, 
+            0.93536425, 
+            0.9240178, 
+            0.8633499, 
+            0.8484423, 
+            0.81781954, 
+            0.75442976, 
+            0.71627074
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "river", 
+            "body of water", 
+            "water resources", 
+            "reflection", 
+            "tree", 
+            "bank", 
+            "watercourse", 
+            "bayou"
+        ], 
+        "name": "r_johnenergy_34.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.89861447, 
+            0.87929493, 
+            0.7260803, 
+            0.69426715, 
+            0.6728477, 
+            0.61878604, 
+            0.60878694, 
+            0.6042494, 
+            0.5927574, 
+            0.58375764
+        ], 
+        "attributes": [
+            "water", 
+            "property", 
+            "real estate", 
+            "plant", 
+            "tree", 
+            "house", 
+            "home", 
+            "bank", 
+            "yard", 
+            "watercourse"
+        ], 
+        "name": "r_johnenergy_35.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9639561, 
+            0.7496197, 
+            0.73384404, 
+            0.70454973, 
+            0.7035802, 
+            0.69182086, 
+            0.67386794, 
+            0.65497094
+        ], 
+        "attributes": [
+            "water", 
+            "water resources", 
+            "natural disaster", 
+            "river", 
+            "flood", 
+            "reflection", 
+            "tree", 
+            "disaster"
+        ], 
+        "name": "r_johnenergy_36.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8727366, 
+            0.8213477, 
+            0.8126731, 
+            0.76907706, 
+            0.75075763, 
+            0.7498538, 
+            0.69307953, 
+            0.66848403, 
+            0.6592709, 
+            0.6401172
+        ], 
+        "attributes": [
+            "vegetation", 
+            "path", 
+            "tree", 
+            "soil", 
+            "woodland", 
+            "plant", 
+            "jungle", 
+            "water", 
+            "rainforest", 
+            "forest"
+        ], 
+        "name": "r_johnenergy_37.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.98174757, 
+            0.93891925, 
+            0.89237934, 
+            0.88998884, 
+            0.8848793, 
+            0.8769307, 
+            0.8663055, 
+            0.86002326, 
+            0.8160108, 
+            0.79470265
+        ], 
+        "attributes": [
+            "car", 
+            "vehicle", 
+            "road", 
+            "tree", 
+            "transport", 
+            "property", 
+            "neighbourhood", 
+            "residential area", 
+            "town", 
+            "motor vehicle"
+        ], 
+        "name": "r_johnenergy_38.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.7878739, 
+            0.7733668, 
+            0.6555931, 
+            0.5469261, 
+            0.51203805
+        ], 
+        "attributes": [
+            "leaf", 
+            "plant", 
+            "tree", 
+            "grass", 
+            "waste"
+        ], 
+        "name": "r_johnenergy_39.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9845051, 
+            0.96052736, 
+            0.9444564, 
+            0.908116, 
+            0.9077226, 
+            0.84539217, 
+            0.82320845, 
+            0.81891197, 
+            0.7416629, 
+            0.74003154
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "asphalt", 
+            "vehicle", 
+            "luxury vehicle", 
+            "road", 
+            "plant", 
+            "family car", 
+            "automotive exterior", 
+            "tree"
+        ], 
+        "name": "r_johnenergy_40.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.95676404, 
+            0.83464646, 
+            0.78462136, 
+            0.72105956, 
+            0.69599056, 
+            0.65577793, 
+            0.6090588, 
+            0.6044811, 
+            0.5637469, 
+            0.5429813
+        ], 
+        "attributes": [
+            "wall", 
+            "walkway", 
+            "stone wall", 
+            "fence", 
+            "road surface", 
+            "outdoor structure", 
+            "wood", 
+            "brickwork", 
+            "tree", 
+            "landscaping"
+        ], 
+        "name": "r_johnenergy_41.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.959246, 
+            0.88670254, 
+            0.83710235, 
+            0.81907684, 
+            0.81638616, 
+            0.80880004, 
+            0.77251285, 
+            0.7593273, 
+            0.714582, 
+            0.61126846
+        ], 
+        "attributes": [
+            "water", 
+            "stream", 
+            "nature reserve", 
+            "watercourse", 
+            "water resources", 
+            "creek", 
+            "plant", 
+            "riparian zone", 
+            "tree", 
+            "stream bed"
+        ], 
+        "name": "r_johnenergy_42.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9310546, 
+            0.8804264, 
+            0.87496233, 
+            0.64671636, 
+            0.59425944, 
+            0.5603165, 
+            0.5563195, 
+            0.5205305
+        ], 
+        "attributes": [
+            "tree", 
+            "plant", 
+            "vegetation", 
+            "branch", 
+            "forest", 
+            "grass", 
+            "jungle", 
+            "woodland"
+        ], 
+        "name": "r_johnenergy_43.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9277323, 
+            0.88180524, 
+            0.8801579, 
+            0.8647016, 
+            0.84134185, 
+            0.8257088, 
+            0.7831739, 
+            0.7364201, 
+            0.72741693, 
+            0.712729
+        ], 
+        "attributes": [
+            "house", 
+            "property", 
+            "tree", 
+            "home", 
+            "neighbourhood", 
+            "architecture", 
+            "plant", 
+            "residential area", 
+            "building", 
+            "cottage"
+        ], 
+        "name": "r_johnenergy_44.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97928494, 
+            0.9426803, 
+            0.90777797, 
+            0.90183717, 
+            0.899734, 
+            0.89832884, 
+            0.89814454, 
+            0.88105714, 
+            0.86306435, 
+            0.8518165
+        ], 
+        "attributes": [
+            "car", 
+            "property", 
+            "motor vehicle", 
+            "tree", 
+            "road", 
+            "vehicle", 
+            "transport", 
+            "house", 
+            "residential area", 
+            "neighbourhood"
+        ], 
+        "name": "r_johnenergy_45.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9646918, 
+            0.8500431, 
+            0.83341634, 
+            0.7417532, 
+            0.67344356, 
+            0.63950574, 
+            0.5663643
+        ], 
+        "attributes": [
+            "car", 
+            "luxury vehicle", 
+            "vehicle", 
+            "family car", 
+            "motor vehicle", 
+            "water", 
+            "automotive exterior"
+        ], 
+        "name": "r_johnsnow_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9639453, 
+            0.89005786, 
+            0.88055646, 
+            0.6806733, 
+            0.6788974, 
+            0.65473247, 
+            0.6500554, 
+            0.6467876, 
+            0.5801498, 
+            0.5478363
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "reflection", 
+            "grass", 
+            "road surface", 
+            "water resources", 
+            "puddle", 
+            "rain", 
+            "floodplain", 
+            "walkway"
+        ], 
+        "name": "r_mickann_01.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.52295214
+        ], 
+        "attributes": [
+            "window"
+        ], 
+        "name": "r_mickann_02.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.81974655, 
+            0.77452326, 
+            0.72873324, 
+            0.7188279, 
+            0.6495526, 
+            0.5277535
+        ], 
+        "attributes": [
+            "map", 
+            "structure", 
+            "sport venue", 
+            "urban design", 
+            "technology", 
+            "gps navigation device"
+        ], 
+        "name": "r_mickann_04.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.860942, 
+            0.81774557, 
+            0.7547649, 
+            0.7396413, 
+            0.68657774, 
+            0.66117036, 
+            0.6570452, 
+            0.61076623, 
+            0.59180033, 
+            0.5824283
+        ], 
+        "attributes": [
+            "tree", 
+            "water", 
+            "phenomenon", 
+            "grass", 
+            "natural disaster", 
+            "walkway", 
+            "rain", 
+            "yard", 
+            "land lot", 
+            "flood"
+        ], 
+        "name": "r_mickann_05.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.6786358, 
+            0.6768438, 
+            0.58596265, 
+            0.5516704, 
+            0.5012858
+        ], 
+        "attributes": [
+            "arm", 
+            "shoe", 
+            "drink", 
+            "furniture", 
+            "glass"
+        ], 
+        "name": "r_mickann_06.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9745648, 
+            0.9602229, 
+            0.9423545, 
+            0.9164549, 
+            0.9126448, 
+            0.8945723, 
+            0.8638018, 
+            0.8129364, 
+            0.7721034, 
+            0.6015138
+        ], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "hardwood", 
+            "laminate flooring", 
+            "wood flooring", 
+            "wood", 
+            "furniture", 
+            "table", 
+            "wood stain", 
+            "product"
+        ], 
+        "name": "r_mickann_07.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.95608675, 
+            0.94649273, 
+            0.9238862, 
+            0.9232929, 
+            0.6323248, 
+            0.60349464, 
+            0.5970555, 
+            0.54838604, 
+            0.5292926, 
+            0.5042261
+        ], 
+        "attributes": [
+            "wildlife", 
+            "fauna", 
+            "mammal", 
+            "deer", 
+            "reindeer", 
+            "springbok", 
+            "antler", 
+            "elk", 
+            "tree", 
+            "antelope"
+        ], 
+        "name": "r_mickann_08.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.9564367, 
+            0.9359411, 
+            0.91625816, 
+            0.8990054, 
+            0.86727285, 
+            0.81798494, 
+            0.8066524, 
+            0.7987693, 
+            0.79412854, 
+            0.74415463
+        ], 
+        "attributes": [
+            "floor", 
+            "room", 
+            "flooring", 
+            "property", 
+            "hardwood", 
+            "wood flooring", 
+            "table", 
+            "home", 
+            "wood", 
+            "living room"
+        ], 
+        "name": "r_mickann_09.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.83697814, 
+            0.8138839, 
+            0.7325628
+        ], 
+        "attributes": [
+            "light fixture", 
+            "lighting", 
+            "lamp"
+        ], 
+        "name": "r_mickann_10.png"
+    }, 
+    {
+        "attributes_scores": [
+            0.8820627, 
+            0.87439036, 
+            0.84597546, 
+            0.76795214, 
+            0.6925358, 
+            0.6547275, 
+            0.6342804, 
+            0.628918, 
+            0.6245363, 
+            0.62313056
+        ], 
+        "attributes": [
+            "electronic device", 
+            "product", 
+            "technology", 
+            "gadget", 
+            "multimedia", 
+            "electronics", 
+            "display device", 
+            "product", 
+            "automated teller machine", 
+            "interactive kiosk"
+        ], 
+        "name": "r_samenergy_1.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.72719544, 
+            0.7201359, 
+            0.70151156, 
+            0.64325666, 
+            0.5976215, 
+            0.581778, 
+            0.5776878, 
+            0.5665921, 
+            0.5487958, 
+            0.5022168
+        ], 
+        "attributes": [
+            "automotive design", 
+            "motor vehicle", 
+            "glass", 
+            "water", 
+            "car", 
+            "cage", 
+            "automotive exterior", 
+            "window", 
+            "mesh", 
+            "net"
+        ], 
+        "name": "r_samenergy_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.964671, 
+            0.964653, 
+            0.89767385, 
+            0.8251272, 
+            0.7922289, 
+            0.75544715, 
+            0.73154587, 
+            0.71561176, 
+            0.6528309, 
+            0.60110414
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "river", 
+            "flood", 
+            "water resources", 
+            "natural disaster", 
+            "disaster", 
+            "bank", 
+            "floodplain", 
+            "tree"
+        ], 
+        "name": "r_samenergy_11.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.95155454, 
+            0.93479615, 
+            0.92356706, 
+            0.87879, 
+            0.82389396, 
+            0.7770308, 
+            0.7554764, 
+            0.7195392, 
+            0.6339712, 
+            0.6155419
+        ], 
+        "attributes": [
+            "water", 
+            "body of water", 
+            "waterway", 
+            "flood", 
+            "river", 
+            "bank", 
+            "natural disaster", 
+            "disaster", 
+            "water resources", 
+            "floodplain"
+        ], 
+        "name": "r_samenergy_12.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9496969, 
+            0.9342188, 
+            0.9065595, 
+            0.8820739, 
+            0.84870607, 
+            0.8134686, 
+            0.80121315, 
+            0.7888352, 
+            0.7269524, 
+            0.6970148
+        ], 
+        "attributes": [
+            "water", 
+            "body of water", 
+            "waterway", 
+            "flood", 
+            "river", 
+            "bank", 
+            "natural disaster", 
+            "water resources", 
+            "floodplain", 
+            "disaster"
+        ], 
+        "name": "r_samenergy_13.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8763698, 
+            0.87429607, 
+            0.8055977, 
+            0.7498065, 
+            0.5626171, 
+            0.5103604, 
+            0.5063317, 
+            0.50065047
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
+            "floodplain", 
+            "river", 
+            "tree", 
+            "bank"
+        ], 
+        "name": "r_samenergy_14.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9386675, 
+            0.92027706, 
+            0.9067669, 
+            0.9019467, 
+            0.86849606, 
+            0.7942955, 
+            0.78999573, 
+            0.6069069, 
+            0.57270926, 
+            0.56671935
+        ], 
+        "attributes": [
+            "green", 
+            "tree", 
+            "vegetation", 
+            "leaf", 
+            "water", 
+            "path", 
+            "plant", 
+            "walkway", 
+            "grass", 
+            "shrub"
+        ], 
+        "name": "r_samenergy_15.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.87149805, 
+            0.87044984, 
+            0.8655855, 
+            0.8576582, 
+            0.83938456, 
+            0.7411823, 
+            0.73178566, 
+            0.6963439, 
+            0.67999357, 
+            0.6720096
+        ], 
+        "attributes": [
+            "road", 
+            "public space", 
+            "path", 
+            "grass", 
+            "tree", 
+            "road surface", 
+            "sign", 
+            "soil", 
+            "lane", 
+            "area"
+        ], 
+        "name": "r_samenergy_16.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.85900134, 
+            0.8012291, 
+            0.75956506, 
+            0.7580178, 
+            0.70695907, 
+            0.6720096, 
+            0.6256716, 
+            0.6070892, 
+            0.60121405, 
+            0.58794
+        ], 
+        "attributes": [
+            "public space", 
+            "lane", 
+            "road", 
+            "signage", 
+            "sign", 
+            "area", 
+            "vehicle", 
+            "recreation", 
+            "asphalt", 
+            "tree"
+        ], 
+        "name": "r_samenergy_17.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8499903, 
+            0.79018515, 
+            0.7741867, 
+            0.76291764, 
+            0.7389771, 
+            0.66969913, 
+            0.6383055, 
+            0.62709236, 
+            0.56268317, 
+            0.555588
+        ], 
+        "attributes": [
+            "wire fencing", 
+            "chain link fencing", 
+            "structure", 
+            "fence", 
+            "net", 
+            "water", 
+            "fence", 
+            "outdoor structure", 
+            "mesh", 
+            "recreation"
+        ], 
+        "name": "r_samenergy_18.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.99198717, 
+            0.96106017, 
+            0.9560904, 
+            0.93087816, 
+            0.8979826, 
+            0.82575953, 
+            0.81888145, 
+            0.7155465, 
+            0.7008773, 
+            0.693704
+        ], 
+        "attributes": [
+            "road", 
+            "lane", 
+            "asphalt", 
+            "car", 
+            "infrastructure", 
+            "path", 
+            "road surface", 
+            "vehicle", 
+            "highway", 
+            "shoulder"
+        ], 
+        "name": "r_samenergy_19.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.97927487, 
+            0.97209895, 
+            0.9194166, 
+            0.8751221, 
+            0.8555934, 
+            0.82918704, 
+            0.8076589, 
+            0.7792375, 
+            0.69364446, 
+            0.665027
+        ], 
+        "attributes": [
+            "car", 
+            "motor vehicle", 
+            "vehicle", 
+            "mode of transport", 
+            "luxury vehicle", 
+            "mid size car", 
+            "vehicle door", 
+            "family car", 
+            "automotive exterior", 
+            "subcompact car"
+        ], 
+        "name": "r_samenergy_2.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9796999, 
+            0.979479, 
+            0.9783472, 
+            0.96879774, 
+            0.96462935, 
+            0.8752383, 
+            0.7694555, 
+            0.76918113, 
+            0.7667449, 
+            0.6554341
+        ], 
+        "attributes": [
+            "motor vehicle", 
+            "land vehicle", 
+            "car", 
+            "vehicle", 
+            "transport", 
+            "mode of transport", 
+            "road", 
+            "automotive exterior", 
+            "commercial vehicle", 
+            "van"
+        ], 
+        "name": "r_samenergy_20.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9845228, 
+            0.96701974, 
+            0.9666693, 
+            0.94221973, 
+            0.90276074, 
+            0.8938632, 
+            0.88200665, 
+            0.8692924, 
+            0.8531399, 
+            0.8298466
+        ], 
+        "attributes": [
+            "road", 
+            "motor vehicle", 
+            "car", 
+            "lane", 
+            "traffic light", 
+            "signaling device", 
+            "infrastructure", 
+            "transport", 
+            "vehicle", 
+            "windshield"
+        ], 
+        "name": "r_samenergy_21.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9658817, 
+            0.9527204, 
+            0.9408054, 
+            0.9223675, 
+            0.85749704, 
+            0.8503333, 
+            0.80373853, 
+            0.7913814, 
+            0.7564617, 
+            0.7296046
+        ], 
+        "attributes": [
+            "car", 
+            "road", 
+            "asphalt", 
+            "lane", 
+            "infrastructure", 
+            "race track", 
+            "structure", 
+            "atmosphere of earth", 
+            "sky", 
+            "vehicle"
+        ], 
+        "name": "r_samenergy_22.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9077769, 
+            0.82235277, 
+            0.76403695, 
+            0.75212425, 
+            0.6951249, 
+            0.6364698, 
+            0.5282175
+        ], 
+        "attributes": [
+            "waste", 
+            "tree", 
+            "vehicle", 
+            "neighbourhood", 
+            "plant", 
+            "car", 
+            "city"
+        ], 
+        "name": "r_samenergy_23.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9207354, 
+            0.78176093, 
+            0.61675835, 
+            0.57519543
+        ], 
+        "attributes": [
+            "waste", 
+            "scrap", 
+            "tree", 
+            "vehicle"
+        ], 
+        "name": "r_samenergy_24.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.985966, 
+            0.9819329, 
+            0.9544307, 
+            0.9451828, 
+            0.93373376, 
+            0.88192034, 
+            0.81835675, 
+            0.7662184, 
+            0.7608883, 
+            0.7343143
+        ], 
+        "attributes": [
+            "car", 
+            "land vehicle", 
+            "motor vehicle", 
+            "vehicle", 
+            "family car", 
+            "luxury vehicle", 
+            "road", 
+            "sky", 
+            "tree", 
+            "residential area"
+        ], 
+        "name": "r_samenergy_25.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.98475605, 
+            0.9759712, 
+            0.9673947, 
+            0.9551166, 
+            0.94459075, 
+            0.9376884, 
+            0.9247867, 
+            0.90329915, 
+            0.8596729, 
+            0.82302475
+        ], 
+        "attributes": [
+            "car", 
+            "land vehicle", 
+            "motor vehicle", 
+            "luxury vehicle", 
+            "vehicle", 
+            "tree", 
+            "woody plant", 
+            "plant", 
+            "family car", 
+            "neighbourhood"
+        ], 
+        "name": "r_samenergy_3.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.88544124, 
+            0.8745287, 
+            0.8266485, 
+            0.7907118, 
+            0.71891, 
+            0.70418775, 
+            0.696939, 
+            0.6632174, 
+            0.62967753, 
+            0.52344465
+        ], 
+        "attributes": [
+            "water", 
+            "property", 
+            "flood", 
+            "natural disaster", 
+            "neighbourhood", 
+            "disaster", 
+            "residential area", 
+            "real estate", 
+            "tree", 
+            "walkway"
+        ], 
+        "name": "r_samenergy_4.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94559056, 
+            0.87848496, 
+            0.8509355, 
+            0.81458807, 
+            0.73271006, 
+            0.7093735, 
+            0.67777026, 
+            0.6344804, 
+            0.6274234, 
+            0.61331636
+        ], 
+        "attributes": [
+            "floor", 
+            "room", 
+            "flooring", 
+            "tile", 
+            "hardwood", 
+            "bathroom", 
+            "tap", 
+            "toilet seat", 
+            "plumbing fixture", 
+            "wood"
+        ], 
+        "name": "r_samenergy_5.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8754034, 
+            0.78757083, 
+            0.61114335, 
+            0.5549213
+        ], 
+        "attributes": [
+            "floor", 
+            "flooring", 
+            "product design", 
+            "mat"
+        ], 
+        "name": "r_samenergy_6.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9149829, 
+            0.8767328, 
+            0.8530046, 
+            0.82467353, 
+            0.79703444, 
+            0.74067974, 
+            0.73278254, 
+            0.6737703, 
+            0.6684187, 
+            0.6455713
+        ], 
+        "attributes": [
+            "neighbourhood", 
+            "property", 
+            "residential area", 
+            "town", 
+            "tree", 
+            "flood", 
+            "natural disaster", 
+            "disaster", 
+            "water", 
+            "real estate"
+        ], 
+        "name": "r_samenergy_7.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.89582133, 
+            0.8630292, 
+            0.746685, 
+            0.67705816, 
+            0.6720096, 
+            0.6606094, 
+            0.6294411, 
+            0.53080213, 
+            0.52163076
+        ], 
+        "attributes": [
+            "fence", 
+            "wire fencing", 
+            "chain link fencing", 
+            "land lot", 
+            "area", 
+            "outdoor structure", 
+            "fence", 
+            "home fencing", 
+            "net"
+        ], 
+        "name": "r_samenergy_8.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8723229, 
+            0.8609273, 
+            0.72906476, 
+            0.64675117, 
+            0.6130577, 
+            0.56739616, 
+            0.5287019, 
+            0.5262554
+        ], 
+        "attributes": [
+            "transport", 
+            "track", 
+            "residential area", 
+            "snow", 
+            "road", 
+            "winter", 
+            "suburb", 
+            "rail transport"
+        ], 
+        "name": "r_samenergy_9.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9414547, 
+            0.9170064, 
+            0.83822995, 
+            0.80776966, 
+            0.8050517, 
+            0.7977246, 
+            0.76689243, 
+            0.7409719, 
+            0.7293953, 
+            0.6683036
+        ], 
+        "attributes": [
+            "water", 
+            "waterway", 
+            "bayou", 
+            "water resources", 
+            "reflection", 
+            "flood", 
+            "tree", 
+            "natural disaster", 
+            "floodplain", 
+            "river"
+        ], 
+        "name": "r_tracy katy_01.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9239191, 
+            0.89638144, 
+            0.88864815, 
+            0.82273227, 
+            0.8121178, 
+            0.79632854, 
+            0.7657342, 
+            0.76136994, 
+            0.75365394, 
+            0.68169034
+        ], 
+        "attributes": [
+            "asphalt", 
+            "path", 
+            "walkway", 
+            "road surface", 
+            "lane", 
+            "grass", 
+            "tree", 
+            "road", 
+            "driveway", 
+            "line"
+        ], 
+        "name": "r_tracy katy_02.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8799877, 
+            0.8203847, 
+            0.8135534, 
+            0.8018642, 
+            0.7062765, 
+            0.67402405, 
+            0.6170425, 
+            0.59951043, 
+            0.5917194, 
+            0.5677555
+        ], 
+        "attributes": [
+            "water", 
+            "tree", 
+            "walkway", 
+            "arecales", 
+            "water resources", 
+            "palm tree", 
+            "plant", 
+            "watercourse", 
+            "bank", 
+            "outdoor structure"
+        ], 
+        "name": "r_tracy katy_03.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.90709186, 
+            0.84080166, 
+            0.78823596, 
+            0.7038008, 
+            0.68926847, 
+            0.57897735, 
+            0.5697465, 
+            0.53205734, 
+            0.5121678, 
+            0.506982
+        ], 
+        "attributes": [
+            "water", 
+            "walkway", 
+            "road surface", 
+            "tree", 
+            "outdoor structure", 
+            "flagstone", 
+            "driveway", 
+            "landscaping", 
+            "yard", 
+            "grass"
+        ], 
+        "name": "r_tracy katy_04.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.93220377, 
+            0.87843806, 
+            0.83963925, 
+            0.78787386, 
+            0.76195014, 
+            0.69767046, 
+            0.65416896, 
+            0.6281832, 
+            0.60226595, 
+            0.5887487
+        ], 
+        "attributes": [
+            "water", 
+            "walkway", 
+            "tree", 
+            "arecales", 
+            "plant", 
+            "road surface", 
+            "palm tree", 
+            "outdoor structure", 
+            "yard", 
+            "landscaping"
+        ], 
+        "name": "r_tracy katy_05.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.94674885, 
+            0.91952413, 
+            0.90330774, 
+            0.7640043, 
+            0.7446964, 
+            0.70036787, 
+            0.6776449, 
+            0.6490604, 
+            0.5748639, 
+            0.53271335
+        ], 
+        "attributes": [
+            "vegetation", 
+            "tree", 
+            "plant", 
+            "leaf", 
+            "shrub", 
+            "evergreen", 
+            "biome", 
+            "garden", 
+            "grass", 
+            "landscape"
+        ], 
+        "name": "r_tracy katy_06.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.95186126, 
+            0.6806733, 
+            0.6021589, 
+            0.5725094, 
+            0.57176375, 
+            0.5663323, 
+            0.5403149, 
+            0.51208353
+        ], 
+        "attributes": [
+            "water", 
+            "window", 
+            "wood", 
+            "glass", 
+            "floor", 
+            "tree", 
+            "house", 
+            "door"
+        ], 
+        "name": "r_tracy katy_07.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.7569654, 
+            0.7364819, 
+            0.71258396, 
+            0.70460856, 
+            0.6653778, 
+            0.66054827, 
+            0.6177584, 
+            0.5758608, 
+            0.55317664, 
+            0.55054563
+        ], 
+        "attributes": [
+            "wood stain", 
+            "floor", 
+            "wood", 
+            "glass", 
+            "table", 
+            "window", 
+            "water", 
+            "hardwood", 
+            "daylighting", 
+            "angle"
+        ], 
+        "name": "r_tracy katy_08.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.8948609, 
+            0.86294156, 
+            0.850031, 
+            0.8405825, 
+            0.8317817, 
+            0.7330346, 
+            0.7215036, 
+            0.69966704, 
+            0.6127163, 
+            0.5102217
+        ], 
+        "attributes": [
+            "reflection", 
+            "light", 
+            "water", 
+            "night", 
+            "lighting", 
+            "wood", 
+            "darkness", 
+            "floor", 
+            "flooring", 
+            "space"
+        ], 
+        "name": "r_tracy katy_09.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.977089, 
+            0.9639704, 
+            0.93525237, 
+            0.93480235, 
+            0.9310823, 
+            0.91413176, 
+            0.88827586, 
+            0.8511296, 
+            0.8288046, 
+            0.8253045
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "canal", 
+            "body of water", 
+            "reflection", 
+            "river", 
+            "water transportation", 
+            "water resources", 
+            "bayou", 
+            "boat"
+        ], 
+        "name": "r_tracy katy_10.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9102513, 
+            0.80655, 
+            0.7899371, 
+            0.71899843, 
+            0.7144092, 
+            0.64851934, 
+            0.5665068, 
+            0.56633925, 
+            0.55488765, 
+            0.52508193
+        ], 
+        "attributes": [
+            "water", 
+            "vehicle", 
+            "reflection", 
+            "car", 
+            "motor vehicle", 
+            "automotive exterior", 
+            "wheel", 
+            "automotive tire", 
+            "tire", 
+            "auto part"
+        ], 
+        "name": "r_tracy katy_11.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.92032593, 
+            0.8409452, 
+            0.82473814, 
+            0.7799117, 
+            0.77190405, 
+            0.7633355, 
+            0.74966764, 
+            0.6951381, 
+            0.69045335, 
+            0.65355355
+        ], 
+        "attributes": [
+            "water", 
+            "flood", 
+            "river", 
+            "natural disaster", 
+            "bank", 
+            "tree", 
+            "floodplain", 
+            "disaster", 
+            "water resources", 
+            "bayou"
+        ], 
+        "name": "r_tracy katy_12.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9195851, 
+            0.7047225, 
+            0.6663524, 
+            0.66458714, 
+            0.5944525, 
+            0.5701317
+        ], 
+        "attributes": [
+            "tree", 
+            "adventure", 
+            "extreme sport", 
+            "vehicle", 
+            "fun", 
+            "recreation"
+        ], 
+        "name": "r_tracy katy_13.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.9754665, 
+            0.9399134, 
+            0.8704549, 
+            0.8531551, 
+            0.82467747, 
+            0.81944484, 
+            0.7996479, 
+            0.7760188, 
+            0.725838, 
+            0.708796
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "canal", 
+            "tree", 
+            "river", 
+            "plant", 
+            "bayou", 
+            "bank", 
+            "flood", 
+            "wetland"
+        ], 
+        "name": "r_tracy katy_14.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96496755, 
+            0.79502827, 
+            0.7547571, 
+            0.74661, 
+            0.7121445, 
+            0.69942206, 
+            0.67530704, 
+            0.66915965, 
+            0.6657384, 
+            0.66254413
+        ], 
+        "attributes": [
+            "waterway", 
+            "water", 
+            "bank", 
+            "river", 
+            "canal", 
+            "sky", 
+            "tree", 
+            "water resources", 
+            "flood", 
+            "floodplain"
+        ], 
+        "name": "r_tracy katy_15.jpg"
+    }, 
+    {
+        "attributes_scores": [
+            0.96916485, 
+            0.9230069, 
+            0.91124535, 
+            0.67763627, 
+            0.64040124, 
+            0.5974913, 
+            0.5754244, 
+            0.56743646, 
+            0.567374
+        ], 
+        "attributes": [
+            "tree", 
+            "plant", 
+            "woody plant", 
+            "sky", 
+            "house", 
+            "landscape", 
+            "recreation", 
+            "car", 
+            "park"
+        ], 
+        "name": "r_tracy katy_16.jpg"
+    }
+]
