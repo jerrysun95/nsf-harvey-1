@@ -97,7 +97,7 @@ def send_to_vision(file_name, file_id, image_type='image', chunk_size=1034*1034*
             image_content += chunk
             transferred += len(chunk)
 
-    #print(image)
+    # Send request and receive formatted JSON
     if image_type == 'image':
         return gv.vision_from_data_image(file_name, image_content)
     elif image_type == 'text':
@@ -151,22 +151,14 @@ def setup_box():
 
 # Runs all images found in box source folder through google vision label detection
 # Writes results to output file
+# src_folder_id: box folder id
+# t: name of attributes file to output to (i.e. r, vr, or, noise)
 def vision(src_folder_id, t):
     vision_data = []
 
     # Read folder to get file names and ids
     response = items(src_folder_id)
     entries = response['entries']
-
-    # # Send each file to google vision for label detection
-    # for entry in entries:
-    #     name = entry['name'].lower()
-    #     if entry['type'] == 'file' and '.jpg' in name or '.png' in name or '.jpeg' in name:
-    #         try:
-    #             result = send_to_vision(name, entry['id'])
-    #             vision_data.append(result)
-    #         except:
-    #             pass
 
     pool = ThreadPool(16)
     vision_data = pool.map(vision_thread, entries)
@@ -175,6 +167,8 @@ def vision(src_folder_id, t):
     with open('output/' + t + '.json', 'w') as f:
         f.write(json.dumps(vision_data, indent=4))
 
+# Helper function to multithread vision requests
+# entry: a file entry from box
 def vision_thread(entry):
     # Send each file to google vision for label detection
     result = {}
@@ -187,18 +181,24 @@ def vision_thread(entry):
             result = {'name':name, 'attributes_scores':[], 'attributes':[], 'error':True}
     return result
 
+# Helper function to multithread requests
+# entry: file path
 def vision_local_thread(entry):
     name = entry[entry.rfind('/') + 1:].lower()
     print('---------' + name + '---------')
 
-    # try:
-    result = gv.vision_from_file(name, entry)
-    # except:
-    #     result = {'name':name, 'attributes_scores':[], 'attributes':[], 'error':True}
+    try:
+        result = gv.vision_from_file(name, entry)
+    except:
+        result = {'name':name, 'attributes_scores':[], 'attributes':[], 'error':True}
     return result
 
-def vision_local(src_folder, t, files):
-    # entries = os.listdir(src_folder)
+# Runs all images found in local source folder through google vision label detection
+# Writes results to output file
+# src_folder_id: box folder id
+# t: name of attributes file to output to (i.e. r, vr, or, noise)
+def vision_local(src_folder, t):
+    files = os.listdir(src_folder)
     entries = [src_folder + '/' + x for x in files]
 
     pool = ThreadPool(4)

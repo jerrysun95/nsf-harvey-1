@@ -8,6 +8,8 @@ except:
 
 # Frequency analysis of attributes
 # Writes list of sorted frequencies above MIN_FREQ to output file
+# min_freq: minimum frequency threshold of included attributes
+# t: name of output file (i.e. r, vr, or, noise)
 def frequent(min_freq, t):
 	# Read in file
 	with open('output/' + t + '.json', 'r') as f:
@@ -36,6 +38,7 @@ def frequent(min_freq, t):
 		f.write(json.dumps(s, indent=4))
 
 # Process computer vision results by trimming non-frequent attributes
+# t: name of attributes file (i.e. r, vr, or, noise)
 def results(t):
 	# Create list of frequent attributes	
 	with open('output/' + t + '_attributes.json') as f:
@@ -62,6 +65,7 @@ def results(t):
 		f.write(json.dumps(res, indent=4))
 
 # Combines the results of all files in files and writes to output file denoted by t
+# files: names of files to aggregate (i.e. r, vr, or, noise)
 def combine(files, t):
 	data = []
 	for file in files:

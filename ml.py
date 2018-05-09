@@ -32,6 +32,7 @@ VR = 1
 R = 2
 
 # Aggregates all frequent attributes in each file into one set
+# files: list of file names to aggregate (i.e. r, vr, or, noise)
 def aggregate_freq(files):
 	for file in files:
 		with open('output/' + file + '_attributes.json') as f:
@@ -46,6 +47,8 @@ def aggregate_freq(files):
 		index += 1
 
 # Runs through results file and adds each item into records and labels
+# t: name of attributes file (i.e. r, vr, or, noise)
+# label: classifier label for supervised learning
 def iter_results(t, label):
 	with open('output/' + t + '_results.json') as f:
 		data = json.loads(f.read())
@@ -64,9 +67,6 @@ def iter_results(t, label):
 
 # Partitions records and labels into test and train sets
 # Splits on 80/20 train/test
-# Must be run before any results are given from machine learning algorithms
-# Eventually want to implement some sort of bagging/random sampling partition
-# Eventually want to allow for partition to be called multiple times to get different subsets
 def partition_data():
 	i = 0
 	for r in range(len(records)):
@@ -78,91 +78,154 @@ def partition_data():
 			train_labels.append(labels[i])
 		i += 1
 
-# Creates predictive model using svm algorithm and train_data
-# Returns the accuracy of the model using test_data
-def _svm(t, min_freq):
-	# svc = svm.SVC()
-	# parameters = {'C':[.9 + 0.01*x for x in range(1,5)], 
-	# 			  'kernel':['linear', 'poly', 'rbf'], 
-	# 			  'shrinking':[True, False]}
-	# clf = GridSearchCV(svc, parameters, cv=5)
-	# clf.fit(records, labels)
-	# save_classifier(clf.best_estimator_, t, 'svm', min_freq)
-	# return ('svc', clf.best_estimator_)
-	clf = load_classifier(t, 'svm', min_freq)
-	return ('svc', clf)
+# Creates predictive model using svm algorithm
+# Returns the fitted classifier
+# t: name of attributes file (i.e. r, vr, or, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to create train new base classifiers and save results or load old classifier
+def _svm(t, min_freq, save=False):
+	if save:
+		svc = svm.SVC()
+		parameters = {'C':[.9 + 0.01*x for x in range(1,5)], 
+					  'kernel':['linear', 'poly', 'rbf'], 
+					  'shrinking':[True, False]}
+		clf = GridSearchCV(svc, parameters, cv=5)
+		clf.fit(records, labels)
+		save_classifier(clf.best_estimator_, t, 'svm', min_freq)
+		return ('svc', clf.best_estimator_)
+	else:
+		clf = load_classifier(t, 'svm', min_freq)
+		return ('svc', clf)
 
-# Creates predictive model using naive bayes algorithm and train_data
-# Returns the accuracy of the model using test_data
-def _gnb(t, min_freq):
-	# clf = gnb().fit(records, labels)
-	# save_classifier(clf, t, 'gnb', min_freq)
-	# return ('gnb', clf)
-	clf = load_classifier(t, 'gnb', min_freq)
-	return ('gnb', clf)
+# Creates predictive model using gaussian naive bayes algorithm
+# Returns the fitted classifier
+# t: name of attributes file (i.e. r, vr, or, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to create train new base classifiers and save results or load old classifier
+def _gnb(t, min_freq, save=False):
+	if save:
+		clf = gnb().fit(records, labels)
+		save_classifier(clf, t, 'gnb', min_freq)
+		return ('gnb', clf)
+	else:
+		clf = load_classifier(t, 'gnb', min_freq)
+		return ('gnb', clf)
 
-def _mnb(t, min_freq):
-	# clf = mnb().fit(records, labels)
-	# save_classifier(clf, t, 'mnb', min_freq)
-	# return ('mnb', clf)
-	clf = load_classifier(t, 'mnb', min_freq)
-	return ('mnb', clf)
+# Creates predictive model using multinomial naive bayes algorithm
+# Returns the fitted classifier
+# t: name of attributes file (i.e. r, vr, or, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to create train new base classifiers and save results or load old classifier
+def _mnb(t, min_freq, save=False):
+	if save:
+		clf = mnb().fit(records, labels)
+		save_classifier(clf, t, 'mnb', min_freq)
+		return ('mnb', clf)
+	else:
+		clf = load_classifier(t, 'mnb', min_freq)
+		return ('mnb', clf)
 
-def _bnb(t, min_freq):
-	# clf = bnb().fit(records, labels)
-	# save_classifier(clf, t, 'bnb', min_freq)
-	# return ('bnb', clf)
-	clf = load_classifier(t, 'bnb', min_freq)
-	return ('bnb', clf)
+# Creates predictive model using bernoulli naive bayes algorithm
+# Returns the fitted classifier
+# t: name of attributes file (i.e. r, vr, or, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to create train new base classifiers and save results or load old classifier
+def _bnb(t, min_freq, save=False):
+	if save:
+		clf = bnb().fit(records, labels)
+		save_classifier(clf, t, 'bnb', min_freq)
+		return ('bnb', clf)
+	else:
+		clf = load_classifier(t, 'bnb', min_freq)
+		return ('bnb', clf)
 
-# Creates predictive model using nearest neighbors algorithm and train_data
-# Returns the accuracy of the model using test_data
-def _knn(t, min_freq):
-	# nbrs = nn()
-	# parameters = {'n_neighbors':[1], 
-	# 			  'weights':['uniform', 'distance'], 
-	# 			  'algorithm':['auto', 'ball_tree', 'kd_tree', 'brute']}
-	# clf = GridSearchCV(nbrs, parameters, cv=5)
-	# clf.fit(records, labels)
-	# save_classifier(clf.best_estimator_, t, 'knn', min_freq)
-	# return ('knn', clf.best_estimator_)
-	clf = load_classifier(t, 'knn', min_freq)
-	return ('knn', clf)
+# Creates predictive model using k nearest neighbors algorithm
+# Returns the fitted classifier
+# t: name of attributes file (i.e. r, vr, or, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to create train new base classifiers and save results or load old classifier
+def _knn(t, min_freq, save=False):
+	if save:
+		nbrs = nn()
+		parameters = {'n_neighbors':[1], 
+					  'weights':['uniform', 'distance'], 
+					  'algorithm':['auto', 'ball_tree', 'kd_tree', 'brute']}
+		clf = GridSearchCV(nbrs, parameters, cv=5)
+		clf.fit(records, labels)
+		save_classifier(clf.best_estimator_, t, 'knn', min_freq)
+		return ('knn', clf.best_estimator_)
+	else:
+		clf = load_classifier(t, 'knn', min_freq)
+		return ('knn', clf)
 
-def _dt(t, min_freq):
-	# clf = tree.DecisionTreeClassifier().fit(records, labels)
-	# save_classifier(clf, t, 'dt', min_freq)
-	# return ('dt', clf)
-	clf = load_classifier(t, 'dt', min_freq)
-	return ('dt', clf)
+# Creates predictive model using decision tree algorithm
+# Returns the fitted classifier
+# t: name of attributes file (i.e. r, vr, or, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to create train new base classifiers and save results or load old classifier
+def _dt(t, min_freq, save=False):
+	if save:
+		clf = tree.DecisionTreeClassifier().fit(records, labels)
+		save_classifier(clf, t, 'dt', min_freq)
+		return ('dt', clf)
+	else:
+		clf = load_classifier(t, 'dt', min_freq)
+		return ('dt', clf)
 
-def _sgd(t, min_freq):
-	# s = sgd()
-	# parameters = {'loss': ['hinge', 'log', 'modified_huber', 'squared_hinge', 'perceptron'],
-	# 			  'penalty': ['l2', 'l1', 'none', 'elasticnet'],
-	# 			  'alpha': [.00001]}
-	# clf = GridSearchCV(s, parameters, cv=5)
-	# clf.fit(records, labels)
-	# save_classifier(clf.best_estimator_, t, 'sgd', min_freq)
-	# return ('sgd', clf.best_estimator_)
-	clf = load_classifier(t, 'sgd', min_freq)
-	return ('sgd', clf)
+# Creates predictive model using stochastic gradient descent algorithm
+# Returns the fitted classifier
+# t: name of attributes file (i.e. r, vr, or, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to create train new base classifiers and save results or load old classifier
+def _sgd(t, min_freq, save=False):
+	if save:
+		s = sgd()
+		parameters = {'loss': ['hinge', 'log', 'modified_huber', 'squared_hinge', 'perceptron'],
+					  'penalty': ['l2', 'l1', 'none', 'elasticnet'],
+					  'alpha': [.00001]}
+		clf = GridSearchCV(s, parameters, cv=5)
+		clf.fit(records, labels)
+		save_classifier(clf.best_estimator_, t, 'sgd', min_freq)
+		return ('sgd', clf.best_estimator_)
+	else:
+		clf = load_classifier(t, 'sgd', min_freq)
+		return ('sgd', clf)
 
-def _mlp(t, min_freq):
-	# clf = mlp().fit(records, labels)
-	# save_classifier(clf, t, 'mlp', min_freq)
-	# return ('mlp', clf)
-	clf = load_classifier(t, 'mlp', min_freq)
-	return ('mlp', clf)
+# Creates predictive model using a multilayer perceptron
+# Returns the fitted classifier
+# t: name of attributes file (i.e. r, vr, or, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to create train new base classifiers and save results or load old classifier
+def _mlp(t, min_freq, save=False):
+	if save:
+		clf = mlp().fit(records, labels)
+		save_classifier(clf, t, 'mlp', min_freq)
+		return ('mlp', clf)
+	else:
+		clf = load_classifier(t, 'mlp', min_freq)
+		return ('mlp', clf)
 
+# Saves classifier to disk
+# clf: classifier to save
+# typ: name of file (i.e. r, vr, or, noise)
+# name: name of classifier algorithm being used 
+# min_freq: frequency threshold for included attributes
 def save_classifier(clf, typ, name, min_freq):
 	s = str(min_freq).replace('.', '-')
 	joblib.dump(clf, 'classifiers/' + typ + '_' + name + '_' + s + '.pkl')
 
+# Loads and returns classifier from disk
+# typ: name of file (i.e. r, vr, or, noise)
+# name: name of classifier algorithm being used 
+# min_freq: frequency threshold for included attributes
 def load_classifier(typ, name, min_freq):
 	s = str(min_freq).replace('.', '-')
 	return joblib.load('classifiers/' + typ + '_' + name + '_' + s + '.pkl')
 
+# Creates a voting classifier from data with given frequency threshold
+# Returns the classifier and the mean accuracy
+# freq: list of type names for frequent attribute aggregation (i.e. r, vr, or, noise)
+# data: list of type names for files to create records (i.e. r, vr, or, noise)
 def voting_classifier(freq, data):
 	fmap = {}
 	aggregate_freq(freq)
@@ -206,7 +269,14 @@ def voting_classifier(freq, data):
 
 	return eclf, scores.mean()
 
-def stacking_classifier(freq, data, typ, min_freq):
+# Creates a stacking classifier
+# Returns the classifier and mean accuracy 
+# freq: list of type names for frequent attribute aggregation (i.e. r, vr, or, noise)
+# data: list of type names for files to create records (i.e. r, vr, or, noise)
+# typ: name of type of classification (i.e. resp, noise)
+# min_freq: frequency threshold for included attributes
+# save: whether to train new models and save or load old models
+def stacking_classifier(freq, data, typ, min_freq, save=False):
 	fmap = {}
 	aggregate_freq(freq)
 
@@ -228,21 +298,22 @@ def stacking_classifier(freq, data, typ, min_freq):
 	accs = []
 	classifiers = [_svm, _gnb, _mnb, _bnb, _knn, _dt, _sgd, _mlp]
 	for c in classifiers:
-		clf = c(typ, min_freq)[1]
+		clf = c(typ, min_freq, save)[1]
 		pred.append(clf.predict(records))
 		accs.append(cross_val_score(clf, records, labels, cv=5).mean())
 	
 	stacked_records = zip(*pred)
 
-	# svc = svm.SVC()
-	# parameters = {'C':[.9 + 0.01*x for x in range(1,5)], 
-	# 			  'kernel':['linear'], 
-	# 			  'shrinking':[True, False]}
-	# clf = GridSearchCV(svc, parameters, cv=5)
-	# clf.fit(stacked_records, labels)
-	# save_classifier(clf.best_estimator_, typ, 'stack', min_freq)
-	
-	clf = load_classifier(typ, 'stack', min_freq)
+	if save:
+		svc = svm.SVC()
+		parameters = {'C':[.9 + 0.01*x for x in range(1,5)], 
+					  'kernel':['linear'], 
+					  'shrinking':[True, False]}
+		clf = GridSearchCV(svc, parameters, cv=5)
+		clf.fit(stacked_records, labels)
+		save_classifier(clf.best_estimator_, typ, 'stack', min_freq)
+	else:
+		clf = load_classifier(typ, 'stack', min_freq)
 	
 	scores = cross_val_score(clf, stacked_records, labels, cv=5)
 	print(scores)
@@ -250,10 +321,12 @@ def stacking_classifier(freq, data, typ, min_freq):
 
 	# clf.fit(stacked_records, labels)
 
+	# Confusion Matrix
 	# x_train, x_test, y_train, y_test = train_test_split(stacked_records, labels)
 	# y_pred = clf.fit(x_train, y_train).predict(x_test)	
 	# print(confusion_matrix(y_test, y_pred))
 
+	# Model visualization with PCA dimensionality reduction
 	# pca = PCA(n_components=2)
 	# data = pca.fit_transform(stacked_records)
 	# plt.scatter([x[0] for x in data], [y[1] for y in data], c=labels)

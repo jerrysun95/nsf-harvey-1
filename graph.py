@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import json
 
-# Computer vision frequency analysis
+# Computer vision frequency of attributes by type (bar)
 def freq_analysis_bar():
 	sns.set(style='white')
 
@@ -35,6 +35,7 @@ def freq_analysis_bar():
 	plt.title('Computer Vision Attributes Frequency Analysis')
 	plt.show()
 
+# Computer vision frequency of attributes by type (violin)
 def freq_analysis_violin():
 	sns.set(style='white')
 
@@ -115,6 +116,7 @@ def freq_analysis_violin():
 	sns.despine(bottom=True, left=True)
 	plt.show()
 
+# Accuracy of signal vs noise stacking classifier (bar)
 def signal_noise_bar():
 	sns.set(style='white')
 
@@ -139,6 +141,7 @@ def signal_noise_bar():
 	axes.set_ylim([.95, 1.])
 	plt.show()
 
+# Accuracy of respondent type stacking classifier (bar)
 def resp_types_bar():
 	sns.set(style='white')
 
@@ -163,6 +166,7 @@ def resp_types_bar():
 	axes.set_ylim([.65, .85])
 	plt.show()
 
+# Accuracy of signal vs noise stacking classifier with svm (bar)
 def signal_noise_stacking_svm():
 	sns.set(style='white')
 	with open('../output/optimal_stack_large.json') as f:
@@ -183,6 +187,7 @@ def signal_noise_stacking_svm():
 	axes.set_ylim([.90, 1])
 	plt.show()
 
+# Accuracy of signal vs noise stacking classifier with mlp (bar)
 def signal_noise_stacking_mlp():
 	sns.set(style='white')
 	with open('../output/optimal_stack_large_mlp.json') as f:
@@ -203,6 +208,7 @@ def signal_noise_stacking_mlp():
 	axes.set_ylim([.90, 1])
 	plt.show()
 
+# Accuracy of respondent type classifier and base classifiers (line)
 def resp_types_accuracies_line():
 	sns.set(style='white')
 	with open('../output/optimal_resp_svm_line.json') as f:
@@ -241,6 +247,7 @@ def resp_types_accuracies_line():
 	plt.xticks(rotation='vertical')
 	plt.show()
 
+# Accuracy of signal vs noise stacking classifier and base classifiers (line)
 def signal_noise_accuracies_line():
 	sns.set(style='white')
 	with open('../output/optimal_noise_svm_line.json') as f:
