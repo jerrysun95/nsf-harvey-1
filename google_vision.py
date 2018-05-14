@@ -7,7 +7,7 @@ from utils import Service, encode_image
 
 OUTPUT_FILE = "output/vision.json"
 
-# Stored API key as environment variable called VISION_API
+# Stored API key as environment variable called VISION_API_KEY
 #
 # Generate API key from Google Cloud Dashboard -> APIs and Services ->
 # Credentials -> Create Credentials -> API Key
@@ -38,7 +38,7 @@ def create_json(labels, image_name):
 # Creates JSON given a text from Google Vision
 def create_json_text(text, image_name):
     print('Creating JSON for text ' + image_name)
-    
+
     text_json = {}
     text_json['piece_name'] = image_name
     text_json['text'] = text.replace('\n', ' ')
