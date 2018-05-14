@@ -132,3 +132,9 @@ def vision_from_data_text(image_name, image_content):
         print('Exception during handling of Google Vision text response')
         pass
     return create_json_text(text, image_name)
+
+#----------------------------------------------------------------------------------------------
+# Add API key to keyring
+#----------------------------------------------------------------------------------------------
+
+#keyring.set_password("system", "VISION_API_KEY", "<YOUR API KEY HERE>")
