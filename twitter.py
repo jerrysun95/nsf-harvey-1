@@ -1,33 +1,12 @@
-#!/usr/bin/env python 
-# -*- coding: utf-8 -*-
 import json, re, os, ast, gzip
 
-
-# print(len(d))
-
-# def load_dirty_json(dirty_json):
-#     regex_replace = [('\\U', '\\\\U'), (r" None([, \}\]])", r' null\1'), (r'"', '\\"'), (r"([ \{,:\[])(u)?'([^']+)'", r'\1"\3"'), (r" False([, \}\]])", r' false\1'), (r" True([, \}\]])", r' true\1')]
-#     for r, s in regex_replace:
-#         dirty_json = re.sub(r, s, dirty_json)
-#     with open('tweets/json_fun.json', 'w') as f:
-#     	f.write(dirty_json)
-#     clean_json = json.loads(dirty_json)
-#     return clean_json
-
-# with open('tweets/tweets.log-2017-09-17-20-00-01_harvey') as f:
-# 	j = load_dirty_json(f.read())
-
+# Grabs relevant information from a tweet and returns result
+# If the tweet does not contain an image, returns None
 def parse_tweet(tweet):
 	d = {}
-	# print(tweet)
 	if 'entities' in tweet:
-		# print('entities')
-		# print(tweet['entities'].keys())
 		if 'media' in tweet['entities']:
-			# print('media')
-			# print(tweet['entities']['media'].keys())
 			if 'media_url' in tweet['entities']['media'][0]:
-				# print('media_url')
 				d['text'] = tweet['text']
 				d['id'] = tweet['id']
 				d['timestamp_ms'] = tweet['timestamp_ms']
@@ -37,11 +16,13 @@ def parse_tweet(tweet):
 				return d
 	return None
 
-def parse_tweets():
+# Unzips and parses tweets in all .gz files in directory denoted by path
+# Writes results to tweets_with_links.json
+def parse_tweets(path):
 	tweets_with_links = []
-	for filename in os.listdir('tweets'):
+	for filename in os.listdir(path):
 		if '.gz' in filename:
-			file = gzip.open('tweets/' + filename.strip(' \t\n\r'), 'rb')
+			file = gzip.open(path + '/' + filename.strip(' \t\n\r'), 'rb')
 			for line in file:
 				tweet = ast.literal_eval(line)
 				d = parse_tweet(tweet)
@@ -50,4 +31,22 @@ def parse_tweets():
 	with open('tweets_with_links.json', 'w') as f:
 		f.write(json.dumps(tweets_with_links, indent=4))
 
-parse_tweets()
+# Retrieves image data from an image url
+def get_image_from_url (url, filename):
+    image = requests.get(url).content
+
+    access_token = keyring.get_password("system", "BOX_ACCESS_TOKEN")
+    print(access_token)
+    parent_id = 0
+
+    headers = { 'Authorization' : 'Bearer {0}'.format(access_token) }
+    url = 'https://upload.box.com/api/2.0/files/content'
+    files = { 'filename': (filename, image) }
+    data = { "parent_id": parent_id }
+    response = requests.post(url, data=data, files=files, headers=headers)
+    file_info = response
+    print(file_info)
+
+# get_image_from_url('https://pbs.twimg.com/media/DJ4D7ZJV4AA_Zsi.jpg', 'test')
+
+parse_tweets('tweets')
