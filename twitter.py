@@ -1,4 +1,4 @@
-import json, re, os, ast, gzip
+import json, os, ast, gzip, keyring, requests
 
 # Grabs relevant information from a tweet and returns result
 # If the tweet does not contain an image, returns None
