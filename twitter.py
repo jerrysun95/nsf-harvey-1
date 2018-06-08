@@ -1,4 +1,5 @@
 import json, os, ast, gzip, keyring, requests
+import google_vision as gv
 
 # Grabs relevant information from a tweet and returns result
 # If the tweet does not contain an image, returns None
@@ -28,25 +29,23 @@ def parse_tweets(path):
 				d = parse_tweet(tweet)
 				if d != None:
 					tweets_with_links.append(d)
-	with open('tweets_with_links.json', 'w') as f:
+	with open('output/tweets_with_links.json', 'w') as f:
 		f.write(json.dumps(tweets_with_links, indent=4))
 
 # Retrieves image data from an image url
 def get_image_from_url (url, filename):
-    image = requests.get(url).content
+	labels = []
+	with open('output/tweets_with_links.json') as f:
+		data = json.load(f)
+		for obj in data:
+			print(obj)
+			imageLabels = {}
+			image = requests.get(obj['media_url']).content
+			imageLabels = gv.vision_from_data_image(str(obj['id']), image)
+			labels.append(imageLabels)
+	with open('output/tweets_gv.json', 'w') as g:
+		g.write(json.dumps(labels, indent=4))
 
-    access_token = keyring.get_password("system", "BOX_ACCESS_TOKEN")
-    print(access_token)
-    parent_id = 0
+get_image_from_url('https://pbs.twimg.com/media/DJ4D7ZJV4AA_Zsi.jpg', 'test')
 
-    headers = { 'Authorization' : 'Bearer {0}'.format(access_token) }
-    url = 'https://upload.box.com/api/2.0/files/content'
-    files = { 'filename': (filename, image) }
-    data = { "parent_id": parent_id }
-    response = requests.post(url, data=data, files=files, headers=headers)
-    file_info = response
-    print(file_info)
-
-# get_image_from_url('https://pbs.twimg.com/media/DJ4D7ZJV4AA_Zsi.jpg', 'test')
-
-parse_tweets('tweets')
+# parse_tweets('tweets')
