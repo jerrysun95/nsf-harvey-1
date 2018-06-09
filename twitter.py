@@ -33,10 +33,10 @@ def parse_tweets(path):
 		f.write(json.dumps(tweets_with_links, indent=4))
 
 # Retrieves image data from an image url
-def get_image_from_url (url, filename):
+def get_image_from_url():
 	labels = []
 	with open('output/tweets_with_links.json') as f:
-		data = json.load(f)
+		data = json.load(f.read())
 		for obj in data:
 			print(obj)
 			imageLabels = {}
@@ -46,6 +46,6 @@ def get_image_from_url (url, filename):
 	with open('output/tweets_gv.json', 'w') as g:
 		g.write(json.dumps(labels, indent=4))
 
-get_image_from_url('https://pbs.twimg.com/media/DJ4D7ZJV4AA_Zsi.jpg', 'test')
+get_image_from_url()
 
 # parse_tweets('tweets')
