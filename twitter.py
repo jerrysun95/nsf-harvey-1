@@ -99,4 +99,4 @@ def twitter_gv(num_tweets):
 
 # parse_tweets('tweets')
 # get_random_sample('tweets', 10, 'tweets/random_sample_test.json')
-twitter_gv(8000)
+twitter_gv(2000)
