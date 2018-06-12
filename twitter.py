@@ -88,7 +88,15 @@ def get_random_sample(path, num_tweets, out):
 	with open(out, 'w') as f:
 		f.write(json.dumps(res, indent=4))
 
+def twitter_gv(num_tweets):
+	files = ['tweets/' + x for x in os.listdir('tweets') if str(num_tweets) in x and 'gv' not in x]
+	outs = [x.replace('sample', 'sample_gv') + '.json' for x in files]
+
+	for i in zip(files, outs):
+		get_image_from_url(i[0], i[1])
+
 # get_image_from_url()
 
 # parse_tweets('tweets')
 # get_random_sample('tweets', 10, 'tweets/random_sample_test.json')
+twitter_gv(8000)
