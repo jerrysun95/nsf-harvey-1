@@ -1,0 +1,18 @@
+[
+    {
+        "freq": 0.25, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.18, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "girl"
+    }
+]
