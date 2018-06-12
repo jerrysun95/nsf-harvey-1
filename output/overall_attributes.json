@@ -78,5 +78,205 @@
     {
         "freq": 0.1, 
         "name": "phenomenon"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "automotive exterior"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "floor"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "property"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "road"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "bayou"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "window"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "watercourse"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "flooring"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "boat"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "night"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "home"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "transport"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "darkness"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "glass"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "land lot"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "house"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "asphalt"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "wood"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "fun"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "room"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "water transportation"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "map"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "lighting"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "light"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "reservoir"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "road surface"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "boating"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "furniture"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "family car"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "cloud"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "canal"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "walkway"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "residential area"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "real estate"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "outdoor structure"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "pond"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "yard"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "angle"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "hardwood"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "luxury vehicle"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "table"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "technology"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "interior design"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "line"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "atmosphere of earth"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "lane"
     }
 ]

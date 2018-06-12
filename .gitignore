@@ -6,3 +6,4 @@ upload.pyc
 google_vision.pyc
 powerpoint.py
 *.pptx
+classifiers/*

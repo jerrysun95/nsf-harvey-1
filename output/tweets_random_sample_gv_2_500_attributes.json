@@ -1,0 +1,246 @@
+[
+    {
+        "freq": 0.28, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.2, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "girl"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "line"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "black hair"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "cartoon"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "graphics"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "fun"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "computer wallpaper"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "forehead"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "angle"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "mouth"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "black and white"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "technology"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "sky"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "illustration"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "fictional character"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "brand"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "human hair color"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "mammal"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "advertising"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "chin"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "anime"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "event"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "performance"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "muscle"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "black"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "joint"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "art"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "screenshot"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "hand"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "nose"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "yellow"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "smile"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "recreation"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "design"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "blue"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "leg"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "graphic design"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "stage"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "beauty"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "photo caption"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "paper"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "logo"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "entertainment"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "fiction"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "long hair"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "hairstyle"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "face"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "organism"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "phenomenon"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "arm"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "finger"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "games"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "document"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "shoulder"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "purple"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "brown hair"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "head"
+    }
+]

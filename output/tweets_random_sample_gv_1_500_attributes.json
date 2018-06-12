@@ -1,0 +1,86 @@
+[
+    {
+        "freq": 0.27, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.19, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "girl"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "line"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "human hair color"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "hairstyle"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "black hair"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "forehead"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "computer wallpaper"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "black and white"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "fun"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "smile"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "chin"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "event"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "brand"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "technology"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "screenshot"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "cartoon"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "nose"
+    }
+]
