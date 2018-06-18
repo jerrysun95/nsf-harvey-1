@@ -1,4 +1,4 @@
-import json, random
+import json, random, copy
 from sklearn import svm, tree
 from sklearn.neighbors import KNeighborsClassifier as nn
 from sklearn.naive_bayes import GaussianNB as gnb
@@ -10,6 +10,7 @@ from sklearn.neural_network import MLPClassifier as mlp
 from sklearn.ensemble import VotingClassifier, BaggingClassifier, RandomForestClassifier, ExtraTreesClassifier, AdaBoostClassifier
 from sklearn.decomposition import PCA
 from sklearn.metrics import confusion_matrix
+from sklearn.metrics import f1_score
 from sklearn.externals import joblib
 import matplotlib.pyplot as plt
 
@@ -314,17 +315,19 @@ def stacking_classifier(freq, data, typ, min_freq, save=False):
 		save_classifier(clf.best_estimator_, typ, 'stack', min_freq)
 	else:
 		clf = load_classifier(typ, 'stack', min_freq)
-	
+
 	scores = cross_val_score(clf, stacked_records, labels, cv=5)
+	_t, test_records, _l, test_labels = train_test_split(stacked_records, labels, test_size=.2, shuffle=True)
+	fscore = f1_score(test_labels, clf.predict(test_records))
 	print(scores)
 	print(str(scores.mean()) + '\n')
 
 	# clf.fit(stacked_records, labels)
 
 	# Confusion Matrix
-	# x_train, x_test, y_train, y_test = train_test_split(stacked_records, labels)
-	# y_pred = clf.fit(x_train, y_train).predict(x_test)	
-	# print(confusion_matrix(y_test, y_pred))
+	x_train, x_test, y_train, y_test = train_test_split(stacked_records, labels)
+	y_pred = clf.fit(x_train, y_train).predict(x_test)	
+	print(confusion_matrix(y_test, y_pred))
 
 	# Model visualization with PCA dimensionality reduction
 	# pca = PCA(n_components=2)
@@ -332,4 +335,4 @@ def stacking_classifier(freq, data, typ, min_freq, save=False):
 	# plt.scatter([x[0] for x in data], [y[1] for y in data], c=labels)
 	# plt.show()
 	
-	return clf, scores.mean(), accs
+	return clf, scores.mean(), accs, fscore

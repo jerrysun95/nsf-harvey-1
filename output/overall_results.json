@@ -2,7 +2,6 @@
     {
         "attributes": [
             "mode of transport", 
-            "family car", 
             "car", 
             "natural disaster", 
             "disaster", 
@@ -14,10 +13,8 @@
     }, 
     {
         "attributes": [
-            "light", 
             "sky", 
             "phenomenon", 
-            "lighting", 
             "darkness", 
             "night"
         ], 
@@ -27,10 +24,8 @@
         "attributes": [
             "floor", 
             "property", 
-            "room", 
             "flooring", 
             "wood", 
-            "hardwood", 
             "window", 
             "glass"
         ], 
@@ -46,26 +41,20 @@
     }, 
     {
         "attributes": [
-            "glass", 
-            "technology"
+            "glass"
         ], 
         "name": "r_annsharp_04.jpg"
     }, 
     {
         "attributes": [
-            "product", 
-            "font"
+            "product"
         ], 
         "name": "r_annsharp_05.jpg"
     }, 
     {
         "attributes": [
-            "furniture", 
-            "room", 
-            "table", 
             "flooring", 
-            "floor", 
-            "interior design"
+            "floor"
         ], 
         "name": "r_annsharp_06.jpg"
     }, 
@@ -77,19 +66,15 @@
         "attributes": [
             "plant", 
             "grass", 
-            "yard", 
             "window"
         ], 
         "name": "r_annsharp_08.jpg"
     }, 
     {
         "attributes": [
-            "walkway", 
             "grass", 
             "plant", 
-            "property", 
-            "yard", 
-            "road surface"
+            "property"
         ], 
         "name": "r_annsharp_09.jpg"
     }, 
@@ -111,9 +96,6 @@
     {
         "attributes": [
             "sky", 
-            "light", 
-            "lighting", 
-            "atmosphere of earth", 
             "phenomenon", 
             "night", 
             "darkness", 
@@ -125,10 +107,8 @@
         "attributes": [
             "car", 
             "mode of transport", 
-            "light", 
             "phenomenon", 
             "motor vehicle", 
-            "lighting", 
             "automotive exterior", 
             "vehicle"
         ], 
@@ -136,9 +116,6 @@
     }, 
     {
         "attributes": [
-            "furniture", 
-            "table", 
-            "angle", 
             "floor"
         ], 
         "name": "r_annsharp_15.jpg"
@@ -179,9 +156,7 @@
         "attributes": [
             "property", 
             "home", 
-            "residential area", 
             "disaster", 
-            "real estate", 
             "house", 
             "natural disaster", 
             "water"
@@ -201,9 +176,7 @@
             "car", 
             "mode of transport", 
             "automotive exterior", 
-            "light", 
             "vehicle", 
-            "family car", 
             "glass"
         ], 
         "name": "r_faith_02.jpg"
@@ -229,7 +202,6 @@
             "grass", 
             "house", 
             "recreation", 
-            "outdoor structure", 
             "window"
         ], 
         "name": "r_faith_05.jpg"
@@ -241,7 +213,6 @@
             "vehicle", 
             "grass", 
             "house", 
-            "outdoor structure", 
             "recreation"
         ], 
         "name": "r_faith_06.jpg"
@@ -254,7 +225,6 @@
             "property", 
             "vehicle", 
             "mode of transport", 
-            "residential area", 
             "plant", 
             "road"
         ], 
@@ -269,8 +239,7 @@
             "disaster", 
             "automotive exterior", 
             "road", 
-            "flood", 
-            "family car"
+            "flood"
         ], 
         "name": "r_faith_08.jpg"
     }, 
@@ -286,8 +255,6 @@
     {
         "attributes": [
             "sky", 
-            "cloud", 
-            "atmosphere of earth", 
             "phenomenon"
         ], 
         "name": "r_faith_10.jpg"
@@ -297,18 +264,15 @@
             "tree", 
             "plant", 
             "water", 
-            "grass", 
-            "map"
+            "grass"
         ], 
         "name": "r_faith_11.jpg"
     }, 
     {
         "attributes": [
             "waterway", 
-            "water transportation", 
             "water resources", 
             "water", 
-            "boating", 
             "recreation", 
             "river"
         ], 
@@ -342,8 +306,6 @@
             "tree", 
             "reflection", 
             "flood", 
-            "pond", 
-            "outdoor structure", 
             "recreation", 
             "natural disaster"
         ], 
@@ -361,8 +323,7 @@
     {
         "attributes": [
             "wood", 
-            "sky", 
-            "angle"
+            "sky"
         ], 
         "name": "r_faith_17.jpg"
     }, 
@@ -370,7 +331,6 @@
         "attributes": [
             "floor", 
             "automotive exterior", 
-            "angle", 
             "flooring"
         ], 
         "name": "r_faith_18.jpg"
@@ -397,10 +357,8 @@
     {
         "attributes": [
             "reflection", 
-            "light", 
             "water", 
             "night", 
-            "lighting", 
             "darkness", 
             "sky", 
             "tree", 
@@ -414,7 +372,6 @@
             "reflection", 
             "motor vehicle", 
             "mode of transport", 
-            "light", 
             "night", 
             "darkness"
         ], 
@@ -426,7 +383,6 @@
             "water", 
             "sky", 
             "phenomenon", 
-            "lighting", 
             "window", 
             "darkness", 
             "night", 
@@ -439,7 +395,6 @@
         "attributes": [
             "reflection", 
             "water", 
-            "light", 
             "phenomenon", 
             "asphalt", 
             "floor"
@@ -450,22 +405,17 @@
         "attributes": [
             "night", 
             "darkness", 
-            "light", 
-            "lighting", 
             "tree", 
-            "sky", 
-            "angle"
+            "sky"
         ], 
         "name": "r_faith_25.jpg"
     }, 
     {
         "attributes": [
             "darkness", 
-            "light", 
             "sky", 
             "night", 
             "tree", 
-            "lighting", 
             "phenomenon"
         ], 
         "name": "r_faith_26.jpg"
@@ -476,7 +426,6 @@
             "motor vehicle", 
             "vehicle", 
             "reflection", 
-            "family car", 
             "window", 
             "tree", 
             "automotive exterior"
@@ -486,8 +435,6 @@
     {
         "attributes": [
             "sky", 
-            "cloud", 
-            "atmosphere of earth", 
             "phenomenon"
         ], 
         "name": "r_faith_28.jpg"
@@ -497,20 +444,16 @@
             "sky", 
             "grass", 
             "mode of transport", 
-            "cloud", 
-            "land lot", 
-            "atmosphere of earth"
+            "land lot"
         ], 
         "name": "r_faith_29.jpg"
     }, 
     {
         "attributes": [
             "darkness", 
-            "light", 
             "night", 
             "sky", 
             "tree", 
-            "lighting", 
             "phenomenon"
         ], 
         "name": "r_faith_30.jpg"
@@ -546,18 +489,14 @@
             "waterway", 
             "vehicle", 
             "water", 
-            "water transportation", 
             "boat", 
-            "recreation", 
-            "boating"
+            "recreation"
         ], 
         "name": "r_haibinkaty_02.jpg"
     }, 
     {
         "attributes": [
-            "room", 
             "property", 
-            "furniture", 
             "home", 
             "floor", 
             "window", 
@@ -583,11 +522,8 @@
             "vehicle", 
             "car", 
             "tree", 
-            "water transportation", 
             "boat", 
-            "boating", 
-            "plant", 
-            "canal"
+            "plant"
         ], 
         "name": "r_haibinkaty_05.jpg"
     }, 
@@ -622,7 +558,6 @@
             "natural disaster", 
             "bank", 
             "tree", 
-            "canal", 
             "floodplain", 
             "disaster"
         ], 
@@ -633,12 +568,9 @@
             "sky", 
             "tree", 
             "water", 
-            "atmosphere of earth", 
             "plant", 
-            "cloud", 
             "house", 
-            "vehicle", 
-            "outdoor structure"
+            "vehicle"
         ], 
         "name": "r_haibinkaty_video.mov.jpg"
     }, 
@@ -650,8 +582,7 @@
             "vehicle", 
             "river", 
             "tree", 
-            "watercourse", 
-            "canal"
+            "watercourse"
         ], 
         "name": "r_johnenergy_01.jpg"
     }, 
@@ -733,8 +664,7 @@
             "grass", 
             "floodplain", 
             "water resources", 
-            "bayou", 
-            "pond"
+            "bayou"
         ], 
         "name": "r_johnenergy_07.jpg"
     }, 
@@ -756,11 +686,9 @@
             "water", 
             "waterway", 
             "water resources", 
-            "pond", 
             "tree", 
             "watercourse", 
             "grass", 
-            "reservoir", 
             "bank"
         ], 
         "name": "r_johnenergy_09.jpg"
@@ -775,8 +703,7 @@
             "river", 
             "grass", 
             "floodplain", 
-            "watercourse", 
-            "pond"
+            "watercourse"
         ], 
         "name": "r_johnenergy_10.jpg"
     }, 
@@ -787,7 +714,6 @@
             "motor vehicle", 
             "vehicle", 
             "tree", 
-            "lane", 
             "plant", 
             "asphalt", 
             "transport"
@@ -800,8 +726,7 @@
             "motor vehicle", 
             "vehicle", 
             "mode of transport", 
-            "automotive exterior", 
-            "family car"
+            "automotive exterior"
         ], 
         "name": "r_johnenergy_12.jpg"
     }, 
@@ -811,9 +736,6 @@
             "property", 
             "flooring", 
             "home", 
-            "table", 
-            "interior design", 
-            "furniture", 
             "house"
         ], 
         "name": "r_johnenergy_13.jpg"
@@ -822,15 +744,12 @@
         "attributes": [
             "floor", 
             "flooring", 
-            "room", 
-            "hardwood", 
             "wood"
         ], 
         "name": "r_johnenergy_14.jpg"
     }, 
     {
         "attributes": [
-            "room", 
             "floor", 
             "flooring", 
             "house", 
@@ -850,20 +769,15 @@
         "attributes": [
             "floor", 
             "flooring", 
-            "hardwood", 
-            "room", 
-            "wood", 
-            "furniture"
+            "wood"
         ], 
         "name": "r_johnenergy_17.jpg"
     }, 
     {
         "attributes": [
-            "room", 
             "floor", 
             "flooring", 
             "home", 
-            "furniture", 
             "product"
         ], 
         "name": "r_johnenergy_18.jpg"
@@ -875,10 +789,8 @@
             "floor", 
             "glass", 
             "flooring", 
-            "table", 
             "window", 
-            "water", 
-            "interior design"
+            "water"
         ], 
         "name": "r_johnenergy_19.jpg"
     }, 
@@ -897,7 +809,6 @@
     }, 
     {
         "attributes": [
-            "interior design", 
             "window", 
             "house", 
             "home", 
@@ -909,10 +820,7 @@
         "attributes": [
             "floor", 
             "flooring", 
-            "furniture", 
-            "hardwood", 
-            "wood", 
-            "table"
+            "wood"
         ], 
         "name": "r_johnenergy_23.jpg"
     }, 
@@ -937,11 +845,8 @@
             "floor", 
             "flooring", 
             "property", 
-            "room", 
-            "hardwood", 
             "wood", 
-            "window", 
-            "interior design"
+            "window"
         ], 
         "name": "r_johnenergy_26.jpg"
     }, 
@@ -956,7 +861,6 @@
             "floor", 
             "property", 
             "flooring", 
-            "hardwood", 
             "wood", 
             "home", 
             "glass", 
@@ -990,7 +894,6 @@
             "flood", 
             "natural disaster", 
             "bank", 
-            "pond", 
             "floodplain", 
             "river", 
             "disaster", 
@@ -1003,7 +906,6 @@
             "property", 
             "home", 
             "house", 
-            "real estate", 
             "window", 
             "water"
         ], 
@@ -1027,13 +929,11 @@
         "attributes": [
             "water", 
             "property", 
-            "real estate", 
             "plant", 
             "tree", 
             "house", 
             "home", 
             "bank", 
-            "yard", 
             "watercourse"
         ], 
         "name": "r_johnenergy_35.jpg"
@@ -1067,7 +967,6 @@
             "tree", 
             "transport", 
             "property", 
-            "residential area", 
             "motor vehicle"
         ], 
         "name": "r_johnenergy_38.jpg"
@@ -1086,10 +985,8 @@
             "motor vehicle", 
             "asphalt", 
             "vehicle", 
-            "luxury vehicle", 
             "road", 
             "plant", 
-            "family car", 
             "automotive exterior", 
             "tree"
         ], 
@@ -1097,9 +994,6 @@
     }, 
     {
         "attributes": [
-            "walkway", 
-            "road surface", 
-            "outdoor structure", 
             "wood", 
             "tree"
         ], 
@@ -1129,8 +1023,7 @@
             "property", 
             "tree", 
             "home", 
-            "plant", 
-            "residential area"
+            "plant"
         ], 
         "name": "r_johnenergy_44.jpg"
     }, 
@@ -1143,17 +1036,14 @@
             "road", 
             "vehicle", 
             "transport", 
-            "house", 
-            "residential area"
+            "house"
         ], 
         "name": "r_johnenergy_45.jpg"
     }, 
     {
         "attributes": [
             "car", 
-            "luxury vehicle", 
             "vehicle", 
-            "family car", 
             "motor vehicle", 
             "water", 
             "automotive exterior"
@@ -1166,10 +1056,8 @@
             "tree", 
             "reflection", 
             "grass", 
-            "road surface", 
             "water resources", 
-            "floodplain", 
-            "walkway"
+            "floodplain"
         ], 
         "name": "r_mickann_01.png"
     }, 
@@ -1180,10 +1068,7 @@
         "name": "r_mickann_02.png"
     }, 
     {
-        "attributes": [
-            "map", 
-            "technology"
-        ], 
+        "attributes": [], 
         "name": "r_mickann_04.png"
     }, 
     {
@@ -1193,8 +1078,6 @@
             "phenomenon", 
             "grass", 
             "natural disaster", 
-            "walkway", 
-            "yard", 
             "land lot", 
             "flood"
         ], 
@@ -1202,7 +1085,6 @@
     }, 
     {
         "attributes": [
-            "furniture", 
             "glass"
         ], 
         "name": "r_mickann_06.png"
@@ -1211,10 +1093,7 @@
         "attributes": [
             "floor", 
             "flooring", 
-            "hardwood", 
             "wood", 
-            "furniture", 
-            "table", 
             "product"
         ], 
         "name": "r_mickann_07.png"
@@ -1228,26 +1107,20 @@
     {
         "attributes": [
             "floor", 
-            "room", 
             "flooring", 
             "property", 
-            "hardwood", 
-            "table", 
             "home", 
             "wood"
         ], 
         "name": "r_mickann_09.png"
     }, 
     {
-        "attributes": [
-            "lighting"
-        ], 
+        "attributes": [], 
         "name": "r_mickann_10.png"
     }, 
     {
         "attributes": [
             "product", 
-            "technology", 
             "product"
         ], 
         "name": "r_samenergy_1.jpg"
@@ -1324,7 +1197,6 @@
             "tree", 
             "water", 
             "plant", 
-            "walkway", 
             "grass"
         ], 
         "name": "r_samenergy_15.jpg"
@@ -1333,18 +1205,13 @@
         "attributes": [
             "road", 
             "grass", 
-            "tree", 
-            "road surface", 
-            "lane", 
-            "area"
+            "tree"
         ], 
         "name": "r_samenergy_16.jpg"
     }, 
     {
         "attributes": [
-            "lane", 
             "road", 
-            "area", 
             "vehicle", 
             "recreation", 
             "asphalt", 
@@ -1355,7 +1222,6 @@
     {
         "attributes": [
             "water", 
-            "outdoor structure", 
             "recreation"
         ], 
         "name": "r_samenergy_18.jpg"
@@ -1363,10 +1229,8 @@
     {
         "attributes": [
             "road", 
-            "lane", 
             "asphalt", 
             "car", 
-            "road surface", 
             "vehicle"
         ], 
         "name": "r_samenergy_19.jpg"
@@ -1377,8 +1241,6 @@
             "motor vehicle", 
             "vehicle", 
             "mode of transport", 
-            "luxury vehicle", 
-            "family car", 
             "automotive exterior"
         ], 
         "name": "r_samenergy_2.jpg"
@@ -1400,7 +1262,6 @@
             "road", 
             "motor vehicle", 
             "car", 
-            "lane", 
             "transport", 
             "vehicle"
         ], 
@@ -1411,8 +1272,6 @@
             "car", 
             "road", 
             "asphalt", 
-            "lane", 
-            "atmosphere of earth", 
             "sky", 
             "vehicle"
         ], 
@@ -1439,12 +1298,9 @@
             "car", 
             "motor vehicle", 
             "vehicle", 
-            "family car", 
-            "luxury vehicle", 
             "road", 
             "sky", 
-            "tree", 
-            "residential area"
+            "tree"
         ], 
         "name": "r_samenergy_25.jpg"
     }, 
@@ -1452,11 +1308,9 @@
         "attributes": [
             "car", 
             "motor vehicle", 
-            "luxury vehicle", 
             "vehicle", 
             "tree", 
-            "plant", 
-            "family car"
+            "plant"
         ], 
         "name": "r_samenergy_3.jpg"
     }, 
@@ -1467,19 +1321,14 @@
             "flood", 
             "natural disaster", 
             "disaster", 
-            "residential area", 
-            "real estate", 
-            "tree", 
-            "walkway"
+            "tree"
         ], 
         "name": "r_samenergy_4.jpg"
     }, 
     {
         "attributes": [
             "floor", 
-            "room", 
             "flooring", 
-            "hardwood", 
             "wood"
         ], 
         "name": "r_samenergy_5.jpg"
@@ -1494,28 +1343,23 @@
     {
         "attributes": [
             "property", 
-            "residential area", 
             "tree", 
             "flood", 
             "natural disaster", 
             "disaster", 
-            "water", 
-            "real estate"
+            "water"
         ], 
         "name": "r_samenergy_7.jpg"
     }, 
     {
         "attributes": [
-            "land lot", 
-            "area", 
-            "outdoor structure"
+            "land lot"
         ], 
         "name": "r_samenergy_8.jpg"
     }, 
     {
         "attributes": [
             "transport", 
-            "residential area", 
             "road"
         ], 
         "name": "r_samenergy_9.jpg"
@@ -1538,13 +1382,9 @@
     {
         "attributes": [
             "asphalt", 
-            "walkway", 
-            "road surface", 
-            "lane", 
             "grass", 
             "tree", 
-            "road", 
-            "line"
+            "road"
         ], 
         "name": "r_tracy katy_02.jpg"
     }, 
@@ -1552,23 +1392,17 @@
         "attributes": [
             "water", 
             "tree", 
-            "walkway", 
             "water resources", 
             "plant", 
             "watercourse", 
-            "bank", 
-            "outdoor structure"
+            "bank"
         ], 
         "name": "r_tracy katy_03.jpg"
     }, 
     {
         "attributes": [
             "water", 
-            "walkway", 
-            "road surface", 
             "tree", 
-            "outdoor structure", 
-            "yard", 
             "grass"
         ], 
         "name": "r_tracy katy_04.jpg"
@@ -1576,12 +1410,8 @@
     {
         "attributes": [
             "water", 
-            "walkway", 
             "tree", 
-            "plant", 
-            "road surface", 
-            "outdoor structure", 
-            "yard"
+            "plant"
         ], 
         "name": "r_tracy katy_05.jpg"
     }, 
@@ -1610,21 +1440,16 @@
             "floor", 
             "wood", 
             "glass", 
-            "table", 
             "window", 
-            "water", 
-            "hardwood", 
-            "angle"
+            "water"
         ], 
         "name": "r_tracy katy_08.jpg"
     }, 
     {
         "attributes": [
             "reflection", 
-            "light", 
             "water", 
             "night", 
-            "lighting", 
             "wood", 
             "darkness", 
             "floor", 
@@ -1636,10 +1461,8 @@
         "attributes": [
             "waterway", 
             "water", 
-            "canal", 
             "reflection", 
             "river", 
-            "water transportation", 
             "water resources", 
             "bayou", 
             "boat"
@@ -1685,7 +1508,6 @@
         "attributes": [
             "waterway", 
             "water", 
-            "canal", 
             "tree", 
             "river", 
             "plant", 
@@ -1701,7 +1523,6 @@
             "water", 
             "bank", 
             "river", 
-            "canal", 
             "sky", 
             "tree", 
             "water resources", 
@@ -1723,24 +1544,13 @@
     }, 
     {
         "attributes": [
-            "text", 
-            "line", 
-            "font", 
-            "product", 
-            "area", 
-            "technology"
+            "product"
         ], 
         "name": "vr_barbara_01.jpg"
     }, 
     {
         "attributes": [
-            "text", 
-            "line", 
-            "font", 
-            "area", 
-            "product", 
-            "technology", 
-            "map"
+            "product"
         ], 
         "name": "vr_barbara_02.jpg"
     }, 
@@ -1777,7 +1587,6 @@
             "mode of transport", 
             "natural disaster", 
             "disaster", 
-            "family car", 
             "phenomenon", 
             "water", 
             "flood"
@@ -1787,7 +1596,6 @@
     {
         "attributes": [
             "mode of transport", 
-            "technology", 
             "phenomenon", 
             "recreation", 
             "automotive exterior"
@@ -1810,8 +1618,7 @@
         "attributes": [
             "mode of transport", 
             "car", 
-            "phenomenon", 
-            "technology"
+            "phenomenon"
         ], 
         "name": "vr_billdance_07.png"
     }, 
@@ -1829,8 +1636,7 @@
             "vehicle", 
             "mode of transport", 
             "automotive exterior", 
-            "recreation", 
-            "boating"
+            "recreation"
         ], 
         "name": "vr_billdance_09.png"
     }, 
@@ -1897,8 +1703,7 @@
             "water", 
             "phenomenon", 
             "sky", 
-            "tree", 
-            "cloud"
+            "tree"
         ], 
         "name": "vr_brock_02.jpg"
     }, 
@@ -1920,8 +1725,6 @@
     {
         "attributes": [
             "waterway", 
-            "boating", 
-            "water transportation", 
             "mode of transport", 
             "boat"
         ], 
@@ -1933,9 +1736,7 @@
             "property", 
             "vehicle", 
             "motor vehicle", 
-            "luxury vehicle", 
             "disaster", 
-            "family car", 
             "natural disaster", 
             "automotive exterior", 
             "flood"
@@ -1960,7 +1761,6 @@
             "river", 
             "phenomenon", 
             "sky", 
-            "residential area", 
             "tree", 
             "floodplain"
         ], 
@@ -1969,21 +1769,15 @@
     {
         "attributes": [
             "floor", 
-            "room", 
             "flooring", 
-            "interior design", 
-            "hardwood", 
-            "glass", 
-            "table"
+            "glass"
         ], 
         "name": "vr_diana_03.png"
     }, 
     {
         "attributes": [
             "floor", 
-            "flooring", 
-            "interior design", 
-            "table"
+            "flooring"
         ], 
         "name": "vr_diana_04.png"
     }, 
@@ -2031,10 +1825,8 @@
     }, 
     {
         "attributes": [
-            "walkway", 
             "water", 
             "grass", 
-            "road surface", 
             "water resources", 
             "asphalt", 
             "floodplain", 
@@ -2064,14 +1856,11 @@
     }, 
     {
         "attributes": [
-            "walkway", 
             "plant", 
             "water", 
             "grass", 
             "watercourse", 
-            "tree", 
-            "yard", 
-            "outdoor structure"
+            "tree"
         ], 
         "name": "vr_ileeneenergy_01.jpg"
     }, 
@@ -2081,11 +1870,8 @@
             "waterway", 
             "bayou", 
             "tree", 
-            "residential area", 
             "reflection", 
-            "home", 
-            "pond", 
-            "real estate"
+            "home"
         ], 
         "name": "vr_ileeneenergy_02.jpg"
     }, 
@@ -2094,8 +1880,6 @@
             "home", 
             "property", 
             "house", 
-            "real estate", 
-            "residential area", 
             "tree"
         ], 
         "name": "vr_ileeneenergy_03.jpg"
@@ -2105,7 +1889,6 @@
             "reflection", 
             "water", 
             "waterway", 
-            "pond", 
             "tree", 
             "bank", 
             "water resources", 
@@ -2122,8 +1905,7 @@
             "home", 
             "house", 
             "tree", 
-            "bayou", 
-            "real estate"
+            "bayou"
         ], 
         "name": "vr_ileeneenergy_05.jpg"
     }, 
@@ -2133,9 +1915,7 @@
             "waterway", 
             "water resources", 
             "watercourse", 
-            "yard", 
             "bank", 
-            "pond", 
             "grass", 
             "tree", 
             "plant"
@@ -2146,9 +1926,7 @@
         "attributes": [
             "grass", 
             "water", 
-            "walkway", 
             "tree", 
-            "yard", 
             "watercourse", 
             "plant"
         ], 
@@ -2159,7 +1937,6 @@
             "water", 
             "tree", 
             "reflection", 
-            "outdoor structure", 
             "natural disaster"
         ], 
         "name": "vr_ileeneenergy_08.jpg"
@@ -2170,10 +1947,8 @@
             "reflection", 
             "water", 
             "tree", 
-            "pond", 
             "bank", 
             "bayou", 
-            "canal", 
             "river"
         ], 
         "name": "vr_ileeneenergy_09.jpg"
@@ -2183,21 +1958,12 @@
             "tree", 
             "plant", 
             "property", 
-            "water", 
-            "yard", 
-            "pond"
+            "water"
         ], 
         "name": "vr_ileeneenergy_10.jpg"
     }, 
     {
-        "attributes": [
-            "map", 
-            "text", 
-            "line", 
-            "area", 
-            "angle", 
-            "font"
-        ], 
+        "attributes": [], 
         "name": "vr_ileeneenergy_12.jpg"
     }, 
     {
@@ -2205,8 +1971,7 @@
             "vehicle", 
             "water", 
             "boat", 
-            "water resources", 
-            "font"
+            "water resources"
         ], 
         "name": "vr_ileeneenergy_13.jpg"
     }, 
@@ -2223,33 +1988,23 @@
         "name": "vr_ileeneenergy_15.jpg"
     }, 
     {
-        "attributes": [
-            "map", 
-            "line", 
-            "area", 
-            "font"
-        ], 
+        "attributes": [], 
         "name": "vr_ileeneenergy_16.jpg"
     }, 
     {
         "attributes": [
-            "walkway", 
             "plant", 
             "water", 
             "watercourse", 
             "grass", 
-            "yard", 
-            "tree", 
-            "outdoor structure"
+            "tree"
         ], 
         "name": "vr_ileeneenergy_17.jpg"
     }, 
     {
         "attributes": [
-            "text", 
             "product", 
-            "product", 
-            "font"
+            "product"
         ], 
         "name": "vr_ileeneenergy_18.jpg"
     }, 
@@ -2271,7 +2026,6 @@
             "river", 
             "floodplain", 
             "bank", 
-            "pond", 
             "tree"
         ], 
         "name": "vr_juliekaty_02.jpg"
@@ -2292,9 +2046,7 @@
             "grass", 
             "plant", 
             "tree", 
-            "yard", 
-            "land lot", 
-            "walkway"
+            "land lot"
         ], 
         "name": "vr_juliekaty_04.jpg"
     }, 
@@ -2366,16 +2118,13 @@
         "name": "vr_juliekaty_12.jpg"
     }, 
     {
-        "attributes": [
-            "map"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_14.jpg"
     }, 
     {
         "attributes": [
             "grass", 
-            "tree", 
-            "font"
+            "tree"
         ], 
         "name": "vr_juliekaty_15.jpg"
     }, 
@@ -2400,7 +2149,6 @@
     }, 
     {
         "attributes": [
-            "lane", 
             "mode of transport", 
             "sky", 
             "car", 
@@ -2435,7 +2183,6 @@
     }, 
     {
         "attributes": [
-            "technology", 
             "vehicle", 
             "product"
         ], 
@@ -2459,16 +2206,12 @@
             "waterway", 
             "floodplain", 
             "river", 
-            "pond", 
             "tree"
         ], 
         "name": "vr_juliekaty_24.jpg"
     }, 
     {
-        "attributes": [
-            "text", 
-            "font"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_25.jpg"
     }, 
     {
@@ -2480,21 +2223,18 @@
             "wood", 
             "flooring", 
             "car", 
-            "angle", 
             "glass"
         ], 
         "name": "vr_juliekaty_26.jpg"
     }, 
     {
         "attributes": [
-            "map", 
             "sky"
         ], 
         "name": "vr_juliekaty_27.jpg"
     }, 
     {
         "attributes": [
-            "map", 
             "sky"
         ], 
         "name": "vr_juliekaty_28.jpg"
@@ -2524,9 +2264,7 @@
     }, 
     {
         "attributes": [
-            "text", 
-            "product", 
-            "font"
+            "product"
         ], 
         "name": "vr_juliekaty_31.jpg"
     }, 
@@ -2534,26 +2272,17 @@
         "attributes": [
             "road", 
             "sky", 
-            "residential area", 
-            "area", 
-            "tree", 
-            "road surface", 
-            "lane", 
-            "cloud"
+            "tree"
         ], 
         "name": "vr_juliekaty_32.jpg"
     }, 
     {
         "attributes": [
             "road", 
-            "lane", 
             "transport", 
             "car", 
             "asphalt", 
-            "vehicle", 
-            "residential area", 
-            "road surface", 
-            "area"
+            "vehicle"
         ], 
         "name": "vr_juliekaty_33.jpg"
     }, 
@@ -2567,11 +2296,9 @@
         "attributes": [
             "road", 
             "asphalt", 
-            "lane", 
             "sky", 
             "tree", 
             "plant", 
-            "road surface", 
             "grass"
         ], 
         "name": "vr_juliekaty_35.jpg"
@@ -2581,8 +2308,7 @@
             "water", 
             "wood", 
             "water resources", 
-            "floor", 
-            "angle"
+            "floor"
         ], 
         "name": "vr_juliekaty_36.jpg"
     }, 
@@ -2592,7 +2318,6 @@
             "tree", 
             "water", 
             "land lot", 
-            "yard", 
             "bank", 
             "plant", 
             "floodplain"
@@ -2608,7 +2333,6 @@
             "flood", 
             "disaster", 
             "water", 
-            "luxury vehicle", 
             "automotive exterior", 
             "floodplain"
         ], 
@@ -2638,8 +2362,7 @@
             "water resources", 
             "bank", 
             "disaster", 
-            "tree", 
-            "reservoir"
+            "tree"
         ], 
         "name": "vr_juliekaty_40.jpg"
     }, 
@@ -2652,8 +2375,7 @@
             "floodplain", 
             "land lot", 
             "home", 
-            "floor", 
-            "road surface"
+            "floor"
         ], 
         "name": "vr_juliekaty_41.jpg"
     }, 
@@ -2732,7 +2454,6 @@
             "waterway", 
             "river", 
             "water resources", 
-            "cloud", 
             "water", 
             "floodplain", 
             "flood", 
@@ -2751,8 +2472,7 @@
             "disaster", 
             "river", 
             "bank", 
-            "water resources", 
-            "water transportation"
+            "water resources"
         ], 
         "name": "vr_juliekaty_48.jpg"
     }, 
@@ -2819,14 +2539,11 @@
     {
         "attributes": [
             "road", 
-            "lane", 
             "asphalt", 
             "car", 
             "mode of transport", 
-            "road surface", 
             "grass", 
-            "tree", 
-            "walkway"
+            "tree"
         ], 
         "name": "vr_juliekaty_54.jpg"
     }, 
@@ -2836,7 +2553,6 @@
             "water resources", 
             "floodplain", 
             "flood", 
-            "reservoir", 
             "natural disaster", 
             "bank", 
             "land lot", 
@@ -2848,7 +2564,6 @@
         "attributes": [
             "grass", 
             "water", 
-            "road surface", 
             "tree", 
             "floodplain", 
             "land lot", 
@@ -2868,8 +2583,7 @@
         "attributes": [
             "sky", 
             "water resources", 
-            "road", 
-            "cloud"
+            "road"
         ], 
         "name": "vr_juliekaty_58.jpg"
     }, 
@@ -2883,44 +2597,35 @@
             "bank", 
             "flood", 
             "natural disaster", 
-            "watercourse", 
-            "walkway"
+            "watercourse"
         ], 
         "name": "vr_juliekaty_59.jpg"
     }, 
     {
         "attributes": [
-            "light", 
             "darkness", 
             "floor", 
             "phenomenon", 
-            "lighting", 
             "wood", 
             "night", 
-            "flooring", 
-            "angle"
+            "flooring"
         ], 
         "name": "vr_juliekaty_60.jpg"
     }, 
     {
         "attributes": [
-            "map", 
-            "sky", 
-            "font"
+            "sky"
         ], 
         "name": "vr_juliekaty_61.jpg"
     }, 
     {
-        "attributes": [
-            "technology"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_62.jpg"
     }, 
     {
         "attributes": [
             "product", 
-            "fun", 
-            "furniture"
+            "fun"
         ], 
         "name": "vr_juliekaty_63.jpg"
     }, 
@@ -2932,28 +2637,19 @@
         "name": "vr_juliekaty_64.jpg"
     }, 
     {
-        "attributes": [
-            "technology"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_65.jpg"
     }, 
     {
-        "attributes": [
-            "text", 
-            "technology", 
-            "font"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_66.jpg"
     }, 
     {
-        "attributes": [
-            "technology"
-        ], 
+        "attributes": [], 
         "name": "vr_juliekaty_67.jpg"
     }, 
     {
         "attributes": [
-            "map", 
             "water resources", 
             "land lot"
         ], 
@@ -2965,8 +2661,6 @@
     }, 
     {
         "attributes": [
-            "room", 
-            "furniture", 
             "product", 
             "fun"
         ], 
@@ -2979,7 +2673,6 @@
             "river", 
             "water", 
             "bank", 
-            "reservoir", 
             "floodplain", 
             "natural disaster"
         ], 
@@ -2991,7 +2684,6 @@
             "river", 
             "water resources", 
             "bank", 
-            "reservoir", 
             "water", 
             "floodplain", 
             "sky"
@@ -3008,7 +2700,6 @@
     }, 
     {
         "attributes": [
-            "table", 
             "product"
         ], 
         "name": "vr_juliekaty_78.jpg"
@@ -3022,8 +2713,6 @@
             "sky", 
             "water", 
             "grass", 
-            "cloud", 
-            "reservoir", 
             "phenomenon", 
             "river", 
             "tree", 
@@ -3060,9 +2749,7 @@
             "tree", 
             "grass", 
             "water", 
-            "walkway", 
-            "plant", 
-            "yard"
+            "plant"
         ], 
         "name": "vr_kathrynkaty_19.png"
     }, 
@@ -3071,10 +2758,8 @@
             "property", 
             "grass", 
             "plant", 
-            "light", 
             "sky", 
-            "phenomenon", 
-            "lighting"
+            "phenomenon"
         ], 
         "name": "vr_kathrynkaty_35.png"
     }, 
@@ -3087,7 +2772,6 @@
             "plant", 
             "vehicle", 
             "asphalt", 
-            "family car", 
             "tree", 
             "automotive exterior"
         ], 
@@ -3119,7 +2803,6 @@
             "bank", 
             "floodplain", 
             "flood", 
-            "reservoir", 
             "water", 
             "natural disaster", 
             "watercourse"
@@ -3154,7 +2837,6 @@
     }, 
     {
         "attributes": [
-            "lighting", 
             "darkness", 
             "night"
         ], 
@@ -3177,18 +2859,13 @@
         "name": "vr_rachelkaty_12.png"
     }, 
     {
-        "attributes": [
-            "map", 
-            "text", 
-            "font"
-        ], 
+        "attributes": [], 
         "name": "vr_rachelkaty_13.png"
     }, 
     {
         "attributes": [
             "product", 
-            "product", 
-            "font"
+            "product"
         ], 
         "name": "vr_rachelkaty_21.png"
     }, 
@@ -3201,8 +2878,7 @@
             "bank", 
             "watercourse", 
             "reflection", 
-            "floodplain", 
-            "reservoir"
+            "floodplain"
         ], 
         "name": "vr_rachelkaty_38.png"
     }, 
@@ -3228,10 +2904,8 @@
             "river", 
             "bank", 
             "water resources", 
-            "reservoir", 
             "tree", 
             "floodplain", 
-            "canal", 
             "sky"
         ], 
         "name": "vr_rachelkaty_40.png"
@@ -3244,7 +2918,6 @@
             "water resources", 
             "bank", 
             "floodplain", 
-            "reservoir", 
             "grass", 
             "tree", 
             "land lot"
@@ -3256,10 +2929,8 @@
             "water resources", 
             "water", 
             "bank", 
-            "reservoir", 
             "floodplain", 
-            "grass", 
-            "pond"
+            "grass"
         ], 
         "name": "vr_rachelkaty_43.png"
     }, 
@@ -3271,7 +2942,6 @@
             "waterway", 
             "river", 
             "floodplain", 
-            "reservoir", 
             "watercourse", 
             "grass"
         ], 
@@ -3287,9 +2957,7 @@
         "attributes": [
             "sky", 
             "tree", 
-            "atmosphere of earth", 
-            "plant", 
-            "cloud"
+            "plant"
         ], 
         "name": "vr_rachelkaty_46.png"
     }, 
@@ -3298,7 +2966,6 @@
             "sky", 
             "tree", 
             "darkness", 
-            "atmosphere of earth", 
             "phenomenon", 
             "night"
         ], 
@@ -3307,9 +2974,7 @@
     {
         "attributes": [
             "sky", 
-            "atmosphere of earth", 
-            "tree", 
-            "cloud"
+            "tree"
         ], 
         "name": "vr_rachelkaty_48.png"
     }, 
@@ -3329,7 +2994,6 @@
             "sky", 
             "water resources", 
             "land lot", 
-            "reservoir", 
             "floodplain", 
             "natural disaster", 
             "flood", 
@@ -3342,12 +3006,10 @@
             "water resources", 
             "waterway", 
             "floodplain", 
-            "reservoir", 
             "land lot", 
             "flood", 
             "natural disaster", 
-            "river", 
-            "real estate"
+            "river"
         ], 
         "name": "vr_rachelkaty_58.png"
     }, 
@@ -3366,7 +3028,6 @@
             "vehicle", 
             "mode of transport", 
             "road", 
-            "luxury vehicle", 
             "transport", 
             "automotive exterior"
         ], 
@@ -3446,12 +3107,10 @@
         "attributes": [
             "sky", 
             "tree", 
-            "cloud", 
             "property", 
             "home", 
             "house", 
-            "plant", 
-            "residential area"
+            "plant"
         ], 
         "name": "vr_rachelkaty_68.png"
     }, 
@@ -3468,8 +3127,7 @@
     {
         "attributes": [
             "product", 
-            "flooring", 
-            "furniture"
+            "flooring"
         ], 
         "name": "vr_rachelkaty_71.png"
     }, 
@@ -3514,18 +3172,13 @@
     }, 
     {
         "attributes": [
-            "furniture", 
-            "interior design", 
             "home", 
-            "table", 
             "flooring"
         ], 
         "name": "vr_rachelkaty_86.png"
     }, 
     {
         "attributes": [
-            "map", 
-            "area", 
             "tree", 
             "land lot"
         ], 
@@ -3533,37 +3186,23 @@
     }, 
     {
         "attributes": [
-            "room", 
             "flooring", 
-            "furniture", 
-            "floor", 
-            "table", 
-            "interior design", 
-            "hardwood"
+            "floor"
         ], 
         "name": "vr_rachelkaty_88.png"
     }, 
     {
         "attributes": [
-            "furniture", 
-            "room", 
             "floor", 
-            "flooring", 
-            "interior design", 
-            "hardwood"
+            "flooring"
         ], 
         "name": "vr_rachelkaty_89.png"
     }, 
     {
         "attributes": [
-            "furniture", 
-            "table", 
-            "room", 
-            "interior design", 
             "home", 
             "flooring", 
-            "floor", 
-            "hardwood"
+            "floor"
         ], 
         "name": "vr_rachelkaty_90.png"
     }, 
@@ -3609,10 +3248,7 @@
         "attributes": [
             "night", 
             "darkness", 
-            "light", 
             "reflection", 
-            "atmosphere of earth", 
-            "lighting", 
             "water", 
             "phenomenon", 
             "sky"
@@ -3629,8 +3265,7 @@
             "river", 
             "reflection", 
             "disaster", 
-            "sky", 
-            "canal"
+            "sky"
         ], 
         "name": "vr_ripkinkaty_03.png"
     }, 
@@ -3651,14 +3286,11 @@
     {
         "attributes": [
             "property", 
-            "luxury vehicle", 
             "flood", 
             "natural disaster", 
             "home", 
             "disaster", 
-            "residential area", 
             "car", 
-            "real estate", 
             "water"
         ], 
         "name": "vr_ripkinkaty_05.png"
@@ -3667,16 +3299,13 @@
         "attributes": [
             "home", 
             "house", 
-            "window", 
-            "outdoor structure"
+            "window"
         ], 
         "name": "vr_ripkinkaty_06.png"
     }, 
     {
         "attributes": [
-            "sky", 
-            "cloud", 
-            "walkway"
+            "sky"
         ], 
         "name": "vr_ripkinkaty_07.png"
     }, 
@@ -3707,13 +3336,7 @@
         "name": "vr_ripkinkaty_10.png"
     }, 
     {
-        "attributes": [
-            "text", 
-            "line", 
-            "area", 
-            "font", 
-            "map"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_11.png"
     }, 
     {
@@ -3819,13 +3442,8 @@
     }, 
     {
         "attributes": [
-            "map", 
             "sky", 
-            "line", 
-            "area", 
-            "water resources", 
-            "font", 
-            "angle"
+            "water resources"
         ], 
         "name": "vr_ripkinkaty_21.png"
     }, 
@@ -3849,7 +3467,6 @@
             "night", 
             "phenomenon", 
             "tree", 
-            "lighting", 
             "reflection"
         ], 
         "name": "vr_ripkinkaty_23.png"
@@ -3859,20 +3476,16 @@
             "water", 
             "night", 
             "mode of transport", 
-            "light", 
             "darkness", 
-            "atmosphere of earth", 
             "phenomenon"
         ], 
         "name": "vr_ripkinkaty_24.png"
     }, 
     {
         "attributes": [
-            "room", 
             "property", 
             "home", 
             "floor", 
-            "interior design", 
             "house", 
             "window", 
             "flooring"
@@ -3885,7 +3498,6 @@
             "motor vehicle", 
             "vehicle", 
             "mode of transport", 
-            "luxury vehicle", 
             "road", 
             "asphalt"
         ], 
@@ -3909,7 +3521,6 @@
     {
         "attributes": [
             "waterway", 
-            "water transportation", 
             "boat", 
             "vehicle", 
             "fun", 
@@ -3994,10 +3605,8 @@
             "water", 
             "boat", 
             "vehicle", 
-            "water transportation", 
             "bayou", 
             "river", 
-            "canal", 
             "tree"
         ], 
         "name": "vr_ripkinkaty_35.png"
@@ -4057,8 +3666,6 @@
             "water", 
             "natural disaster", 
             "night", 
-            "family car", 
-            "luxury vehicle", 
             "vehicle", 
             "disaster"
         ], 
@@ -4078,7 +3685,6 @@
             "darkness", 
             "reflection", 
             "mode of transport", 
-            "light", 
             "water", 
             "fun"
         ], 
@@ -4086,29 +3692,16 @@
     }, 
     {
         "attributes": [
-            "text", 
-            "line", 
-            "font", 
-            "area", 
-            "product", 
-            "angle"
+            "product"
         ], 
         "name": "vr_ripkinkaty_43.png"
     }, 
     {
-        "attributes": [
-            "map", 
-            "area"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_45.png"
     }, 
     {
-        "attributes": [
-            "map", 
-            "line", 
-            "area", 
-            "angle"
-        ], 
+        "attributes": [], 
         "name": "vr_ripkinkaty_46.png"
     }, 
     {
@@ -4165,7 +3758,6 @@
     {
         "attributes": [
             "sky", 
-            "cloud", 
             "water", 
             "reflection", 
             "river", 
@@ -4176,10 +3768,6 @@
     }, 
     {
         "attributes": [
-            "text", 
-            "font", 
-            "area", 
-            "line", 
             "product"
         ], 
         "name": "vr_ripkinkaty_59.jpg"
@@ -4211,12 +3799,10 @@
         "attributes": [
             "waterway", 
             "water", 
-            "water transportation", 
             "river", 
             "tree", 
             "vehicle", 
             "reflection", 
-            "canal", 
             "boat", 
             "natural disaster"
         ], 
@@ -4228,10 +3814,8 @@
             "road", 
             "asphalt", 
             "sky", 
-            "lane", 
             "vehicle", 
             "motor vehicle", 
-            "atmosphere of earth", 
             "grass", 
             "plant"
         ], 
@@ -4241,13 +3825,11 @@
         "attributes": [
             "water", 
             "waterway", 
-            "water transportation", 
             "river", 
             "reflection", 
             "vehicle", 
             "boat", 
-            "water resources", 
-            "boating"
+            "water resources"
         ], 
         "name": "vr_sarge_04.jpg"
     }, 
@@ -4260,7 +3842,6 @@
             "sky", 
             "water resources", 
             "natural disaster", 
-            "cloud", 
             "tree", 
             "disaster"
         ], 
@@ -4276,7 +3857,6 @@
             "river", 
             "natural disaster", 
             "plant", 
-            "family car", 
             "tree"
         ], 
         "name": "vr_sarge_06.jpg"
@@ -4286,9 +3866,7 @@
             "waterway", 
             "water", 
             "boat", 
-            "water transportation", 
             "vehicle", 
-            "boating", 
             "river"
         ], 
         "name": "vr_sarge_07.jpg"
@@ -4297,12 +3875,10 @@
         "attributes": [
             "waterway", 
             "water", 
-            "water transportation", 
             "river", 
             "tree", 
             "vehicle", 
             "reflection", 
-            "canal", 
             "boat", 
             "natural disaster"
         ], 
@@ -4316,7 +3892,6 @@
             "reflection", 
             "tree", 
             "natural disaster", 
-            "pond", 
             "river", 
             "flood", 
             "disaster"
@@ -4331,8 +3906,7 @@
             "bayou", 
             "water resources", 
             "river", 
-            "tree", 
-            "pond"
+            "tree"
         ], 
         "name": "vr_sarge_10.jpg"
     }, 
@@ -4343,7 +3917,6 @@
             "house", 
             "home", 
             "water", 
-            "real estate", 
             "tree"
         ], 
         "name": "vr_sarge_11.jpg"
@@ -4352,7 +3925,6 @@
         "attributes": [
             "waterway", 
             "reflection", 
-            "canal", 
             "water", 
             "river", 
             "sky", 
@@ -4366,8 +3938,6 @@
             "water", 
             "waterway", 
             "vehicle", 
-            "water transportation", 
-            "boating", 
             "tree"
         ], 
         "name": "vr_sarge_13.jpg"
@@ -4406,7 +3976,6 @@
             "water", 
             "waterway", 
             "boat", 
-            "boating", 
             "vehicle", 
             "recreation"
         ], 
@@ -4416,10 +3985,8 @@
         "attributes": [
             "water", 
             "waterway", 
-            "water transportation", 
             "vehicle", 
             "boat", 
-            "boating", 
             "tree"
         ], 
         "name": "vr_sarge_17.jpg"
@@ -4428,14 +3995,11 @@
         "attributes": [
             "waterway", 
             "water", 
-            "water transportation", 
             "river", 
-            "canal", 
             "boat", 
             "water resources", 
             "bayou", 
-            "natural disaster", 
-            "boating"
+            "natural disaster"
         ], 
         "name": "vr_sarge_18.jpg"
     }, 
@@ -4444,7 +4008,6 @@
             "vehicle", 
             "water", 
             "recreation", 
-            "boating", 
             "boat", 
             "fun"
         ], 
@@ -4456,7 +4019,6 @@
             "vehicle", 
             "boat", 
             "recreation", 
-            "boating", 
             "tree"
         ], 
         "name": "vr_sarge_20.jpg"
@@ -4466,8 +4028,7 @@
             "mode of transport", 
             "vehicle", 
             "boat", 
-            "recreation", 
-            "boating"
+            "recreation"
         ], 
         "name": "or_simonkaty_003.png"
     }, 
@@ -4475,7 +4036,6 @@
         "attributes": [
             "vehicle", 
             "mode of transport", 
-            "boating", 
             "recreation", 
             "boat", 
             "fun", 
@@ -4505,11 +4065,7 @@
     }, 
     {
         "attributes": [
-            "text", 
-            "font", 
-            "line", 
-            "product", 
-            "area"
+            "product"
         ], 
         "name": "or_simonkaty_007.png"
     }, 
@@ -4522,7 +4078,6 @@
     {
         "attributes": [
             "water resources", 
-            "reservoir", 
             "floodplain", 
             "river", 
             "land lot", 
@@ -4532,11 +4087,7 @@
         "name": "or_simonkaty_016.png"
     }, 
     {
-        "attributes": [
-            "map", 
-            "line", 
-            "area"
-        ], 
+        "attributes": [], 
         "name": "or_simonkaty_025.png"
     }, 
     {
@@ -4544,9 +4095,7 @@
             "tree", 
             "road", 
             "sky", 
-            "residential area", 
-            "vehicle", 
-            "area"
+            "vehicle"
         ], 
         "name": "or_simonkaty_036.png"
     }, 
@@ -4557,9 +4106,7 @@
             "natural disaster", 
             "disaster", 
             "road", 
-            "lane", 
-            "water", 
-            "road surface"
+            "water"
         ], 
         "name": "or_simonkaty_037.png"
     }, 
@@ -4580,16 +4127,13 @@
             "phenomenon", 
             "recreation", 
             "vehicle", 
-            "sky", 
-            "cloud", 
-            "boating"
+            "sky"
         ], 
         "name": "or_simonkaty_039.png"
     }, 
     {
         "attributes": [
             "waterway", 
-            "canal", 
             "water", 
             "river", 
             "boat", 
@@ -4635,9 +4179,7 @@
             "mode of transport", 
             "tree", 
             "asphalt", 
-            "road", 
-            "road surface", 
-            "lane"
+            "road"
         ], 
         "name": "or_simonkaty_044.png"
     }, 
@@ -4657,10 +4199,8 @@
     }, 
     {
         "attributes": [
-            "water transportation", 
             "waterway", 
             "boat", 
-            "boating", 
             "vehicle"
         ], 
         "name": "or_simonkaty_056.png"
@@ -4683,11 +4223,9 @@
     {
         "attributes": [
             "waterway", 
-            "water transportation", 
             "river", 
             "water", 
             "vehicle", 
-            "canal", 
             "watercourse", 
             "tree"
         ], 
@@ -4710,13 +4248,10 @@
         "attributes": [
             "waterway", 
             "property", 
-            "canal", 
             "water", 
-            "boating", 
             "boat", 
             "river", 
-            "vehicle", 
-            "reservoir"
+            "vehicle"
         ], 
         "name": "or_simonkaty_061.png"
     }, 
@@ -4731,11 +4266,9 @@
         "attributes": [
             "waterway", 
             "water", 
-            "residential area", 
             "mode of transport", 
             "tree", 
-            "reflection", 
-            "lighting"
+            "reflection"
         ], 
         "name": "or_simonkaty_063.png"
     }, 
@@ -4771,19 +4304,15 @@
     {
         "attributes": [
             "transport", 
-            "vehicle", 
-            "real estate"
+            "vehicle"
         ], 
         "name": "or_simonkaty_073.png"
     }, 
     {
         "attributes": [
             "property", 
-            "real estate", 
-            "family car", 
             "car", 
-            "window", 
-            "luxury vehicle"
+            "window"
         ], 
         "name": "or_simonkaty_074.png"
     }, 
@@ -4791,11 +4320,9 @@
         "attributes": [
             "waterway", 
             "water", 
-            "canal", 
             "river", 
             "sky", 
             "water resources", 
-            "real estate", 
             "reflection"
         ], 
         "name": "or_simonkaty_075.png"
@@ -4803,10 +4330,8 @@
     {
         "attributes": [
             "waterway", 
-            "water transportation", 
             "river", 
             "bayou", 
-            "canal", 
             "water", 
             "boat", 
             "tree", 
@@ -4818,10 +4343,7 @@
         "attributes": [
             "property", 
             "mode of transport", 
-            "room", 
             "home", 
-            "lighting", 
-            "interior design", 
             "wood", 
             "darkness"
         ], 
@@ -4833,7 +4355,6 @@
             "motor vehicle", 
             "vehicle", 
             "mode of transport", 
-            "family car", 
             "glass", 
             "automotive exterior"
         ], 

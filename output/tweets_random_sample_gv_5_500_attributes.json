@@ -1,0 +1,66 @@
+[
+    {
+        "freq": 0.26, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.17, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "girl"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "line"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "fun"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "forehead"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "chin"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "smile"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "photo caption"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "black hair"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "finger"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "technology"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "brand"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "human hair color"
+    }
+]

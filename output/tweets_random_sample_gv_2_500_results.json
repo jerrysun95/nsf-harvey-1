@@ -2,7 +2,6 @@
     {
         "attributes": [
             "human hair color", 
-            "smile", 
             "mouth"
         ], 
         "name": "945202458040483840"
@@ -14,11 +13,7 @@
     {
         "attributes": [
             "human hair color", 
-            "leg", 
             "girl", 
-            "finger", 
-            "muscle", 
-            "hand", 
             "mouth"
         ], 
         "name": "893199899969421312"
@@ -37,9 +32,7 @@
             "text", 
             "font", 
             "line", 
-            "document", 
             "area", 
-            "paper", 
             "product"
         ], 
         "name": "951604807235751937"
@@ -52,7 +45,6 @@
             "product", 
             "line", 
             "area", 
-            "logo", 
             "brand"
         ], 
         "name": "945202671950077953"
@@ -65,8 +57,7 @@
             "area", 
             "black and white", 
             "product", 
-            "angle", 
-            "document"
+            "angle"
         ], 
         "name": "926116034402226176"
     }, 
@@ -77,8 +68,7 @@
             "line", 
             "area", 
             "product", 
-            "angle", 
-            "document"
+            "angle"
         ], 
         "name": "951604756908134400"
     }, 
@@ -88,7 +78,6 @@
     }, 
     {
         "attributes": [
-            "chin", 
             "forehead"
         ], 
         "name": "905883479468118016"
@@ -99,11 +88,8 @@
     }, 
     {
         "attributes": [
-            "beauty", 
             "black hair", 
-            "girl", 
-            "muscle", 
-            "hand"
+            "girl"
         ], 
         "name": "926116235716198402"
     }, 
@@ -112,7 +98,6 @@
             "product", 
             "product", 
             "brand", 
-            "advertising", 
             "font"
         ], 
         "name": "905883487831441408"
@@ -120,9 +105,7 @@
     {
         "attributes": [
             "text", 
-            "hand", 
             "line", 
-            "design", 
             "black and white", 
             "product", 
             "area"
@@ -138,12 +121,9 @@
     {
         "attributes": [
             "human hair color", 
-            "beauty", 
             "girl", 
-            "hairstyle", 
             "black hair", 
             "forehead", 
-            "long hair", 
             "mouth"
         ], 
         "name": "910111367234961408"
@@ -154,20 +134,14 @@
             "font", 
             "line", 
             "product", 
-            "area", 
-            "document", 
-            "screenshot"
+            "area"
         ], 
         "name": "910111384020467713"
     }, 
     {
         "attributes": [
-            "mammal", 
             "cartoon", 
-            "yellow", 
             "fictional character", 
-            "anime", 
-            "joint", 
             "illustration"
         ], 
         "name": "893199975462477824"
@@ -182,9 +156,7 @@
         "attributes": [
             "human hair color", 
             "girl", 
-            "finger", 
             "mouth", 
-            "muscle", 
             "black hair"
         ], 
         "name": "910111316928454658"
@@ -199,17 +171,14 @@
     }, 
     {
         "attributes": [
-            "black", 
             "black and white", 
-            "mouth", 
-            "hand"
+            "mouth"
         ], 
         "name": "945202625804414976"
     }, 
     {
         "attributes": [
             "text", 
-            "black", 
             "font", 
             "black and white", 
             "line", 
@@ -227,7 +196,6 @@
     }, 
     {
         "attributes": [
-            "logo", 
             "product", 
             "font", 
             "brand", 
@@ -256,7 +224,6 @@
             "black and white", 
             "area", 
             "brand", 
-            "paper", 
             "angle"
         ], 
         "name": "945202546120933376"
@@ -267,8 +234,6 @@
     }, 
     {
         "attributes": [
-            "mammal", 
-            "head", 
             "girl", 
             "product"
         ], 
@@ -293,23 +258,16 @@
         "name": "945202604803465216"
     }, 
     {
-        "attributes": [
-            "beauty"
-        ], 
+        "attributes": [], 
         "name": "902622072555364355"
     }, 
     {
-        "attributes": [
-            "recreation"
-        ], 
+        "attributes": [], 
         "name": "893199832864743424"
     }, 
     {
         "attributes": [
             "cartoon", 
-            "anime", 
-            "fiction", 
-            "art", 
             "fictional character", 
             "illustration", 
             "computer wallpaper", 
@@ -325,21 +283,14 @@
     }, 
     {
         "attributes": [
-            "chin", 
             "forehead", 
-            "muscle", 
-            "hand", 
-            "photo caption", 
             "product"
         ], 
         "name": "893199946089775104"
     }, 
     {
         "attributes": [
-            "anime", 
-            "art", 
             "illustration", 
-            "fiction", 
             "fictional character", 
             "computer wallpaper", 
             "graphics"
@@ -352,11 +303,9 @@
     }, 
     {
         "attributes": [
-            "yellow", 
             "cartoon", 
             "illustration", 
             "font", 
-            "fiction", 
             "graphics", 
             "fictional character"
         ], 
@@ -370,9 +319,7 @@
     }, 
     {
         "attributes": [
-            "beauty", 
-            "girl", 
-            "brown hair"
+            "girl"
         ], 
         "name": "905883580135600133"
     }, 
@@ -386,9 +333,7 @@
     {
         "attributes": [
             "fun", 
-            "performance", 
-            "technology", 
-            "event"
+            "technology"
         ], 
         "name": "926116286052016130"
     }, 
@@ -396,20 +341,15 @@
         "attributes": [
             "text", 
             "font", 
-            "screenshot", 
             "line", 
             "product", 
             "area", 
-            "document", 
             "angle"
         ], 
         "name": "902621988660895751"
     }, 
     {
-        "attributes": [
-            "black", 
-            "mammal"
-        ], 
+        "attributes": [], 
         "name": "939464692107329536"
     }, 
     {
@@ -418,9 +358,7 @@
             "font", 
             "line", 
             "brand", 
-            "product", 
-            "advertising", 
-            "logo"
+            "product"
         ], 
         "name": "910111295948693505"
     }, 
@@ -430,16 +368,12 @@
     }, 
     {
         "attributes": [
-            "purple", 
-            "entertainment", 
-            "event", 
             "fun"
         ], 
         "name": "902622039021903881"
     }, 
     {
         "attributes": [
-            "shoulder", 
             "product", 
             "font"
         ], 
@@ -466,14 +400,12 @@
     }, 
     {
         "attributes": [
-            "font", 
-            "paper"
+            "font"
         ], 
         "name": "926116256708808705"
     }, 
     {
         "attributes": [
-            "organism", 
             "computer wallpaper", 
             "fictional character", 
             "graphics"
@@ -482,24 +414,17 @@
     }, 
     {
         "attributes": [
-            "girl", 
-            "recreation"
+            "girl"
         ], 
         "name": "910111245633675271"
     }, 
     {
-        "attributes": [
-            "blue", 
-            "organism"
-        ], 
+        "attributes": [], 
         "name": "883958938101727232"
     }, 
     {
         "attributes": [
-            "black", 
-            "black and white", 
-            "shoulder", 
-            "joint"
+            "black and white"
         ], 
         "name": "902622085146701824"
     }, 
@@ -510,12 +435,9 @@
     {
         "attributes": [
             "cartoon", 
-            "black", 
             "fictional character", 
             "black and white", 
-            "fiction", 
-            "line", 
-            "anime"
+            "line"
         ], 
         "name": "910111287543083008"
     }, 
@@ -533,12 +455,8 @@
     }, 
     {
         "attributes": [
-            "face", 
-            "nose", 
             "human hair color", 
-            "beauty", 
-            "girl", 
-            "head"
+            "girl"
         ], 
         "name": "945202470606852096"
     }, 
@@ -549,9 +467,7 @@
         "name": "902621896377819136"
     }, 
     {
-        "attributes": [
-            "muscle"
-        ], 
+        "attributes": [], 
         "name": "902622013843496966"
     }, 
     {
@@ -560,20 +476,12 @@
     }, 
     {
         "attributes": [
-            "muscle", 
-            "girl", 
-            "long hair", 
-            "brown hair"
+            "girl"
         ], 
         "name": "926116294428160001"
     }, 
     {
         "attributes": [
-            "black", 
-            "finger", 
-            "leg", 
-            "arm", 
-            "hand", 
             "line"
         ], 
         "name": "939464704690233344"
@@ -586,8 +494,7 @@
         "attributes": [
             "text", 
             "black and white", 
-            "font", 
-            "phenomenon"
+            "font"
         ], 
         "name": "902622068377870338"
     }, 
@@ -602,7 +509,6 @@
     {
         "attributes": [
             "text", 
-            "advertising", 
             "font"
         ], 
         "name": "905883387201675264"
@@ -627,16 +533,12 @@
     }, 
     {
         "attributes": [
-            "joint", 
             "girl"
         ], 
         "name": "939464700475015168"
     }, 
     {
         "attributes": [
-            "phenomenon", 
-            "art", 
-            "screenshot", 
             "sky", 
             "fun"
         ], 
@@ -656,7 +558,6 @@
     {
         "attributes": [
             "product", 
-            "shoulder", 
             "product"
         ], 
         "name": "893199841240780800"
@@ -666,9 +567,6 @@
             "cartoon", 
             "text", 
             "font", 
-            "design", 
-            "arm", 
-            "anime", 
             "illustration"
         ], 
         "name": "939464721454919680"
@@ -678,12 +576,7 @@
         "name": "939464679528660993"
     }, 
     {
-        "attributes": [
-            "shoulder", 
-            "joint", 
-            "leg", 
-            "arm"
-        ], 
+        "attributes": [], 
         "name": "951604685588201472"
     }, 
     {
@@ -704,17 +597,13 @@
     {
         "attributes": [
             "girl", 
-            "recreation", 
-            "event", 
             "fun"
         ], 
         "name": "902622097729572865"
     }, 
     {
         "attributes": [
-            "purple", 
             "fictional character", 
-            "art", 
             "illustration"
         ], 
         "name": "951604664604266496"
@@ -722,30 +611,20 @@
     {
         "attributes": [
             "cartoon", 
-            "screenshot", 
-            "games", 
             "technology", 
-            "fiction", 
             "graphics", 
             "computer wallpaper", 
-            "recreation", 
             "fictional character"
         ], 
         "name": "945202692883808257"
     }, 
     {
-        "attributes": [
-            "games", 
-            "screenshot"
-        ], 
+        "attributes": [], 
         "name": "902622085142413312"
     }, 
     {
         "attributes": [
-            "purple", 
             "text", 
-            "art", 
-            "graphic design", 
             "illustration", 
             "product", 
             "graphics"
@@ -760,16 +639,12 @@
             "line", 
             "area", 
             "product", 
-            "paper", 
-            "angle", 
-            "document"
+            "angle"
         ], 
         "name": "910111291737382913"
     }, 
     {
         "attributes": [
-            "beauty", 
-            "leg", 
             "girl"
         ], 
         "name": "945202634201317377"
@@ -779,9 +654,7 @@
         "name": "905883479459717122"
     }, 
     {
-        "attributes": [
-            "organism"
-        ], 
+        "attributes": [], 
         "name": "942484733560344576"
     }, 
     {
@@ -792,10 +665,8 @@
         "attributes": [
             "cartoon", 
             "black and white", 
-            "mammal", 
             "text", 
-            "fictional character", 
-            "fiction"
+            "fictional character"
         ], 
         "name": "945202609022844928"
     }, 
@@ -808,8 +679,6 @@
     }, 
     {
         "attributes": [
-            "performance", 
-            "event", 
             "product"
         ], 
         "name": "910111354673090566"
@@ -830,7 +699,6 @@
     }, 
     {
         "attributes": [
-            "black", 
             "product"
         ], 
         "name": "910111384020566016"
@@ -841,15 +709,12 @@
             "font", 
             "technology", 
             "line", 
-            "area", 
-            "paper"
+            "area"
         ], 
         "name": "951604761098366976"
     }, 
     {
-        "attributes": [
-            "shoulder"
-        ], 
+        "attributes": [], 
         "name": "942484670674903040"
     }, 
     {
@@ -873,21 +738,13 @@
     {
         "attributes": [
             "girl", 
-            "black hair", 
-            "hand", 
-            "finger", 
-            "muscle", 
-            "leg"
+            "black hair"
         ], 
         "name": "939464826312581121"
     }, 
     {
         "attributes": [
-            "face", 
-            "nose", 
-            "mammal", 
-            "human hair color", 
-            "anime"
+            "human hair color"
         ], 
         "name": "951604643645161472"
     }, 
@@ -896,18 +753,13 @@
         "name": "893199837063032832"
     }, 
     {
-        "attributes": [
-            "shoulder", 
-            "joint"
-        ], 
+        "attributes": [], 
         "name": "883958988416720896"
     }, 
     {
         "attributes": [
             "text", 
-            "advertising", 
-            "font", 
-            "graphic design"
+            "font"
         ], 
         "name": "945202512528736256"
     }, 
@@ -915,11 +767,8 @@
         "attributes": [
             "cartoon", 
             "illustration", 
-            "art", 
-            "organism", 
             "graphics", 
             "computer wallpaper", 
-            "graphic design", 
             "product"
         ], 
         "name": "883959042963636226"
@@ -933,10 +782,7 @@
             "text", 
             "font", 
             "line", 
-            "paper", 
             "area", 
-            "document", 
-            "screenshot", 
             "product"
         ], 
         "name": "902622043199467520"
@@ -946,12 +792,7 @@
         "name": "926116214773911552"
     }, 
     {
-        "attributes": [
-            "performance", 
-            "entertainment", 
-            "stage", 
-            "event"
-        ], 
+        "attributes": [], 
         "name": "939464809535307777"
     }, 
     {
@@ -964,9 +805,7 @@
             "font", 
             "line", 
             "area", 
-            "product", 
-            "screenshot", 
-            "document"
+            "product"
         ], 
         "name": "902621976098942978"
     }, 
@@ -983,8 +822,6 @@
     }, 
     {
         "attributes": [
-            "advertising", 
-            "graphic design", 
             "graphics", 
             "font", 
             "illustration"
@@ -993,9 +830,7 @@
     }, 
     {
         "attributes": [
-            "leg", 
             "girl", 
-            "muscle", 
             "fun"
         ], 
         "name": "905883471092047874"
@@ -1009,15 +844,7 @@
         "name": "883959026165272576"
     }, 
     {
-        "attributes": [
-            "performance", 
-            "stage", 
-            "muscle", 
-            "arm", 
-            "leg", 
-            "hand", 
-            "joint"
-        ], 
+        "attributes": [], 
         "name": "951604748519649284"
     }, 
     {
@@ -1034,10 +861,6 @@
     }, 
     {
         "attributes": [
-            "muscle", 
-            "joint", 
-            "long hair", 
-            "brown hair", 
             "girl"
         ], 
         "name": "893199807703109633"
@@ -1053,16 +876,13 @@
             "text", 
             "font", 
             "sky", 
-            "advertising", 
             "graphics", 
-            "graphic design", 
             "computer wallpaper"
         ], 
         "name": "945202495789453316"
     }, 
     {
         "attributes": [
-            "recreation", 
             "fun"
         ], 
         "name": "942484653889474560"
@@ -1070,12 +890,9 @@
     {
         "attributes": [
             "human hair color", 
-            "hairstyle", 
             "product", 
             "black hair", 
-            "long hair", 
-            "girl", 
-            "brown hair"
+            "girl"
         ], 
         "name": "945202520955092992"
     }, 
@@ -1085,18 +902,14 @@
     }, 
     {
         "attributes": [
-            "shoulder", 
             "girl", 
-            "advertising", 
             "product", 
             "brand"
         ], 
         "name": "902622009640804353"
     }, 
     {
-        "attributes": [
-            "photo caption"
-        ], 
+        "attributes": [], 
         "name": "893199950288433152"
     }, 
     {
@@ -1107,17 +920,13 @@
         "name": "893199807703109635"
     }, 
     {
-        "attributes": [
-            "mammal"
-        ], 
+        "attributes": [], 
         "name": "945202458023866368"
     }, 
     {
         "attributes": [
-            "black", 
             "black and white", 
             "line", 
-            "design", 
             "font"
         ], 
         "name": "942484561618800641"
@@ -1133,9 +942,7 @@
         "attributes": [
             "cartoon", 
             "black and white", 
-            "design", 
             "fictional character", 
-            "fiction", 
             "font", 
             "angle"
         ], 
@@ -1152,11 +959,9 @@
     {
         "attributes": [
             "text", 
-            "black", 
             "font", 
             "sky", 
             "computer wallpaper", 
-            "phenomenon", 
             "line"
         ], 
         "name": "893199887373938689"
@@ -1164,11 +969,7 @@
     {
         "attributes": [
             "human hair color", 
-            "leg", 
-            "joint", 
-            "girl", 
-            "finger", 
-            "hand"
+            "girl"
         ], 
         "name": "951604681406468096"
     }, 
@@ -1182,27 +983,21 @@
     }, 
     {
         "attributes": [
-            "product", 
-            "performance", 
-            "event"
+            "product"
         ], 
         "name": "939464775964037120"
     }, 
     {
         "attributes": [
-            "yellow", 
             "sky", 
             "girl", 
-            "computer wallpaper", 
-            "long hair"
+            "computer wallpaper"
         ], 
         "name": "951604693989457920"
     }, 
     {
         "attributes": [
             "cartoon", 
-            "art", 
-            "design", 
             "font"
         ], 
         "name": "951604660414173185"
@@ -1219,7 +1014,6 @@
     }, 
     {
         "attributes": [
-            "blue", 
             "text", 
             "product", 
             "font", 
@@ -1230,8 +1024,6 @@
     }, 
     {
         "attributes": [
-            "art", 
-            "graphic design", 
             "graphics", 
             "computer wallpaper"
         ], 
@@ -1240,34 +1032,21 @@
     {
         "attributes": [
             "cartoon", 
-            "technology", 
-            "games", 
-            "fiction", 
-            "advertising", 
-            "anime", 
-            "organism"
+            "technology"
         ], 
         "name": "902622047402172416"
     }, 
     {
         "attributes": [
-            "head", 
             "fictional character", 
             "cartoon", 
-            "illustration", 
-            "art", 
-            "design", 
-            "graphic design"
+            "illustration"
         ], 
         "name": "883959047132598274"
     }, 
     {
         "attributes": [
-            "black", 
             "human hair color", 
-            "mammal", 
-            "anime", 
-            "joint", 
             "fictional character", 
             "cartoon"
         ], 
@@ -1286,7 +1065,6 @@
     }, 
     {
         "attributes": [
-            "blue", 
             "text", 
             "product", 
             "font", 
@@ -1307,7 +1085,6 @@
     {
         "attributes": [
             "sky", 
-            "beauty", 
             "girl"
         ], 
         "name": "951604647847972864"
@@ -1316,7 +1093,6 @@
         "attributes": [
             "text", 
             "technology", 
-            "screenshot", 
             "font", 
             "line", 
             "product", 
@@ -1327,8 +1103,6 @@
     {
         "attributes": [
             "black and white", 
-            "joint", 
-            "arm", 
             "fictional character", 
             "illustration"
         ], 
@@ -1336,12 +1110,8 @@
     }, 
     {
         "attributes": [
-            "face", 
-            "muscle", 
             "mouth", 
-            "girl", 
-            "finger", 
-            "hand"
+            "girl"
         ], 
         "name": "942484771342401536"
     }, 
@@ -1377,21 +1147,15 @@
     {
         "attributes": [
             "human hair color", 
-            "hairstyle", 
             "forehead", 
             "black hair", 
-            "girl", 
-            "brown hair", 
-            "long hair"
+            "girl"
         ], 
         "name": "893199878997913601"
     }, 
     {
         "attributes": [
             "sky", 
-            "purple", 
-            "entertainment", 
-            "phenomenon", 
             "fun"
         ], 
         "name": "893199879006281730"
@@ -1408,29 +1172,23 @@
         "name": "893199937726492672"
     }, 
     {
-        "attributes": [
-            "performance"
-        ], 
+        "attributes": [], 
         "name": "883959026169630721"
     }, 
     {
         "attributes": [
-            "nose", 
             "human hair color", 
             "cartoon", 
             "text", 
             "black hair", 
             "forehead", 
-            "anime", 
             "mouth", 
             "product"
         ], 
         "name": "926116017603878912"
     }, 
     {
-        "attributes": [
-            "mammal"
-        ], 
+        "attributes": [], 
         "name": "951604672992808962"
     }, 
     {
@@ -1438,26 +1196,15 @@
         "name": "910111283374039040"
     }, 
     {
-        "attributes": [
-            "performance", 
-            "entertainment", 
-            "stage", 
-            "event", 
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "910111266575806464"
     }, 
     {
         "attributes": [
             "human hair color", 
-            "anime", 
             "cartoon", 
             "girl", 
-            "black hair", 
-            "hairstyle", 
-            "joint", 
-            "leg", 
-            "arm"
+            "black hair"
         ], 
         "name": "951604840777400320"
     }, 
@@ -1471,24 +1218,17 @@
     }, 
     {
         "attributes": [
-            "face", 
-            "chin", 
-            "nose", 
             "forehead", 
-            "head", 
-            "hairstyle", 
             "black hair"
         ], 
         "name": "951604689765916673"
     }, 
     {
         "attributes": [
-            "blue", 
             "text", 
             "font", 
             "product", 
             "line", 
-            "design", 
             "product", 
             "technology", 
             "area"
@@ -1498,15 +1238,12 @@
     {
         "attributes": [
             "girl", 
-            "fun", 
-            "hand", 
-            "muscle"
+            "fun"
         ], 
         "name": "942484565796548608"
     }, 
     {
         "attributes": [
-            "performance", 
             "product"
         ], 
         "name": "945202499945766912"
@@ -1529,8 +1266,6 @@
     }, 
     {
         "attributes": [
-            "nose", 
-            "head", 
             "girl", 
             "mouth", 
             "product"
@@ -1539,9 +1274,7 @@
     }, 
     {
         "attributes": [
-            "entertainment", 
-            "fun", 
-            "event"
+            "fun"
         ], 
         "name": "910111308535627776"
     }, 
@@ -1551,13 +1284,8 @@
     }, 
     {
         "attributes": [
-            "games", 
             "technology", 
-            "design", 
-            "screenshot", 
             "illustration", 
-            "stage", 
-            "recreation", 
             "computer wallpaper"
         ], 
         "name": "883959093286719488"
@@ -1566,7 +1294,6 @@
         "attributes": [
             "text", 
             "font", 
-            "phenomenon", 
             "line"
         ], 
         "name": "883958984213921793"
@@ -1574,43 +1301,30 @@
     {
         "attributes": [
             "cartoon", 
-            "mammal", 
-            "organism", 
-            "art", 
             "illustration", 
             "fictional character"
         ], 
         "name": "951604731742433281"
     }, 
     {
-        "attributes": [
-            "shoulder", 
-            "arm", 
-            "muscle"
-        ], 
+        "attributes": [], 
         "name": "893199962892374017"
     }, 
     {
         "attributes": [
-            "leg", 
             "girl", 
             "black hair", 
             "fun", 
-            "smile", 
-            "mouth", 
-            "hand"
+            "mouth"
         ], 
         "name": "902621984487505920"
     }, 
     {
-        "attributes": [
-            "yellow"
-        ], 
+        "attributes": [], 
         "name": "902622093539467264"
     }, 
     {
         "attributes": [
-            "blue", 
             "font", 
             "sky"
         ], 
@@ -1618,8 +1332,6 @@
     }, 
     {
         "attributes": [
-            "advertising", 
-            "photo caption", 
             "font", 
             "brand"
         ], 
@@ -1628,11 +1340,8 @@
     {
         "attributes": [
             "cartoon", 
-            "mammal", 
-            "art", 
             "fictional character", 
-            "illustration", 
-            "graphic design"
+            "illustration"
         ], 
         "name": "945202625812795392"
     }, 
@@ -1642,7 +1351,6 @@
     }, 
     {
         "attributes": [
-            "art", 
             "font", 
             "illustration"
         ], 
@@ -1651,9 +1359,7 @@
     {
         "attributes": [
             "sky", 
-            "anime", 
             "computer wallpaper", 
-            "recreation", 
             "fun"
         ], 
         "name": "945202621580742658"
@@ -1666,14 +1372,8 @@
     }, 
     {
         "attributes": [
-            "face", 
-            "nose", 
-            "chin", 
-            "head", 
             "forehead", 
-            "smile", 
-            "mouth", 
-            "photo caption"
+            "mouth"
         ], 
         "name": "905883601115521024"
     }, 
@@ -1687,7 +1387,6 @@
     {
         "attributes": [
             "line", 
-            "advertising", 
             "font"
         ], 
         "name": "883959034562322432"
@@ -1702,8 +1401,7 @@
     }, 
     {
         "attributes": [
-            "product", 
-            "advertising"
+            "product"
         ], 
         "name": "910111354652057604"
     }, 
@@ -1720,27 +1418,20 @@
     }, 
     {
         "attributes": [
-            "face", 
             "human hair color", 
-            "chin", 
             "forehead", 
-            "hairstyle", 
             "black hair"
         ], 
         "name": "939464650164285443"
     }, 
     {
         "attributes": [
-            "games", 
-            "product", 
-            "recreation"
+            "product"
         ], 
         "name": "902621988673478661"
     }, 
     {
-        "attributes": [
-            "mammal"
-        ], 
+        "attributes": [], 
         "name": "939464679520382976"
     }, 
     {
@@ -1749,11 +1440,8 @@
     }, 
     {
         "attributes": [
-            "blue", 
-            "chin", 
             "product", 
-            "black hair", 
-            "performance"
+            "black hair"
         ], 
         "name": "939464721471639552"
     }, 
@@ -1780,8 +1468,6 @@
     }, 
     {
         "attributes": [
-            "nose", 
-            "chin", 
             "forehead", 
             "black hair", 
             "product", 
@@ -1791,19 +1477,13 @@
     }, 
     {
         "attributes": [
-            "art", 
-            "design", 
             "fun", 
             "product"
         ], 
         "name": "905883458488082432"
     }, 
     {
-        "attributes": [
-            "finger", 
-            "hand", 
-            "leg"
-        ], 
+        "attributes": [], 
         "name": "905883571730214918"
     }, 
     {
@@ -1817,9 +1497,6 @@
     {
         "attributes": [
             "black and white", 
-            "joint", 
-            "arm", 
-            "muscle", 
             "girl"
         ], 
         "name": "951604840769220608"
@@ -1845,8 +1522,7 @@
             "text", 
             "font", 
             "graphics", 
-            "brand", 
-            "photo caption"
+            "brand"
         ], 
         "name": "926116177021165573"
     }, 
@@ -1885,42 +1561,30 @@
     }, 
     {
         "attributes": [
-            "yellow", 
-            "beauty", 
             "girl", 
             "black hair"
         ], 
         "name": "926116361561968640"
     }, 
     {
-        "attributes": [
-            "beauty"
-        ], 
+        "attributes": [], 
         "name": "902622097721188363"
     }, 
     {
-        "attributes": [
-            "event"
-        ], 
+        "attributes": [], 
         "name": "893199967069773824"
     }, 
     {
         "attributes": [
             "girl", 
-            "leg", 
             "black hair", 
             "mouth", 
-            "finger", 
-            "hand", 
             "product"
         ], 
         "name": "951604819789209601"
     }, 
     {
-        "attributes": [
-            "yellow", 
-            "purple"
-        ], 
+        "attributes": [], 
         "name": "945202525140959232"
     }, 
     {
@@ -1931,28 +1595,21 @@
             "line", 
             "product", 
             "area", 
-            "advertising", 
-            "brand", 
-            "logo"
+            "brand"
         ], 
         "name": "905883571755384834"
     }, 
     {
         "attributes": [
-            "black", 
             "black and white", 
-            "head", 
             "cartoon", 
             "fictional character", 
-            "anime", 
             "illustration"
         ], 
         "name": "893199975475101696"
     }, 
     {
-        "attributes": [
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "945202479003602945"
     }, 
     {
@@ -1965,33 +1622,23 @@
     }, 
     {
         "attributes": [
-            "black", 
-            "mammal", 
             "human hair color", 
             "girl", 
-            "finger", 
-            "hand", 
             "mouth", 
-            "black hair", 
-            "muscle"
+            "black hair"
         ], 
         "name": "945202504169656320"
     }, 
     {
         "attributes": [
-            "muscle", 
-            "product", 
-            "photo caption"
+            "product"
         ], 
         "name": "905883513014104066"
     }, 
     {
         "attributes": [
-            "face", 
             "forehead", 
-            "human hair color", 
-            "chin", 
-            "nose"
+            "human hair color"
         ], 
         "name": "902622030616518657"
     }, 
@@ -2001,11 +1648,8 @@
     }, 
     {
         "attributes": [
-            "hairstyle", 
             "black hair", 
-            "girl", 
-            "long hair", 
-            "brown hair"
+            "girl"
         ], 
         "name": "939464662717841408"
     }, 
@@ -2021,12 +1665,9 @@
     }, 
     {
         "attributes": [
-            "beauty", 
             "human hair color", 
             "girl", 
-            "black hair", 
-            "leg", 
-            "brown hair"
+            "black hair"
         ], 
         "name": "905883399788929024"
     }, 
@@ -2042,29 +1683,23 @@
     }, 
     {
         "attributes": [
-            "photo caption", 
             "girl", 
-            "mouth", 
-            "finger"
+            "mouth"
         ], 
         "name": "905883538167394304"
     }, 
     {
-        "attributes": [
-            "recreation"
-        ], 
+        "attributes": [], 
         "name": "893199828683026432"
     }, 
     {
         "attributes": [
-            "games", 
             "text", 
             "technology", 
             "cartoon", 
             "font", 
             "fictional character", 
             "product", 
-            "fiction", 
             "graphics"
         ], 
         "name": "951604714948317184"
@@ -2076,26 +1711,19 @@
     {
         "attributes": [
             "text", 
-            "font", 
-            "advertising"
+            "font"
         ], 
         "name": "893199929342033921"
     }, 
     {
         "attributes": [
-            "purple", 
-            "entertainment", 
-            "stage", 
-            "event", 
-            "performance", 
             "fun"
         ], 
         "name": "902622051604750336"
     }, 
     {
         "attributes": [
-            "fun", 
-            "recreation"
+            "fun"
         ], 
         "name": "942484674852433921"
     }, 
@@ -2105,9 +1733,7 @@
             "font", 
             "line", 
             "product", 
-            "screenshot", 
-            "graphics", 
-            "graphic design"
+            "graphics"
         ], 
         "name": "926116164442365952"
     }, 
@@ -2115,11 +1741,7 @@
         "attributes": [
             "text", 
             "font", 
-            "art", 
-            "graphic design", 
             "illustration", 
-            "organism", 
-            "advertising", 
             "graphics"
         ], 
         "name": "926116172793249792"
@@ -2133,18 +1755,12 @@
         "name": "910111312734121986"
     }, 
     {
-        "attributes": [
-            "screenshot", 
-            "phenomenon"
-        ], 
+        "attributes": [], 
         "name": "883958929721446400"
     }, 
     {
         "attributes": [
-            "art", 
-            "graphic design", 
             "illustration", 
-            "fiction", 
             "graphics", 
             "fictional character"
         ], 
@@ -2152,8 +1768,6 @@
     }, 
     {
         "attributes": [
-            "art", 
-            "organism", 
             "illustration"
         ], 
         "name": "951604668819415040"
@@ -2163,39 +1777,27 @@
         "name": "910111304333086720"
     }, 
     {
-        "attributes": [
-            "purple", 
-            "games", 
-            "design"
-        ], 
+        "attributes": [], 
         "name": "942484603566043136"
     }, 
     {
         "attributes": [
-            "beauty", 
-            "chin", 
-            "girl", 
-            "brown hair", 
-            "long hair"
+            "girl"
         ], 
         "name": "951604643641016320"
     }, 
     {
         "attributes": [
             "text", 
-            "blue", 
             "font", 
             "product", 
-            "purple", 
             "line", 
-            "area", 
-            "document"
+            "area"
         ], 
         "name": "905883399780528128"
     }, 
     {
         "attributes": [
-            "blue", 
             "text", 
             "sky", 
             "line", 
@@ -2210,28 +1812,21 @@
             "text", 
             "font", 
             "line", 
-            "area", 
-            "document", 
-            "paper"
+            "area"
         ], 
         "name": "926116286043537413"
     }, 
     {
         "attributes": [
-            "entertainment", 
             "fun", 
             "product", 
             "black hair", 
-            "girl", 
-            "event"
+            "girl"
         ], 
         "name": "910111287580835841"
     }, 
     {
         "attributes": [
-            "face", 
-            "head", 
-            "chin", 
             "product"
         ], 
         "name": "893199899990388737"
@@ -2242,8 +1837,7 @@
     }, 
     {
         "attributes": [
-            "sky", 
-            "recreation"
+            "sky"
         ], 
         "name": "910111325321383936"
     }, 
@@ -2254,9 +1848,7 @@
             "line", 
             "product", 
             "area", 
-            "paper", 
             "angle", 
-            "document", 
             "brand"
         ], 
         "name": "902621913180241921"
@@ -2267,7 +1859,6 @@
     }, 
     {
         "attributes": [
-            "shoulder", 
             "product", 
             "girl"
         ], 
@@ -2275,7 +1866,6 @@
     }, 
     {
         "attributes": [
-            "hairstyle", 
             "product", 
             "girl", 
             "fun"
@@ -2287,9 +1877,7 @@
             "text", 
             "product", 
             "line", 
-            "advertising", 
-            "area", 
-            "recreation"
+            "area"
         ], 
         "name": "939464692099055616"
     }, 
@@ -2298,21 +1886,11 @@
         "name": "883959047149371392"
     }, 
     {
-        "attributes": [
-            "performance", 
-            "stage", 
-            "entertainment", 
-            "event"
-        ], 
+        "attributes": [], 
         "name": "945202495772491776"
     }, 
     {
-        "attributes": [
-            "performance", 
-            "stage", 
-            "entertainment", 
-            "event"
-        ], 
+        "attributes": [], 
         "name": "939464650160082946"
     }, 
     {
@@ -2327,22 +1905,16 @@
     }, 
     {
         "attributes": [
-            "blue", 
             "product", 
-            "fun", 
-            "recreation"
+            "fun"
         ], 
         "name": "910111300151152641"
     }, 
     {
         "attributes": [
-            "anime", 
             "human hair color", 
             "fictional character", 
             "mouth", 
-            "long hair", 
-            "muscle", 
-            "joint", 
             "girl", 
             "illustration"
         ], 
@@ -2353,19 +1925,13 @@
         "name": "926116000864591872"
     }, 
     {
-        "attributes": [
-            "long hair"
-        ], 
+        "attributes": [], 
         "name": "945202629977694208"
     }, 
     {
         "attributes": [
             "cartoon", 
-            "nose", 
-            "text", 
-            "head", 
-            "smile", 
-            "fiction"
+            "text"
         ], 
         "name": "893199975487688704"
     }, 
@@ -2379,9 +1945,7 @@
         "name": "893199862233223169"
     }, 
     {
-        "attributes": [
-            "games"
-        ], 
+        "attributes": [], 
         "name": "942484611929706497"
     }, 
     {
@@ -2390,26 +1954,20 @@
     }, 
     {
         "attributes": [
-            "joint", 
-            "shoulder", 
-            "girl", 
-            "leg"
+            "girl"
         ], 
         "name": "942484595165016065"
     }, 
     {
         "attributes": [
             "forehead", 
-            "chin", 
             "fun"
         ], 
         "name": "942484586772168705"
     }, 
     {
         "attributes": [
-            "cartoon", 
-            "anime", 
-            "design"
+            "cartoon"
         ], 
         "name": "951604652054740992"
     }, 
@@ -2419,7 +1977,6 @@
     }, 
     {
         "attributes": [
-            "fiction", 
             "illustration"
         ], 
         "name": "926116252522651648"
@@ -2434,7 +1991,6 @@
     }, 
     {
         "attributes": [
-            "blue", 
             "cartoon", 
             "technology", 
             "computer wallpaper", 
@@ -2450,7 +2006,6 @@
     }, 
     {
         "attributes": [
-            "shoulder", 
             "girl"
         ], 
         "name": "905883391396020225"
@@ -2458,12 +2013,9 @@
     {
         "attributes": [
             "human hair color", 
-            "nose", 
-            "beauty", 
             "product", 
             "black hair", 
             "girl", 
-            "chin", 
             "forehead", 
             "mouth"
         ], 
@@ -2475,10 +2027,7 @@
     }, 
     {
         "attributes": [
-            "purple", 
-            "games", 
             "girl", 
-            "anime", 
             "product"
         ], 
         "name": "893199920936607744"
@@ -2499,12 +2048,8 @@
     }, 
     {
         "attributes": [
-            "nose", 
             "girl", 
-            "chin", 
-            "forehead", 
-            "hand", 
-            "finger"
+            "forehead"
         ], 
         "name": "902622097729404928"
     }, 
@@ -2515,17 +2060,13 @@
     {
         "attributes": [
             "text", 
-            "document", 
-            "paper", 
             "font"
         ], 
         "name": "942484809070403587"
     }, 
     {
         "attributes": [
-            "art", 
             "illustration", 
-            "organism", 
             "fictional character"
         ], 
         "name": "902622059972276224"
@@ -2541,7 +2082,6 @@
     {
         "attributes": [
             "text", 
-            "logo", 
             "font", 
             "line", 
             "product", 
@@ -2552,8 +2092,7 @@
     {
         "attributes": [
             "product", 
-            "girl", 
-            "photo caption"
+            "girl"
         ], 
         "name": "939464675304935429"
     }, 
@@ -2574,16 +2113,13 @@
     }, 
     {
         "attributes": [
-            "fun", 
-            "recreation"
+            "fun"
         ], 
         "name": "883958921332899841"
     }, 
     {
         "attributes": [
-            "yellow", 
             "fun", 
-            "long hair", 
             "girl"
         ], 
         "name": "905883513035120642"
@@ -2601,7 +2137,6 @@
             "text", 
             "font", 
             "sky", 
-            "screenshot", 
             "computer wallpaper"
         ], 
         "name": "939464654329233409"
@@ -2624,23 +2159,19 @@
     }, 
     {
         "attributes": [
-            "design", 
             "fun", 
-            "product", 
-            "smile"
+            "product"
         ], 
         "name": "910111254009716736"
     }, 
     {
         "attributes": [
-            "black", 
             "text", 
             "font", 
             "line", 
             "product", 
             "product", 
             "area", 
-            "logo", 
             "angle", 
             "brand"
         ], 
@@ -2648,17 +2179,13 @@
     }, 
     {
         "attributes": [
-            "recreation", 
             "product"
         ], 
         "name": "902621946726244355"
     }, 
     {
         "attributes": [
-            "blue", 
-            "organism", 
-            "computer wallpaper", 
-            "art"
+            "computer wallpaper"
         ], 
         "name": "951604874336243712"
     }, 
@@ -2668,7 +2195,6 @@
     }, 
     {
         "attributes": [
-            "yellow", 
             "text", 
             "font", 
             "graphics", 
@@ -2686,13 +2212,9 @@
     }, 
     {
         "attributes": [
-            "mammal", 
             "human hair color", 
-            "anime", 
             "fictional character", 
-            "joint", 
             "mouth", 
-            "arm", 
             "girl"
         ], 
         "name": "883959072294293504"
@@ -2703,8 +2225,6 @@
             "font", 
             "line", 
             "product", 
-            "paper", 
-            "document", 
             "area"
         ], 
         "name": "902621892212875264"
@@ -2721,9 +2241,6 @@
     }, 
     {
         "attributes": [
-            "face", 
-            "nose", 
-            "mammal", 
             "cartoon", 
             "fictional character"
         ], 
@@ -2747,12 +2264,8 @@
         "attributes": [
             "text", 
             "font", 
-            "screenshot", 
-            "graphic design", 
-            "games", 
             "graphics", 
             "technology", 
-            "advertising", 
             "computer wallpaper"
         ], 
         "name": "910111262415060992"
@@ -2772,7 +2285,6 @@
             "product", 
             "product", 
             "line", 
-            "logo", 
             "area", 
             "brand"
         ], 
@@ -2780,8 +2292,6 @@
     }, 
     {
         "attributes": [
-            "advertising", 
-            "event", 
             "font", 
             "brand"
         ], 
@@ -2794,11 +2304,8 @@
     {
         "attributes": [
             "text", 
-            "photo caption", 
             "mouth", 
-            "finger", 
             "font", 
-            "screenshot", 
             "girl"
         ], 
         "name": "893199920957718529"
@@ -2807,10 +2314,8 @@
         "attributes": [
             "text", 
             "font", 
-            "photo caption", 
             "product", 
-            "brand", 
-            "graphic design"
+            "brand"
         ], 
         "name": "893199799322849280"
     }, 
@@ -2820,23 +2325,13 @@
     }, 
     {
         "attributes": [
-            "shoulder", 
-            "joint", 
-            "girl", 
-            "arm", 
-            "muscle"
+            "girl"
         ], 
         "name": "905883559168270338"
     }, 
     {
         "attributes": [
-            "black", 
-            "cartoon", 
-            "mammal", 
-            "nose", 
-            "joint", 
-            "shoulder", 
-            "hand"
+            "cartoon"
         ], 
         "name": "910111379842936832"
     }, 
@@ -2845,13 +2340,7 @@
         "name": "893199904155291649"
     }, 
     {
-        "attributes": [
-            "stage", 
-            "entertainment", 
-            "performance", 
-            "purple", 
-            "event"
-        ], 
+        "attributes": [], 
         "name": "939464708867858433"
     }, 
     {
@@ -2864,35 +2353,24 @@
     }, 
     {
         "attributes": [
-            "phenomenon", 
-            "stage", 
-            "organism", 
-            "computer wallpaper", 
-            "event", 
-            "performance"
+            "computer wallpaper"
         ], 
         "name": "902621950903771142"
     }, 
     {
         "attributes": [
-            "blue", 
-            "girl", 
-            "hairstyle"
+            "girl"
         ], 
         "name": "942484767127326720"
     }, 
     {
-        "attributes": [
-            "event"
-        ], 
+        "attributes": [], 
         "name": "883959076526333953"
     }, 
     {
         "attributes": [
-            "anime", 
             "cartoon", 
             "fictional character", 
-            "fiction", 
             "computer wallpaper", 
             "graphics"
         ], 
@@ -2911,19 +2389,15 @@
     {
         "attributes": [
             "black hair", 
-            "girl", 
-            "long hair", 
-            "brown hair"
+            "girl"
         ], 
         "name": "939464700466810883"
     }, 
     {
         "attributes": [
-            "yellow", 
             "text", 
             "font", 
             "line", 
-            "logo", 
             "area"
         ], 
         "name": "883959001008017408"
@@ -2933,22 +2407,17 @@
         "name": "902622055794925577"
     }, 
     {
-        "attributes": [
-            "art", 
-            "muscle"
-        ], 
+        "attributes": [], 
         "name": "902622022206939136"
     }, 
     {
         "attributes": [
             "text", 
-            "logo", 
             "product", 
             "font", 
             "product", 
             "line", 
             "brand", 
-            "graphic design", 
             "graphics", 
             "computer wallpaper"
         ], 
@@ -2957,10 +2426,8 @@
     {
         "attributes": [
             "text", 
-            "black", 
             "font", 
             "black and white", 
-            "phenomenon", 
             "line", 
             "computer wallpaper"
         ], 
@@ -2975,21 +2442,16 @@
     }, 
     {
         "attributes": [
-            "blue", 
-            "chin", 
             "product", 
             "forehead", 
             "black hair", 
-            "smile", 
             "girl"
         ], 
         "name": "910111312725839872"
     }, 
     {
         "attributes": [
-            "smile", 
             "computer wallpaper", 
-            "photo caption", 
             "fun", 
             "font"
         ], 
@@ -2997,7 +2459,6 @@
     }, 
     {
         "attributes": [
-            "black", 
             "black and white"
         ], 
         "name": "942484695819931653"
@@ -3007,24 +2468,17 @@
         "name": "905883462699122688"
     }, 
     {
-        "attributes": [
-            "organism"
-        ], 
+        "attributes": [], 
         "name": "951604878543028225"
     }, 
     {
         "attributes": [
-            "advertising", 
-            "smile", 
-            "photo caption", 
             "font"
         ], 
         "name": "945202650974507008"
     }, 
     {
-        "attributes": [
-            "games"
-        ], 
+        "attributes": [], 
         "name": "883958975863173120"
     }, 
     {
@@ -3037,8 +2491,7 @@
             "brand", 
             "angle", 
             "product", 
-            "graphics", 
-            "logo"
+            "graphics"
         ], 
         "name": "902621967689252864"
     }, 
@@ -3052,7 +2505,6 @@
     }, 
     {
         "attributes": [
-            "anime", 
             "black hair", 
             "fictional character", 
             "illustration", 
@@ -3067,13 +2519,9 @@
     {
         "attributes": [
             "human hair color", 
-            "muscle", 
             "black hair", 
             "mouth", 
-            "girl", 
-            "arm", 
-            "hand", 
-            "finger"
+            "girl"
         ], 
         "name": "902621913163239424"
     }, 
@@ -3084,12 +2532,8 @@
     {
         "attributes": [
             "text", 
-            "face", 
-            "head", 
             "forehead", 
-            "font", 
-            "organism", 
-            "document"
+            "font"
         ], 
         "name": "951604765275885573"
     }, 
@@ -3098,14 +2542,11 @@
         "name": "942484679034359809"
     }, 
     {
-        "attributes": [
-            "games"
-        ], 
+        "attributes": [], 
         "name": "902622009649242112"
     }, 
     {
         "attributes": [
-            "blue", 
             "sky"
         ], 
         "name": "945202676135952384"
@@ -3126,7 +2567,6 @@
     }, 
     {
         "attributes": [
-            "design", 
             "font", 
             "angle"
         ], 
@@ -3138,7 +2578,6 @@
     }, 
     {
         "attributes": [
-            "yellow", 
             "font", 
             "computer wallpaper"
         ], 
@@ -3146,18 +2585,13 @@
     }, 
     {
         "attributes": [
-            "chin", 
             "forehead"
         ], 
         "name": "926116214757191680"
     }, 
     {
         "attributes": [
-            "face", 
-            "black and white", 
-            "nose", 
-            "beauty", 
-            "chin"
+            "black and white"
         ], 
         "name": "945202499946008576"
     }, 
@@ -3183,26 +2617,18 @@
     }, 
     {
         "attributes": [
-            "face", 
-            "black", 
-            "black and white", 
-            "mammal", 
-            "nose"
+            "black and white"
         ], 
         "name": "951604828186333184"
     }, 
     {
         "attributes": [
-            "human hair color", 
-            "beauty", 
-            "hairstyle", 
-            "long hair"
+            "human hair color"
         ], 
         "name": "939464750806712323"
     }, 
     {
         "attributes": [
-            "black", 
             "black and white", 
             "line"
         ], 
@@ -3212,36 +2638,23 @@
         "attributes": [
             "text", 
             "font", 
-            "screenshot", 
             "product"
         ], 
         "name": "902622051571204097"
     }, 
     {
-        "attributes": [
-            "mammal", 
-            "organism"
-        ], 
+        "attributes": [], 
         "name": "893199866398113793"
     }, 
     {
         "attributes": [
-            "joint", 
-            "leg", 
-            "hand", 
-            "arm", 
             "girl", 
-            "mouth", 
-            "muscle", 
-            "finger"
+            "mouth"
         ], 
         "name": "893199996425785345"
     }, 
     {
         "attributes": [
-            "shoulder", 
-            "joint", 
-            "arm", 
             "girl"
         ], 
         "name": "905883496232706048"
@@ -3252,16 +2665,13 @@
             "font", 
             "product", 
             "line", 
-            "area", 
-            "document", 
-            "paper"
+            "area"
         ], 
         "name": "926116298639147008"
     }, 
     {
         "attributes": [
             "font", 
-            "logo", 
             "brand", 
             "graphics"
         ], 
@@ -3273,10 +2683,7 @@
     }, 
     {
         "attributes": [
-            "sky", 
-            "purple", 
-            "phenomenon", 
-            "art"
+            "sky"
         ], 
         "name": "902622076770668546"
     }, 
@@ -3293,10 +2700,8 @@
     {
         "attributes": [
             "girl", 
-            "finger", 
             "mouth", 
-            "black hair", 
-            "hand"
+            "black hair"
         ], 
         "name": "945202634184572928"
     }, 
@@ -3307,7 +2712,6 @@
             "line", 
             "area", 
             "brand", 
-            "logo", 
             "product", 
             "graphics"
         ], 
@@ -3315,9 +2719,6 @@
     }, 
     {
         "attributes": [
-            "entertainment", 
-            "performance", 
-            "stage", 
             "product"
         ], 
         "name": "905883592726806528"
@@ -3360,8 +2761,6 @@
             "cartoon", 
             "text", 
             "black and white", 
-            "fiction", 
-            "design", 
             "line", 
             "area"
         ], 
@@ -3375,10 +2774,8 @@
         "attributes": [
             "black hair", 
             "product", 
-            "advertising", 
             "girl", 
-            "computer wallpaper", 
-            "photo caption"
+            "computer wallpaper"
         ], 
         "name": "945202671924920320"
     }, 
@@ -3417,50 +2814,37 @@
         "name": "951604668794368001"
     }, 
     {
-        "attributes": [
-            "mammal"
-        ], 
+        "attributes": [], 
         "name": "926116319610642432"
     }, 
     {
         "attributes": [
             "black hair", 
-            "girl", 
-            "long hair"
+            "girl"
         ], 
         "name": "893199958697844737"
     }, 
     {
         "attributes": [
-            "black", 
             "text", 
             "font", 
             "line", 
             "area", 
             "brand", 
             "graphics", 
-            "product", 
-            "advertising"
+            "product"
         ], 
         "name": "945202617390571520"
     }, 
     {
-        "attributes": [
-            "entertainment", 
-            "performance", 
-            "stage", 
-            "event"
-        ], 
+        "attributes": [], 
         "name": "945202680305029120"
     }, 
     {
         "attributes": [
-            "shoulder", 
             "girl", 
             "product", 
-            "fun", 
-            "event", 
-            "smile"
+            "fun"
         ], 
         "name": "910111321126879232"
     }, 
@@ -3468,10 +2852,8 @@
         "attributes": [
             "text", 
             "font", 
-            "screenshot", 
             "technology", 
-            "product", 
-            "logo"
+            "product"
         ], 
         "name": "905883395556769793"
     }, 
@@ -3491,7 +2873,6 @@
     }, 
     {
         "attributes": [
-            "anime", 
             "cartoon", 
             "computer wallpaper", 
             "sky", 
@@ -3505,9 +2886,7 @@
             "text", 
             "font", 
             "line", 
-            "area", 
-            "document", 
-            "paper"
+            "area"
         ], 
         "name": "905883424942161920"
     }, 
@@ -3519,7 +2898,6 @@
     }, 
     {
         "attributes": [
-            "smile", 
             "product", 
             "fun", 
             "girl"
@@ -3530,9 +2908,7 @@
         "attributes": [
             "text", 
             "font", 
-            "screenshot", 
-            "line", 
-            "logo"
+            "line"
         ], 
         "name": "883958929692151808"
     }, 
@@ -3540,29 +2916,21 @@
         "attributes": [
             "text", 
             "font", 
-            "organism", 
-            "sky", 
-            "graphic design"
+            "sky"
         ], 
         "name": "942484741978296321"
     }, 
     {
-        "attributes": [
-            "chin", 
-            "smile"
-        ], 
+        "attributes": [], 
         "name": "939464805328531456"
     }, 
     {
         "attributes": [
             "human hair color", 
-            "anime", 
-            "joint", 
             "cartoon", 
             "black hair", 
             "mouth", 
-            "fictional character", 
-            "arm"
+            "fictional character"
         ], 
         "name": "883958971643473920"
     }, 
@@ -3578,9 +2946,7 @@
         "attributes": [
             "text", 
             "product", 
-            "product", 
-            "shoulder", 
-            "joint"
+            "product"
         ], 
         "name": "905883382994706432"
     }, 
@@ -3591,33 +2957,24 @@
     {
         "attributes": [
             "text", 
-            "purple", 
-            "advertising", 
             "font", 
-            "product", 
-            "screenshot"
+            "product"
         ], 
         "name": "910111241443700737"
     }, 
     {
         "attributes": [
-            "nose", 
-            "chin", 
-            "forehead", 
-            "photo caption"
+            "forehead"
         ], 
         "name": "883958950697123841"
     }, 
     {
         "attributes": [
-            "anime", 
             "human hair color", 
             "cartoon", 
-            "hairstyle", 
             "mouth", 
             "forehead", 
-            "black hair", 
-            "brown hair"
+            "black hair"
         ], 
         "name": "942484637099675650"
     }, 
@@ -3629,34 +2986,25 @@
         "attributes": [
             "human hair color", 
             "black hair", 
-            "girl", 
-            "brown hair"
+            "girl"
         ], 
         "name": "893199929320980480"
     }, 
     {
-        "attributes": [
-            "yellow"
-        ], 
+        "attributes": [], 
         "name": "945202453837840384"
     }, 
     {
         "attributes": [
             "fun", 
-            "product", 
-            "smile", 
-            "finger"
+            "product"
         ], 
         "name": "951604656232267776"
     }, 
     {
         "attributes": [
-            "hairstyle", 
-            "chin", 
             "forehead", 
-            "girl", 
-            "brown hair", 
-            "long hair"
+            "girl"
         ], 
         "name": "951604681398038528"
     }, 
@@ -3665,23 +3013,15 @@
         "name": "945202684511928320"
     }, 
     {
-        "attributes": [
-            "stage", 
-            "performance", 
-            "entertainment"
-        ], 
+        "attributes": [], 
         "name": "893199811884830720"
     }, 
     {
-        "attributes": [
-            "face", 
-            "nose"
-        ], 
+        "attributes": [], 
         "name": "902621971912863745"
     }, 
     {
         "attributes": [
-            "yellow", 
             "text", 
             "font", 
             "graphics", 
@@ -3691,14 +3031,12 @@
     }, 
     {
         "attributes": [
-            "sky", 
-            "phenomenon"
+            "sky"
         ], 
         "name": "893199828687216640"
     }, 
     {
         "attributes": [
-            "purple", 
             "girl"
         ], 
         "name": "905883408177532928"
@@ -3724,8 +3062,7 @@
     {
         "attributes": [
             "technology", 
-            "fictional character", 
-            "photo caption"
+            "fictional character"
         ], 
         "name": "942484716820733952"
     }, 
@@ -3745,21 +3082,14 @@
     }, 
     {
         "attributes": [
-            "face", 
-            "nose", 
-            "head", 
             "forehead", 
-            "chin", 
             "mouth"
         ], 
         "name": "883959026177892354"
     }, 
     {
         "attributes": [
-            "black", 
-            "black and white", 
-            "phenomenon", 
-            "muscle"
+            "black and white"
         ], 
         "name": "902622085150855168"
     }, 
@@ -3778,51 +3108,36 @@
         "name": "951604819793534977"
     }, 
     {
-        "attributes": [
-            "leg"
-        ], 
+        "attributes": [], 
         "name": "910111346267688962"
     }, 
     {
         "attributes": [
-            "performance", 
-            "entertainment", 
             "girl", 
-            "product", 
-            "stage"
+            "product"
         ], 
         "name": "926116315403730945"
     }, 
     {
         "attributes": [
-            "games", 
-            "recreation", 
-            "screenshot", 
             "font"
         ], 
         "name": "942484641314828288"
     }, 
     {
         "attributes": [
-            "chin", 
-            "nose", 
-            "forehead", 
-            "head", 
-            "hairstyle"
+            "forehead"
         ], 
         "name": "926116118267248640"
     }, 
     {
         "attributes": [
-            "chin", 
             "forehead"
         ], 
         "name": "902621913176006657"
     }, 
     {
-        "attributes": [
-            "nose"
-        ], 
+        "attributes": [], 
         "name": "910111371466911744"
     }, 
     {
@@ -3832,14 +3147,11 @@
     {
         "attributes": [
             "text", 
-            "yellow", 
-            "games", 
             "product", 
             "technology", 
             "font", 
             "line", 
-            "product", 
-            "graphic design"
+            "product"
         ], 
         "name": "905883546589462528"
     }, 
@@ -3849,29 +3161,21 @@
             "font", 
             "line", 
             "area", 
-            "document", 
             "angle", 
-            "paper", 
             "product"
         ], 
         "name": "902622039013457920"
     }, 
     {
         "attributes": [
-            "screenshot", 
-            "phenomenon", 
             "girl"
         ], 
         "name": "942484649674031104"
     }, 
     {
         "attributes": [
-            "anime", 
             "human hair color", 
-            "nose", 
-            "head", 
             "girl", 
-            "hairstyle", 
             "cartoon", 
             "black hair", 
             "mouth"
@@ -3880,12 +3184,8 @@
     }, 
     {
         "attributes": [
-            "long hair", 
-            "brown hair", 
             "girl", 
-            "product", 
-            "photo caption", 
-            "smile"
+            "product"
         ], 
         "name": "939464822126768128"
     }, 

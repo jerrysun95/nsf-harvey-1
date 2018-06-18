@@ -1,0 +1,94 @@
+[
+    {
+        "freq": 0.25, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "girl"
+    }, 
+    {
+        "freq": 0.15, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "line"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "cartoon"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "human hair color"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "event"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "fun"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "fictional character"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "computer wallpaper"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "fiction"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "forehead"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "anime"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "technology"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "screenshot"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "nose"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "black hair"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "recreation"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "joint"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "black and white"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "brand"
+    }
+]

@@ -97,43 +97,32 @@ def main():
 	# 	attributes.results('or')
 
 	# 	o = ml.stacking_classifier(['vr', 'r', 'or'], ['vr', 'r', 'or'], 'resp', min_freq)
-	# 	res.append([min_freq, o[1], o[2]])
+	# 	res.append([min_freq, o[1], o[2]], o[3])
 
 	# with open('output/optimal_resp_svm_line.json', 'w') as f:
 	# 	f.write(json.dumps(res, indent=4))
 
-	# # STACKING signal v noise
-	# res = []
-	# for f in range(20):
-	# 	min_freq = .0 + f * 0.005
-	# 	print('MIN FREQ: ' + str(min_freq))
-	# 	attributes.frequent(min_freq, 'overall')
-	# 	attributes.frequent(min_freq, 'noise')
-
-	# 	attributes.results('overall')
-	# 	attributes.results('noise')
-
-	# 	o = ml.stacking_classifier(['overall'], ['overall', 'noise'], 'noise', min_freq)
-	# 	res.append([min_freq, o[1], o[2]])
-
-	# with open('output/optimal_noise_svm_line.json', 'w') as f:
-	# 	f.write(json.dumps(res, indent=4))
-	run_twitter_ml(1000)
+	run_twitter_ml(4000)
 
 def run_twitter_ml(sample_size):
-	for i in range(6):
+	for i in range(5):
 		res = []
+		print('sample ' + str(sample_size))
+		print('iteration ' + str(i))
 		for f in range(10):
 			min_freq = .0 + f * 0.005
 			print('MIN FREQ: ' + str(min_freq))
 			attributes.frequent(min_freq, 'tweets_random_sample_gv_' + str(i) + '_' + str(sample_size))
 			attributes.frequent(min_freq, 'overall')
+			# attributes.frequent(min_freq, 'overall')
 
 			attributes.results('tweets_random_sample_gv_' + str(i) + '_' + str(sample_size))
 			attributes.results('overall')
+			# attributes.results('overall')
 
 			o = ml.stacking_classifier(['overall'], ['overall', 'tweets_random_sample_gv_' + str(i) + '_' + str(sample_size)], 
 				'tweets_random_sample_gv_' + str(i) + '_' + str(sample_size), min_freq, save=True)
+			res.append([min_freq, o[1], o[2], o[3]])
 
 		with open('tweets/sample_results_' + str(i) + '_' + str(sample_size) + '.json', 'w') as f:
 			f.write(json.dumps(res, indent=4))

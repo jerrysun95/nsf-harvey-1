@@ -95,8 +95,53 @@ def twitter_gv(num_tweets):
 	for i in zip(files, outs):
 		get_image_from_url(i[0], i[1])
 
+def avg_results(sample_size):
+	d = []
+	for i in range(5):
+		with open('tweets/sample_results_' + str(i) + '_' + str(sample_size) + '.json', 'r') as f:
+			d.append(json.loads(f.read()))
+	freq = [0.000 + 0.005 * x for x in range(10)]
+	accs = [0] * 10
+	f1s = [0] * 10
+	baccs = []
+	
+	for i in range(10):
+		baccs.append([0] * 8)
+		
+		for j in range(5):
+			accs[i] += d[j][i][1]
+			f1s[i] += d[j][i][3]
+			for k in range(len(d[j][i][2])):
+				baccs[i][k] += d[j][i][2][k]
+
+	accs = [x / 5 for x in accs]
+	f1s = [x / 5 for x in f1s]
+	for i in range(len(baccs)):
+		for j in range(len(baccs[0])):
+			baccs[i][j] /= 5
+
+	return freq, accs, baccs, f1s
+
+for i in [2000]:
+	f, a, b, f1 = avg_results(i)
+	res = zip(f,a,b,f1)
+	with open('tweets/sample_results_average_' + str(i) + '.json', 'w') as f:
+		f.write(json.dumps(res, indent=4))
+
+def conv_to_csv(n):
+	with open('tweets/human_average_results_' + str(n) + '.json') as f:
+		d = json.loads(f.read())
+
+	with open('tweets/human_results_average_' + str(n) + '.csv', 'w') as f:
+		for x in d:
+			f.write(str(str(x[0]) + ',' + str(x[1]) + ','))
+			for a in x[2]:
+				f.write(str(a) + ',')
+			f.write('\n')
+			# f.write(str(x[3]) + '\n')
+
 # get_image_from_url()
 
 # parse_tweets('tweets')
 # get_random_sample('tweets', 10, 'tweets/random_sample_test.json')
-twitter_gv(2000)
+# twitter_gv(2000)

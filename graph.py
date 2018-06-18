@@ -286,6 +286,95 @@ def signal_noise_accuracies_line():
 	plt.xticks(rotation='vertical')
 	plt.show()
 
-# resp_types_bar()
-signal_noise_stacking_mlp()
-# signal_noise_accuracies_line()
+def average_twitter_sample_line():
+	sns.set(style='white')
+	with open('tweets/sample_average_results_500.json') as f:
+		d0 = json.loads(f.read())
+	with open('tweets/sample_average_results_1000.json') as f:
+		d1 = json.loads(f.read())
+	with open('tweets/sample_average_results_2000.json') as f:
+		d2 = json.loads(f.read())
+	with open('tweets/sample_average_results_4000.json') as f:
+		d3 = json.loads(f.read())
+
+	freq = [x[0] for x in d0]
+	print([x[1] for x in d0])
+	plt.plot(freq, [x[1] for x in d0], label='500', c='.6')
+	plt.plot(freq, [x[1] for x in d1], label='1000', c='.4')
+	plt.plot(freq, [x[1] for x in d2], label='2000', c='.2')
+	plt.plot(freq, [x[1] for x in d3], label='4000', c='.0')
+
+	plt.axis([0,.05,.9,1])
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Average Accuracy')
+	plt.legend(loc=4)
+	plt.show()
+
+def average_gv_vs_human_line():
+	sns.set(style='white')
+	with open('tweets/human_average_results_500.json') as f:
+		h = json.loads(f.read())
+	with open('tweets/sample_average_results_500.json') as f:
+		gv = json.loads(f.read())
+
+	freq = [x[0] for x in gv]
+
+	plt.plot(freq, [x[1] for x in gv], label='Computer Vision', c='.0')
+	plt.plot(freq, [x[1] for x in h], label='Human Coded', c='.5')
+
+	plt.axis([0,.05,.7,1])
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Average Accuracy')
+	plt.legend(loc=1)
+	plt.show()
+
+def stack_testing_line():
+	sns.set(style='white')
+	svm = [[],[],[],[],[],[],[],[],[],[]]
+	gnb = [[],[],[],[],[],[],[],[],[],[]]
+	knn = [[],[],[],[],[],[],[],[],[],[]]
+	mlp = [[],[],[],[],[],[],[],[],[],[]]
+	fs = [[],[],[],[],[],[],[],[],[],[]]
+	fg = [[],[],[],[],[],[],[],[],[],[]]
+	fk = [[],[],[],[],[],[],[],[],[],[]]
+	fm = [[],[],[],[],[],[],[],[],[],[]]
+	for i in range(5):
+		with open('tweets/stack_testing_' + str(i) + '_1000.json') as f:
+			d = json.loads(f.read())
+			for j in range(10):
+				svm[j].append(d[j][1][0])
+				gnb[j].append(d[j][1][1])
+				knn[j].append(d[j][1][2])
+				mlp[j].append(d[j][1][3])
+				fs[j].append(d[j][3][0])
+				fg[j].append(d[j][3][1])
+				fk[j].append(d[j][3][2])
+				fm[j].append(d[j][3][3])
+
+	for x in [svm, gnb, knn, mlp, fs, fg, fk, fm]:
+		for i in range(len(x)):
+			x[i] = sum(x[i]) / len(x[i])
+
+	freq = [0.005 * x for x in range(10)]
+	plt.plot(freq, svm, label='svm')
+	plt.plot(freq, gnb, label='naive bayes')
+	plt.plot(freq, knn, label='nearest neighbors')
+	plt.plot(freq, mlp, label='mlp')
+
+	# plt.plot(freq, fs, label='svm')
+	# plt.plot(freq, fg, label='naive bayes')
+	# plt.plot(freq, fk, label='nearest neighbors')
+	# plt.plot(freq, fm, label='mlp')
+
+	plt.axis([0,.05,.95,1])
+	sns.despine(bottom=True, left=True)
+	plt.xlabel('Minimum Frequency')
+	plt.ylabel('Average Accuracy')
+	plt.legend(loc=1)
+	plt.show()
+
+
+# average_gv_vs_human_line()
+stack_testing_line()

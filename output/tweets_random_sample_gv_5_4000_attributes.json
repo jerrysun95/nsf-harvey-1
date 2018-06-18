@@ -1,0 +1,1070 @@
+[
+    {
+        "freq": 0.28, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.16, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "girl"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "line"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "human hair color"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "fun"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "forehead"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "nose"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "cartoon"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "black hair"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "chin"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "smile"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "event"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "screenshot"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "black and white"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "fictional character"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "brand"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "blue"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "computer wallpaper"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "mouth"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "games"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "anime"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "performance"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "technology"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "advertising"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "fiction"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "art"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "cheek"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "recreation"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "hairstyle"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "face"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "eyebrow"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "graphics"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "sky"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "beauty"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "long hair"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "photo caption"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "finger"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "hand"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "shoulder"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "illustration"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "head"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "cool"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "joint"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "public relations"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "mammal"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "darkness"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "phenomenon"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "vertebrate"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "leg"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "vehicle"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "angle"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "snapshot"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "muscle"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "hair"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "stage"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "brown hair"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "yellow"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "monochrome photography"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "logo"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "tree"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "fashion"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "person"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "gentleman"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "child"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "player"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "human"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "crowd"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "purple"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "skin"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "water"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "sports"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "car"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "pink"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "neck"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "plant"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "team sport"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "monochrome"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "snout"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "black"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "facial expression"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "document"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "socialite"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "music artist"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "comics"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "grass"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "design"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "graphic design"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "male"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "media"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "paper"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "food"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "number"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "blond"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "lip"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "organism"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "pc game"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "facial hair"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "arm"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "vision care"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "hair coloring"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "mode of transport"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "suit"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "outerwear"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "pop music"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "thigh"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "material"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "entertainment"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "red"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "interaction"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "human behavior"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "sport venue"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "competition event"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "fur"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dog breed"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "nail"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "street"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "music"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dog breed group"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sitting"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "abdomen"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "diagram"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "green"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "writing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "city"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "carnivoran"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "chest"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "singer"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "formal wear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dog"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "soccer player"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "photograph"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "leisure"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "white collar worker"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "t shirt"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "protective gear in sports"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "website"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dog like mammal"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "undergarment"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "flooring"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "night"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "people"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "ear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "selfie"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "fashion accessory"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "floor"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "team"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "public event"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "boy"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bangs"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "web page"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "tuxedo"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "football player"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "comic book"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cat"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "fauna"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "clothing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "drama"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "man"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "midnight"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "window"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "space"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "footwear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "emotion"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "white"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "room"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "shoe"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "wood"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "concert"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "vacation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "personal protective equipment"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "calligraphy"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "speech"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "model"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "performing arts"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "flavor"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "public speaking"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "automotive exterior"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "world"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "lady"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "competition"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "business"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cat like mammal"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "road"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "communication"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "close up"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "motor vehicle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "film"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "whiskers"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "building"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dish"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "presentation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "song"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "headgear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "trunk"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "eye"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "magenta"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "lighting"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "small to medium sized cats"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "artwork"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "gadget"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "friendship"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "eyelash"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "flower"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "action figure"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "video game software"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "play"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "asphalt"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "banner"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sea"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "portrait"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "gridiron football"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "performance art"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "album cover"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cuisine"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "eyewear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "textile"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "furniture"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "display device"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "audience"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "basketball player"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "poster"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "structure"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "multimedia"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "social group"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "photo shoot"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "singing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cloud"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "standing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "toy"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "musician"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "line art"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "toddler"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "light"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "costume"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "day"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "glasses"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "electronics"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "conversation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "electronic device"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "atmosphere"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "jaw"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "photography"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "organ"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "official"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "pattern"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "table"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "handwriting"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "ball"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "drink"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "student"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "fashion model"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "television program"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "drawing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "protective equipment in gridiron football"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "happiness"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "barechestedness"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "championship"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "transport"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "automotive design"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "software"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "atmosphere of earth"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cg artwork"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mythical creature"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "american football"
+    }
+]
