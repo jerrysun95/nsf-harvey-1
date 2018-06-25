@@ -3,6 +3,7 @@ from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
 from gensim import corpora, models
 import gensim
+from nltk.stem.snowball import EnglishStemmer 
 
 
 # * not being called yet
@@ -40,11 +41,15 @@ def parse_text(doc, name):
 	ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=2, id2word = dictionary, passes=20)
 
 	# * topic probability distribution for a document
-	topics = ldamodel.show_topics(num_topics=2, num_words=15, formatted=False, log=False)[0][1]
+	# show_topics doesn't return the topics in any particular order - it's arbitrary. so really we shouldn't only take the first topic (the indexing [0]). it'd be better to look at all of the topics
+	topics = ldamodel.show_topics(num_topics=2, num_words=15, formatted=False, log=False)
+	for top in topics:
+		print(top,'\n')
+
 	res = []
 	for t in topics:
 		res.append(t[0])
-		print("res", t)
+		# print("res", t)
 	return res
 
 tokenizer = RegexpTokenizer(r'\w+')
@@ -55,7 +60,7 @@ en_stop = get_stop_words('en')
 
 # Create p_stemmer of class PorterStemmer
 # * The Porter stemming algorithm is a process for removing the commoner morphological and inflexional endings from words in English.
-p_stemmer = PorterStemmer()
+p_stemmer = EnglishStemmer()
 
 # create sample documents
 # * -- are these documents supposed to come from Google Vision?

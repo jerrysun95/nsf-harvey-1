@@ -16,6 +16,7 @@
             "boating", 
             "recreation", 
             "boat", 
+            "personal protective equipment", 
             "product"
         ], 
         "name": "or_simonkaty_004.png"
@@ -33,13 +34,17 @@
             "vehicle", 
             "mode of transport", 
             "recreation", 
-            "product"
+            "profession", 
+            "product", 
+            "official", 
+            "personal protective equipment"
         ], 
         "name": "or_simonkaty_006.png"
     }, 
     {
         "attributes": [
-            "product"
+            "product", 
+            "area"
         ], 
         "name": "or_simonkaty_007.png"
     }, 
@@ -58,13 +63,18 @@
         "name": "or_simonkaty_016.png"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "area"
+        ], 
         "name": "or_simonkaty_025.png"
     }, 
     {
         "attributes": [
             "tree", 
-            "vehicle"
+            "road", 
+            "sky", 
+            "vehicle", 
+            "area"
         ], 
         "name": "or_simonkaty_036.png"
     }, 
@@ -74,6 +84,7 @@
             "tree", 
             "natural disaster", 
             "disaster", 
+            "road", 
             "water"
         ], 
         "name": "or_simonkaty_037.png"
@@ -94,6 +105,7 @@
             "water", 
             "recreation", 
             "vehicle", 
+            "sky", 
             "boating"
         ], 
         "name": "or_simonkaty_039.png"
@@ -118,7 +130,8 @@
     {
         "attributes": [
             "water", 
-            "water resources"
+            "water resources", 
+            "reflection"
         ], 
         "name": "or_simonkaty_042.png"
     }, 
@@ -139,7 +152,8 @@
             "transport", 
             "vehicle", 
             "mode of transport", 
-            "tree"
+            "tree", 
+            "road"
         ], 
         "name": "or_simonkaty_044.png"
     }, 
@@ -151,20 +165,28 @@
         "name": "or_simonkaty_045.png"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "profession", 
+            "professional", 
+            "official"
+        ], 
         "name": "or_simonkaty_052.png"
     }, 
     {
         "attributes": [
+            "water transportation", 
             "waterway", 
             "boat", 
             "boating", 
+            "personal protective equipment", 
             "vehicle"
         ], 
         "name": "or_simonkaty_056.png"
     }, 
     {
-        "attributes": [], 
+        "attributes": [
+            "professional"
+        ], 
         "name": "or_simonkaty_057.png"
     }, 
     {
@@ -181,6 +203,7 @@
     {
         "attributes": [
             "waterway", 
+            "water transportation", 
             "river", 
             "water", 
             "vehicle", 
@@ -217,8 +240,11 @@
     }, 
     {
         "attributes": [
+            "profession", 
             "mode of transport", 
-            "vehicle"
+            "official", 
+            "vehicle", 
+            "professional"
         ], 
         "name": "or_simonkaty_062.png"
     }, 
@@ -227,7 +253,8 @@
             "waterway", 
             "water", 
             "mode of transport", 
-            "tree"
+            "tree", 
+            "reflection"
         ], 
         "name": "or_simonkaty_063.png"
     }, 
@@ -262,13 +289,15 @@
     {
         "attributes": [
             "transport", 
-            "vehicle"
+            "vehicle", 
+            "real estate"
         ], 
         "name": "or_simonkaty_073.png"
     }, 
     {
         "attributes": [
             "property", 
+            "real estate", 
             "car"
         ], 
         "name": "or_simonkaty_074.png"
@@ -279,13 +308,17 @@
             "water", 
             "canal", 
             "river", 
-            "water resources"
+            "sky", 
+            "water resources", 
+            "real estate", 
+            "reflection"
         ], 
         "name": "or_simonkaty_075.png"
     }, 
     {
         "attributes": [
             "waterway", 
+            "water transportation", 
             "river", 
             "canal", 
             "water", 

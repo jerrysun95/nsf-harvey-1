@@ -114,5 +114,49 @@
     {
         "freq": 0.15, 
         "name": "hous"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "pray"
+    }, 
+    {
+        "freq": 0.14, 
+        "name": "updat"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "elev"
+    }, 
+    {
+        "freq": 0.12, 
+        "name": "home"
+    }, 
+    {
+        "freq": 0.11, 
+        "name": "go"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "ask"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "prayer"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "pm"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "counti"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "boat"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "m"
     }
 ]

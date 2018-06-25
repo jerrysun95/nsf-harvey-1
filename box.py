@@ -242,14 +242,14 @@ box = setup_box()
 # # Generate BoxAuthenticationFlow
 # flow = BoxAuthenticateFlow(keyring.get_password("system", "BOX_CLIENT_ID"), keyring.get_password("system", "BOX_CLIENT_SECRET"))
 # flow.get_authorization_url()
-# access_token = keyring.get_password("system", "BOX_ACCESS_TOKEN")
-# refresh_token = keyring.get_password("system", "BOX_REFRESH_TOKEN")
+# # access_token = keyring.get_password("system", "BOX_ACCESS_TOKEN")
+# # refresh_token = keyring.get_password("system", "BOX_REFRESH_TOKEN")
 
-# #Uncomment this to get a new access and refresh token from a code
-# # access_token, refresh_token = flow.get_access_tokens('uolXRxIJQynMGmLglAe5oGjXoIlTixVs')
-# # keyring.set_password("system", "BOX_ACCESS_TOKEN", access_token)
-# # keyring.set_password("system", "BOX_REFRESH_TOKEN", refresh_token)
+# # # #Uncomment this to get a new access and refresh token from a code
+# access_token, refresh_token = flow.get_access_tokens('hTOAEWoZClTxPt78WjCf1JKddqhqDWJg')
+# keyring.set_password("system", "BOX_ACCESS_TOKEN", access_token)
+# keyring.set_password("system", "BOX_REFRESH_TOKEN", refresh_token)
 
-# # Generate BoxSession
+# # # Generate BoxSession
 # box = BoxSession(keyring.get_password("system", "BOX_CLIENT_ID"), keyring.get_password("system", "BOX_CLIENT_SECRET"), refresh_token, access_token, tokens_changed)
 

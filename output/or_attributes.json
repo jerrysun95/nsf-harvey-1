@@ -74,5 +74,45 @@
     {
         "freq": 0.11, 
         "name": "flood"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "sky"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "real estate"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "road"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "profession"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "personal protective equipment"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "official"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "water transportation"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "professional"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "reflection"
     }
 ]

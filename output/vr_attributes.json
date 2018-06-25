@@ -78,5 +78,21 @@
     {
         "freq": 0.1, 
         "name": "motor vehicle"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "bayou"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "watercourse"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "automotive exterior"
     }
 ]

@@ -98,5 +98,29 @@
     {
         "freq": 0.1, 
         "name": "automotive exterior"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "recreation"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "phenomenon"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "night"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "glass"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "darkness"
     }
 ]

@@ -78,5 +78,2205 @@
     {
         "freq": 0.1, 
         "name": "phenomenon"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "automotive exterior"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "floor"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "product"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "property"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "road"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "bayou"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "window"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "watercourse"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "flooring"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "boat"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "night"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "home"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "transport"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "darkness"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "glass"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "land lot"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "house"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "asphalt"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "wood"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "fun"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "room"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "water transportation"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "map"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "lighting"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "light"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "reservoir"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "road surface"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "boating"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "furniture"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "family car"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "cloud"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "canal"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "walkway"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "residential area"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "real estate"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "outdoor structure"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "pond"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "yard"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "angle"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "hardwood"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "luxury vehicle"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "table"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "technology"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "interior design"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "line"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "atmosphere of earth"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "lane"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "chair"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "automotive tire"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "path"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "landscape"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "door"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "roof"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "tile"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "backyard"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "green"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "day"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "girl"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "event"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "neighbourhood"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "woody plant"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "truck"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "lawn"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "atmosphere"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "geological phenomenon"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "tire"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "land vehicle"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "wetland"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "arm"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "body of water"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "wall"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "personal protective equipment"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "nature reserve"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "screenshot"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "boats and boating equipment and supplies"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "lake"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "product design"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "sunlight"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "wood flooring"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "structure"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dish"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "atlas"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "smile"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "garden"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "headgear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sand"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mammal"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "fence"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "skin"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sign"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "multimedia"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "net"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "leg"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sink"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "advertising"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "military"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "army"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "grass family"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "countertop"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "extreme sport"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "chin"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "airplane"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "machine"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "diagram"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "adventure"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "man"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "tourism"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "urban design"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "jungle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "midnight"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "windshield"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "laminate flooring"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "hobby"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "evening"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "food"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "gadget"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "material"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "meal"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "square"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "signage"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "space"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "inflatable boat"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "electronics"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "troop"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "interaction"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bumper"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "brickwork"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "city"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "electronic device"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "off roading"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "park"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "youth"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "breakfast"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "concrete"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "daylighting"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "vegetation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mouth"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "plan"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "outdoor recreation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "face"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "snapshot"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "professional"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "wood stain"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "military police"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "texture"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "black"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "auto part"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "public space"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "leisure"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "morning"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "architecture"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "infrastructure"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "driveway"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "water feature"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "scrap"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "living room"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "screen"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "aircraft"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "games"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "point"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "community"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "watercraft"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "traffic light"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "vertebrate"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "vacation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "waste"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "flight"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "child"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "aviation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "soil"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "player"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "facade"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cuisine"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "media"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "drink"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "rain"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "muscle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "biome"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "vehicle door"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "military vehicle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "display device"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "shoulder"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "kayak"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "military organization"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "crowd"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "leaf"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "automotive design"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "militia"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "profession"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "landscaping"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "automotive wheel system"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cottage"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "city car"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "ecosystem"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "official"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "commercial vehicle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "field"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "human hair color"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "branch"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "wing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "town"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "building"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "air force"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ale"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "walking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "yellow"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sleep"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "home fencing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "helicopter"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "meteorological phenomenon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "campfire"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "presentation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jet ski"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ingredient"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fly"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "song"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dessert"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cool"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arecales"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "levee"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "race"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "red"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sidewalk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "farmhouse"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "meadow"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dog breed"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nail"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mansion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "street"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "design"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blue"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "full breakfast"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sports car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "haze"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "racing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "garage door"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "herb"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "social group"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "trunk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "soldier"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "airport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "smoke"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "web page"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle frame"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "concrete bridge"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "commercial building"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "liqueur"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "graphic design"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle wheel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automobile repair shop"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "estate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "handrail"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sports"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mud bogging"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "air travel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "infantry"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "road bicycle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "armored car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "downtown"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "subcompact car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "toilet seat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle accessory"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rail transport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cap"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "condominium"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "full size car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fauna"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tap"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stream"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "loch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dog breed group"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "agricultural machinery"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hybrid bicycle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "clothing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "outerwear"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pink"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shelving"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "winter"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "geology"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bed sheet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lamp"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "forest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "toddler"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "beach"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vegetarian food"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "helmet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rainforest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "abdomen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mesh"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "neck"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "window screen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chain link fencing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shade"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "photo caption"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive lighting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wind"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wine"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "antelope"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "paper"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aerial photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cola"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "writing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sport utility vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vehicle registration plate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automated teller machine"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lunch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "foot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "kayaking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "computer wallpaper"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rock"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "companion dog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "energy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flagstone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "alcohol"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "driving"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "linens"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "competition event"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "signaling device"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "highway"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "umbrella"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "computer monitor"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rotorcraft"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "team"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "river island"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sitting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "retriever"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "conversation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "footwear"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "retail"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sash window"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "beer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "number"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "medium tactical vehicle replacement"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "service"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plastic"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "storm"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shorts"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shore"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "state park"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stairs"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "institution"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "television"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bed"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "siding"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "prairie"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rural area"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "iron"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "soft drink"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tractor"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cookware and bakeware"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blond"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dog like mammal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "seminar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mid size car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fire station"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "snow"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "couch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "snout"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stone wall"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "outlet store"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "track"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blackboard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plumbing fixture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "carbonated soft drinks"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "coca cola"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sedan"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "knee"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "grave"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mineral"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "labrador retriever"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "metal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "swamp"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "grassland"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "beer bottle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "glass bottle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "recipe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shoe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "earth"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "staff"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "off road vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fire department"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "circle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "airport apron"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "finger"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sunglasses"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "photograph"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "coast"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "joint"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "outdoor furniture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "banner"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "organ"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rowing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "eyebrow"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "skyline"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pickup truck"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "interactive kiosk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "puddle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "facial hair"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sea"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dairy product"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nature"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "label"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mud"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "skyscraper"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "antler"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tent"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "elk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "supermarket"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "riparian zone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "courtyard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "protective gear in sports"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "black and white"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "kitchen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "job"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "canopy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bird's eye view"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "denim"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jeans"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "metropolitan area"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dry suit"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plant community"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bathroom"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cycling"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "window treatment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "reindeer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "curtain"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "brick"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "meeting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fire"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "performance art"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "asian food"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "brunch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plain"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "runway"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chalk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "skiff"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "urban area"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "canoeing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "canoe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lcd tv"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "elevation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ecoregion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fender"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "woodland"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "textile"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "inventory"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "facial expression"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vegetable"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "document"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wheel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wide body aircraft"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hand"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "suburb"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "helicopter rotor"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "street light"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cheek"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "person"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bottle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "awning"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "personal flotation device"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "distilled beverage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "summer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "protective equipment in gridiron football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "neon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fishing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flavor"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rescue"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "socialite"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rapid"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "television set"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "alcoholic beverage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "propeller"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "world"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shadow"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pier"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "springbok"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "online advertising"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nose"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shed"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "creek"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stream bed"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hair"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "litter"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mirror"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shrub"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "channel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "public transport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bedding"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "daytime"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tornado"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "temple"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "business"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wire fencing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "indoor games and sports"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "headstone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gps navigation device"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wildlife"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "liquor store"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "military officer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "race track"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "golden retriever"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "airline"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "horizon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lager"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "watercraft rowing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "communication"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "selfie"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "american food"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bedtime"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "light fixture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fashion accessory"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "palm tree"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "van"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "people"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "firefighter"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "poster"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "brand"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "landing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pavilion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sports equipment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "window covering"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "skating"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "toilet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sport venue"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "deer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "candle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "balcony"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tower block"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive window part"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "led backlit lcd display"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "evergreen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "display advertising"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "paramedic"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "trail"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fixed link"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jacket"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sporting group"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "window blind"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "emergency service"
     }
 ]

@@ -110,5 +110,25 @@
     {
         "freq": 0.15, 
         "name": "elev"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "counti"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "bend"
+    }, 
+    {
+        "freq": 0.13, 
+        "name": "evacu"
+    }, 
+    {
+        "freq": 0.1, 
+        "name": "us"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "rescu"
     }
 ]

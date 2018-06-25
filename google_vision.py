@@ -137,4 +137,4 @@ def vision_from_data_text(image_name, image_content):
 # Add API key to keyring
 #----------------------------------------------------------------------------------------------
 
-#keyring.set_password("system", "VISION_API_KEY", "<YOUR API KEY HERE>")
+# keyring.set_password("system", "VISION_API_KEY", "AIzaSyCpcD9gM6593_oTTDnDDVoZVb1MdEw4NN8")

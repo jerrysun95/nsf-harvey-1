@@ -82,5 +82,6017 @@
     {
         "freq": 0.1, 
         "name": "family"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "people"
+    }, 
+    {
+        "freq": 0.09, 
+        "name": "team"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "child"
+    }, 
+    {
+        "freq": 0.08, 
+        "name": "team sport"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "landscape"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "player"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "tournament"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "championship"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "house"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "race"
+    }, 
+    {
+        "freq": 0.07, 
+        "name": "ball"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "ceremony"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "formal wear"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "games"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "christmas"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "public relations"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "ball game"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "food"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "holiday"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "sky"
+    }, 
+    {
+        "freq": 0.06, 
+        "name": "sports equipment"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "beauty"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "sports training"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "endurance sports"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "rock"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "facial expression"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "summer"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "youth"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "play"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "water sport"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "standing"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "vehicle"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "senior citizen"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "swimmer"
+    }, 
+    {
+        "freq": 0.05, 
+        "name": "swimming"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "tourism"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "fashion"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "shoulder"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "football player"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "fauna"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "multi sport event"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "medley swimming"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "sitting"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "dress"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "soccer"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "christmas decoration"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "individual sports"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "arm"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "spring"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "leg"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "swimming pool"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "red"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "leisure centre"
+    }, 
+    {
+        "freq": 0.04, 
+        "name": "drink"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "geology"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "shrubland"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "room"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "abdomen"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "meal"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "stadium"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "flooring"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "crowd"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "car"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "birthday"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "window"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "emotion"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "lawn"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "professional"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "tradition"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "lady"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "indoor games and sports"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "christmas tree"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "national park"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "woman"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "mammal"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "trunk"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "male"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "flower"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "mountain"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "plant community"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "vertebrate"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "cuisine"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "textile"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "furniture"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "wildlife"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "interaction"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "photograph"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "happiness"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "freestyle swimming"
+    }, 
+    {
+        "freq": 0.03, 
+        "name": "cake"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "bicycle"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "blue"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "cake decorating"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "escarpment"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "flora"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "travel"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "lap"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "long hair"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "formation"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "carnivoran"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "dog breed"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "person"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "dog"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "wedding"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "canyon"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "plateau"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "hand"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "human body"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "outdoor recreation"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "floor"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "football"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "prom"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "tuxedo"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "outdoor structure"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "cat"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "laughter"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "pink"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "winter"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "man"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "badlands"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "lunch"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "dog like mammal"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "zoo"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "snout"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "birthday cake"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "wood"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "public space"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "personal protective equipment"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "technology"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "running"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "cat like mammal"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "cycling"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "road"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "communication"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "whiskers"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "groom"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "sporting group"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "physical fitness"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "headgear"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "design"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "eye"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "garden"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "triathlon"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "adventure"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "small to medium sized cats"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "breaststroke"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "muscle"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "river"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "art"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "black hair"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "restaurant"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "community"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "decor"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "suit"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "forward"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "bicycle accessory"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "dessert"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "wave"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "photo shoot"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "cloud"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "grass family"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "day"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "t shirt"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "electronic device"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "institution"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "hairstyle"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "sea"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "joint"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "terrain"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "table"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "brown hair"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "wilderness"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "branch"
+    }, 
+    {
+        "freq": 0.02, 
+        "name": "cliff"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "yellow"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "grandparent"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "batholith"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "baking"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "street"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "net"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "daughter"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mountain range"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "music"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "calm"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "hybrid bicycle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "fondant"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "martial arts"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "domestic short haired cat"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "green"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "jungle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bank"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "woody plant"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "snow"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mouth"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bmx bike"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "soccer player"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "coast"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bay"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "racing bicycle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "businessperson"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "coastal and oceanic landforms"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "swimwear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "finger"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "nature"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "body of water"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "visual arts"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "fault"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "watercourse"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "property"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "nature reserve"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bicycle pedal"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "forehead"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "wheel"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "supper"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "ocean"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "human"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "biome"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cape"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "night"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "creek"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "purple"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dinner"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "horizon"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "profession"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "fashion accessory"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "interior design"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "wildflower"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bedrock"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "head"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "ecoregion"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "human hair color"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "gown"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "skin"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "icing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "kitten"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "meadow"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "butterfly stroke"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "uniform"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "public event"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "boy"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "open water swimming"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "club"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "black belt"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "judo"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cap"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "modern art"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "stream"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "clothing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "plucked string instruments"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "beach"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "training"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "footwear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "city"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "karate"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "rural area"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "shore"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "performance"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "walking"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "tang soo do"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "shoe"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "black"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "freezing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bicycle saddle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "morning"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "picnic"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "riparian zone"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "guitar"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "boat"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "family reunion"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cocktail dress"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "international student"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "soil"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "waterway"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "woodland"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "model"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "flavor"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "buttercream"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "duathlon"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "audience"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "nose"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "soccer kick"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "spring break"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "wadi"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "valley"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "outcrop"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "session musician"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "taste"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "field"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "puppy"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "artificial turf"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "combat sport"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dish"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sand"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "christmas ornament"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "darkness"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "arena"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sweetness"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "musical instrument"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "pond"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "lighting"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "backyard"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "reservoir"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "artwork"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "string instrument"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "evening"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cupcake"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "athletics"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "hill"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "terrestrial animal"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "park"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "lip"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "health & beauty"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "labrador retriever"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "organism"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "font"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "geological phenomenon"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "facial hair"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "portrait"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cycle sport"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "vision care"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "baked goods"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dobok"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sugar paste"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "facade"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "eyewear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "torte"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "cheek"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mountain bike"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "hair coloring"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "dog crossbreeds"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mountainous landforms"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "soccer specific stadium"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "back"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "temple"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "eating"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mode of transport"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "diving"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "structure"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "mount scenery"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "weimaraner"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "striking combat sports"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "outerwear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "depression"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "paddle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bird"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "flowering plant"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "musical instrument accessory"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "road bicycle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "musician"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "trail"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "chin"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "water transportation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "forest"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "toddler"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "thigh"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "costume"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "hobby"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "material"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "glasses"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "ridge"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "hapkido"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "yard"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "conversation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "neck"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "bicycle racing"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "water resources"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "stone wall"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "vegetation"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "face"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "snapshot"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "painting"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "ear"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "japanese martial arts"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "road cycling"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "photography"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "organ"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "eyebrow"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "water feature"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "pattern"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "butte"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "wall"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "brunch"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "student"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "boating"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "reflection"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "audio"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "barechestedness"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "lake"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "kick"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "brazilian jiu jitsu"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "promontory"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "hair"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "home"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "leaf"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "shrub"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "iris"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "tableware"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "pool"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "landscaping"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "atmosphere of earth"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "ecosystem"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "land vehicle"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "sibling"
+    }, 
+    {
+        "freq": 0.01, 
+        "name": "taekwondo"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "asian food"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "crocodilia"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stick and ball sports"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sleep"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "asian"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "marching"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "swan"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "financial adviser"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "trousers"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "casuarina"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "barley"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "acoustic electric guitar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "leggings"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chocolate cake"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "school"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "scholar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "parrot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "violet family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "poppy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "farmhouse"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "free climbing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "quilt"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lavender"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "horn"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nail"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cactus"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cooking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "orchestra"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lampshade"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "haze"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "orienteering"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fossil"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "herb"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "herd"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "eight ball"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bookcase"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "path"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arroyo"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle frame"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "straw"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "strap"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bayou"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "easter egg"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rock climbing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "air travel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "limousine"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "calf"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "award"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "glass"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "deciduous"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "marsupial"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "worm"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "roof"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "silybum"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "estate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "monochrome photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "extreme sport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "euphonium"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dog breed group"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shelving"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "machine"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cheetah"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vegetarian food"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pocket billiards"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jumping"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tulip"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "banksia"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wine"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "deck"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "muffin"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "spruce fir forest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arena football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aerial photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "windshield"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fir"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "water park"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gummi candy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "whiptail"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "writing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plantation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bouldering"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "acrylic paint"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fox squirrel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plaster"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wind wave"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "giraffe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "marching band"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "eyelash extensions"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "meat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cornhole"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "choir"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "computer wallpaper"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "borassus flabellifer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "monolith"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "spider"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "royal icing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "logo"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dawn"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "driving"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "elephants and mammoths"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "foundation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "water bird"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pallone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "macro photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "self portrait"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shorebird"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "brickwork"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "portrait photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "massif"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "seed plant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hood"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "confectionery"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "electrical wiring"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "service"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "top"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mid size car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "outdoor shoe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "toe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ceiling"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "minibus"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "camel like mammal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gift basket"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gingerbread house"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hunting dog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "headland"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "retro style"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "necktie"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shelf"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "high heeled footwear"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tourist attraction"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rambutan"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "general aviation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "haute couture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "perching bird"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "singer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "grove"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "swamp"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "earth"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "annual plant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "herbaceous plant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pine family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive mirror"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "geologist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "evening primrose family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sunglasses"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "youth worker"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "day dress"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cushion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mountaineering"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "white collar worker"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jaguar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "spokesperson"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rowing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "architecture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ruins"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nine ball"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "zookeeper"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "scrap"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "string instrument accessory"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gentleman"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wetsuit"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mud"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "giraffidae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle drivetrain part"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "metal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "decathlon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "kitchen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ice hockey position"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "adventurer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pasteles"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "musical ensemble"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wind instrument"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cue sports"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "watercraft"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle part"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "beer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "trigger"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lily family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "loft"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "electronic instrument"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "brown bear"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aviation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "taekkyeon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tabby cat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lizard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "klippe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "savanna"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "battle gaming"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "canoeing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "monochrome"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bricklayer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "range rover"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "knit cap"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "undergarment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vegetable"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flower bouquet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cow goat family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "peach palm"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "temperate coniferous forest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "suburb"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "waterfall"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "angle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "intrusion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mother"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flag of the united states"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "snowman"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rodent"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "goggles"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "f\u00eate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cavaquinho"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sugar cake"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle motocross"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "food coloring"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "turquoise"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "elevation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hill station"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "christmas dinner"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gift"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "antique"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "billboard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "clip art"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "daytime"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "baseball park"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "illustration"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tartan"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "agama"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fan convention"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "air show"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "high school"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gingerbread"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "seabird"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "meerkat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "guard dog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "business executive"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "honeymoon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fern"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "entrepreneur"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "carving"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flatland bmx"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fuchsia"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sunlight"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "horse harness"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "peninsula"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "heat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "common pet parakeet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "crystal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "belay device"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "free solo climbing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "whipped cream"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "evergreen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "road trip"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "grassland"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fell"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jacket"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "writing implement"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sloughi"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dance"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ice"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chair"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "father"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tusk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "scoreboard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cook"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cool"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle clothing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gun"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "contact sport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ischoklad"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sidewalk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "art exhibition"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wild cat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bullfrog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "horse supplies"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sign"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "party supply"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "airport terminal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jack o lantern"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stallion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mustang horse"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "baseball"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "box"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bangs"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "love"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hiking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "kayak"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "islet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "firearm"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "market"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "american staffordshire terrier"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "countertop"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chocolate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "academician"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "orator"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "floral design"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fly"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "autumn"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "led display"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "disc jockey"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "red sky at morning"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "display advertising"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bridesmaid"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tiple"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "free reed aerophone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "magenta"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bridal shower"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "drama"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stock photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "brand"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sundae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hedgehog cactus"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "elephant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tile"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "singer songwriter"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "commodity"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chain link fencing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "burmese"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "truck"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lagoon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bluebonnet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "graham cracker"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "australian mist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "midnight"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ranidae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "thumb"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "accordion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blue lacy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fluvial landforms of streams"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "laminate flooring"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "artisan"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lacertidae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "winter sport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bowling pin"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "road surface"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flightless bird"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mound building termites"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "safari"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vehicle door"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "goat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ferns and horsetails"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "land lot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "goose"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "signage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ice cream"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "galgo espa\u00f1ol"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "space"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "modern pentathlon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "air force"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aeolian landform"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mellophone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "virtuoso"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "snooker"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flower arranging"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "carnival"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ostrich"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mesh"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "calabaza"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rugby sevens"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "conifer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "skerry"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "petit four"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "college softball"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plastic"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "american pit bull terrier"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "convention"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "white"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hug"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "egyptian mau"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cheerleading"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hut"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "state park"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "town square"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "california spangled"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "surface water sports"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "television"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tropical and subtropical coniferous forests"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "animal shelter"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "siding"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "college"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "natural arch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "coconut"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "caryophyllales"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "greyhound"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "alley"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "makhtesh"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "charadriiformes"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arachnid"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "storage chest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "breakfast"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dress shirt"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fashion show"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "palm tree"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fourball"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "channel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mountaineer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "theatre"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "buffet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "invertebrate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "crochet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "knee"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "korat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tooth"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sunset"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "xanthorrhoeaceae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "macropodidae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wood stain"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "temperate broadleaf and mixed forest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mineral spring"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "recipe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "scale model"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cornet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tabletop game"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gourd"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "texture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arthropod"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wool"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pumpkin"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "narrows"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "non sporting group"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "modern dance"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "slide guitar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dog bed"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arabian camel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "concert"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "trail riding"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "executive officer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bowed string instrument"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "infrastructure"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "botanical garden"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "parking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "loudspeaker"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "big cats"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "camping"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "agamidae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "whippet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "reading"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "living room"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle helmet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mini sport utility vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pine"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "screen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hardtop"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "new world monkey"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mane"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jeans"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "luxury vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "elaeis"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wine tasting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "metropolitan area"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "learning"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "twig"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mare"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wedding dress"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shopping"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "squash"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tiger"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "classical music"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "calligraphy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "irish setter"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dog walking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "canoe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lighting accessory"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "great dane"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "helmet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "paw"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "media"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive lighting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "equestrianism"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plant stem"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "document"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "barefoot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "screenshot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fruit"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "statue"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "climbing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "western riding"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fetish model"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "driftwood"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "school uniform"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "christmas lights"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bottle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "procyonidae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "performing arts"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mongoose"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "satin"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "boats and boating equipment and supplies"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "public speaking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "santa claus"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive exterior"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "alcoholic beverage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rugby league"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "world"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "headpiece"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "european shorthair"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "claw"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "guanaco"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "auditorium"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jewellery"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pasture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pack animal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ancient history"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "metropolis"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wheat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "business"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mishloach manot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycles equipment and supplies"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jeep"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "island"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tributary"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "watercraft rowing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "breakwater"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nail care"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "light fixture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "human leg"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wrinkle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "area"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ultramarathon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "accordionist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lebkuchen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "energy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "folk instrument"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "close up"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rose family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "music artist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cottage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "party hat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "commercial vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "motor vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "deer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cream"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "indian elephant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "backstroke"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "crossover suv"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cove"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "german rex"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "podium"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tackle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lipstick"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "building"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "marine biology"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mask"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "towed water sport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hyssopus"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ceramic"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tours"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "carpet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "active undergarment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tail"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "presentation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fan"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "office supplies"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "boardsport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arecales"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fence"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fast food"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "abseiling"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "clock"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sun"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "anniversary"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fashion design"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lovebird"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "racing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plush"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fish pond"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "miniature"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "advertising"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cowboy hat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "types of trombone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "traffic sign"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "graphic design"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bicycle wheel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "figure drawing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "food additive"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "winter squash"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "african elephant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "door"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chimpanzee"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "town"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "primate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jujutsu"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stemware"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "history"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "archipelago"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sphere"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "airplane"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rugby football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nepeta"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "backpacking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "non vascular land plant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "underwater sports"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "public utility"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "broholmer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bumper"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "alps"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sun tanning"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "urban design"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "waterfowl"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "patterdale terrier"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "egg"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "patio"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "infant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "guitar accessory"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "horse tack"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bowl"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "paper"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "style"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "houseplant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vehicle registration plate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gadget"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gaelic football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "foot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hickory golf"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "kayaking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cypress family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "scaled reptile"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bass guitar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "trailer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "eyelash"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fish"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rock climbing equipment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "parsley family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "alcohol"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "theaceae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "linens"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "acting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sorbus"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "arctic"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "real estate"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pub"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "toy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "street dog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "thread"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "food grain"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "subshrub"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cheering"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "water & ball sports"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rainforest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "art gallery"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "limestone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fedora"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "elder"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "horse"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "paint"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blossom"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sea kayak"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "off roading"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "child model"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "great ape"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "crop"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rifle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stairs"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "electric blue"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rugby union"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bride"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "prairie"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "marriage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "acanthocereus tetragonus"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "frozen dessert"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "phragmites"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ranch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "macaw"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chipmunk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "watercolor paint"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "black cat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pedestrian"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "graffiti"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blond"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "junk food"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "koala"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "couch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "steppe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "billiard room"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blackboard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bridle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "moss"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "refrigerator"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ducks geese and swans"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mineral"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "still life"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "viverridae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "amphibian"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "golf"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "phenomenon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "asphalt"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "crayon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "iguania"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bodybuilding"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cucurbita"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pitch and putt"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flesh"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "off road vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "auto part"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "circle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "boulder"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "salaryman"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "canadian football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "banner"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "banquet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "toyger"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sleeve"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "billiard table"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "thistle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cyclo cross bicycle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sportswear"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dairy product"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plywood"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hiking equipment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aircraft"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "golf club"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "women's football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bachelorette party"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "point"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "local food"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dancer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "musical theatre"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "goats"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gridiron football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "electronic signage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "brick"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vintage clothing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "referee"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flight"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "squirrel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cream cheese"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "performance art"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "still life photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pedestrian crossing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "vascular plant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stick and ball games"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fur"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "selfie"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rope"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "skiff"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hair accessory"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "membrane winged insect"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "moustache"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plott hound"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mudflat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "petal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shirt"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "italian greyhound"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "butcher"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lupinus mutabilis"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "knitting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "leopard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "birch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stack"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "beanie"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "christmas stocking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "concrete"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "distilled beverage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "compact sport utility vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ocicat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "perico"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "succulent plant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sandal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cup"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "motorsport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "exhibition"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chaparral"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "display device"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aquatic plant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "product design"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "precipitation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "poppy family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "freestyle bmx"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "toyota"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "terrestrial plant"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bamboo"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "family car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gardening"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "parade"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stream bed"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "litter"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mirror"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "candle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "attalea speciosa"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "groundcover"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "thorns spines and prickles"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "drinkware"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "neighbourhood"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plaza"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "graduation"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "race track"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "agave"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "milkweed"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tour bus service"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "canal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "poster"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "frost"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "line"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "english lavender"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "valdivian temperate rain forest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "saw palmetto"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wine glass"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "floodplain"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "brass instrument"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wood flooring"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bridal party dress"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gecko"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "residential area"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rainbow"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "professional golfer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nap"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "parakeet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "display case"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "field archery"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "insect"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "afterglow"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "golf equipment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "billiard ball"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "desert"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "downtown"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lane"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flowerpot"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "summit"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "water polo cap"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "swim cap"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tv personality"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "gun accessory"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shack"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "meteorological phenomenon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ingredient"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ukulele"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive tire"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "llama"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "drinking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "acoustic guitar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "knight"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "floristry"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mural"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "giant panda"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "radio controlled toy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "golf course"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "garmon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "kangaroo"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "orangutan"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blizzard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "liqueur"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "duck"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "singing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bazaar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fen"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "frog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plane tree family"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pencil"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "porch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "camellia"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "athlete"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mountain goat"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "larch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bridal clothing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hip"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flash photography"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "loch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "halloween"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "spruce"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "trumpet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hangar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "carom billiards"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lamp"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "half marathon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bird nest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "longdog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "farm"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "collection"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "national trust for places of historic interest or natural beauty"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "light"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "minivan"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aerospace engineering"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "thanksgiving dinner"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tropics"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "electric guitar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "display window"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bugle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "underwater"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "inlet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "camellia sasanqua"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sill"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "kindergarten"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sport utility vehicle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "marsh"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "orange"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "outdoor play equipment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "heptathlon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "old world monkey"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dike"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "maple leaf"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "university"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "business school"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tubing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "picture frame"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cross country skiing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "supermodel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "baby carriage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "agriculture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "goalkeeper"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "snorkeling"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "freshwater aquarium"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "playground"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lecture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "electronics"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "umbrella"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chartreux"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "retriever"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "academic dress"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "produce"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "scarf"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "scene"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hurdle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pixie bob"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "festival"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "prickly pear"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "percussion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cyclo cross"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "grizzly bear"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "beard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "quarry"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "shorts"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "xylophone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "printmaking"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bassist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "match play"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "blackball pool"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "road bicycle racing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bed"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "diatonic button accordion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sculpture"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tide"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cut flowers"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "demonstration"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "academic conference"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "microphone"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sprinkles"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "compact car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "little black dress"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cuatro"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "daylighting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "basket"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "class"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "flat panel display"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "agave azul"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "atmosphere"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "text"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "walkway"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "track and field athletics"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "chicken"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "staff"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "human behavior"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tire"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jaw"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "scorpion"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "secondary school"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bear"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "beak"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "emmer"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "english billiards"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "unesco world heritage site"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rein"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "official"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "baby shower"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hardwood"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wetland"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "violet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "water polo"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "red panda"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "closet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "street art"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "barbary sheep"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "antler"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ladies gaelic football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tent"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "courtyard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "centrepiece"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "audio equipment"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "black and white"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "goal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aqua"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "british shorthair"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "grain"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "highland"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "horse like mammal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jersey"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aquarium"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "denim"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "russian blue"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "crane like bird"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "recreation room"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "feather"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "waste"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "igneous rock"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "headlamp"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "marine mammal"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "spaniel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "old growth forest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "graphics"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plaid"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "historic site"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "plain"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aloe"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "quincea\u00f1era"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "physical exercise"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "handwriting"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "urban area"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "wedding reception"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fortification"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "balloon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "jazz guitarist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "romance"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rare breed dog"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dusk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "diploma"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "phd"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tower block"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "volcanic plug"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sunrise"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bromeliaceae"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fashion model"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "weapon"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "ravine"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "drawing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "camel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tansy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "meat carving"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rapid"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "lupin"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bench"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "cosmetics"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "oar"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "street sign"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "desk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "riparian forest"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "candy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "aerobatics"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "animal source foods"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "village"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "hail"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "drizzle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "transport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "archaeological site"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "public transport"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "common chimpanzee"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "fictional character"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive design"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stage"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "saddle"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nightclub"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "tongue"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "middle ages"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "reptile"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stop sign"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mortarboard"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bombay"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "van"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "museum"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bay laurel"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bus"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "masque"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dirt track racing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive wheel system"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "nordic skiing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "american shorthair"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "city car"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bud"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "mountain pass"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "date palm"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "western gorilla"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "clubmoss"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "monument"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "bowling ball"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "rubble"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "boardwalk"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "dragon li"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "education"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "eye liner"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "automotive window part"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "guitarist"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "oak"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "picket fence"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "sport climbing"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "finch"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "red carpet"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "stuffed toy"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "pier"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "national monument"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "american football"
+    }, 
+    {
+        "freq": 0.0, 
+        "name": "eye shadow"
     }
 ]
