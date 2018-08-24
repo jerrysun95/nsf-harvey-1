@@ -11,7 +11,7 @@ Workflow
 
 ## Installation
 
-All required python packages are listed in requirements.txt of the root directory. Due to some dependencies on the boxpython package, the project uses Python 2.7. You can install all packages by running the following command: pip install -r requirements.txt
+All required python packages are listed in requirements.txt of the root directory. Due to some dependencies on the boxpython package, the project uses Python 2.7. You can install all packages by running the following command: `pip install -r requirements.txt`
 
 ## Accounts
 
