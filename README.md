@@ -45,6 +45,8 @@ Quickly run: `python box.py`. If you receive an error, most likely you were too 
 
 You now will have appropriate keys stored in keyring. From here, you should be set to make Box API calls.
 
+If all else fails, a refactoring of the code might be necessary. The Box APIs are the hardest part about getting setup for the project. In the case that the above steps are too confusing or do not work, please reference the [box python github](https://github.com/box/box-python-sdk). Here you can find instructions as to how to implement OAuth2 authentication for the project. Please remember that the Box project already exists - there is no need to create a new Box project. If implementing OAuth2, use OAuth2 connect to the existing project. Once added to the Box project, you should be able to access the developer console for the Box account which should contain the necessary credentials to set up OAuth2 authentication.
+
 If you have any questions about authentication or configuring the API keys for Box, reach out to Justin Segler at [justin@justinsegler.com](justin@justinsegler.com).
 
 ### Google Vision
