@@ -5,6 +5,8 @@ At the core of the NSF Hurricane Harvey project is a set of 1000 images collecte
 There are many long-term goals of this project. First is to perfect the machine learning model’s ability to differentiate between signal and noise and between rescuee and rescuer. Second is to increase the size of the signal and noise data sets. Currently, we are examining various Twitter archived data sets to increase the size of the noise data set in particular. Third is to fully automate and integrate this project into existing social media platforms. For example, in times of disaster, bots could continuously surf these social media sites and scrape data to be passed to the model. Once passed to the model, content from social media sites will be flagged as either signal or noise, and if signal, rescuer or rescuee.
 Workflow
 
+![](research_workflow.png)
+
 # Getting Started
 
 ## Installation
