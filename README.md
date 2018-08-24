@@ -24,22 +24,22 @@ Github
 ### Box
 
  To get up and running with Box, first log into the Box project that you have been added to with your gmail. Go to the Box developer console, select the Harvey project, and then click on the configuration tab in the menu on the left side of the screen. Scroll down to the “OAuth 2.0 Credentials.” Open a python interactive shell inside of a terminal by running: python. Inside of the interactive shell, run the command: import keyring. Then run the following two lines, copying in the client id and client secret into each of the sections <YOUR CLIENT ID> and <YOUR CLIENT SECRET> respectively:
-```keyring.set_password("system", "BOX_CLIENT_ID", "< YOUR CLIENT ID>")
-keyring.set_password("system", "BOX_CLIENT_SECRET", "< YOUR CLIENT SECRET>")```
-Exit out of python interactive by running: ```quit()```.
+`keyring.set_password("system", "BOX_CLIENT_ID", "< YOUR CLIENT ID>")
+keyring.set_password("system", "BOX_CLIENT_SECRET", "< YOUR CLIENT SECRET>")`
+Exit out of python interactive by running: `quit()`.
 
 Then at the bottom of the page, uncomment the lines:
-```flow = BoxAuthenticateFlow(keyring.get_password("system", "BOX_CLIENT_ID"), keyring.get_password("system", "BOX_CLIENT_SECRET"))
-flow.get_authorization_url()```
+`flow = BoxAuthenticateFlow(keyring.get_password("system", "BOX_CLIENT_ID"), keyring.get_password("system", "BOX_CLIENT_SECRET"))
+flow.get_authorization_url()`
 
 Also comment out the line:
-```box = setup_box()```
+`box = setup_box()`
 
 The next paragraph of steps must be done quickly because the auth code refreshes every 30 seconds. Read through the steps in this paragraph before proceeding. Navigate to the following website and click the button: https://app.box.com/api/oauth2/authorize?state=box_csrf_token_soKrToJp8Fjdd9sd&response_type=code&client_id=cd0xj5a7m6x5fqzvt6ej5gm9dkoux7zw&redirect_uri=http%3A%2F%2F127.0.0.1
 You should be navigated to an error page; however the URL of the error page is what is important. At the end of the URL should say: code = <RANDOM AUTH CODE>. Copy and paste the refresh token in the URL into the line in the code:
-```access_token, refresh_token = flow.get_access_tokens('YOUR CODE HERE')```
-Quickly run: python box.py. If you receive an error, most likely you were too slow in copying the auth code from the URL to the code and running the code again - repeat the steps in this paragraph. If you successfully run: ```python box.py```, you have generated and saved the access and refresh tokens. Now you can comment out the lines at the bottom that you uncommented. Lastly, uncomment the line so that it is the only line at the bottom that is uncommented:
-```box = setup_box()```
+`access_token, refresh_token = flow.get_access_tokens('YOUR CODE HERE')`
+Quickly run: `python box.py`. If you receive an error, most likely you were too slow in copying the auth code from the URL to the code and running the code again - repeat the steps in this paragraph. If you successfully run: `python box.py`, you have generated and saved the access and refresh tokens. Now you can comment out the lines at the bottom that you uncommented. Lastly, uncomment the line so that it is the only line at the bottom that is uncommented:
+`box = setup_box()`
 
 You now will have appropriate keys stored in keyring. From here, you should be set to make Box API calls.
 
@@ -47,7 +47,7 @@ If you have any questions about authentication or configuring the API keys for B
 
 ### Google Vision
 
-To get up and running with Google Vision, we have to generate another access key. You should have received an invite to collaborate on our Google Project called Harvey. Log into the project dashboard. On the top left hand corner, click the hamburger menu and select “APIs and Services”. Then in the side menu on the left side of the screen, navigate to the Credentials section. Click the Create New Credentials button at the top of the screen and generate a new API key. Once you have generated this API key, we need to save this key on keyring. Open up google_vision.py. At the bottom of the file, there is another section commented out. Uncomment this section and replace <YOUR API KEY HERE> with the Google Vision API key that you generated. Once you have done this, you can run: ```python google_vision.py``` from a terminal to save the key to your keyring. Then you can comment back the section at the bottom of the file. You should now have the API token saved so that you have access to the Google Vision APIs.
+To get up and running with Google Vision, we have to generate another access key. You should have received an invite to collaborate on our Google Project called Harvey. Log into the project dashboard. On the top left hand corner, click the hamburger menu and select “APIs and Services”. Then in the side menu on the left side of the screen, navigate to the Credentials section. Click the Create New Credentials button at the top of the screen and generate a new API key. Once you have generated this API key, we need to save this key on keyring. Open up google_vision.py. At the bottom of the file, there is another section commented out. Uncomment this section and replace <YOUR API KEY HERE> with the Google Vision API key that you generated. Once you have done this, you can run: `python google_vision.py` from a terminal to save the key to your keyring. Then you can comment back the section at the bottom of the file. You should now have the API token saved so that you have access to the Google Vision APIs.
 
 If you have any questions about authentication or configuring the API keys for Google Vision, reach out to Justin Segler at [justin@justinsegler.com](justin@justinsegler.com).
 
