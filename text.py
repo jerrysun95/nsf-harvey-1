@@ -1,16 +1,9 @@
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
+from nltk.corpus import wordnet
 from gensim import corpora, models
 import gensim
-
-tokenizer = RegexpTokenizer(r'\w+')
-
-# create English stop words list
-en_stop = get_stop_words('en')
-
-# Create p_stemmer of class PorterStemmer
-p_stemmer = PorterStemmer()
 
 # create sample documents
 doc_a = 'The Super Bowl is the annual championship game of the National Football League (NFL). The game is the culmination of a regular season that begins in the late summer of the previous calendar year. Normally, Roman numerals are used to identify each game, rather than the year in which it is held. For example, Super Bowl I was played on January 15, 1967, following the 1966 regular season. The sole exception to this naming convention tradition occurred with Super Bowl 50, which was played on February 7, 2016, following the 2015 regular season, and the following year, the nomenclature returned to Roman numerals for Super Bowl LI, following the 2016 regular season. The most recent Super Bowl was Super Bowl LII, on February 4, 2018, following the 2017 regular season. The game was created as part of a merger agreement between the NFL and its then-rival league, the American Football League (AFL). It was agreed that the two leagues champion teams would play in the AFLNFL'
@@ -27,36 +20,50 @@ doc_set = [doc_a, doc_b, doc_c, doc_d]
 # list for tokenized documents in loop
 texts = []
 
-def parse_text(doc, name):
-	print('DOC NAME: ' + name + '\n')
-	# loop through document list
-	for i in doc:
+def parse_text(doc, name, tokenizer, en_stop, p_stemmer, dictionary=None):
+    print('DOC NAME: ' + name + '\n')
+    # loop through document list
+    for i in range(len(doc)):
+        # print("%s/%s" % (i, len(doc)))
 
-	    # clean and tokenize document string
-	    raw = i.lower()
-	    tokens = tokenizer.tokenize(raw)
+        # clean and tokenize document string
+        # if len(doc[i]) == 1:
 
-	    # remove stop words from tokens
-	    stopped_tokens = [i for i in tokens if not i in en_stop]
+        raw = doc[i].lower()
+        tokens = tokenizer.tokenize(raw)
 
-	    # stem tokens
-	    stemmed_tokens = [p_stemmer.stem(i) for i in stopped_tokens]
+        stopped_tokens = [tok for tok in tokens if not tok in en_stop]
+        cleaned_tokens = [tok for tok in stopped_tokens if wordnet.synsets(tok)]
+        stemmed_tokens = [p_stemmer.stem(tok) for tok in cleaned_tokens]
+        sized_tokens = [tok for tok in stemmed_tokens if len(tok) > 2 and tok != 'http']
 
-	    # add tokens to list
-	    texts.append(stemmed_tokens)
+        # add tokens to list
+        print(sized_tokens)
+        if len(sized_tokens) > 0:
+            texts.append(sized_tokens)
 
-	# turn our tokenized documents into a id <-> term dictionary
-	dictionary = corpora.Dictionary(texts)
+    # turn our tokenized documents into a id <-> term dictionary
+    if dictionary == None:
+        dictionary = corpora.Dictionary(texts)
 
-	# convert tokenized documents into a document-term matrix
-	corpus = [dictionary.doc2bow(text) for text in texts]
+    # convert tokenized documents into a document-term matrix
+    corpus = [dictionary.doc2bow(text) for text in texts]
 
-	# generate LDA model
-	ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=2, id2word = dictionary, passes=20)
+    return dictionary, corpus
 
-	topics = ldamodel.show_topics(num_topics=2, num_words=15, formatted=False, log=False)[0][1]
-	res = []
-	for t in topics:
-		res.append(t[0])
-	return res
+def build_model(dictionary, corpus):
+
+    print("Generating model")
+    # generate LDA model
+    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=5, id2word = dictionary, passes=20)
+
+    # print("Printing topics")
+    # topics = ldamodel.show_topics(num_topics=5, num_words=15, formatted=False, log=False)
+    # res = []
+    # for t in topics:
+    #     print("NEW TOPIC")
+    #     for word in t:
+    #         print(word)
+    #     res.append(t)
+    return ldamodel
 
