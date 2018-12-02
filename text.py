@@ -1,5 +1,4 @@
 from nltk.tokenize import RegexpTokenizer
-from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import wordnet
 from gensim import corpora, models
@@ -38,7 +37,7 @@ def parse_text(doc, name, tokenizer, en_stop, p_stemmer, dictionary=None):
         sized_tokens = [tok for tok in stemmed_tokens if len(tok) > 2 and tok != 'http']
 
         # add tokens to list
-        print(sized_tokens)
+        # print(sized_tokens)
         if len(sized_tokens) > 0:
             texts.append(sized_tokens)
 
