@@ -23,7 +23,7 @@ nltk.download('stopwords')
 en_stop = stopwords.words('english')
 
 def main():
-	storm = 'lane'
+	storm = 'private'
 	data = read_data(storm)
 	print("Length of Data: {length}".format(length=len(data)))
 	lda, dictionary, corpus = run_model(data, storm)
@@ -82,30 +82,34 @@ def read_data(storm, includeNoise=False):
 		with open('bonnie.csv', 'r') as f:
 			for line in f:
 				data.append(line)
-	elif storm == 'florence':
-		files = glob.glob('Florence/*')
+	elif storm == 'Florence' or storm == 'Lane' or storm == 'Michael':
+		files = glob.glob('{STORM}/*'.format(STORM=storm))
+		for filename in files:
+			try:
+				with open(filename, 'r') as f:
+					print("Extracting file {FILE}".format(FILE=filename))
+					headers = next(f).split(',')
+					idx = headers.index('title')
+					idx2 = headers.index('description')
+					for line in f:
+						tweets = line.split(',')
+						data.append(tweets[idx])
+						data.append(tweets[idx2])
+			except:
+				print("ERROR: Extracting file {FILE} failed".format(FILE=filename))
+	elif storm == 'private':
+		files = glob.glob('{STORM}/*'.format(STORM=storm))
 		for filename in files:
 			with open(filename, 'r') as f:
 				print("Extracting file {FILE}".format(FILE=filename))
-				headers = next(f).split(',')
-				idx = headers.index('title')
-				idx2 = headers.index('description')
-				for line in f:
-					tweets = line.split(',')
-					data.append(tweets[idx])
-					data.append(tweets[idx2])
-	elif storm == 'lane':
-		files = glob.glob('Lane/*')
-		for filename in files:
-			with open(filename, 'r') as f:
-				print("Extracting file {FILE}".format(FILE=filename))
-				headers = next(f).split(',')
-				idx = headers.index('title')
-				idx2 = headers.index('description')
-				for line in f:
-					tweets = line.split(',')
-					data.append(tweets[idx])
-					data.append(tweets[idx2])
+				while True:
+					try:
+						line = next(f)	
+						data.append(line)
+					except StopIteration:
+						break
+					except:
+						print("skip")
 
 	if includeNoise:
 		files = glob.glob('tweets_noise/tweets_random*')
