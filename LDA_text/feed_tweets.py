@@ -9,8 +9,6 @@ import numpy
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
-
 import gensim
 from gensim.test.utils import datapath
 import operator
@@ -201,35 +199,33 @@ def read_data(storm):
 				j = j["text"].lower()
 				data.append(j)
 
-	for sentence in data:
-		for word in sentence.split(" "):
-			if word in all_words:
-				all_words[word] += 1
-			else:
-				all_words[word] = 1
+	# for sentence in data:
+	# 	for word in sentence.split(" "):
+	# 		if word in all_words:
+	# 			all_words[word] += 1
+	# 		else:
+	# 			all_words[word] = 1
 
 	return data
 
-def run_model(storm):
+def run_model(storm. num_topics=5):
 	tokenizer = RegexpTokenizer(r'[a-z0-9\']+')
 	p_stemmer = PorterStemmer()
 
 	dictionary, corpus = None, None
 
+	model = "{storm}_{num}".format(storm=storm, num=num_topics)
 	start = time.time() 
-	save_file = datapath(storm)
+	save_file = datapath(model)
 	try:
-		# data = read_data(storm)
-		# print("Length of Data: {length}".format(length=len(data)))
-		# dictionary, corpus = parse_text(data, "affected_tweets-1", tokenizer, en_stop, p_stemmer)
 		lda = gensim.models.ldamodel.LdaModel.load(save_file)
 	except FileNotFoundError:
 		print("WARNING: Model not found...")
 		data = read_data(storm)
 		print("Length of Data: {length}".format(length=len(data)))
-		dictionary, corpus = parse_text(data, "affected_tweets-1", tokenizer, en_stop, p_stemmer)
+		dictionary, corpus = parse_text(data, model, tokenizer, en_stop, p_stemmer)
 		
-		lda = build_model(dictionary, corpus)
+		lda = build_model(dictionary, corpus, num_topics)
 		lda.save(save_file)
 	end = time.time()
 	print("Time taken to run: {SEC} seconds".format(SEC=end - start))

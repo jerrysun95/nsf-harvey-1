@@ -7,3 +7,4 @@ google_vision.pyc
 powerpoint.py
 *.pptx
 classifiers/*
+./LDA_text/data

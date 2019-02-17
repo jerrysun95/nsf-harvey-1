@@ -55,11 +55,11 @@ def parse_text(doc, name, tokenizer, en_stop, p_stemmer, dictionary=None):
 
     return dictionary, corpus
 
-def build_model(dictionary, corpus):
+def build_model(dictionary, corpus, num_topics):
 
     print("Generating model")
     # generate LDA model
-    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=10, id2word = dictionary, passes=30)
+    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=num_topics, id2word = dictionary, passes=30)
 
     # print("Printing topics")
     # topics = ldamodel.show_topics(num_topics=5, num_words=15, formatted=False, log=False)
