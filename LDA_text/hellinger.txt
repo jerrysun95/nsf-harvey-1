@@ -1,0 +1,59 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /Users/Nandhini/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Running Sandy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to run: 0.007075071334838867 seconds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Running Harvey ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to run: 0.011132240295410156 seconds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Running Florence ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to run: 0.02136397361755371 seconds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Running Lane ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to run: 0.010289192199707031 seconds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Running Michael ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to run: 0.02113795280456543 seconds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Running private ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to run: 0.0030400753021240234 seconds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Running noise ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time taken to run: 0.007142782211303711 seconds
+Comparing lda_sandy with lda_harvey
+Hellinger score: 0.8226687782400108
+Comparing lda_sandy with lda_florence
+Hellinger score: 0.9512605671787442
+Comparing lda_sandy with lda_lane
+Hellinger score: 0.8931327220057119
+Comparing lda_sandy with lda_michael
+Hellinger score: 0.9823723324880018
+Comparing lda_sandy with lda_private
+Hellinger score: 0.3491720049409884
+Comparing lda_sandy with lda_noise
+Hellinger score: 0.7187089325427244
+Comparing lda_harvey with lda_florence
+Hellinger score: 1.018740866953292
+Comparing lda_harvey with lda_lane
+Hellinger score: 0.9890514574410711
+Comparing lda_harvey with lda_michael
+Hellinger score: 1.0371075471800115
+Comparing lda_harvey with lda_private
+Hellinger score: 0.8544664733395592
+Comparing lda_harvey with lda_noise
+Hellinger score: 0.8292152967020302
+Comparing lda_florence with lda_lane
+Hellinger score: 1.1181404580107963
+Comparing lda_florence with lda_michael
+Hellinger score: 1.1499800815271761
+Comparing lda_florence with lda_private
+Hellinger score: 0.9888581455365745
+Comparing lda_florence with lda_noise
+Hellinger score: 0.9247870597080274
+Comparing lda_lane with lda_michael
+Hellinger score: 1.0852340530939255
+Comparing lda_lane with lda_private
+Hellinger score: 0.9389451919017247
+Comparing lda_lane with lda_noise
+Hellinger score: 0.8888738900104579
+Comparing lda_michael with lda_private
+Hellinger score: 1.022480977000538
+Comparing lda_michael with lda_noise
+Hellinger score: 0.9720715932021351
+Comparing lda_private with lda_noise
+Hellinger score: 0.8051616339461297
