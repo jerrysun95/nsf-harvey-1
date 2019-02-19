@@ -8,7 +8,7 @@ from gensim.matutils import kullback_leibler, jaccard, hellinger, sparse2full
 import numpy
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import gensim
 from gensim.test.utils import datapath
 import operator
@@ -111,6 +111,18 @@ def main():
 def read_data(storm):
 	print("Extracting data...")
 	data = []
+	start = time.time()
+
+	try:
+		with open("storm_extracts/{storm}".format(storm=storm), 'rb') as f:
+			data = pickle.load(f)
+
+		print("Data already extracted.")
+		end = time.time()
+		print("Time taken to run: {SEC} seconds".format(SEC=end - start))
+		return data
+	except:
+		pass
 
 	if storm == 'sandy':
 		with open('tweets_sandy/affected_tweets_clean.pkl', 'rb') as f:
@@ -126,7 +138,7 @@ def read_data(storm):
 			data.extend(pickle.load(f))
 
 	elif storm == 'harvey':
-		files = glob.glob('tweets_harvey/tweets.log*')
+		files = glob.glob('data/tweets_harvey/tweets.log*')
 		for filename in files:
 			print("Extracting file {FILE}".format(FILE=filename))
 			f = open(filename, 'r').read()
@@ -191,8 +203,8 @@ def read_data(storm):
 					except:
 						print("skip")
 	else:
-		files = glob.glob('tweets_noise/tweets_random*')
-		for f in files[:len(files)//2]:
+		files = glob.glob('data/tweets_noise/tweets_random*')
+		for f in files[:len(files)]:
 			print(f)
 			noise = json.load(open(f))
 			for j in noise:
@@ -206,13 +218,18 @@ def read_data(storm):
 	# 		else:
 	# 			all_words[word] = 1
 
+
+	with open("storm_extracts/{storm}".format(storm=storm), "wb") as fp:   #Pickling
+		pickle.dump(data, fp)
+
+	end = time.time()
+	print("Time taken to run: {SEC} seconds".format(SEC=end - start))
+
 	return data
 
-def run_model(storm. num_topics=5):
+def run_model(data, storm, num_topics=5):
 	tokenizer = RegexpTokenizer(r'[a-z0-9\']+')
 	p_stemmer = PorterStemmer()
-
-	dictionary, corpus = None, None
 
 	model = "{storm}_{num}".format(storm=storm, num=num_topics)
 	start = time.time() 
@@ -221,26 +238,24 @@ def run_model(storm. num_topics=5):
 		lda = gensim.models.ldamodel.LdaModel.load(save_file)
 	except FileNotFoundError:
 		print("WARNING: Model not found...")
-		data = read_data(storm)
-		print("Length of Data: {length}".format(length=len(data)))
 		dictionary, corpus = parse_text(data, model, tokenizer, en_stop, p_stemmer)
 		
 		lda = build_model(dictionary, corpus, num_topics)
 		lda.save(save_file)
+
 	end = time.time()
 	print("Time taken to run: {SEC} seconds".format(SEC=end - start))
-	
 
-	# print("Printing topics...")
-	# topics = lda.show_topics(formatted=False, log=False)
-	# res = []
-	# for t in topics:
-	# 	print("NEW TOPIC...")
-	# 	for word in t:
-	# 		print(word)
-	# 	res.append(t)
+	print("Printing topics...")
+	topics = lda.show_topics(formatted=False, log=False)
+	res = []
+	for t in topics:
+		print("NEW TOPIC...")
+		for word in t:
+			print(word)
+		res.append(t)
 
-	return lda, dictionary, corpus
+	return lda
 
 def visualize(ldamodel, dictionary, corpus):
 	print("START VISUALIZING...")
@@ -297,14 +312,14 @@ def visualize(ldamodel, dictionary, corpus):
 	
 	zz=np.resize(zz,(len(DC.keys()),zz.shape[1]))
 
-	for val, key in enumerate(DC.keys()):
-	        plt.text(-2.5, val + 0.5, key,
-	                 horizontalalignment='center',
-	                 verticalalignment='center'
-	                 )
+	# for val, key in enumerate(DC.keys()):
+	#         plt.text(-2.5, val + 0.5, key,
+	#                  horizontalalignment='center',
+	#                  verticalalignment='center'
+	#                  )
 
-	plt.imshow(zz, cmap='hot', interpolation='nearest')
-	plt.show()
+	# plt.imshow(zz, cmap='hot', interpolation='nearest')
+	# plt.show()
 
 def update(data, dictionary):
 	print("BEFORE UPDATE...")

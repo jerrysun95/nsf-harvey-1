@@ -10,4 +10,3 @@ stop-words
 gensim
 scikit-learn
 seaborn
-multiprocessing

@@ -1,0 +1,1423 @@
+    lda_storm = run_model(data_storm, args.storm, num_topics)
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/feed_tweets.py", line 238, in run_model
+    lda = build_model(dictionary, corpus, num_topics)
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/text.py", line 62, in build_model
+    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=num_topics, id2word = dictionary, passes=30)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/models/ldamodel.py", line 441, in __init__
+    raise ValueError("cannot compute LDA over an empty collection (no terms)")
+ValueError: cannot compute LDA over an empty collection (no terms)
+(nsf) Nandhinis-MacBook-Pro:LDA_text Nandhini$ python find_num_topics.py 
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /Users/Nandhini/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Testing with harvey
+Extracting data...
+Data already extracted.
+Length of Data: 0
+Extracting data...
+Data already extracted.
+Length of Data: 0
+WARNING: Model not found...
+DOC NAME: harvey_1
+
+Generating model
+Traceback (most recent call last):
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/feed_tweets.py", line 231, in run_model
+    lda = gensim.models.ldamodel.LdaModel.load(save_file)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/models/ldamodel.py", line 1638, in load
+    result = super(LdaModel, cls).load(fname, *args, **kwargs)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/utils.py", line 426, in load
+    obj = unpickle(fname)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/utils.py", line 1381, in unpickle
+    with smart_open(fname, 'rb') as f:
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/smart_open/smart_open_lib.py", line 181, in smart_open
+    fobj = _shortcut_open(uri, mode, **kw)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/smart_open/smart_open_lib.py", line 301, in _shortcut_open
+    return open(parsed_uri.uri_path, mode, buffering=buffering, **open_kwargs)
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/test/test_data/harvey_1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "find_num_topics.py", line 29, in <module>
+    main()
+  File "find_num_topics.py", line 25, in main
+    lda_storm = run_model(data_storm, args.storm, num_topics)
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/feed_tweets.py", line 236, in run_model
+    lda = build_model(dictionary, corpus, num_topics)
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/text.py", line 62, in build_model
+    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=num_topics, id2word = dictionary, passes=30)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/models/ldamodel.py", line 441, in __init__
+    raise ValueError("cannot compute LDA over an empty collection (no terms)")
+ValueError: cannot compute LDA over an empty collection (no terms)
+(nsf) Nandhinis-MacBook-Pro:LDA_text Nandhini$ clear
+
+(nsf) Nandhinis-MacBook-Pro:LDA_text Nandhini$ python find_num_topics.py 
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /Users/Nandhini/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Testing with harvey
+Extracting data...
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-08-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-12-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-00-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-04-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-00-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-08-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-04-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-12-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-20-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-16-00-01_harvey
+Length of Data: 555621
+Extracting data...
+data/tweets_noise/tweets_random_sample_0_2000
+data/tweets_noise/tweets_random_sample_2_4000
+data/tweets_noise/tweets_random_sample_3_1000
+data/tweets_noise/tweets_random_sample_2_1000
+data/tweets_noise/tweets_random_sample_3_4000
+data/tweets_noise/tweets_random_sample_1_2000
+data/tweets_noise/tweets_random_sample_5_1000
+data/tweets_noise/tweets_random_sample_0_8000
+data/tweets_noise/tweets_random_sample_4_4000
+data/tweets_noise/tweets_random_sample_5_4000
+data/tweets_noise/tweets_random_sample_1_8000
+data/tweets_noise/tweets_random_sample_4_1000
+data/tweets_noise/tweets_random_sample_2_500
+data/tweets_noise/tweets_random_sample_2_8000
+data/tweets_noise/tweets_random_sample_3_500
+Length of Data: 49000
+WARNING: Model not found...
+DOC NAME: harvey_1
+
+^CTraceback (most recent call last):
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/feed_tweets.py", line 231, in run_model
+    lda = gensim.models.ldamodel.LdaModel.load(save_file)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/models/ldamodel.py", line 1638, in load
+    result = super(LdaModel, cls).load(fname, *args, **kwargs)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/utils.py", line 426, in load
+    obj = unpickle(fname)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/utils.py", line 1381, in unpickle
+    with smart_open(fname, 'rb') as f:
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/smart_open/smart_open_lib.py", line 181, in smart_open
+    fobj = _shortcut_open(uri, mode, **kw)
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/smart_open/smart_open_lib.py", line 301, in _shortcut_open
+    return open(parsed_uri.uri_path, mode, buffering=buffering, **open_kwargs)
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/gensim/test/test_data/harvey_1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "find_num_topics.py", line 29, in <module>
+    main()
+  File "find_num_topics.py", line 25, in main
+    lda_storm = run_model(data_storm, args.storm, num_topics)
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/feed_tweets.py", line 234, in run_model
+    dictionary, corpus = parse_text(data, model, tokenizer, en_stop, p_stemmer)
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/text.py", line 31, in parse_text
+    cleaned_tokens = [tok for tok in stopped_tokens if wordnet.synsets(tok)]
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/text.py", line 31, in <listcomp>
+    cleaned_tokens = [tok for tok in stopped_tokens if wordnet.synsets(tok)]
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py", line 1491, in synsets
+    for p in pos
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py", line 1493, in <listcomp>
+    for offset in index[form].get(p, [])]
+  File "/Users/Nandhini/anaconda/envs/nsf/lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py", line 1330, in synset_from_pos_and_offset
+    return self._synset_offset_cache[pos][offset]
+KeyboardInterrupt
+(nsf) Nandhinis-MacBook-Pro:LDA_text Nandhini$ python find_num_topics.py 
+Traceback (most recent call last):
+  File "find_num_topics.py", line 6, in <module>
+    from feed_tweets import *
+  File "/Users/Nandhini/Documents/School-Junk/UT-Senior:Master-Year/nsf-harvey/LDA_text/feed_tweets.py", line 226
+    print("Time taken to run: {SEC} seconds".format(SEC=end - start))
+    ^
+IndentationError: unexpected indent
+(nsf) Nandhinis-MacBook-Pro:LDA_text Nandhini$ python find_num_topics.py 
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /Users/Nandhini/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Testing with harvey
+Extracting data...
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-08-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-12-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-00-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-04-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-02-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-00-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-23-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-14-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-13-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-05-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-08-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-16-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-18-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-21-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-25-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-19-04-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-12-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-31-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-09-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-12-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-17-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-04-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-10-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-06-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-24-20-00-02_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-27-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-28-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-29-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-07-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-03-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-30-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-08-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-01-20-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-00-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-04-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-15-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-26-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-20-16-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-08-22-12-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-11-08-00-01_harvey
+Extracting file data/tweets_harvey/tweets.log-2017-09-17-16-00-01_harvey
+Time taken to run: 93.65627980232239 seconds
+Length of Data: 555621
+Extracting data...
+data/tweets_noise/tweets_random_sample_0_2000
+data/tweets_noise/tweets_random_sample_2_4000
+data/tweets_noise/tweets_random_sample_3_1000
+data/tweets_noise/tweets_random_sample_2_1000
+data/tweets_noise/tweets_random_sample_3_4000
+data/tweets_noise/tweets_random_sample_1_2000
+data/tweets_noise/tweets_random_sample_5_1000
+data/tweets_noise/tweets_random_sample_0_8000
+data/tweets_noise/tweets_random_sample_4_4000
+data/tweets_noise/tweets_random_sample_5_4000
+data/tweets_noise/tweets_random_sample_1_8000
+data/tweets_noise/tweets_random_sample_4_1000
+data/tweets_noise/tweets_random_sample_2_500
+data/tweets_noise/tweets_random_sample_2_8000
+data/tweets_noise/tweets_random_sample_3_500
+data/tweets_noise/tweets_random_sample_1_500
+data/tweets_noise/tweets_random_sample_0_500
+data/tweets_noise/tweets_random_sample_4_2000
+data/tweets_noise/tweets_random_sample_5_2000
+data/tweets_noise/tweets_random_sample_4_500
+data/tweets_noise/tweets_random_sample_5_500
+data/tweets_noise/tweets_random_sample_3_8000
+data/tweets_noise/tweets_random_sample_0_4000
+data/tweets_noise/tweets_random_sample_2_2000
+data/tweets_noise/tweets_random_sample_4_8000
+data/tweets_noise/tweets_random_sample_1_1000
+data/tweets_noise/tweets_random_sample_0_1000
+data/tweets_noise/tweets_random_sample_5_8000
+data/tweets_noise/tweets_random_sample_3_2000
+data/tweets_noise/tweets_random_sample_1_4000
+Time taken to run: 0.9536352157592773 seconds
+Length of Data: 92999
+WARNING: Model not found...
+DOC NAME: harvey_1
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 1654.744971036911 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('hurrican', 0.07543998), ('harvey', 0.057649747), ('texa', 0.013872774), ('trump', 0.0115466295), ('amp', 0.0102271885), ('help', 0.009980572), ('victim', 0.009685372), ('houston', 0.009301634), ('relief', 0.008202436), ('storm', 0.007975409)]
+WARNING: Model not found...
+DOC NAME: noise_1
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 707.5785050392151 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('love', 0.008033651), ('amp', 0.0067445394), ('like', 0.0066536674), ('get', 0.0057635666), ('look', 0.0053966376), ('new', 0.0051431833), ('video', 0.0048504183), ('day', 0.0047283336), ('one', 0.004363282), ('girl', 0.0037620482)]
+(nsf) Nandhinis-MacBook-Pro:LDA_text Nandhini$ python find_num_topics.py 
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /Users/Nandhini/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Testing with harvey
+Extracting data...
+Data already extracted.
+Time taken to run: 0.5408411026000977 seconds
+Length of Data: 555621
+Extracting data...
+Data already extracted.
+Time taken to run: 0.1701829433441162 seconds
+Length of Data: 92999
+Time taken to run: 0.05645608901977539 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('hurrican', 0.07543998), ('harvey', 0.057649747), ('texa', 0.013872774), ('trump', 0.0115466295), ('amp', 0.0102271885), ('help', 0.009980572), ('victim', 0.009685372), ('houston', 0.009301634), ('relief', 0.008202436), ('storm', 0.007975409)]
+Time taken to run: 0.01915717124938965 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('love', 0.008033651), ('amp', 0.0067445394), ('like', 0.0066536674), ('get', 0.0057635666), ('look', 0.0053966376), ('new', 0.0051431833), ('video', 0.0048504183), ('day', 0.0047283336), ('one', 0.004363282), ('girl', 0.0037620482)]
+WARNING: Model not found...
+DOC NAME: harvey_2
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 3717.086987018585 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('harvey', 0.090355046), ('hurrican', 0.04744835), ('texa', 0.025435403), ('trump', 0.021170653), ('help', 0.018299313), ('victim', 0.017758073), ('houston', 0.01705437), ('relief', 0.015039098), ('donat', 0.014072573), ('million', 0.01009033)]
+NEW TOPIC...
+1
+[('hurrican', 0.109232), ('harvey', 0.018447017), ('storm', 0.01757722), ('like', 0.013585521), ('amp', 0.011552592), ('florida', 0.010909275), ('get', 0.009676198), ('categori', 0.009337429), ('hit', 0.008617171), ('still', 0.007655856)]
+WARNING: Model not found...
+DOC NAME: noise_2
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 201.20642590522766 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('love', 0.015943652), ('amp', 0.013379912), ('like', 0.013202687), ('look', 0.010707331), ('video', 0.009623343), ('one', 0.008652683), ('girl', 0.0074627134), ('get', 0.0073572593), ('time', 0.007353582), ('sex', 0.0062173414)]
+NEW TOPIC...
+1
+[('new', 0.010367192), ('day', 0.009530663), ('happi', 0.0073101935), ('see', 0.00727789), ('year', 0.007109918), ('para', 0.0067712804), ('back', 0.005890974), ('best', 0.005513853), ('today', 0.0055075316), ('know', 0.005241505)]
+WARNING: Model not found...
+DOC NAME: harvey_3
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 5960.074756860733 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('harvey', 0.08072132), ('hurrican', 0.04993888), ('victim', 0.025341688), ('trump', 0.02402907), ('relief', 0.021461595), ('donat', 0.02008229), ('amp', 0.015225842), ('million', 0.014399487), ('help', 0.012796326), ('take', 0.0120167015)]
+NEW TOPIC...
+1
+[('hurrican', 0.10936137), ('harvey', 0.026742427), ('storm', 0.025784947), ('florida', 0.016003424), ('categori', 0.013697164), ('news', 0.009572857), ('tropic', 0.008690919), ('like', 0.0086394055), ('show', 0.008361852), ('landfal', 0.008126061)]
+NEW TOPIC...
+2
+[('hurrican', 0.073453374), ('harvey', 0.06040806), ('texa', 0.02689262), ('houston', 0.022069806), ('flood', 0.01898748), ('peopl', 0.017725315), ('help', 0.016595272), ('affect', 0.010873781), ('need', 0.010385625), ('come', 0.010298393)]
+WARNING: Model not found...
+DOC NAME: noise_3
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 207.18595385551453 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('video', 0.015965553), ('girl', 0.012380018), ('happi', 0.011935699), ('sex', 0.01031285), ('con', 0.009723708), ('fuck', 0.008945413), ('want', 0.007936773), ('twitter', 0.007881296), ('free', 0.0078061568), ('line', 0.007615022)]
+NEW TOPIC...
+1
+[('year', 0.011222449), ('new', 0.009526281), ('know', 0.008278754), ('time', 0.007391962), ('live', 0.0073114745), ('one', 0.007306203), ('game', 0.007161109), ('need', 0.007052654), ('play', 0.006365793), ('final', 0.0060803466)]
+NEW TOPIC...
+2
+[('love', 0.02108574), ('amp', 0.01770019), ('like', 0.017461667), ('look', 0.014160024), ('day', 0.012405492), ('get', 0.011309972), ('see', 0.009474211), ('para', 0.008812153), ('good', 0.008799039), ('come', 0.008007952)]
+WARNING: Model not found...
+DOC NAME: harvey_4
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 3615.6061482429504 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('hurrican', 0.08080866), ('harvey', 0.0436309), ('amp', 0.03346361), ('storm', 0.020101253), ('affect', 0.014182904), ('pleas', 0.012600218), ('tropic', 0.011431396), ('safe', 0.010089119), ('goe', 0.009933656), ('work', 0.009521236)]
+NEW TOPIC...
+1
+[('hurrican', 0.13218671), ('like', 0.020489767), ('florida', 0.020110486), ('categori', 0.017212817), ('storm', 0.013198312), ('come', 0.012833046), ('still', 0.012292622), ('news', 0.01202968), ('landfal', 0.010211308), ('name', 0.010027262)]
+NEW TOPIC...
+2
+[('harvey', 0.108844824), ('hurrican', 0.038907897), ('trump', 0.031498652), ('texa', 0.02885288), ('victim', 0.026421195), ('relief', 0.022375736), ('houston', 0.02170438), ('donat', 0.020937713), ('help', 0.015023604), ('million', 0.015012841)]
+NEW TOPIC...
+3
+[('hurrican', 0.06455577), ('harvey', 0.035170007), ('help', 0.02093122), ('aid', 0.01587728), ('time', 0.015472933), ('get', 0.014253273), ('mexico', 0.014244909), ('year', 0.014152115), ('first', 0.012995613), ('damag', 0.012563738)]
+WARNING: Model not found...
+DOC NAME: noise_4
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 259.95848655700684 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('amp', 0.024696685), ('one', 0.01597099), ('get', 0.013577957), ('time', 0.013576405), ('good', 0.012276405), ('con', 0.010813203), ('back', 0.01069794), ('need', 0.01024168), ('come', 0.008878905), ('new', 0.008111699)]
+NEW TOPIC...
+1
+[('para', 0.015639553), ('line', 0.010771789), ('year', 0.009481381), ('play', 0.00931502), ('boy', 0.008913558), ('est', 0.008397813), ('found', 0.008195892), ('work', 0.007451878), ('first', 0.0068522627), ('life', 0.006422996)]
+NEW TOPIC...
+2
+[('love', 0.027982028), ('video', 0.013095321), ('girl', 0.01309516), ('happi', 0.012625542), ('sex', 0.01090772), ('day', 0.010483701), ('best', 0.009525463), ('fuck', 0.009461697), ('like', 0.009124636), ('know', 0.009057821)]
+NEW TOPIC...
+3
+[('like', 0.018125776), ('see', 0.016216272), ('twitter', 0.010753001), ('look', 0.010447216), ('live', 0.010317546), ('tweet', 0.0071800407), ('black', 0.00683887), ('week', 0.0067337416), ('hot', 0.0064203967), ('say', 0.006285402)]
+WARNING: Model not found...
+DOC NAME: harvey_5
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 28996.538239955902 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('hurrican', 0.120501146), ('florida', 0.022999682), ('categori', 0.019685628), ('like', 0.013632689), ('babi', 0.013394139), ('still', 0.013025556), ('landfal', 0.011678464), ('name', 0.011467823), ('wind', 0.011308024), ('evacu', 0.011037189)]
+NEW TOPIC...
+1
+[('hurrican', 0.05723436), ('trump', 0.053467326), ('harvey', 0.03814718), ('million', 0.036864605), ('victim', 0.035912137), ('help', 0.019763723), ('work', 0.017995773), ('get', 0.017984537), ('tweet', 0.015515219), ('mexico', 0.014249409)]
+NEW TOPIC...
+2
+[('hurrican', 0.07596775), ('harvey', 0.074289456), ('flood', 0.034881245), ('texa', 0.023844441), ('shelter', 0.017495206), ('call', 0.016664358), ('save', 0.01665475), ('anim', 0.015283023), ('dog', 0.015197124), ('rescu', 0.01349024)]
+NEW TOPIC...
+3
+[('hurrican', 0.08638718), ('harvey', 0.0468507), ('storm', 0.02702351), ('amp', 0.025931768), ('presid', 0.017245632), ('trump', 0.016139952), ('tropic', 0.012170743), ('lost', 0.01173178), ('texa', 0.011416679), ('hit', 0.010999332)]
+NEW TOPIC...
+4
+[('harvey', 0.114959955), ('hurrican', 0.04167664), ('houston', 0.03415519), ('relief', 0.030119052), ('texa', 0.029541677), ('donat', 0.028183362), ('help', 0.025814587), ('take', 0.017233511), ('moment', 0.016241904), ('victim', 0.015878446)]
+WARNING: Model not found...
+DOC NAME: noise_5
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 7415.434862136841 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('like', 0.027924111), ('look', 0.02264474), ('time', 0.015560034), ('good', 0.0140698), ('come', 0.012805284), ('get', 0.011427387), ('know', 0.010914702), ('got', 0.009769216), ('line', 0.009704716), ('first', 0.009094183)]
+NEW TOPIC...
+1
+[('love', 0.03796907), ('amp', 0.02194219), ('girl', 0.01776838), ('happi', 0.017131008), ('sex', 0.014800103), ('fuck', 0.01283799), ('free', 0.009260521), ('video', 0.009132693), ('pic', 0.009115623), ('cute', 0.008178986)]
+NEW TOPIC...
+2
+[('see', 0.0147276055), ('twitter', 0.013614348), ('follow', 0.012305056), ('amp', 0.011958725), ('win', 0.011539218), ('tweet', 0.009090289), ('week', 0.008525133), ('sexi', 0.008103662), ('full', 0.007017173), ('new', 0.0066689495)]
+NEW TOPIC...
+3
+[('con', 0.0151420655), ('video', 0.014961497), ('need', 0.014341694), ('man', 0.012644687), ('live', 0.011777465), ('one', 0.010763954), ('ever', 0.0105968425), ('make', 0.010510732), ('best', 0.010460519), ('thing', 0.010209785)]
+NEW TOPIC...
+4
+[('year', 0.020444715), ('para', 0.019470204), ('beauti', 0.0127539225), ('new', 0.012406969), ('photo', 0.011511218), ('found', 0.010202986), ('day', 0.00895077), ('today', 0.008693545), ('top', 0.008119522), ('night', 0.007965209)]
+WARNING: Model not found...
+DOC NAME: harvey_6
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 9076.347009897232 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('hurrican', 0.12711252), ('like', 0.05934817), ('trump', 0.043465424), ('presid', 0.036672384), ('name', 0.02376194), ('time', 0.02224637), ('look', 0.020583738), ('dog', 0.020286977), ('never', 0.016385045), ('shoot', 0.013139076)]
+NEW TOPIC...
+1
+[('hurrican', 0.07413318), ('harvey', 0.06354081), ('texa', 0.04042339), ('amp', 0.02370016), ('still', 0.017574696), ('storm', 0.017051108), ('tropic', 0.013599497), ('lost', 0.013108636), ('safe', 0.012002728), ('hit', 0.011526052)]
+NEW TOPIC...
+2
+[('hurrican', 0.070874855), ('harvey', 0.04264181), ('amp', 0.035739053), ('peopl', 0.027168576), ('goe', 0.02251817), ('tweet', 0.022327742), ('trump', 0.01953754), ('island', 0.013449817), ('record', 0.012043915), ('today', 0.011826352)]
+NEW TOPIC...
+3
+[('hurrican', 0.09568621), ('harvey', 0.036484845), ('florida', 0.018236235), ('storm', 0.016420007), ('take', 0.016402833), ('moment', 0.015640585), ('categori', 0.013759393), ('great', 0.013546643), ('histori', 0.013137626), ('movi', 0.012760987)]
+NEW TOPIC...
+4
+[('harvey', 0.07847202), ('flood', 0.04102317), ('hurrican', 0.037996817), ('houston', 0.037247404), ('rescu', 0.021120341), ('babi', 0.020306375), ('get', 0.019727325), ('take', 0.017564813), ('anim', 0.014926809), ('year', 0.014886647)]
+NEW TOPIC...
+5
+[('harvey', 0.110989265), ('help', 0.05644702), ('victim', 0.054777488), ('hurrican', 0.050148025), ('relief', 0.04639046), ('donat', 0.043409046), ('million', 0.031125303), ('texa', 0.027549816), ('trump', 0.020854954), ('effort', 0.017145708)]
+WARNING: Model not found...
+DOC NAME: noise_6
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 216.26363110542297 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('like', 0.03236523), ('look', 0.026246056), ('day', 0.019138683), ('happi', 0.017633134), ('year', 0.01714895), ('para', 0.0163313), ('new', 0.014973325), ('come', 0.012476262), ('get', 0.011792551), ('back', 0.010717427)]
+NEW TOPIC...
+1
+[('amp', 0.03289437), ('man', 0.016828295), ('thank', 0.01427136), ('cute', 0.011810996), ('100', 0.011662016), ('real', 0.009516281), ('much', 0.009063801), ('ver', 0.008910686), ('seventeen', 0.008643967), ('mood', 0.00835235)]
+NEW TOPIC...
+2
+[('get', 0.019830087), ('con', 0.017533774), ('need', 0.016607031), ('good', 0.014758921), ('free', 0.014076818), ('beauti', 0.013058988), ('watch', 0.013045703), ('say', 0.012706572), ('ever', 0.012270298), ('thing', 0.0118222)]
+NEW TOPIC...
+3
+[('love', 0.049628314), ('video', 0.014514473), ('got', 0.014377462), ('make', 0.011365158), ('alway', 0.009495383), ('life', 0.008740123), ('top', 0.008647922), ('stop', 0.008502579), ('time', 0.008070444), ('work', 0.0075272336)]
+NEW TOPIC...
+4
+[('line', 0.015887715), ('live', 0.015780339), ('friend', 0.013698595), ('boy', 0.0131467385), ('final', 0.013122751), ('est', 0.012385453), ('vote', 0.012254546), ('best', 0.011777054), ('twitter', 0.01153096), ('show', 0.011528786)]
+NEW TOPIC...
+5
+[('girl', 0.023511348), ('sex', 0.019583508), ('fuck', 0.016987175), ('game', 0.014066537), ('see', 0.011788985), ('porn', 0.010137011), ('tweet', 0.00999331), ('nude', 0.009107151), ('sexi', 0.008909185), ('video', 0.0086328555)]
+WARNING: Model not found...
+DOC NAME: harvey_7
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 3307.129007101059 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('harvey', 0.058929548), ('hurrican', 0.051022775), ('flood', 0.045277115), ('rescu', 0.023310462), ('babi', 0.022411846), ('work', 0.020886878), ('save', 0.017953528), ('peopl', 0.017498808), ('anim', 0.016474716), ('dog', 0.0163821)]
+NEW TOPIC...
+1
+[('harvey', 0.068884894), ('hurrican', 0.06344897), ('take', 0.03406555), ('moment', 0.02695656), ('histori', 0.026598856), ('great', 0.022687282), ('amp', 0.02235012), ('still', 0.021170277), ('movi', 0.02110874), ('recogn', 0.020893004)]
+NEW TOPIC...
+2
+[('hurrican', 0.09939455), ('get', 0.053808056), ('show', 0.031697042), ('safe', 0.02907581), ('see', 0.021778889), ('grab', 0.021562116), ('hit', 0.020204972), ('stay', 0.019897427), ('video', 0.019446166), ('think', 0.017827291)]
+NEW TOPIC...
+3
+[('hurrican', 0.124290034), ('florida', 0.030127976), ('storm', 0.028359786), ('categori', 0.025786923), ('landfal', 0.015297985), ('wind', 0.01481268), ('break', 0.013832391), ('news', 0.013795189), ('class', 0.011482637), ('atlant', 0.0104728155)]
+NEW TOPIC...
+4
+[('harvey', 0.14059776), ('houston', 0.07032371), ('texa', 0.038920224), ('hurrican', 0.037491012), ('trump', 0.035813723), ('presid', 0.028797342), ('storm', 0.025070343), ('look', 0.01616362), ('water', 0.01590471), ('girl', 0.015265765)]
+NEW TOPIC...
+5
+[('hurrican', 0.13847704), ('time', 0.024821887), ('one', 0.02204365), ('mexico', 0.020074315), ('year', 0.019204918), ('never', 0.01828203), ('famili', 0.017731318), ('give', 0.0176839), ('pray', 0.017039811), ('good', 0.016070077)]
+NEW TOPIC...
+6
+[('harvey', 0.08753179), ('hurrican', 0.052452333), ('help', 0.043311145), ('victim', 0.042030085), ('relief', 0.03559485), ('donat', 0.033307277), ('texa', 0.025585506), ('million', 0.023881989), ('amp', 0.018924557), ('trump', 0.016176634)]
+WARNING: Model not found...
+DOC NAME: noise_7
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 191.79355192184448 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('amp', 0.03863183), ('video', 0.036335226), ('para', 0.025157668), ('best', 0.020492792), ('ever', 0.015483646), ('thing', 0.014918122), ('game', 0.0121976435), ('play', 0.011936462), ('alway', 0.011518563), ('top', 0.010490303)]
+NEW TOPIC...
+1
+[('new', 0.037254598), ('con', 0.02139312), ('back', 0.015906125), ('say', 0.015503164), ('boy', 0.013862062), ('man', 0.011544329), ('night', 0.009949889), ('son', 0.009211095), ('show', 0.009100065), ('star', 0.008384663)]
+NEW TOPIC...
+2
+[('look', 0.036151394), ('like', 0.031822942), ('girl', 0.025191115), ('sex', 0.020982428), ('fuck', 0.018200617), ('got', 0.015595046), ('live', 0.011928451), ('porn', 0.010860685), ('get', 0.010837406), ('free', 0.009877446)]
+NEW TOPIC...
+3
+[('year', 0.026558582), ('pic', 0.014529806), ('final', 0.014387354), ('someon', 0.010068047), ('armi', 0.009374436), ('mood', 0.00921898), ('art', 0.008276098), ('eye', 0.00811914), ('song', 0.007900996), ('watch', 0.007885239)]
+NEW TOPIC...
+4
+[('day', 0.02229439), ('line', 0.018576382), ('beauti', 0.017668182), ('photo', 0.01594629), ('pleas', 0.014582491), ('est', 0.014481174), ('win', 0.011920187), ('way', 0.00987705), ('help', 0.009656303), ('end', 0.009028564)]
+NEW TOPIC...
+5
+[('love', 0.046713598), ('happi', 0.021075422), ('see', 0.020987399), ('one', 0.020574573), ('good', 0.016216116), ('know', 0.015119441), ('come', 0.014054891), ('twitter', 0.013915476), ('time', 0.012501046), ('need', 0.011620617)]
+NEW TOPIC...
+6
+[('life', 0.01875917), ('thank', 0.016014306), ('get', 0.015692588), ('vote', 0.013658318), ('cute', 0.013253286), ('100', 0.013086084), ('amp', 0.012176328), ('sexi', 0.010910085), ('dog', 0.010883886), ('real', 0.010678213)]
+WARNING: Model not found...
+DOC NAME: harvey_8
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 2956.213562965393 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('harvey', 0.07776569), ('hurrican', 0.06815688), ('texa', 0.036482446), ('trump', 0.01885671), ('flood', 0.014068216), ('goe', 0.013641319), ('girl', 0.011795302), ('cat', 0.011207665), ('calm', 0.010568958), ('start', 0.010545851)]
+NEW TOPIC...
+1
+[('harvey', 0.09181682), ('victim', 0.068546854), ('relief', 0.058051545), ('hurrican', 0.05545225), ('donat', 0.054320667), ('trump', 0.051231697), ('million', 0.038949292), ('help', 0.029284667), ('presid', 0.021883493), ('effort', 0.021455584)]
+NEW TOPIC...
+2
+[('harvey', 0.12172804), ('houston', 0.06444053), ('texa', 0.052834146), ('hurrican', 0.048341468), ('help', 0.026735345), ('amp', 0.025336072), ('peopl', 0.023389254), ('need', 0.018436002), ('affect', 0.017091013), ('safe', 0.016436309)]
+NEW TOPIC...
+3
+[('hurrican', 0.15671891), ('storm', 0.05732606), ('florida', 0.035579275), ('categori', 0.03045274), ('news', 0.02128272), ('tropic', 0.019321807), ('show', 0.018590448), ('landfal', 0.018065935), ('wind', 0.017492851), ('hit', 0.016695201)]
+NEW TOPIC...
+4
+[('hurrican', 0.04810777), ('harvey', 0.03720287), ('come', 0.03583482), ('rescu', 0.034015242), ('babi', 0.032704473), ('work', 0.030478826), ('save', 0.026198365), ('dog', 0.023905382), ('water', 0.023866313), ('class', 0.02141293)]
+NEW TOPIC...
+5
+[('hurrican', 0.09950337), ('like', 0.044514477), ('amp', 0.040195614), ('harvey', 0.025224118), ('day', 0.021388056), ('lost', 0.018711826), ('name', 0.017822718), ('still', 0.017352264), ('evacu', 0.01559288), ('look', 0.015438879)]
+NEW TOPIC...
+6
+[('hurrican', 0.10304222), ('aid', 0.031500086), ('tweet', 0.030771825), ('mexico', 0.028261421), ('anim', 0.028152423), ('help', 0.026354797), ('cri', 0.023954676), ('never', 0.022609945), ('time', 0.02158649), ('leav', 0.019945418)]
+NEW TOPIC...
+7
+[('harvey', 0.07404059), ('take', 0.0659628), ('moment', 0.046659034), ('histori', 0.046039563), ('great', 0.037611224), ('movi', 0.036537156), ('recogn', 0.036163818), ('surgeri', 0.035944834), ('mask', 0.03593297), ('joker', 0.035871293)]
+WARNING: Model not found...
+DOC NAME: noise_8
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 183.9717149734497 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('love', 0.064689346), ('see', 0.029063039), ('twitter', 0.019269733), ('play', 0.016098725), ('thing', 0.016028209), ('still', 0.01520627), ('tweet', 0.012865314), ('ever', 0.011621289), ('dog', 0.011441519), ('real', 0.011225164)]
+NEW TOPIC...
+1
+[('video', 0.029091178), ('girl', 0.028387832), ('happi', 0.0273695), ('sex', 0.023645015), ('fuck', 0.020510064), ('line', 0.017457485), ('thank', 0.015787885), ('free', 0.015113522), ('pic', 0.014562212), ('man', 0.013988101)]
+NEW TOPIC...
+2
+[('one', 0.029897517), ('good', 0.022979913), ('time', 0.019425694), ('best', 0.018746447), ('know', 0.017826088), ('want', 0.01652352), ('get', 0.015753012), ('friend', 0.013665586), ('think', 0.01109312), ('first', 0.011057297)]
+NEW TOPIC...
+3
+[('amp', 0.04315385), ('day', 0.021101896), ('life', 0.019854054), ('come', 0.01971487), ('need', 0.01579787), ('pleas', 0.014711837), ('vote', 0.014455176), ('stop', 0.011156336), ('start', 0.011090335), ('big', 0.010995955)]
+NEW TOPIC...
+4
+[('live', 0.022270659), ('say', 0.020750254), ('photo', 0.019247472), ('est', 0.01747881), ('tri', 0.017376564), ('show', 0.016269973), ('make', 0.014882107), ('pictur', 0.013562581), ('star', 0.011221974), ('littl', 0.0106070405)]
+NEW TOPIC...
+5
+[('like', 0.045339018), ('look', 0.036921095), ('con', 0.026003893), ('found', 0.015492464), ('100', 0.015047772), ('right', 0.014812509), ('amaz', 0.011895222), ('way', 0.011540493), ('feel', 0.011274671), ('watch', 0.009914892)]
+NEW TOPIC...
+6
+[('follow', 0.019653685), ('win', 0.018430445), ('peopl', 0.014198728), ('amp', 0.012914171), ('mood', 0.011117677), ('use', 0.010633851), ('end', 0.010209584), ('var', 0.0099683795), ('call', 0.009454877), ('meet', 0.008583715)]
+NEW TOPIC...
+7
+[('para', 0.028838228), ('year', 0.019220307), ('final', 0.016404057), ('got', 0.013337916), ('alway', 0.013203221), ('top', 0.012024757), ('new', 0.012004589), ('offici', 0.011479327), ('armi', 0.010688185), ('post', 0.009887221)]
+WARNING: Model not found...
+DOC NAME: harvey_9
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 3075.567276954651 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('hurrican', 0.08983734), ('harvey', 0.031416163), ('tweet', 0.01871897), ('anim', 0.017125564), ('peopl', 0.016554793), ('hit', 0.015170851), ('grab', 0.014213306), ('man', 0.012545214), ('leav', 0.012133087), ('news', 0.012054547)]
+NEW TOPIC...
+1
+[('hurrican', 0.10588911), ('storm', 0.05975205), ('like', 0.04861377), ('come', 0.0382132), ('tropic', 0.03252048), ('name', 0.029858237), ('save', 0.02793684), ('dog', 0.025491873), ('girl', 0.024431132), ('evacu', 0.02431797)]
+NEW TOPIC...
+2
+[('hurrican', 0.07721443), ('amp', 0.0640742), ('harvey', 0.038106937), ('lost', 0.029346382), ('texa', 0.028095858), ('goe', 0.026456371), ('time', 0.026169019), ('first', 0.021979112), ('pledg', 0.019532274), ('god', 0.018036578)]
+NEW TOPIC...
+3
+[('harvey', 0.11531033), ('houston', 0.109933294), ('get', 0.05189057), ('work', 0.031751674), ('like', 0.0253617), ('look', 0.025267843), ('class', 0.022307158), ('cri', 0.021314897), ('prayer', 0.020949006), ('statist', 0.020457322)]
+NEW TOPIC...
+4
+[('harvey', 0.084847346), ('take', 0.061665468), ('moment', 0.045738373), ('histori', 0.045131493), ('great', 0.042956244), ('hurrican', 0.03277655), ('babi', 0.029804464), ('david', 0.020361556), ('one', 0.01405491), ('american', 0.013989149)]
+NEW TOPIC...
+5
+[('hurrican', 0.1097076), ('categori', 0.031785637), ('still', 0.026062028), ('movi', 0.025986621), ('recogn', 0.025720865), ('surgeri', 0.02556502), ('mask', 0.025556605), ('joker', 0.025512738), ('storm', 0.022780297), ('harvey', 0.021542676)]
+NEW TOPIC...
+6
+[('hurrican', 0.13416606), ('show', 0.034553654), ('flood', 0.030137178), ('watch', 0.025820075), ('live', 0.025813358), ('cat', 0.025637738), ('calm', 0.024171822), ('everi', 0.022972219), ('video', 0.021198632), ('report', 0.02039386)]
+NEW TOPIC...
+7
+[('harvey', 0.10403207), ('hurrican', 0.06198195), ('trump', 0.053401906), ('victim', 0.049134508), ('relief', 0.041611414), ('texa', 0.038961664), ('donat', 0.038937118), ('help', 0.033485357), ('million', 0.027918844), ('presid', 0.019323412)]
+NEW TOPIC...
+8
+[('harvey', 0.08318719), ('hurrican', 0.07991502), ('texa', 0.03408861), ('affect', 0.030628214), ('amp', 0.02954924), ('pleas', 0.027210258), ('safe', 0.021787632), ('help', 0.020664833), ('today', 0.016874384), ('start', 0.01658253)]
+WARNING: Model not found...
+DOC NAME: noise_9
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 219.2686288356781 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('look', 0.04558901), ('like', 0.021074802), ('fuck', 0.018041527), ('man', 0.016983958), ('take', 0.015917331), ('think', 0.013672657), ('pictur', 0.011816199), ('still', 0.010501134), ('mood', 0.010338473), ('need', 0.0101044895)]
+NEW TOPIC...
+1
+[('girl', 0.036721494), ('know', 0.025398562), ('est', 0.017603533), ('cute', 0.016901148), ('sexi', 0.0139129), ('right', 0.013071782), ('ver', 0.012750022), ('son', 0.012415967), ('seventeen', 0.012368361), ('even', 0.0118347965)]
+NEW TOPIC...
+2
+[('happi', 0.035326738), ('video', 0.034561623), ('best', 0.026651429), ('see', 0.022682052), ('ever', 0.020136481), ('friend', 0.01942773), ('final', 0.01861093), ('way', 0.016425025), ('birthday', 0.014647049), ('top', 0.013642022)]
+NEW TOPIC...
+3
+[('get', 0.053551536), ('come', 0.028351186), ('back', 0.02714571), ('life', 0.022760922), ('line', 0.021485146), ('tri', 0.016650336), ('hot', 0.013277703), ('real', 0.012955338), ('home', 0.0104118), ('call', 0.009901753)]
+NEW TOPIC...
+4
+[('amp', 0.06092807), ('para', 0.030328104), ('time', 0.02614522), ('day', 0.026107704), ('game', 0.020319289), ('first', 0.019572565), ('play', 0.018062616), ('vote', 0.016109642), ('never', 0.01512777), ('fan', 0.013542079)]
+NEW TOPIC...
+5
+[('new', 0.050130237), ('follow', 0.02108887), ('win', 0.019776162), ('found', 0.017149754), ('100', 0.016657425), ('show', 0.016356051), ('year', 0.0130590545), ('video', 0.012705537), ('full', 0.012024513), ('art', 0.010708827)]
+NEW TOPIC...
+6
+[('love', 0.06766355), ('one', 0.036729228), ('like', 0.035033047), ('twitter', 0.020155178), ('beauti', 0.01851886), ('say', 0.018019067), ('porn', 0.013649582), ('tweet', 0.013456332), ('week', 0.012619664), ('see', 0.010804392)]
+NEW TOPIC...
+7
+[('good', 0.03394995), ('live', 0.023257304), ('watch', 0.02224798), ('photo', 0.020100169), ('pic', 0.01953174), ('boy', 0.019375416), ('pleas', 0.018380824), ('work', 0.01619851), ('babi', 0.015821394), ('stop', 0.013938371)]
+NEW TOPIC...
+8
+[('con', 0.031096792), ('got', 0.024512678), ('thank', 0.02202166), ('sex', 0.020629989), ('free', 0.016570799), ('black', 0.016029425), ('today', 0.015485008), ('offici', 0.014074156), ('post', 0.01212208), ('shot', 0.009961453)]
+WARNING: Model not found...
+DOC NAME: harvey_10
+
+hurrican 349682
+harvey 228272
+texa 60026
+help 46279
+trump 42080
+houston 40092
+amp 38066
+storm 36904
+victim 35519
+relief 32959
+donat 30108
+florida 29144
+flood 26806
+peopl 24718
+like 23609
+categori 22536
+get 20828
+hit 19132
+make 16663
+take 16028
+Generating model
+Time taken to run: 4802.7006940841675 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('hurrican', 0.12957029), ('storm', 0.07332425), ('categori', 0.038951084), ('tropic', 0.024714055), ('landfal', 0.023107644), ('wind', 0.022374613), ('harvey', 0.020671658), ('cat', 0.017643206), ('calm', 0.016631441), ('atlant', 0.015819497)]
+NEW TOPIC...
+1
+[('harvey', 0.14205682), ('houston', 0.12632963), ('flood', 0.07909465), ('get', 0.03048074), ('live', 0.024975616), ('everi', 0.023353562), ('peopl', 0.022985058), ('save', 0.021899125), ('man', 0.021082113), ('report', 0.020731967)]
+NEW TOPIC...
+2
+[('hurrican', 0.15909418), ('tweet', 0.026603227), ('damag', 0.021549677), ('cri', 0.020708438), ('show', 0.019359792), ('video', 0.018224826), ('shoot', 0.015674626), ('back', 0.015482224), ('caus', 0.015033333), ('even', 0.013980097)]
+NEW TOPIC...
+3
+[('hurrican', 0.11313462), ('still', 0.03990019), ('name', 0.028347624), ('like', 0.027816694), ('dog', 0.024202216), ('water', 0.024162756), ('grab', 0.020207195), ('evacu', 0.015659088), ('miami', 0.014395302), ('shit', 0.013790525)]
+NEW TOPIC...
+4
+[('harvey', 0.068337575), ('take', 0.049349308), ('moment', 0.047888994), ('great', 0.04240878), ('histori', 0.038395166), ('movi', 0.03750033), ('recogn', 0.037117086), ('surgeri', 0.036892366), ('mask', 0.03688017), ('joker', 0.036816902)]
+NEW TOPIC...
+5
+[('hurrican', 0.0721735), ('harvey', 0.04372443), ('come', 0.026771462), ('news', 0.025095612), ('say', 0.024305196), ('trump', 0.023189595), ('florida', 0.020887343), ('call', 0.019583544), ('texa', 0.0145589765), ('peopl', 0.014104574)]
+NEW TOPIC...
+6
+[('harvey', 0.126163), ('victim', 0.062113065), ('hurrican', 0.05818219), ('relief', 0.052602813), ('donat', 0.04922216), ('trump', 0.048137516), ('texa', 0.03744407), ('million', 0.035293564), ('presid', 0.024427569), ('help', 0.02319213)]
+NEW TOPIC...
+7
+[('hurrican', 0.075225726), ('help', 0.042324074), ('babi', 0.042123597), ('shelter', 0.03544885), ('take', 0.034890626), ('mexico', 0.031086268), ('anim', 0.030966584), ('first', 0.028360154), ('start', 0.026387574), ('time', 0.025554372)]
+NEW TOPIC...
+8
+[('harvey', 0.080900736), ('hurrican', 0.058026154), ('texa', 0.055443622), ('help', 0.03044114), ('affect', 0.029275194), ('make', 0.027794922), ('pleas', 0.02600818), ('amp', 0.024159724), ('work', 0.023581691), ('safe', 0.020825064)]
+NEW TOPIC...
+9
+[('hurrican', 0.065536894), ('harvey', 0.056976892), ('amp', 0.056581493), ('lost', 0.03222034), ('rescu', 0.027564798), ('like', 0.026659135), ('look', 0.026584666), ('girl', 0.025111469), ('chang', 0.021875331), ('climat', 0.02087221)]
+WARNING: Model not found...
+DOC NAME: noise_10
+
+love 1218
+amp 1075
+like 1071
+get 941
+new 888
+day 786
+look 781
+video 766
+one 737
+happi 646
+girl 636
+para 628
+time 612
+see 573
+year 569
+con 537
+good 531
+come 512
+sex 490
+best 477
+Generating model
+Time taken to run: 188.87688875198364 seconds
+Printing topics...
+NEW TOPIC...
+0
+[('amp', 0.071835265), ('time', 0.03948632), ('free', 0.025246894), ('today', 0.02191852), ('est', 0.019195851), ('let', 0.015831241), ('need', 0.01440873), ('offici', 0.014232589), ('ass', 0.012141466), ('miss', 0.011989972)]
+NEW TOPIC...
+1
+[('girl', 0.036018945), ('sex', 0.030000933), ('fuck', 0.026023112), ('watch', 0.021045515), ('pic', 0.018476227), ('video', 0.016484002), ('porn', 0.015527567), ('black', 0.014580589), ('nude', 0.013949765), ('sexi', 0.013646416)]
+NEW TOPIC...
+2
+[('know', 0.028108288), ('man', 0.026651362), ('get', 0.022052601), ('friend', 0.021547528), ('final', 0.020641696), ('right', 0.018179258), ('show', 0.01813386), ('start', 0.014788264), ('someon', 0.014444144), ('give', 0.014430952)]
+NEW TOPIC...
+3
+[('good', 0.040424325), ('first', 0.02612671), ('win', 0.024460724), ('boy', 0.023069989), ('babi', 0.018838191), ('morn', 0.01621073), ('make', 0.015876578), ('think', 0.015142232), ('use', 0.014112549), ('star', 0.013953086)]
+NEW TOPIC...
+4
+[('video', 0.037539363), ('say', 0.025670603), ('tri', 0.02149664), ('work', 0.019189246), ('real', 0.01672604), ('big', 0.016274462), ('seventeen', 0.015192433), ('guy', 0.015136305), ('full', 0.014796909), ('music', 0.014610756)]
+NEW TOPIC...
+5
+[('con', 0.03350254), ('game', 0.025521869), ('beauti', 0.0249516), ('play', 0.022687357), ('vote', 0.020234253), ('way', 0.019123014), ('top', 0.015883071), ('shit', 0.013879802), ('find', 0.013436903), ('nake', 0.012940254)]
+NEW TOPIC...
+6
+[('got', 0.025711391), ('live', 0.025368866), ('thank', 0.023098506), ('life', 0.020818979), ('want', 0.019588748), ('100', 0.018874338), ('alway', 0.016979432), ('fan', 0.016559971), ('photo', 0.015064922), ('thing', 0.0147541175)]
+NEW TOPIC...
+7
+[('day', 0.04493984), ('like', 0.041747585), ('happi', 0.034463454), ('see', 0.034319412), ('twitter', 0.022754356), ('year', 0.021288369), ('new', 0.020539146), ('found', 0.016724039), ('tweet', 0.015191525), ('follow', 0.014959638)]
+NEW TOPIC...
+8
+[('love', 0.08573621), ('come', 0.032555338), ('back', 0.031171082), ('pleas', 0.019366229), ('ever', 0.017134862), ('much', 0.014168893), ('ver', 0.013928988), ('help', 0.012823103), ('like', 0.011859579), ('seen', 0.011469261)]
+NEW TOPIC...
+9
+[('one', 0.043319214), ('para', 0.03334512), ('best', 0.02716161), ('look', 0.02538026), ('line', 0.022964029), ('still', 0.018758312), ('cute', 0.017186733), ('dog', 0.014113858), ('call', 0.013891027), ('pictur', 0.013889897)]
+(nsf) Nandhinis-MacBook-Pro:LDA_text Nandhini$ 
