@@ -125,16 +125,16 @@ def read_data(storm):
 		pass
 
 	if storm == 'sandy':
-		with open('tweets_sandy/affected_tweets_clean.pkl', 'rb') as f:
+		with open('data/tweets_sandy/affected_tweets_clean.pkl', 'rb') as f:
 			data.extend(pickle.load(f))
 
-		with open('tweets_sandy/destroyed_tweets_clean.pkl', 'rb') as f:
+		with open('data/tweets_sandy/destroyed_tweets_clean.pkl', 'rb') as f:
 			data.extend(pickle.load(f))
 
-		with open('tweets_sandy/major_tweets_clean.pkl', 'rb') as f:
+		with open('data/tweets_sandy/major_tweets_clean.pkl', 'rb') as f:
 			data.extend(pickle.load(f))
 
-		with open('tweets_sandy/minor_tweets_clean.pkl', 'rb') as f:
+		with open('data/tweets_sandy/minor_tweets_clean.pkl', 'rb') as f:
 			data.extend(pickle.load(f))
 
 	elif storm == 'harvey':
@@ -235,6 +235,7 @@ def run_model(data, storm, num_topics=5):
 	start = time.time() 
 	save_file = datapath(model)
 	try:
+		# dictionary, corpus = parse_text(data, model, tokenizer, en_stop, p_stemmer)
 		lda = gensim.models.ldamodel.LdaModel.load(save_file)
 	except FileNotFoundError:
 		print("WARNING: Model not found...")
@@ -338,24 +339,24 @@ def update(data, dictionary):
 			print(word)
 		res.append(t)
 
-def compare():
+def compare(lda, corpus, lda2, corpus2):
 	#Train your LDA model    
-	lda = LdaModel(national_corpus, num_topics=10)
+	# lda = LdaModel(corpus, num_topics=10)
 
 	# Get the mean of all topic distributions in one corpus
-	national_topic_vectors = []
-	for newspaper in national_corpus:
-		national_topic_vectors.append(lda[newspaper])
-	national_average = numpy.average(numpy.array(national_topic_vectors), axis=0)
+	storm_topic_vectors = []
+	for d in corpus:
+		storm_topic_vectors.append(lda[d])
+	storm_average = numpy.average(numpy.array(storm_topic_vectors), axis=0)
 
 	# Get the mean of all topic distributions in another corpus
-	regional_topic_vectors = []
-	for newspaper in regional_corpus:
-		regional_topic_vectors.append(lda[newspaper])
-	regional_average = numpy.average(numpy.array(regional_topic_vectors), axis=0)
+	other_topic_vectors = []
+	for d in corpus2:
+		other_topic_vectors.append(lda[d])
+	other_average = numpy.average(numpy.array(other_topic_vectors), axis=0)
 
 	# Calculate the distance between the distribution of topics in both corpora
-	difference_of_distributions = numpy.linalg.norm(national_average - regional_average)
+	difference_of_distributions = numpy.linalg.norm(storm_average - other_average)
 
 	# Hellinger distance
 	# KL divergence
@@ -371,7 +372,7 @@ def compare_models(lda1, lda2):
 	topics1 = lda1.show_topics(formatted=False)
 	topics2 = lda2.show_topics(formatted=False)
 
-	# distances = []
+	distances = []
 	t1_distribution = []
 	t2_distribution = []
 
@@ -381,21 +382,19 @@ def compare_models(lda1, lda2):
 	all_words = Indexer()
 
 	for t1, t2 in zip(topics1, topics2):
+		print(t1)
 		t1_words.extend([t1[1][i][0] for i in range(len(t1[1]))])
 		t2_words.extend([t2[1][i][0] for i in range(len(t2[1]))])
 		t1_distribution.extend(make_topics_bow(t1[1], all_words))
 		t2_distribution.extend(make_topics_bow(t2[1], all_words))
-		# distances.append(hellinger(t1_distribution, t2_distribution))
+		distances.append(hellinger(make_topics_bow(t1[1], all_words), make_topics_bow(t2[1], all_words))/len(make_topics_bow(t1[1], all_words)))
 		# dist_kl = kullback_leibler(t1_distribution, t2_distribution)
 
-	# dist = sum(distances)/len(distances)
-	# print("T1:", sorted(t1_words))
-	# print("T2:", sorted(t2_words))
-	dist = hellinger(t1_distribution, t2_distribution)
-	# print("Hellinger score:", dist)
-	return dist
-	# print("\n")
+	dist = sum(distances)/len(distances)
+	# dist = hellinger(t1_distribution, t2_distribution)
 	# print("Kullback Leibler score:", dist_kl)
+
+	return dist
 
 def top_words(models):
 	words = {}
