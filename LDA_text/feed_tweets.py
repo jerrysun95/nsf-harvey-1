@@ -227,7 +227,7 @@ def read_data(storm):
 
 	return data
 
-def run_model(data, storm, num_topics=5):
+def run_model(data, storm, num_topics=5, print_flag=False):
 	tokenizer = RegexpTokenizer(r'[a-z0-9\']+')
 	p_stemmer = PorterStemmer()
 
@@ -235,11 +235,10 @@ def run_model(data, storm, num_topics=5):
 	start = time.time() 
 	save_file = datapath(model)
 	try:
-		# dictionary, corpus = parse_text(data, model, tokenizer, en_stop, p_stemmer)
 		lda = gensim.models.ldamodel.LdaModel.load(save_file)
 	except FileNotFoundError:
 		print("WARNING: Model not found...")
-		dictionary, corpus = parse_text(data, model, tokenizer, en_stop, p_stemmer)
+		dictionary, corpus, counts = parse_text(data, model, tokenizer, en_stop, p_stemmer)
 		
 		lda = build_model(dictionary, corpus, num_topics)
 		lda.save(save_file)
@@ -247,14 +246,15 @@ def run_model(data, storm, num_topics=5):
 	end = time.time()
 	print("Time taken to run: {SEC} seconds".format(SEC=end - start))
 
-	print("Printing topics...")
-	topics = lda.show_topics(formatted=False, log=False)
-	res = []
-	for t in topics:
-		print("NEW TOPIC...")
-		for word in t:
-			print(word)
-		res.append(t)
+	if print_flag:
+		print("Printing topics...")
+		topics = lda.show_topics(formatted=False, log=False)
+		res = []
+		for t in topics:
+			print("NEW TOPIC...")
+			for word in t:
+				print(word)
+			res.append(t)
 
 	return lda
 
@@ -368,33 +368,47 @@ def make_topics_bow(topic, all_words):
 		topic[i] = (all_words.get_index(word), topic[i][1])
 	return topic
 		
-def compare_models(lda1, lda2):
-	topics1 = lda1.show_topics(formatted=False)
-	topics2 = lda2.show_topics(formatted=False)
+def compare_models(lda1, lda2, counts1, counts2, d1, d2, num_topics):
+	difference, anno = lda1.diff(lda2, distance="jaccard", normed=False,  diagonal=True)
+	total_counts_1 = sum(counts1.values())
+	total_counts_2 = sum(counts2.values())
 
-	distances = []
-	t1_distribution = []
-	t2_distribution = []
+	weights = np.zeros((num_topics, num_topics))
+	total_percentage = 0
 
-	t1_words = []
-	t2_words = []
+	for i in range(num_topics):
+		print("WEIGHTS", weights)
+		t1 = lda1.get_topic_terms(i)
+		t2 = lda2.get_topic_terms(i)
 
-	all_words = Indexer()
+		t1_count = 0
+		for term_id, _ in t1:
+			term = d1[term_id]
+			t1_count += counts1[term]
+		percentage1 = t1_count/total_counts_1
 
-	for t1, t2 in zip(topics1, topics2):
-		print(t1)
-		t1_words.extend([t1[1][i][0] for i in range(len(t1[1]))])
-		t2_words.extend([t2[1][i][0] for i in range(len(t2[1]))])
-		t1_distribution.extend(make_topics_bow(t1[1], all_words))
-		t2_distribution.extend(make_topics_bow(t2[1], all_words))
-		distances.append(hellinger(make_topics_bow(t1[1], all_words), make_topics_bow(t2[1], all_words))/len(make_topics_bow(t1[1], all_words)))
-		# dist_kl = kullback_leibler(t1_distribution, t2_distribution)
+		t2_count = 0
+		for term_id, _ in t2:
+			term = d2[term_id]
+			t2_count += counts2[term]
+		percentage2 = t2_count/total_counts_2
 
-	dist = sum(distances)/len(distances)
-	# dist = hellinger(t1_distribution, t2_distribution)
-	# print("Kullback Leibler score:", dist_kl)
+		total_percentage += percentage1 + percentage2
 
-	return dist
+		
+		for j in range(num_topics):
+			# add to row i percentage1
+			weights[i][j] += percentage1
+			# add to column i percentage 2
+			weights[j][i] += percentage2
+
+
+	# divide entire matrix by total_percentage
+	weights /= total_percentage
+	weights *= 100
+
+
+	return difference, (difference*weights)
 
 def top_words(models):
 	words = {}

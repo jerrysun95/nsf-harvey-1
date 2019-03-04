@@ -43,8 +43,8 @@ def parse_text(doc, name, tokenizer, en_stop, p_stemmer, dictionary=None):
             if w not in counts:
                 counts[w] = 0
             counts[w] += 1
-    for word, count in sorted(counts.items(), key=operator.itemgetter(1), reverse=True)[0:20]:
-        print(word, count)
+    # for word, count in sorted(counts.items(), key=operator.itemgetter(1), reverse=True)[0:20]:
+    #     print(word, count)
 
     # turn our tokenized documents into a id <-> term dictionary
     if dictionary == None:
@@ -53,7 +53,7 @@ def parse_text(doc, name, tokenizer, en_stop, p_stemmer, dictionary=None):
     # convert tokenized documents into a document-term matrix
     corpus = [dictionary.doc2bow(text) for text in texts]
 
-    return dictionary, corpus
+    return dictionary, corpus, counts
 
 def build_model(dictionary, corpus, num_topics):
 

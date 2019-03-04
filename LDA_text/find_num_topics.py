@@ -20,15 +20,15 @@ def main():
 
 
 	data_storm = read_data(args.storm)
-	_, corpus_storm = parse_text(data_storm, "", tokenizer, en_stop, p_stemmer)
+	dict_storm, _, counts_storm = parse_text(data_storm, args.storm, tokenizer, en_stop, p_stemmer)
 	print("Length of Data: {length}".format(length=len(data_storm)))
 
 	data_noise = read_data("noise")
-	_, corpus_noise = parse_text(data_noise, "", tokenizer, en_stop, p_stemmer)
+	dict_noise, _, counts_noise = parse_text(data_noise, "noise", tokenizer, en_stop, p_stemmer)
 	print("Length of Data: {length}".format(length=len(data_noise)))
 
 	data_sandy = read_data("sandy")
-	_, corpus_sandy = parse_text(data_sandy, "", tokenizer, en_stop, p_stemmer)
+	dict_sandy, _, counts_sandy = parse_text(data_sandy, "sandy", tokenizer, en_stop, p_stemmer)
 	print("Length of Data: {length}".format(length=len(data_sandy)))
 
 	h_and_n = []
@@ -38,12 +38,16 @@ def main():
 		lda_storm = run_model(data_storm, args.storm, num_topics)
 		lda_noise = run_model(data_noise, "noise", num_topics)
 		lda_sandy = run_model(data_sandy, "sandy", num_topics)
-		h_and_n.append(compare(lda_storm, corpus_storm, lda_noise, corpus_noise))
-		h_and_s.append(compare(lda_storm, corpus_storm, lda_sandy, corpus_sandy))
-		s_and_n.append(compare(lda_sandy, corpus_sandy, lda_noise, corpus_noise))
-		# h_and_n.append(compare_models(lda_storm, lda_noise))
-		# h_and_s.append(compare_models(lda_storm, lda_sandy))
-		# s_and_n.append(compare_models(lda_sandy, lda_noise))
+
+		print("~~~~~~~~~~~~~~~~~~~~~~~~~COMPARING~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+		_, weighted_h_and_n = compare_models(lda_storm, lda_noise, counts_storm, counts_noise, dict_storm, dict_noise, num_topics)
+		_, weighted_h_and_s = compare_models(lda_storm, lda_sandy, counts_storm, counts_sandy, dict_storm, dict_sandy, num_topics)
+		_, weighted_s_and_n = compare_models(lda_storm, lda_noise, counts_storm, counts_noise, dict_storm, dict_noise, num_topics)
+
+		h_and_n.append(weighted_h_and_n.mean())
+		h_and_s.append(weighted_h_and_s.mean())
+		s_and_n.append(weighted_s_and_n.mean())
 
 	print("harvey and noise")
 	for i in range(len(h_and_n)):
