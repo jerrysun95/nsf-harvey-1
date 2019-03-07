@@ -41,13 +41,13 @@ def main():
 
 		print("~~~~~~~~~~~~~~~~~~~~~~~~~COMPARING~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-		_, weighted_h_and_n = compare_models(lda_storm, lda_noise, counts_storm, counts_noise, dict_storm, dict_noise, num_topics)
-		_, weighted_h_and_s = compare_models(lda_storm, lda_sandy, counts_storm, counts_sandy, dict_storm, dict_sandy, num_topics)
-		_, weighted_s_and_n = compare_models(lda_sandy, lda_noise, counts_sandy, counts_noise, dict_sandy, dict_noise, num_topics)
+		unweighted_h_and_n, weighted_h_and_n = compare_models(lda_storm, lda_noise, counts_storm, counts_noise, dict_storm, dict_noise, num_topics)
+		unweighted_h_and_s, weighted_h_and_s = compare_models(lda_storm, lda_sandy, counts_storm, counts_sandy, dict_storm, dict_sandy, num_topics)
+		unweighted_s_and_n, weighted_s_and_n = compare_models(lda_sandy, lda_noise, counts_sandy, counts_noise, dict_sandy, dict_noise, num_topics)
 
-		h_and_n.append(weighted_h_and_n.mean())
-		h_and_s.append(weighted_h_and_s.mean())
-		s_and_n.append(weighted_s_and_n.mean())
+		h_and_n.append(unweighted_h_and_n.mean())
+		h_and_s.append(unweighted_h_and_s.mean())
+		s_and_n.append(unweighted_s_and_n.mean())
 
 	print("harvey and noise")
 	for i in range(len(h_and_n)):
