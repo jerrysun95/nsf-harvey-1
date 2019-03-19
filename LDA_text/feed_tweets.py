@@ -235,13 +235,16 @@ def run_model(data, storm, num_topics=5, print_flag=False):
 	start = time.time() 
 	save_file = datapath(model)
 	try:
-		lda = gensim.models.ldamodel.LdaModel.load(save_file)
+		try:
+			lda = gensim.models.ldamodel.LdaModel.load(save_file)
+		except FileNotFoundError:
+			lda = gensim.models.ldamodel.LdaMulticore.load(save_file)
 	except FileNotFoundError:
-		print("WARNING: Model not found...")
-		dictionary, corpus, counts = parse_text(data, model, tokenizer, en_stop, p_stemmer)
-		
-		lda = build_model(dictionary, corpus, num_topics)
-		lda.save(save_file)
+			print("WARNING: Model not found...")
+			dictionary, corpus, counts = parse_text(data, model, tokenizer, en_stop, p_stemmer)
+			
+			lda = build_model(dictionary, corpus, num_topics)
+			lda.save(save_file)
 
 	end = time.time()
 	print("Time taken to run: {SEC} seconds".format(SEC=end - start))

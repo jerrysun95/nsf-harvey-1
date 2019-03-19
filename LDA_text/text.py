@@ -59,7 +59,7 @@ def build_model(dictionary, corpus, num_topics):
 
     print("Generating model")
     # generate LDA model
-    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=num_topics, id2word = dictionary, passes=30)
+    ldamodel = gensim.models.ldamodel.LdaMulticore(corpus, num_topics=num_topics, id2word = dictionary, passes=30, workers=3)
 
     # print("Printing topics")
     # topics = ldamodel.show_topics(num_topics=5, num_words=15, formatted=False, log=False)
