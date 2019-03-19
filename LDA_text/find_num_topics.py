@@ -49,21 +49,21 @@ def main():
 
 		print("~~~~~~~~~~~~~~~~~~~~~~~~~COMPARING~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-		unweighted_h_and_n, weighted_h_and_n = compare_models(lda_storm, lda_noise, counts_storm, counts_noise, dict_storm, dict_noise, num_topics)
-		unweighted_h_and_s, weighted_h_and_s = compare_models(lda_storm, lda_sandy, counts_storm, counts_sandy, dict_storm, dict_sandy, num_topics)
-		unweighted_s_and_n, weighted_s_and_n = compare_models(lda_sandy, lda_noise, counts_sandy, counts_noise, dict_sandy, dict_noise, num_topics)
+		# unweighted_h_and_n, weighted_h_and_n = compare_models(lda_storm, lda_noise, counts_storm, counts_noise, dict_storm, dict_noise, num_topics)
+		# unweighted_h_and_s, weighted_h_and_s = compare_models(lda_storm, lda_sandy, counts_storm, counts_sandy, dict_storm, dict_sandy, num_topics)
+		# unweighted_s_and_n, weighted_s_and_n = compare_models(lda_sandy, lda_noise, counts_sandy, counts_noise, dict_sandy, dict_noise, num_topics)
 
-		unweighted_u_and_h, weighted_u_and_h = compare_models(lda_unt, lda_storm, counts_unt, counts_storm, dict_unt, dict_storm, num_topics)
-		unweighted_u_and_s, weighted_u_and_s = compare_models(lda_unt, lda_sandy, counts_unt, counts_sandy, dict_unt, dict_sandy, num_topics)
-		unweighted_u_and_n, weighted_u_and_n = compare_models(lda_unt, lda_noise, counts_unt, counts_noise, dict_unt, dict_noise, num_topics)
+		# unweighted_u_and_h, weighted_u_and_h = compare_models(lda_unt, lda_storm, counts_unt, counts_storm, dict_unt, dict_storm, num_topics)
+		# unweighted_u_and_s, weighted_u_and_s = compare_models(lda_unt, lda_sandy, counts_unt, counts_sandy, dict_unt, dict_sandy, num_topics)
+		# unweighted_u_and_n, weighted_u_and_n = compare_models(lda_unt, lda_noise, counts_unt, counts_noise, dict_unt, dict_noise, num_topics)
 
-		h_and_n.append(weighted_h_and_n.sum())
-		h_and_s.append(weighted_h_and_s.sum())
-		s_and_n.append(weighted_s_and_n.sum())
+		# h_and_n.append(weighted_h_and_n.sum())
+		# h_and_s.append(weighted_h_and_s.sum())
+		# s_and_n.append(weighted_s_and_n.sum())
 
-		u_and_h.append(unweighted_u_and_h.sum())
-		u_and_s.append(unweighted_u_and_s.sum())
-		u_and_n.append(unweighted_u_and_n.sum())
+		# u_and_h.append(unweighted_u_and_h.sum())
+		# u_and_s.append(unweighted_u_and_s.sum())
+		# u_and_n.append(unweighted_u_and_n.sum())
 
 	print("harvey and noise")
 	for i in range(len(h_and_n)):
