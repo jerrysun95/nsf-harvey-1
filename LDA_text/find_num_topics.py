@@ -57,13 +57,13 @@ def main():
 		unweighted_u_and_s, weighted_u_and_s = compare_models(lda_unt, lda_sandy, counts_unt, counts_sandy, dict_unt, dict_sandy, num_topics)
 		unweighted_u_and_n, weighted_u_and_n = compare_models(lda_unt, lda_noise, counts_unt, counts_noise, dict_unt, dict_noise, num_topics)
 
-		h_and_n.append(unweighted_h_and_n.mean())
-		h_and_s.append(unweighted_h_and_s.mean())
-		s_and_n.append(unweighted_s_and_n.mean())
+		h_and_n.append(weighted_h_and_n.sum())
+		h_and_s.append(weighted_h_and_s.sum())
+		s_and_n.append(weighted_s_and_n.sum())
 
-		u_and_h.append(unweighted_u_and_h.mean())
-		u_and_s.append(unweighted_u_and_s.mean())
-		u_and_n.append(unweighted_u_and_n.mean())
+		u_and_h.append(unweighted_u_and_h.sum())
+		u_and_s.append(unweighted_u_and_s.sum())
+		u_and_n.append(unweighted_u_and_n.sum())
 
 	print("harvey and noise")
 	for i in range(len(h_and_n)):

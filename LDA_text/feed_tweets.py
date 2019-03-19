@@ -238,7 +238,7 @@ def run_model(data, storm, num_topics=5, print_flag=False):
 		try:
 			lda = gensim.models.ldamodel.LdaModel.load(save_file)
 		except FileNotFoundError:
-			lda = gensim.models.ldamodel.LdaMulticore.load(save_file)
+			lda = gensim.models.ldamulticore.LdaMulticore.load(save_file)
 	except FileNotFoundError:
 			print("WARNING: Model not found...")
 			dictionary, corpus, counts = parse_text(data, model, tokenizer, en_stop, p_stemmer)
