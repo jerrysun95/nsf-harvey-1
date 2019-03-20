@@ -372,7 +372,7 @@ def make_topics_bow(topic, all_words):
 	return topic
 		
 def compare_models(lda1, lda2, counts1, counts2, d1, d2, num_topics):
-	difference, anno = lda1.diff(lda2, distance="jaccard", normed=False,  diagonal=True)
+	difference, anno = lda1.diff(lda2, distance="jaccard", normed=False)
 	# difference = 1 - difference
 	total_counts_1 = sum(counts1.values())
 	total_counts_2 = sum(counts2.values())
@@ -409,10 +409,14 @@ def compare_models(lda1, lda2, counts1, counts2, d1, d2, num_topics):
 
 	# divide entire matrix by total_percentage
 	weights /= total_percentage
-	weights *= 100
+	difference *= 100
 
+	# print("difference", difference)
+	# print("WEIGHTS", weights)
+	# print("diff*weights", difference*weights)
+	# print("\n")
 
-	return difference, (difference*weights)
+	return [(difference).sum(), (difference*weights).sum()]
 
 def top_words(models):
 	words = {}
