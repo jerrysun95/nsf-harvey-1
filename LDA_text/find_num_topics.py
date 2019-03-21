@@ -6,77 +6,77 @@ from nltk.corpus import stopwords, wordnet
 from feed_tweets import *
 
 def parse_args():
-	parser = argparse.ArgumentParser()
-	parser.add_argument("--storm", help="what storm name you want to use", default="harvey")
-	return parser.parse_args()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--storm", help="what storm name you want to use", default="harvey")
+    return parser.parse_args()
 
 
 def main():
-	args = parse_args()	
-	print("Testing with {storm}".format(storm=args.storm))
+    args = parse_args() 
+    print("Testing with {storm}".format(storm=args.storm))
 
-	tokenizer = RegexpTokenizer(r'[a-z0-9\']+')
-	p_stemmer = PorterStemmer()
+    tokenizer = RegexpTokenizer(r'[a-z0-9\']+')
+    p_stemmer = PorterStemmer()
 
-	data_storm = read_data("harvey")
-	try:
-		with open("storm_extracts/dict_storm", 'rb') as f:
-			dict_storm = pickle.load(f)
-		with open("storm_extracts/counts_storm", 'rb') as f:
-			counts_storm = pickle.load(f)
-	except:
-		dict_storm, _, counts_storm = parse_text(data_storm, "harvey", tokenizer, en_stop, p_stemmer)
-		print("Length of Data: {length}".format(length=len(data_storm)))
-		with open("storm_extracts/dict_storm", "wb") as fp:   #Pickling
-			pickle.dump(dict_storm, fp)
-		with open("storm_extracts/counts_storm", "wb") as fp:   #Pickling
-			pickle.dump(counts_storm, fp)
+    data_storm = read_data("harvey")
+    try:
+        with open("storm_extracts/dict_storm", 'rb') as f:
+            dict_storm = pickle.load(f)
+        with open("storm_extracts/counts_storm", 'rb') as f:
+            counts_storm = pickle.load(f)
+    except:
+        dict_storm, _, counts_storm = parse_text(data_storm, "harvey", tokenizer, en_stop, p_stemmer)
+        print("Length of Data: {length}".format(length=len(data_storm)))
+        with open("storm_extracts/dict_storm", "wb") as fp:   #Pickling
+            pickle.dump(dict_storm, fp)
+        with open("storm_extracts/counts_storm", "wb") as fp:   #Pickling
+            pickle.dump(counts_storm, fp)
 
-	data_noise = read_data("noise")
-	try:
-		with open("storm_extracts/dict_noise", 'rb') as f:
-			dict_noise = pickle.load(f)
-		with open("storm_extracts/counts_noise", 'rb') as f:
-			counts_noise = pickle.load(f)
-	except:
-		dict_noise, _, counts_noise = parse_text(data_noise, "noise", tokenizer, en_stop, p_stemmer)
-		print("Length of Data: {length}".format(length=len(data_noise)))
-		with open("storm_extracts/dict_noise", "wb") as fp:   #Pickling
-			pickle.dump(dict_noise, fp)
-		with open("storm_extracts/counts_noise", "wb") as fp:   #Pickling
-			pickle.dump(counts_noise, fp)
+    data_noise = read_data("noise")
+    try:
+        with open("storm_extracts/dict_noise", 'rb') as f:
+            dict_noise = pickle.load(f)
+        with open("storm_extracts/counts_noise", 'rb') as f:
+            counts_noise = pickle.load(f)
+    except:
+        dict_noise, _, counts_noise = parse_text(data_noise, "noise", tokenizer, en_stop, p_stemmer)
+        print("Length of Data: {length}".format(length=len(data_noise)))
+        with open("storm_extracts/dict_noise", "wb") as fp:   #Pickling
+            pickle.dump(dict_noise, fp)
+        with open("storm_extracts/counts_noise", "wb") as fp:   #Pickling
+            pickle.dump(counts_noise, fp)
 
-	data_sandy = read_data("sandy")	
-	try:
-		with open("storm_extracts/dict_sandy", 'rb') as f:
-			dict_sandy = pickle.load(f)
-		with open("storm_extracts/counts_sandy", 'rb') as f:
-			counts_sandy = pickle.load(f)
-	except:
-		dict_sandy, _, counts_sandy = parse_text(data_sandy, "sandy", tokenizer, en_stop, p_stemmer)
-		print("Length of Data: {length}".format(length=len(data_sandy)))
-		with open("storm_extracts/dict_sandy", "wb") as fp:   #Pickling
-			pickle.dump(dict_sandy, fp)
-		with open("storm_extracts/counts_sandy", "wb") as fp:   #Pickling
-			pickle.dump(counts_sandy, fp)
-	
-	data_unt = read_data(args.storm)
-	try:
-		with open("storm_extracts/dict_"+args.storm, 'rb') as f:
-			dict_unt = pickle.load(f)
-		with open("storm_extracts/counts_"+args.storm, 'rb') as f:
-			counts_unt = pickle.load(f)
-	except:
-		dict_unt, _, counts_unt = parse_text(data_unt, args.storm, tokenizer, en_stop, p_stemmer)
-		print("Length of Data: {length}".format(length=len(data_unt)))
-		with open("storm_extracts/dict_"+args.storm, "wb") as fp:   #Pickling
-			pickle.dump(dict_unt, fp)
-		with open("storm_extracts/counts_"+args.storm, "wb") as fp:   #Pickling
-			pickle.dump(counts_unt, fp)
+    data_sandy = read_data("sandy") 
+    try:
+        with open("storm_extracts/dict_sandy", 'rb') as f:
+            dict_sandy = pickle.load(f)
+        with open("storm_extracts/counts_sandy", 'rb') as f:
+            counts_sandy = pickle.load(f)
+    except:
+        dict_sandy, _, counts_sandy = parse_text(data_sandy, "sandy", tokenizer, en_stop, p_stemmer)
+        print("Length of Data: {length}".format(length=len(data_sandy)))
+        with open("storm_extracts/dict_sandy", "wb") as fp:   #Pickling
+            pickle.dump(dict_sandy, fp)
+        with open("storm_extracts/counts_sandy", "wb") as fp:   #Pickling
+            pickle.dump(counts_sandy, fp)
+    
+    data_unt = read_data(args.storm)
+    try:
+        with open("storm_extracts/dict_"+args.storm, 'rb') as f:
+            dict_unt = pickle.load(f)
+        with open("storm_extracts/counts_"+args.storm, 'rb') as f:
+            counts_unt = pickle.load(f)
+    except:
+        dict_unt, _, counts_unt = parse_text(data_unt, args.storm, tokenizer, en_stop, p_stemmer)
+        print("Length of Data: {length}".format(length=len(data_unt)))
+        with open("storm_extracts/dict_"+args.storm, "wb") as fp:   #Pickling
+            pickle.dump(dict_unt, fp)
+        with open("storm_extracts/counts_"+args.storm, "wb") as fp:   #Pickling
+            pickle.dump(counts_unt, fp)
 
 
-	# for num_topics in range(3, 4):
-	num_topics = 3
+    # for num_topics in range(3, 4):
+    num_topics = 3
     lda_storm = run_model(data_storm, args.storm, num_topics)
     lda_noise = run_model(data_noise, "noise", num_topics)
     lda_sandy = run_model(data_sandy, "sandy", num_topics)
@@ -123,4 +123,4 @@ def main():
 
 
 if __name__ == '__main__':
-	main()
+    main()
