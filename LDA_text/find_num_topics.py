@@ -76,7 +76,14 @@ def main():
 
 
     # for num_topics in range(3, 4):
+
     num_topics = 3
+    h_and_n = []
+    h_and_s = []
+    s_and_n = []
+    u_and_h = []
+    u_and_n = []
+    u_and_s = []
     lda_storm = run_model(data_storm, args.storm, num_topics)
     lda_noise = run_model(data_noise, "noise", num_topics)
     lda_sandy = run_model(data_sandy, "sandy", num_topics)
