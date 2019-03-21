@@ -247,7 +247,7 @@ def run_model(data, storm, num_topics=5, print_flag=False):
 			lda.save(save_file)
 
 	end = time.time()
-	print("Time taken to run: {SEC} seconds".format(SEC=end - start))
+	# print("Time taken to run: {SEC} seconds".format(SEC=end - start))
 
 	if print_flag:
 		print("Printing topics...")
@@ -373,6 +373,7 @@ def make_topics_bow(topic, all_words):
 		
 def compare_models(lda1, lda2, counts1, counts2, d1, d2, num_topics):
 	difference, anno = lda1.diff(lda2, distance="jaccard", normed=False)
+	# print (anno)
 	# difference = 1 - difference
 	total_counts_1 = sum(counts1.values())
 	total_counts_2 = sum(counts2.values())
@@ -381,7 +382,6 @@ def compare_models(lda1, lda2, counts1, counts2, d1, d2, num_topics):
 	total_percentage = 0
 
 	for i in range(num_topics):
-		# print("WEIGHTS", weights)
 		t1 = lda1.get_topic_terms(i)
 		t2 = lda2.get_topic_terms(i)
 
@@ -411,6 +411,16 @@ def compare_models(lda1, lda2, counts1, counts2, d1, d2, num_topics):
 	weights /= total_percentage
 	difference *= 100
 
+	# find similar words for most weighted topic
+	# max_weight = weights[0][0]
+	# mr, mc = 0, 0
+	# for r in range(np.size(weights,0)):
+	# 	for c in range(np.size(weights,1)):
+	# 		if weights[r][c] > max_weight:
+	# 			mr, mc = r, c
+	# 			max_weight = weights[r][c]
+
+	# print(anno[mr][mc][0]) 
 	# print("difference", difference)
 	# print("WEIGHTS", weights)
 	# print("diff*weights", difference*weights)
