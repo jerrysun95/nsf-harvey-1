@@ -33,11 +33,20 @@ for filename in files:
 	for line in f:
 		tweet = json.loads(line)
 		try:
+
 			text = tweet["text"].lower()
+
+			user = tweet["user"]["description"]
+			if user !=None and user!="":
+				user = user.lower()
+			else:
+				user=""
+
 			for race in terms_dict:
 				for word in terms_dict[race]:
+					if word in user:
+						relevant_tweets[race].add(user)
 					if word in text:
-						# print(word, '~~~~~~~',text)
 						relevant_tweets[race].add(text)
 
 		except KeyError:
@@ -45,7 +54,7 @@ for filename in files:
 
 relevant_tweets = {k: list(relevant_tweets[k]) for k in relevant_tweets}
 
-print(relevant_tweets["hispanic"])
+# print(relevant_tweets["hispanic"])
 
 with open("relevant_tweets.json","w") as outfile:
 	json.dump(relevant_tweets,outfile)
