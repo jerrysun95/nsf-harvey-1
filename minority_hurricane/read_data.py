@@ -7,6 +7,7 @@ import glob
 terms = open('terms.csv',encoding ="utf-8-sig")
 terms_dict = {}
 for line in terms:
+	line=line.lower()
 	words = line.strip().split(',')
 	words = [word.strip() for word in words if len(word) > 0]
 	terms_dict[words[0]] = words[1:]
@@ -17,7 +18,7 @@ relevant_tweets = {race: set() for race in terms_dict}
 
 
 data_zipped = './Data'
-data_unzipped = './data_unzipped'
+data_unzipped = './data_unzipped2'
 
 files = os.listdir(data_zipped)
 
@@ -43,7 +44,8 @@ for filename in files:
 			pass
 
 relevant_tweets = {k: list(relevant_tweets[k]) for k in relevant_tweets}
-# print(relevant_tweets["Asian"])
+
+print(relevant_tweets["hispanic"])
 
 with open("relevant_tweets.json","w") as outfile:
 	json.dump(relevant_tweets,outfile)
