@@ -18,7 +18,7 @@ relevant_tweets = {race: set() for race in terms_dict}
 
 
 data_zipped = './Data'
-data_unzipped = './data_unzipped2'
+data_unzipped = './data_unzipped'
 
 files = os.listdir(data_zipped)
 
@@ -53,11 +53,12 @@ for filename in files:
 			pass
 
 relevant_tweets = {k: list(relevant_tweets[k]) for k in relevant_tweets}
-
+# for race in terms_dict:
+# 	print(len(relevant_tweets[race])
 # print(relevant_tweets["hispanic"])
 
 with open("relevant_tweets.json","w") as outfile:
 	json.dump(relevant_tweets,outfile)
-
+	
 print("Done")
 
